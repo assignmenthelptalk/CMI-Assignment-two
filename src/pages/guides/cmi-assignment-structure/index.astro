@@ -1,0 +1,401 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import TableOfContents from '../../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447000000000';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "CMI Assignment Structure Guide — Management Report, Essay, and Reflective Account",
+  "description": "How to structure every CMI assignment format: management report (Level 5+), structured essay (Level 3–4), and reflective account. Section-by-section guidance, word count distribution, and format selection by command verb.",
+  "author": { "@type": "Organization", "name": "CMI Assignment Help UK" },
+  "publisher": { "@type": "Organization", "name": "CMI Assignment Help UK", "url": siteUrl }
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "What is the difference between a CMI management report and a structured essay?", "acceptedAnswer": { "@type": "Answer", "text": "A CMI management report has nine formal sections including an executive summary, a standalone recommendations section, and a conclusion distinct from the analysis. A structured essay uses PEEL body paragraphs to build an argument and does not include a formal recommendations section. The management report is the primary format at Level 5 and Level 6; the structured essay is primary at Level 3 and Level 4. The format is signalled by the Learning Outcome language and command verbs in the brief." } },
+    { "@type": "Question", "name": "How long should a CMI executive summary be?", "acceptedAnswer": { "@type": "Answer", "text": "A CMI executive summary should be 150 to 200 words. It summarises the context examined, the key analytical findings, and the key recommendations. A reader who reads only the executive summary should understand what the report found and what it recommends. Executive summaries exceeding 200 words are almost always combining the introduction function with the summary function." } },
+    { "@type": "Question", "name": "Do CMI recommendations need to be SMART?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. CMI Grade Descriptors at Level 5 and above require recommendations to be specific and justified — in practice, the SMART framework applies as the minimum standard: Specific, Measurable, Achievable, Relevant, and Time-bound. A recommendation that does not meet all five criteria is incomplete at the standard required for Merit or Distinction." } },
+    { "@type": "Question", "name": "How many sections does a CMI management report have?", "acceptedAnswer": { "@type": "Answer", "text": "A CMI management report has nine sections: Title Page, Executive Summary, Table of Contents, Introduction, Main Analysis Sections, Recommendations, Conclusion, Reference List, and Appendices. The Reference List and Appendices are excluded from the word count. The analysis sections carry 50–60% of the total word count and are where the grade is primarily determined." } },
+    { "@type": "Question", "name": "Can I use headings in a CMI essay?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Headings are permitted and recommended in CMI essays. Using H2 headings to signpost each Learning Outcome section aids assessor navigation and reduces the risk of a Learning Outcome being missed during marking, unlike the convention in standard academic essays where headings are often discouraged." } }
+  ]
+};
+---
+
+<Layout
+  title="CMI Assignment Structure Guide — Management Report, Essay, and Reflective Account"
+  description="How to structure every CMI assignment format: management report (Level 5+), structured essay (Level 3–4), and reflective account. Section-by-section guidance, word count distribution, and format selection by command verb. All levels 3–7."
+  canonical={siteUrl + '/guides/cmi-assignment-structure/'}
+  pageSchema={[articleSchema, faqSchema]}
+>
+
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">Management Report &bull; Structured Essay &bull; Reflective Account</p>
+      <h1>CMI Assignment Structure Guide — Management Report, Essay, and Reflective Account</h1>
+      <p class="hero-sub">
+        CMI assignments are submitted in one of three formats. The format is not the student's choice —
+        it is defined by the unit brief, and submitting in the wrong format reduces the grade ceiling
+        regardless of the quality of the analytical content. This guide covers the nine-section management
+        report in full, the Level 3/4 essay format, the Gibbs and Kolb reflective account structure, and
+        the ten most common structural errors across all three formats.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Need Help with Your CMI Assignment Structure?
+      </a>
+    </div>
+  </section>
+
+  <img
+    class="page-header-img"
+    src="/images/headers/cmi-assignment-structure.svg"
+    alt="CMI assignment structure guide — management report, essay, and reflective account"
+    width="1200"
+    height="600"
+    loading="eager"
+    decoding="async"
+  />
+
+  <TableOfContents />
+
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="which-format-does-your-unit-require">Which CMI Assignment Format Does Your Unit Require?</h2>
+      <p>
+        The format required for any given unit is determined by three signals in the assessment brief: the
+        language of the Learning Outcomes, the command verbs used, and any explicit format instruction.
+        Misreading these produces a structural mismatch that cannot be recovered at marking stage.
+      </p>
+      <div class="format-decision-grid">
+        <div class="format-decision">
+          <h3>Management Report</h3>
+          <p><strong>Primary at:</strong> Level 5 and Level 6</p>
+          <p>Signalled by: "produce a report," "develop recommendations," "present findings to a senior audience." Command verbs: Evaluate, Justify, Critically Evaluate, Critically Analyse.</p>
+        </div>
+        <div class="format-decision">
+          <h3>Structured Essay</h3>
+          <p><strong>Primary at:</strong> Level 3 and Level 4</p>
+          <p>Signalled by: a response to a defined question, "discuss," "explain the principles of." No recommendation section in the Learning Outcomes.</p>
+        </div>
+        <div class="format-decision">
+          <h3>Reflective Account</h3>
+          <p><strong>Required when:</strong> Learning Outcomes ask for reflection on personal experience or a professional event.</p>
+          <p>First-person academic language. Common in Unit 701 (L7) and reflective elements within Units 301/302 (L3).</p>
+        </div>
+      </div>
+      <p>
+        Understanding the <a href="/guides/cmi-command-verbs-explained/">CMI command verbs</a> in the brief
+        is the first step to identifying the correct format. A brief using Evaluate or Critically Evaluate
+        is a management report brief. A brief using Explain or Discuss is almost always an essay brief.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="management-report-9-sections">CMI Management Report Structure — All 9 Sections</h2>
+      <p class="section-lead">
+        Each section has a defined structural purpose. Deviating from the structure, or placing content in
+        the wrong section, reduces the grade ceiling regardless of the quality of the analytical content
+        that is present.
+      </p>
+      <div class="report-sections">
+        <div class="report-section"><div class="rs-num">1</div><div class="rs-body"><h3 class="rs-title">Title Page</h3><p class="rs-desc">Assignment title, unit number and name, student name and registration number, submission date, word count, awarding centre. Not included in the word count.</p></div></div>
+        <div class="report-section report-section--alert"><div class="rs-num">2</div><div class="rs-body"><h3 class="rs-title">Executive Summary <span class="rs-alert">Most misunderstood section</span></h3><p class="rs-desc">150–200 words. Written last, placed first. Summarises the context, the key analytical findings, and the key recommendations — not an introduction to the topic. Covered in full below.</p></div></div>
+        <div class="report-section"><div class="rs-num">3</div><div class="rs-body"><h3 class="rs-title">Table of Contents</h3><p class="rs-desc">All section headings with page numbers. Required for any submission exceeding 1,000 words.</p></div></div>
+        <div class="report-section"><div class="rs-num">4</div><div class="rs-body"><h3 class="rs-title">Introduction</h3><p class="rs-desc">200–300 words. Defines scope and purpose, states organisational context, introduces the Learning Outcomes addressed. Does not preview analytical conclusions.</p></div></div>
+        <div class="report-section"><div class="rs-num">5</div><div class="rs-body"><h3 class="rs-title">Main Analysis Sections</h3><p class="rs-desc">One to four sections, each addressing a specific Learning Outcome. Carries 50–60% of the total word count. Applies named theories at the depth the command verb requires. This is where the grade is set.</p></div></div>
+        <div class="report-section"><div class="rs-num">6</div><div class="rs-body"><h3 class="rs-title">Recommendations</h3><p class="rs-desc">Three to five SMART recommendations derived directly from the analysis. Each must be traceable to a specific finding.</p></div></div>
+        <div class="report-section"><div class="rs-num">7</div><div class="rs-body"><h3 class="rs-title">Conclusion</h3><p class="rs-desc">150–250 words. Synthesises the findings and their implications. Does not introduce new content.</p></div></div>
+        <div class="report-section"><div class="rs-num">8</div><div class="rs-body"><h3 class="rs-title">Reference List</h3><p class="rs-desc">Full Harvard-format reference list of all sources cited in the text — not a bibliography of sources merely read.</p></div></div>
+        <div class="report-section"><div class="rs-num">9</div><div class="rs-body"><h3 class="rs-title">Appendices</h3><p class="rs-desc">Supporting material referenced within the body — data, models, diagrams. Excluded from the word count but must be referenced by label in the text.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="executive-summary">The CMI Executive Summary — The Most Misunderstood Section</h2>
+      <p>
+        The executive summary is the most frequently mishandled section of CMI management reports. It is
+        also the first section an assessor reads after the title page, so a mismatch between what it should
+        be and what has been submitted creates a negative first impression the analytical content must
+        overcome.
+      </p>
+      <div class="es-compare">
+        <div class="es-col es-col--wrong">
+          <h3>What It Is Not</h3>
+          <p>"This report will examine leadership approaches at [organisation] with reference to Kotter's change management framework..." — an introduction sentence describing what the report will do.</p>
+        </div>
+        <div class="es-col es-col--right">
+          <h3>What It Is</h3>
+          <p>"Analysis of the leadership approach applied during [organisation]'s restructure indicates that the Directive style produced a 23% increase in voluntary turnover... Three recommendations are presented accordingly." — a summary of what the report found.</p>
+        </div>
+      </div>
+      <p>
+        Word count: 150–200 words. It is written last, after every other section is complete, because it
+        summarises content that does not exist when the student begins writing. The test: a reader who
+        reads only the executive summary should know what the report found and what it recommends without
+        reading anything else.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="analysis-sections">CMI Analysis Sections — Applying Theory at the Correct Depth</h2>
+      <p>The main analysis sections carry 50–60% of the total word count and set the grade. Each section has four structural components:</p>
+      <ol class="analysis-steps">
+        <li><strong>Opening statement</strong> — defines what the section addresses and which Learning Outcome it corresponds to. Does not preview the conclusion.</li>
+        <li><strong>Framework application</strong> — introduces the named theory, states its core propositions briefly, then applies it directly to the organisational context. The theory is the tool; the context is the subject — this sequence must not be inverted.</li>
+        <li><strong>Command verb operation</strong> — the analytical core, at the depth the command verb requires: Analyse (L4), Evaluate (L5), Critically Evaluate or Critically Analyse (L6/L7).</li>
+        <li><strong>Sub-conclusion</strong> — a single paragraph stating the analytical finding for this section, feeding directly into the recommendations.</li>
+      </ol>
+      <p>
+        Common errors: applying a framework and then describing it again instead of evaluating it; reaching
+        a sub-conclusion early and then adding material supporting a different conclusion; using a framework
+        to describe a general situation rather than the specific scenario in the brief.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="smart-recommendations">CMI Recommendations — What Makes Them SMART</h2>
+      <p>Every CMI management report recommendation must meet all five SMART criteria, as defined by Doran (1981) in <em>Management Review</em>:</p>
+      <div class="smart-grid">
+        <div class="smart-item"><h3>Specific</h3><p>Names a concrete action. "Improve communication" fails. "Implement weekly one-to-ones using the SBI feedback model from [date]" passes.</p></div>
+        <div class="smart-item"><h3>Measurable</h3><p>Includes a success criterion. "Achieve 90% completion of the training module by [date], verified via the LMS."</p></div>
+        <div class="smart-item"><h3>Achievable</h3><p>Realistic within the constraints stated in the analysis sections.</p></div>
+        <div class="smart-item"><h3>Relevant</h3><p>Traceable to a specific analytical finding. A recommendation with no evidential basis in the analysis is unsupported and reduces the grade.</p></div>
+        <div class="smart-item"><h3>Time-bound</h3><p>Includes a timeline or deadline for implementation or review.</p></div>
+      </div>
+      <p>Minimum three recommendations for a Level 5 or Level 6 report; five is typical for units with a planning or operational scope.</p>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="word-count-distribution">Word Count Distribution for CMI Management Reports</h2>
+      <p>For a standard 3,500-word Level 5 management report:</p>
+      <table class="wc-table">
+        <tbody>
+          <tr><td>Executive Summary</td><td>150–200 words (often excluded — check your brief)</td></tr>
+          <tr><td>Introduction</td><td>200–300 words</td></tr>
+          <tr><td>Main Analysis Section 1</td><td>600–700 words</td></tr>
+          <tr><td>Main Analysis Section 2</td><td>600–700 words</td></tr>
+          <tr><td>Main Analysis Section 3 (if applicable)</td><td>400–500 words</td></tr>
+          <tr><td>Recommendations</td><td>300–400 words</td></tr>
+          <tr><td>Conclusion</td><td>200–250 words</td></tr>
+          <tr><td>Reference List / Appendices</td><td>Excluded</td></tr>
+        </tbody>
+      </table>
+      <p>
+        The two most common word count errors: an over-long introduction (400+ words) that crowds out the
+        analysis sections, and a long conclusion that introduces new points instead of synthesising. For
+        longer reports (4,000–5,000 words at L5; 5,000–6,500 at L7), additional word count goes into the
+        analysis sections — not the introduction or conclusion.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="structured-essay-format">CMI Structured Essay Format — Level 3 and Level 4</h2>
+      <p>
+        The structured essay differs from a management report in three respects: no executive summary, no
+        formal recommendations section, and structured by argument rather than function.
+      </p>
+      <ul class="essay-parts">
+        <li><strong>Title</strong> — the assignment question or a direct response to it.</li>
+        <li><strong>Introduction</strong> (150–200 words) — introduces the topic and scope, states how the Learning Outcomes will be addressed. Does not preview conclusions.</li>
+        <li><strong>Body paragraphs</strong> — each addresses a specific Learning Outcome using PEEL structure: <em>Point</em>, <em>Evidence</em>, <em>Explanation</em>, <em>Link</em>. 150–250 words each.</li>
+        <li><strong>Conclusion</strong> (150–200 words) — synthesises the body's findings. No new content.</li>
+        <li><strong>Reference List</strong> — Harvard format. Minimum sources: Level 3, 6–8; Level 4, 8–10.</li>
+      </ul>
+      <p>
+        Headings are permitted and recommended — using H2 headings to signpost each Learning Outcome aids
+        assessor navigation, unlike the convention in a standard university essay.
+        <a href="/cmi-level-3-assignment-help/">CMI Level 3 assignment help</a> and
+        <a href="/cmi-level-4-assignment-help/">CMI Level 4 assignment help</a> confirm the correct format
+        from the brief before writing, as some Level 4 units use management report format instead.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="reflective-account-structure">CMI Reflective Account Structure — Using Gibbs and Kolb</h2>
+      <p>
+        Reflective accounts use first-person academic language throughout — "I observed," "I concluded" —
+        as opposed to the third-person register of the management report.
+      </p>
+      <div class="reflective-grid">
+        <div class="reflective-model">
+          <h3>Gibbs' Reflective Cycle (1988) — 6 Stages</h3>
+          <ol>
+            <li>Description — what happened</li>
+            <li>Feelings — what the student thought and felt</li>
+            <li>Evaluation — what was good or bad</li>
+            <li>Analysis — theory applied to make sense of the situation</li>
+            <li>Conclusion — what else could have been done, what was learned</li>
+            <li>Action Plan — what the student will do differently</li>
+          </ol>
+        </div>
+        <div class="reflective-model">
+          <h3>Kolb's Experiential Learning Cycle (1984) — 4 Stages</h3>
+          <ol>
+            <li>Concrete Experience — the event or situation</li>
+            <li>Reflective Observation — reflection on the experience</li>
+            <li>Abstract Conceptualisation — theory applied to the experience</li>
+            <li>Active Experimentation — what will be tried differently</li>
+          </ol>
+        </div>
+      </div>
+      <p>
+        A reflective account that omits the Analysis stage — where named management theory is applied —
+        does not meet CMI assessment requirements at any level. Unit 701 at Level 7 is the most demanding
+        reflective submission in the qualification framework. See the
+        <a href="/guides/cmi-reflective-practice/">CMI reflective practice guide</a> for full application detail.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="common-structure-errors">Common CMI Assignment Structure Errors</h2>
+      <p class="section-lead">Ten structural errors produce the most consistent Referral outcomes across CMI submissions.</p>
+      <ol class="error-list">
+        <li><strong>Executive summary written as an introduction</strong> — the most common error at Level 5 and Level 6.</li>
+        <li><strong>Introduction that previews findings</strong> — conclusions belong in the executive summary and analysis, not the introduction.</li>
+        <li><strong>New content in the conclusion</strong> — signals that the analysis sections are incomplete.</li>
+        <li><strong>Theory described rather than applied</strong> — the most grade-damaging error, inverting the tool/subject relationship.</li>
+        <li><strong>Recommendations without analytical basis</strong> — not traceable to a sub-conclusion in the analysis.</li>
+        <li><strong>Non-SMART recommendations</strong> — vague statements without a concrete action, metric, or timeframe.</li>
+        <li><strong>Word count imbalance</strong> — introduction or conclusion allocated at the expense of the analysis sections.</li>
+        <li><strong>Reflective account written in third person</strong> — reflective units require first-person language.</li>
+        <li><strong>In-text citations absent from the report body</strong> — sources listed but never cited in the text.</li>
+        <li><strong>Reference list not in Harvard format</strong> — incomplete or inconsistent author-date formatting.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="structure-faq">CMI Assignment Structure — Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item"><summary class="faq-q">What is the difference between a CMI management report and a structured essay?</summary><div class="faq-a"><p>A management report has nine formal sections including an executive summary, a standalone recommendations section, and a distinct conclusion. A structured essay uses PEEL body paragraphs and has no formal recommendations section. Management report is primary at Level 5–6; essay is primary at Level 3–4.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">How long should a CMI executive summary be?</summary><div class="faq-a"><p>150 to 200 words, summarising the context, findings, and recommendations. Exceeding 200 words almost always means the introduction function has crept in. The test: does the first sentence report a finding, or describe what the report is about?</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Do CMI recommendations need to be SMART?</summary><div class="faq-a"><p>Yes. CMI Grade Descriptors at Level 5 and above require recommendations to be specific and justified — the SMART framework applies as the minimum standard for Merit or Distinction.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">How many sections does a CMI management report have?</summary><div class="faq-a"><p>Nine: Title Page, Executive Summary, Table of Contents, Introduction, Main Analysis Sections, Recommendations, Conclusion, Reference List, and Appendices. The analysis sections carry 50–60% of the word count.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Can I use headings in a CMI essay?</summary><div class="faq-a"><p>Yes. Headings are permitted and recommended to signpost each Learning Outcome, aiding assessor navigation — unlike the convention in a standard academic essay.</p></div></details>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Related CMI Assignment Services</h2>
+      <div class="supp-grid">
+        <a href="/cmi-report-writing-help/" class="supp-card"><h3>CMI Report Writing Help</h3><p>Specialist support for the management report format — all nine sections produced to CMI standard.</p></a>
+        <a href="/guides/cmi-command-verbs-explained/" class="supp-card"><h3>CMI Command Verbs Explained</h3><p>What the analysis sections must achieve at every level, from Identify to Critically Analyse.</p></a>
+        <a href="/cmi-assignment-tutoring/" class="supp-card"><h3>CMI Assignment Tutoring</h3><p>Structure planning sessions before a single word of the main content is written.</p></a>
+        <a href="/cmi-level-5-assignment-help/" class="supp-card"><h3>CMI Level 5 Assignment Help</h3><p>Management report format at Evaluate depth across all 25 Diploma units.</p></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>WhatsApp Us Your Brief</h2>
+      <p>Not sure which format your unit needs, or want a fully structured submission-ready assignment? Message us with your unit number and level.</p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get a Fully Structured CMI Assignment
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); color: #fff; padding: 5rem 0 4rem; text-align: center; }
+  .hero-inner { max-width: 820px; margin: 0 auto; }
+  .eyebrow { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem; }
+  .hero h1 { font-size: clamp(1.6rem, 3.6vw, 2.5rem); font-weight: 800; color: #fff; margin-bottom: 1.25rem; line-height: 1.25; }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+
+  .narrow { max-width: 860px; }
+
+  .format-decision-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .format-decision { background: #fff; border: 1px solid var(--border); border-radius: 10px; padding: 1.25rem; box-shadow: var(--shadow); }
+  .format-decision h3 { font-size: 1rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .format-decision p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0 0 .4rem; }
+
+  .report-sections { display: flex; flex-direction: column; gap: 1rem; }
+  .report-section { display: grid; grid-template-columns: 3rem 1fr; gap: 1rem; padding: 1rem 1.25rem; background: #fff; border: 1px solid var(--border); border-radius: 8px; }
+  .report-section--alert { border-color: var(--blue); background: #eff6ff; }
+  .rs-num { font-size: 1.3rem; font-weight: 800; color: var(--blue); }
+  .rs-title { font-size: 1rem; font-weight: 700; color: var(--navy); margin-bottom: .35rem; display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; }
+  .rs-alert { font-size: .68rem; font-weight: 700; text-transform: uppercase; background: var(--green); color: #fff; padding: .15rem .5rem; border-radius: 20px; }
+  .rs-desc { font-size: .88rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+
+  .es-compare { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .es-col { border-radius: 8px; padding: 1.25rem; font-size: .875rem; line-height: 1.6; }
+  .es-col--wrong { background: #fef2f2; border: 1px solid #fecaca; }
+  .es-col--right { background: #f0fdf4; border: 1px solid #bbf7d0; }
+  .es-col h3 { font-size: .85rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; margin-bottom: .6rem; }
+  .es-col--wrong h3 { color: #b91c1c; }
+  .es-col--right h3 { color: #15803d; }
+
+  .analysis-steps { display: flex; flex-direction: column; gap: 1rem; padding-left: 0; list-style: none; counter-reset: astep; }
+  .analysis-steps li { counter-increment: astep; display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem; font-size: .95rem; line-height: 1.65; }
+  .analysis-steps li::before { content: counter(astep); display: flex; align-items: center; justify-content: center; width: 2.5rem; height: 2.5rem; border-radius: 50%; background: var(--blue); color: #fff; font-weight: 700; flex-shrink: 0; }
+
+  .smart-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .smart-item { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .smart-item h3 { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .smart-item p { font-size: .85rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .wc-table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: .9rem; }
+  .wc-table td { padding: .75rem 1rem; border: 1px solid var(--border); }
+  .wc-table tr:nth-child(even) { background: var(--bg-light); }
+  .wc-table td:first-child { font-weight: 600; color: var(--navy); }
+
+  .essay-parts { display: flex; flex-direction: column; gap: .9rem; padding-left: 1.25rem; }
+  .essay-parts li { font-size: .95rem; line-height: 1.6; }
+
+  .reflective-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; margin: 1.5rem 0; }
+  .reflective-model { background: #fff; border: 1px solid var(--border); border-radius: 10px; padding: 1.5rem; box-shadow: var(--shadow); }
+  .reflective-model h3 { font-size: 1rem; font-weight: 700; color: var(--navy); margin-bottom: .75rem; }
+  .reflective-model ol { padding-left: 1.25rem; font-size: .88rem; color: var(--text-muted); line-height: 1.7; }
+
+  .error-list { display: flex; flex-direction: column; gap: .85rem; padding-left: 1.5rem; }
+  .error-list li { font-size: .95rem; line-height: 1.6; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; margin-top: 1.5rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q { display: block; padding: 1.1rem 1.25rem; font-weight: 600; font-size: .975rem; color: var(--navy); cursor: pointer; list-style: none; background: var(--bg-light); }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+  .supp-card { display: block; padding: 1.5rem; background: #fff; border: 1px solid var(--border); border-radius: 10px; text-decoration: none; color: var(--text); box-shadow: var(--shadow); transition: border-color .15s, transform .1s; }
+  .supp-card:hover { border-color: var(--blue); transform: translateY(-2px); text-decoration: none; color: var(--text); }
+  .supp-card h3 { font-size: .975rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .supp-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 1.9rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+</style>

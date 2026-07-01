@@ -1,0 +1,446 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  pageSchema?: object | object[];
+}
+
+const { title, description, canonical, pageSchema } = Astro.props;
+
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+const whatsappUrl = 'https://wa.me/447000000000';
+
+const orgSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "CMI Assignment Help UK",
+  "url": siteUrl,
+  "description": "Independent UK-based CMI assignment writing and tutoring service for working professionals studying Chartered Management Institute qualifications at Levels 3 to 7.",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "availableLanguage": "English"
+  }
+};
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "CMI Assignment Help UK",
+  "url": siteUrl
+};
+
+const canonicalHref = canonical ?? siteUrl;
+
+const extraSchemas = pageSchema
+  ? (Array.isArray(pageSchema) ? pageSchema : [pageSchema])
+  : [];
+---
+
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalHref} />
+    <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+    {extraSchemas.map(s => (
+      <script type="application/ld+json" set:html={JSON.stringify(s)} />
+    ))}
+  </head>
+  <body>
+
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="/" class="logo" aria-label="CMI Assignment Help UK — Home">
+          CMI Assignment Help UK
+        </a>
+
+        <nav class="main-nav" aria-label="Main navigation">
+          <ul class="nav-list">
+            <li class="nav-item has-dropdown">
+              <button class="nav-toggle" aria-expanded="false" aria-haspopup="true">
+                CMI Levels <span class="caret" aria-hidden="true">▾</span>
+              </button>
+              <ul class="dropdown" role="menu">
+                <li><a href="/cmi-level-3-assignment-help/" role="menuitem">CMI Level 3 Assignment Help</a></li>
+                <li><a href="/cmi-level-4-assignment-help/" role="menuitem">CMI Level 4 Assignment Help</a></li>
+                <li><a href="/cmi-level-5-assignment-help/" role="menuitem">CMI Level 5 Assignment Help</a></li>
+                <li><a href="/cmi-level-6-assignment-help/" role="menuitem">CMI Level 6 Assignment Help</a></li>
+                <li><a href="/cmi-level-7-assignment-help/" role="menuitem">CMI Level 7 Assignment Help</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a href="/cmi-assignment-writing-service/">CMI Assignment Writing Service</a>
+            </li>
+            <li class="nav-item">
+              <a href="/cmi-assignment-tutoring/">CMI Assignment Tutoring</a>
+            </li>
+            <li class="nav-item">
+              <a href="/cmi-coursework-help/">CMI Coursework Help</a>
+            </li>
+          </ul>
+        </nav>
+
+        <a
+          href={whatsappUrl}
+          class="btn btn-whatsapp"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Contact us on WhatsApp for CMI assignment help"
+        >
+          WhatsApp Us
+        </a>
+      </div>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div class="footer-col">
+          <p class="footer-brand">CMI Assignment Help UK</p>
+          <p class="footer-desc">
+            UK-based CMI writers supporting working professionals across all levels 3 to 7.
+            CMI assignment help, writing service, and tutoring for every CMI qualification pathway.
+          </p>
+          <a
+            href={whatsappUrl}
+            class="btn btn-whatsapp footer-cta"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            WhatsApp Us Now
+          </a>
+        </div>
+
+        <div class="footer-col">
+          <h3 class="footer-heading">CMI Levels</h3>
+          <ul class="footer-links">
+            <li><a href="/cmi-level-3-assignment-help/">CMI Level 3 Assignment Help</a></li>
+            <li><a href="/cmi-level-4-assignment-help/">CMI Level 4 Assignment Help</a></li>
+            <li><a href="/cmi-level-5-assignment-help/">CMI Level 5 Assignment Help</a></li>
+            <li><a href="/cmi-level-6-assignment-help/">CMI Level 6 Assignment Help</a></li>
+            <li><a href="/cmi-level-7-assignment-help/">CMI Level 7 Assignment Help</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h3 class="footer-heading">Services</h3>
+          <ul class="footer-links">
+            <li><a href="/cmi-assignment-writing-service/">CMI Assignment Writing Service</a></li>
+            <li><a href="/cmi-assignment-tutoring/">CMI Assignment Tutoring</a></li>
+            <li><a href="/cmi-coursework-help/">CMI Coursework Help</a></li>
+            <li><a href="/cmi-assignment-help-online/">CMI Assignment Help Online</a></li>
+            <li><a href="/pay-someone-to-do-my-cmi-assignment/">Pay Someone to Do My CMI Assignment</a></li>
+            <li><a href="/cheap-cmi-assignment-help/">Affordable CMI Assignment Help</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h3 class="footer-heading">Guides</h3>
+          <ul class="footer-links">
+            <li><a href="/guides/cmi-command-verbs-explained/">CMI Command Verbs Explained</a></li>
+            <li><a href="/guides/cmi-assignment-structure/">CMI Assignment Structure Guide</a></li>
+            <li><a href="/guides/cmi-qualification-levels-explained/">CMI Qualification Levels Explained</a></li>
+            <li><a href="/guides/cmi-level-5-vs-level-7/">CMI Level 5 vs Level 7</a></li>
+            <li><a href="/guides/nhs-management-cmi-qualifications/">NHS Management and CMI</a></li>
+            <li><a href="/guides/harvard-referencing-cmi/">Harvard Referencing for CMI</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div class="container">
+          <p>
+            &copy; {new Date().getFullYear()} CMI Assignment Help UK &mdash;
+            UK-based CMI writers &mdash; All levels 3 to 7 &mdash;
+            CMI assignment help for working professionals
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      const toggles = document.querySelectorAll<HTMLButtonElement>('.nav-toggle');
+      toggles.forEach(btn => {
+        btn.addEventListener('click', () => {
+          const expanded = btn.getAttribute('aria-expanded') === 'true';
+          btn.setAttribute('aria-expanded', String(!expanded));
+        });
+      });
+      document.addEventListener('click', (e) => {
+        toggles.forEach(btn => {
+          if (!btn.closest('.has-dropdown')?.contains(e.target as Node)) {
+            btn.setAttribute('aria-expanded', 'false');
+          }
+        });
+      });
+    </script>
+
+  </body>
+</html>
+
+<style is:global>
+  *, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  :root {
+    --navy:       #0f2a4a;
+    --blue:       #1e4d8c;
+    --blue-light: #2563eb;
+    --green:      #25D366;
+    --green-dark: #1da851;
+    --text:       #1f2937;
+    --text-muted: #6b7280;
+    --bg:         #ffffff;
+    --bg-light:   #f8fafc;
+    --border:     #e2e8f0;
+    --radius:     6px;
+    --shadow:     0 2px 8px rgba(0,0,0,.08);
+    --font:       system-ui, -apple-system, 'Segoe UI', sans-serif;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: var(--font);
+    font-size: 1rem;
+    line-height: 1.65;
+    color: var(--text);
+    background: var(--bg);
+  }
+
+  .container {
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 0 1.25rem;
+  }
+
+  a {
+    color: var(--blue-light);
+    text-decoration: none;
+  }
+  a:hover { text-decoration: underline; }
+
+  /* ── Buttons ── */
+  .btn {
+    display: inline-block;
+    padding: .65rem 1.4rem;
+    border-radius: var(--radius);
+    font-weight: 600;
+    font-size: .95rem;
+    cursor: pointer;
+    transition: background .15s, transform .1s;
+    text-decoration: none;
+    border: none;
+  }
+  .btn-whatsapp {
+    background: var(--green);
+    color: #fff;
+  }
+  .btn-whatsapp:hover {
+    background: var(--green-dark);
+    color: #fff;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+  .btn-primary {
+    background: var(--blue);
+    color: #fff;
+  }
+  .btn-primary:hover {
+    background: var(--navy);
+    color: #fff;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+
+  /* ── Header ── */
+  .site-header {
+    background: var(--navy);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 6px rgba(0,0,0,.3);
+  }
+  .header-inner {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    height: 64px;
+  }
+
+  .logo {
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.05rem;
+    white-space: nowrap;
+    text-decoration: none;
+    flex-shrink: 0;
+  }
+  .logo:hover { color: #e0e7ff; text-decoration: none; }
+
+  .main-nav { flex: 1; }
+  .nav-list {
+    display: flex;
+    align-items: center;
+    gap: .25rem;
+    list-style: none;
+  }
+
+  .nav-item > a,
+  .nav-toggle {
+    color: #d1d5db;
+    font-size: .875rem;
+    font-weight: 500;
+    padding: .4rem .75rem;
+    border-radius: 4px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: .25rem;
+    white-space: nowrap;
+    font-family: inherit;
+    transition: color .15s, background .15s;
+    text-decoration: none;
+  }
+  .nav-item > a:hover,
+  .nav-toggle:hover {
+    color: #fff;
+    background: rgba(255,255,255,.1);
+    text-decoration: none;
+  }
+
+  /* dropdown */
+  .has-dropdown { position: relative; }
+  .dropdown {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    list-style: none;
+    min-width: 240px;
+    z-index: 200;
+    padding: .4rem 0;
+  }
+  .dropdown li a {
+    display: block;
+    padding: .55rem 1rem;
+    font-size: .875rem;
+    color: var(--text);
+    white-space: nowrap;
+  }
+  .dropdown li a:hover {
+    background: var(--bg-light);
+    text-decoration: none;
+  }
+  .nav-toggle[aria-expanded="true"] + .dropdown { display: block; }
+
+  /* ── Footer ── */
+  .site-footer {
+    background: var(--navy);
+    color: #d1d5db;
+    margin-top: 4rem;
+    padding-top: 3rem;
+  }
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 2rem;
+    padding-bottom: 2rem;
+  }
+  .footer-brand {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: .75rem;
+  }
+  .footer-desc {
+    font-size: .875rem;
+    line-height: 1.6;
+    margin-bottom: 1.25rem;
+  }
+  .footer-cta { font-size: .875rem; }
+  .footer-heading {
+    color: #fff;
+    font-size: .8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    margin-bottom: .75rem;
+  }
+  .footer-links {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: .45rem;
+  }
+  .footer-links a {
+    color: #9ca3af;
+    font-size: .875rem;
+    text-decoration: none;
+  }
+  .footer-links a:hover { color: #fff; text-decoration: underline; }
+  .footer-bottom {
+    border-top: 1px solid rgba(255,255,255,.1);
+    padding: 1.25rem 0;
+  }
+  .footer-bottom p {
+    font-size: .8rem;
+    color: #6b7280;
+    text-align: center;
+  }
+
+  /* ── Page header image ── */
+  .page-header-img {
+    display: block;
+    width: 100%;
+    max-width: 1160px;
+    margin: 0 auto;
+    height: auto;
+    border-radius: var(--radius);
+  }
+
+  /* ── Utility ── */
+  .section { padding: 4rem 0; }
+  .section-alt { background: var(--bg-light); }
+  .section-title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--navy);
+    margin-bottom: .5rem;
+  }
+  .section-lead {
+    font-size: 1.05rem;
+    color: var(--text-muted);
+    max-width: 680px;
+    margin-bottom: 2.5rem;
+  }
+
+  @media (max-width: 900px) {
+    .footer-grid { grid-template-columns: 1fr 1fr; }
+    .main-nav { display: none; }
+  }
+  @media (max-width: 560px) {
+    .footer-grid { grid-template-columns: 1fr; }
+  }
+</style>

@@ -1,0 +1,418 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import TableOfContents from '../../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447000000000';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "CMI Command Verbs Explained — From Identify to Critically Analyse",
+  "description": "Every CMI command verb explained: Identify, Describe, Explain, Discuss, Analyse, Evaluate, Justify, Critically Evaluate, Critically Analyse, Assess, and Develop a Plan. What each demands, which levels use them, and how verb depth determines your grade.",
+  "author": { "@type": "Organization", "name": "CMI Assignment Help UK" },
+  "publisher": { "@type": "Organization", "name": "CMI Assignment Help UK", "url": siteUrl }
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "What is the difference between Evaluate and Critically Evaluate in CMI assignments?", "acceptedAnswer": { "@type": "Answer", "text": "Evaluate requires applying a named framework, identifying strengths and limitations in context, and reaching a justified conclusion. Critically Evaluate adds two further operations: examining the framework's own underlying assumptions, and testing the conclusion against at least one credible alternative framework. Students who submit Evaluate-depth responses to Critically Evaluate questions at Level 6 generate the most consistent pattern of avoidable Referrals." } },
+    { "@type": "Question", "name": "What does Analyse mean in a CMI Level 4 assignment?", "acceptedAnswer": { "@type": "Answer", "text": "Analyse at Level 4 requires breaking a subject into its component parts, using a named framework as the analytical lens, examining how the components function and interact, and deriving a conclusion. It is not a detailed description of a theory — the theory is the tool, the student's context is the subject being examined through it." } },
+    { "@type": "Question", "name": "What is the difference between Critically Evaluate and Critically Analyse?", "acceptedAnswer": { "@type": "Answer", "text": "Critically Evaluate operates on an individual framework: apply it, evaluate it, critique its assumptions, test the conclusion against an alternative. Critically Analyse operates on the theoretical landscape as a whole: examine where the field is contested, evaluate empirical evidence across competing frameworks, and reach a strategic conclusion. Critically Evaluate is primary at Level 6; Critically Analyse is primary at Level 7." } },
+    { "@type": "Question", "name": "Why did I get a Referral if I used the right command verb?", "acceptedAnswer": { "@type": "Answer", "text": "Meeting the verb at minimum standard is the threshold for a Pass, but the Learning Outcome must also be met in full. A Referral can occur when the verb is attempted but not completed — for example an Evaluate response that identifies strengths and limitations but never reaches a stated conclusion — or when the response is at the correct cognitive level but in the wrong format." } },
+    { "@type": "Question", "name": "Do all CMI units use the same command verbs?", "acceptedAnswer": { "@type": "Answer", "text": "No. Command verbs are assigned by unit and by Learning Outcome. Level 3 uses primarily Identify, Describe, and Explain. Level 4 uses Analyse and Evaluate. Level 5 uses Evaluate and Justify as primary verbs. Level 6 uses Critically Evaluate and Critically Assess. Level 7 uses Critically Analyse as the dominant verb. Always identify every command verb in every question of the brief before writing." } }
+  ]
+};
+---
+
+<Layout
+  title="CMI Command Verbs Explained — From Identify to Critically Analyse"
+  description="Every CMI command verb explained: Identify, Describe, Explain, Discuss, Analyse, Evaluate, Justify, Critically Evaluate, Critically Analyse, Assess, and Develop a Plan. What each demands, which levels use them, and how verb depth determines your grade."
+  canonical={siteUrl + '/guides/cmi-command-verbs-explained/'}
+  pageSchema={[articleSchema, faqSchema]}
+>
+
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">The Definitive CMI Reference Guide</p>
+      <h1>CMI Command Verbs Explained — From Identify to Critically Analyse</h1>
+      <p class="hero-sub">
+        CMI command verbs are the instruction words in every unit assessment brief that define exactly what
+        the assessor requires. They are not style preferences — they are the assessment standard itself.
+        Verb mismatch is the most frequently cited reason for a CMI Referral. This guide defines every verb
+        in the hierarchy, from Identify at Level 3 through Critically Analyse at Level 7, with exact
+        requirements, boundaries, and worked examples for each.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get Command Verb Coaching via WhatsApp
+      </a>
+    </div>
+  </section>
+
+  <img
+    class="page-header-img"
+    src="/images/headers/cmi-command-verbs-explained.svg"
+    alt="CMI command verbs explained — from Identify to Critically Analyse"
+    width="1200"
+    height="600"
+    loading="eager"
+    decoding="async"
+  />
+
+  <TableOfContents />
+
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="what-are-command-verbs">What Are CMI Command Verbs and Why Do They Determine Your Grade?</h2>
+      <p>
+        CMI command verbs are graded assessment instructions requiring progressively deeper cognitive
+        operations at each qualification level. At Level 3, they require recall and structured description.
+        At Level 7, they require strategic-level analysis engaging with contested academic theory at sector
+        scope. The verb is not a hint about what the assessor wants to see — it specifies the exact
+        cognitive operation the student must perform for the response to meet a Learning Outcome.
+      </p>
+      <p>
+        The connection between command verb and grade operates at two levels: meeting the verb at its
+        minimum standard is the threshold for a Pass; depth of application within the same verb determines
+        Merit or Distinction. Verb mismatch — most commonly a response written at Describe depth to an
+        Analyse question, or an Evaluate-depth response to a Critically Evaluate question — is the primary
+        cause of CMI Referrals at every level. No volume of correct factual content reverses a verb failure
+        at assessment stage.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="verb-hierarchy">The CMI Command Verb Hierarchy — Lower Order to Higher Order</h2>
+      <p class="section-lead">The level of a CMI qualification does not mean more content about the same subject — it means a higher cognitive operation applied to that subject.</p>
+      <div class="tier-grid">
+        <div class="tier-card">
+          <h3 class="tier-name">Lower Order</h3>
+          <p class="tier-levels">Primarily Level 3, some Level 4</p>
+          <p class="tier-verbs">Identify &middot; Describe &middot; Explain &middot; Discuss</p>
+          <p class="tier-desc">Show knowledge through accurate recall, structured description, and causal explanation. Do not require weighing evidence or reaching a justified conclusion.</p>
+        </div>
+        <div class="tier-card tier-card--mid">
+          <h3 class="tier-name">Middle Order</h3>
+          <p class="tier-levels">Level 4 through Level 6</p>
+          <p class="tier-verbs">Analyse &middot; Evaluate &middot; Justify &middot; Assess</p>
+          <p class="tier-desc">Require doing something with knowledge: break it into components, apply named frameworks, weigh evidence, and reach supported conclusions.</p>
+        </div>
+        <div class="tier-card tier-card--high">
+          <h3 class="tier-name">Higher Order</h3>
+          <p class="tier-levels">Level 6 and Level 7</p>
+          <p class="tier-verbs">Critically Evaluate &middot; Critically Analyse &middot; Develop a Strategy</p>
+          <p class="tier-desc">Operate on the theoretical and strategic landscape itself — examine assumptions, engage with academic debate, and reach conclusions at organisational or sector scope.</p>
+        </div>
+      </div>
+      <p>
+        A Level 3 student describes Tuckman's stages. A Level 5 student evaluates Tuckman's applicability in
+        a specific team context. A Level 7 student critically analyses the theoretical landscape of team
+        development, including where Tuckman's model is contested, and the strategic implications for the
+        organisation.
+      </p>
+    </div>
+  </section>
+
+  <!-- IDENTIFY -->
+  <section class="section">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="identify">Identify <span class="level-tag">CMI Level 3</span></h2>
+      <p>Requires the student to recognise and name specific items, factors, characteristics, or examples relevant to the question. The lowest cognitive demand in the CMI verb hierarchy.</p>
+      <div class="verb-reqs">
+        <div class="verb-req verb-req--yes"><h4>Requires</h4><p>Naming items with enough specificity to demonstrate recognition — e.g. "clarity of role boundaries," not "communication."</p></div>
+        <div class="verb-req verb-req--no"><h4>Does Not Require</h4><p>Explanation of why factors are relevant, analysis of how they interact, or evaluative judgement.</p></div>
+      </div>
+      <p class="worked-note"><strong>Worked example:</strong> "Identify two factors that influence team performance." A correct response names two specific factors — it does not need to explain why they matter. Common in Units 301, 302, 303.</p>
+    </div>
+  </section>
+
+  <!-- DESCRIBE -->
+  <section class="section section-alt">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="describe">Describe <span class="level-tag">CMI Level 3</span></h2>
+      <p>Requires a clear, factual account of the key characteristics, features, or nature of something — one layer beyond Identify: not just naming, but conveying what it consists of and how it works.</p>
+      <div class="verb-reqs">
+        <div class="verb-req verb-req--yes"><h4>Requires</h4><p>A structured, accurate account covering the subject's main characteristics — e.g. all four stages of Tuckman's model with their behavioural characteristics.</p></div>
+        <div class="verb-req verb-req--no"><h4>Does Not Require</h4><p>Reasons why the model behaves as it does, or comparison with alternative frameworks.</p></div>
+      </div>
+      <p class="worked-note"><strong>Describe vs Explain:</strong> "The Storming stage is characterised by conflict as roles are negotiated" (Describe) vs "Storming produces conflict because the absence of role boundaries creates competition for influence" (Explain). Common in Units 302, 303.</p>
+    </div>
+  </section>
+
+  <!-- EXPLAIN -->
+  <section class="section">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="explain">Explain <span class="level-tag">CMI Level 3 &amp; 4</span></h2>
+      <p>Requires making something clear by giving reasons, causes, or mechanisms — the step above Describe: not just what something is, but why it works as it does.</p>
+      <div class="verb-reqs">
+        <div class="verb-req verb-req--yes"><h4>Requires</h4><p>A logical chain connecting the subject to its effects, as the student's own synthesis, not a paraphrase of a source.</p></div>
+        <div class="verb-req verb-req--no"><h4>Does Not Require</h4><p>Weighing competing options (Analyse) or determining the most effective option in context (Evaluate).</p></div>
+      </div>
+      <p class="worked-note"><strong>Worked example:</strong> "An autocratic managerial style restricts team input into decision-making. This reduction in autonomy activates the significant predictor of intrinsic motivation loss identified by Deci and Ryan's Self-Determination Theory, producing diminished discretionary effort." At Level 4, Explain typically precedes a more demanding verb within the same question.</p>
+    </div>
+  </section>
+
+  <!-- DISCUSS -->
+  <section class="section section-alt">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="discuss">Discuss <span class="level-tag">CMI Level 3 &amp; 4</span></h2>
+      <p>Requires examining a subject by considering different perspectives, presenting them with balance, and arriving at a considered position — broader than Explain, less analytically structured than Analyse.</p>
+      <div class="verb-reqs">
+        <div class="verb-req verb-req--yes"><h4>Requires</h4><p>Multiple perspectives or dimensions, connected into an account that reaches a summary position.</p></div>
+        <div class="verb-req verb-req--no"><h4>Does Not Require</h4><p>The formal component-breakdown of Analyse, or the evidence-weighted judgement of Evaluate.</p></div>
+      </div>
+      <p class="worked-note"><strong>Worked example:</strong> "Discuss the factors that contribute to effective team working" — should connect communication, role clarity, leadership, and psychological safety into a considered account of how they interact. Common in Units 303, 308.</p>
+    </div>
+  </section>
+
+  <!-- ANALYSE -->
+  <section class="section">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="analyse">Analyse <span class="level-tag">CMI Level 4</span></h2>
+      <p>Requires breaking a subject into its component parts, examining each component and how they interact, and deriving conclusions from that examination. Not a synonym for "write about in detail" — a specific structure: decompose, examine, conclude.</p>
+      <div class="verb-reqs">
+        <div class="verb-req verb-req--yes"><h4>Requires</h4><p>A named framework used as the analytical lens applied to the workplace context, examining how components interact, and a conclusion derived from that examination.</p></div>
+        <div class="verb-req verb-req--no"><h4>Does Not Require</h4><p>Weighing the framework's own strengths and limitations (Critically Evaluate), or a globally preferable option (Evaluate without context).</p></div>
+      </div>
+      <p class="worked-note">
+        <strong>The most common Level 4 Referral cause:</strong> describing what a theory says instead of using it to examine the context — inverting the tool/subject relationship. A correct response applies Goleman's Six Leadership Styles as the lens on the specific scenario named in the brief, then concludes with a context-specific finding. Typical units: 401, 402, 406. See <a href="/cmi-level-4-assignment-help/">CMI Level 4 assignment help</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- EVALUATE -->
+  <section class="section section-alt">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="evaluate">Evaluate <span class="level-tag level-tag--primary">CMI Level 5</span></h2>
+      <p>Requires making a reasoned judgement by weighing evidence, applying named frameworks, identifying strengths and limitations, and reaching a justified conclusion. The conclusion is the structural requirement that distinguishes Evaluate from Analyse — it is not optional.</p>
+      <div class="verb-reqs">
+        <div class="verb-req verb-req--yes"><h4>Requires</h4><p>Named framework application; strengths AND limitations in context; a stated, defended conclusion.</p></div>
+        <div class="verb-req verb-req--no"><h4>Does Not Require</h4><p>Examining the framework's own assumptions (Critically Evaluate), or testing the conclusion against an alternative framework.</p></div>
+      </div>
+      <p class="worked-note">
+        <strong>The most common Level 5 mistake:</strong> evaluating correctly, identifying strengths and weaknesses, then stopping without a stated position. "Both frameworks have strengths and limitations" is not a conclusion. "Lewin's model better fits the speed and stakeholder consensus requirements of this change than Kotter's sequential design" is. Typical units: 501, 502, 503, 512. See <a href="/cmi-level-5-assignment-help/">CMI Level 5 assignment help</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- JUSTIFY -->
+  <section class="section">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="justify">Justify <span class="level-tag">CMI Level 5 and Above</span></h2>
+      <p>Requires giving well-reasoned grounds for a decision, position, or recommendation. Where Evaluate reaches a conclusion by weighing evidence, Justify defends a conclusion that has already been stated.</p>
+      <div class="verb-reqs">
+        <div class="verb-req verb-req--yes"><h4>Requires</h4><p>A clearly stated position followed by specific reasons — from evidence, theory, or organisational context — for why it is preferable to the alternatives.</p></div>
+        <div class="verb-req verb-req--no"><h4>Does Not Require</h4><p>Re-running the full evaluative process. The evaluation is complete; Justify defends the outcome.</p></div>
+      </div>
+      <p class="worked-note">
+        Most frequent in recommendation sections, often paired with Evaluate in a single question: "Evaluate the effectiveness of two approaches... and justify your recommended approach." Typical units: 501, 504, 509 at Level 5, and recommendation sections at Level 6–7.
+      </p>
+    </div>
+  </section>
+
+  <!-- ASSESS -->
+  <section class="section section-alt">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="assess">Assess <span class="level-tag">CMI Level 5 and Level 6</span></h2>
+      <p>Requires making an informed judgement about the value, significance, impact, or extent of something, measured against a defined criterion or standard.</p>
+      <div class="verb-reqs">
+        <div class="verb-req verb-req--yes"><h4>Requires</h4><p>A stated criterion, applied evidence, and a judgement about the degree or significance of the finding.</p></div>
+        <div class="verb-req verb-req--no"><h4>Note</h4><p>Overlaps considerably with Evaluate in depth — Evaluate weighs competing options; Assess measures against a standard. Assessors apply the same depth criteria to both.</p></div>
+      </div>
+      <p class="worked-note">Typical units: 504 (Assess the impact of the Equality Act 2010), 505 (Assess leadership approaches in health and social care).</p>
+    </div>
+  </section>
+
+  <!-- CRITICALLY EVALUATE -->
+  <section class="section">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="critically-evaluate">Critically Evaluate <span class="level-tag level-tag--primary">CMI Level 6</span></h2>
+      <p>Requires four sequential operations: apply a framework and evaluate it at Level 5 standard; examine the framework's own assumptions and name where they do not hold; identify an alternative framework; test the conclusion against that alternative.</p>
+      <div class="ce-steps">
+        <div class="ce-step"><span class="ce-num">1</span><p><strong>Apply</strong> — use the framework to examine the subject.</p></div>
+        <div class="ce-step"><span class="ce-num">2</span><p><strong>Evaluate</strong> — identify where it works and where it fails in context.</p></div>
+        <div class="ce-step"><span class="ce-num">3</span><p><strong>Critique the framework</strong> — name the assumptions or limitations of the framework itself (e.g. "Tuckman's model assumes sequential development — this does not hold in matrix or virtual teams").</p></div>
+        <div class="ce-step"><span class="ce-num">4</span><p><strong>Counter-test</strong> — consider what an alternative framework would conclude, and defend the chosen position.</p></div>
+      </div>
+      <p class="worked-note">
+        <strong>The most common Level 6 Referral:</strong> submitting an Evaluate-depth response (stops at conclusion) instead of Critically Evaluate (tests the conclusion). Typical units: 601, 602, 603, 604. See <a href="/cmi-level-6-assignment-help/">CMI Level 6 assignment help</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- CRITICALLY ANALYSE -->
+  <section class="section section-alt">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="critically-analyse">Critically Analyse <span class="level-tag level-tag--primary">CMI Level 7</span></h2>
+      <p>Requires examining the theoretical and strategic landscape of a subject, engaging with contested positions within it, evaluating empirical evidence across competing frameworks, and reaching a strategic conclusion at organisational or sector scope.</p>
+      <div class="verb-reqs">
+        <div class="verb-req verb-req--yes"><h4>Requires</h4><p>Primary academic sources (journal articles, not textbook summaries); engagement with theoretical disagreement in the field; conclusions at director or executive scope.</p></div>
+        <div class="verb-req verb-req--no"><h4>Does Not Require</h4><p>Description of theories or founding assumptions — this is the starting point, not the response.</p></div>
+      </div>
+      <p class="worked-note">
+        Critically Evaluate interrogates one framework. Critically Analyse interrogates the landscape of frameworks simultaneously — e.g. transformational, distributed (Spillane, 2004), authentic (Avolio and Gardner, 2005), and ethical leadership theory, evaluated against each other, resolving to a strategic recommendation. A Level 7 Distinction response is unrecognisable as a Level 6 response — categorically different, not just larger. Typical units: 701, 702, 704, 705, 708. See <a href="/cmi-level-7-assignment-help/">CMI Level 7 assignment help</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- DEVELOP A PLAN / STRATEGY -->
+  <section class="section">
+    <div class="container narrow verb-section">
+      <h2 class="section-title" id="develop-a-plan-strategy">Develop a Plan / Develop a Strategy <span class="level-tag">CMI Level 5 and 7</span></h2>
+      <p>Action verbs requiring the student to construct something, not describe what a construction process involves.</p>
+      <div class="plan-grid">
+        <div class="plan-card">
+          <h3>Develop a Plan — Level 5</h3>
+          <p>An actual plan with SMART objectives (Doran, 1981), specific actions with responsible parties and timeframes, and measurable success metrics. "Improve team communication" fails SMART. "Implement a weekly team briefing with a written agenda, attended by all seven direct reports, 85% minimum attendance, from [date]" passes. Typical units: 510, 515, 521.</p>
+        </div>
+        <div class="plan-card">
+          <h3>Develop a Strategy — Level 7</h3>
+          <p>A strategic direction and rationale, not an operational task list — where the organisation is going, why, and how resources should be prioritised. Draws on Porter (1980), Ansoff (1965), and Barney (1991). Typical units: 704, 706.</p>
+        </div>
+      </div>
+      <p class="worked-note">The Plan vs Strategy distinction: a Plan is operational (what, by whom, by when); a Strategy is directional (where, why, what logic).</p>
+    </div>
+  </section>
+
+  <!-- GRADE MAPPING -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="grade-mapping">How Command Verbs Map to Pass, Merit, and Distinction</h2>
+      <p class="section-lead">Meeting the verb is the minimum requirement for a Pass. Depth of application within the verb determines Merit and Distinction.</p>
+      <div class="grade-table">
+        <div class="grade-col">
+          <h3 class="grade-heading grade-heading--pass">Pass</h3>
+          <p>Meets the command verb at its minimum — applies one named framework, reaches a stated conclusion, names the appropriate limitations.</p>
+        </div>
+        <div class="grade-col">
+          <h3 class="grade-heading grade-heading--merit">Merit</h3>
+          <p>"In-depth analysis with clear justification" — two or more frameworks with explicit comparison, connected to the student's specific professional context, limitations identified in context.</p>
+        </div>
+        <div class="grade-col">
+          <h3 class="grade-heading grade-heading--distinction">Distinction</h3>
+          <p>"Critical analysis with well-supported conclusions and justified recommendations" — competing frameworks set against each other, limitations named as academic constructs, conclusion tested and defended, recommendations explicitly derived from the evaluation.</p>
+        </div>
+      </div>
+      <p>The practical summary: a Pass shows the verb was performed. Merit shows it was performed with contextual precision. Distinction shows it was performed at maximum cognitive depth, with conclusions demonstrating original synthesis.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="verbs-faq">CMI Command Verbs — Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item"><summary class="faq-q">What is the difference between Evaluate and Critically Evaluate in CMI assignments?</summary><div class="faq-a"><p>Evaluate requires applying a named framework, identifying strengths and limitations in context, and reaching a justified conclusion. Critically Evaluate adds examination of the framework's own assumptions and a test of the conclusion against a credible alternative. Students who submit Evaluate-depth responses to Critically Evaluate questions at Level 6 generate the most consistent pattern of avoidable Referrals.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">What does Analyse mean in a CMI Level 4 assignment?</summary><div class="faq-a"><p>Break a subject into components, use a named framework as the analytical lens, examine how components function and interact, and derive a conclusion. The theory is the tool; the student's context is the subject examined through it. The most common error is describing what a theory says rather than using it to analyse the situation.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">What is the difference between Critically Evaluate and Critically Analyse?</summary><div class="faq-a"><p>Critically Evaluate operates on an individual framework: apply, evaluate, critique, counter-test. Critically Analyse operates on the theoretical landscape as a whole: where the field is contested, the empirical evidence across competing frameworks, and a strategic-scope conclusion. Critically Evaluate is primary at Level 6; Critically Analyse at Level 7.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Why did I get a Referral if I used the right command verb?</summary><div class="faq-a"><p>Meeting the verb at minimum standard is the threshold for a Pass, but the Learning Outcome must be met in full. A Referral can occur when the verb is attempted but not completed — an Evaluate response that never reaches a conclusion — or when the correct cognitive depth is delivered in the wrong format.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Do all CMI units use the same command verbs?</summary><div class="faq-a"><p>No. Level 3 uses primarily Identify, Describe, and Explain. Level 4 uses Analyse and Evaluate. Level 5 uses Evaluate and Justify. Level 6 uses Critically Evaluate and Critically Assess. Level 7 uses Critically Analyse as the dominant verb. Identify every command verb in every question of the brief before writing.</p></div></details>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title">Related CMI Assignment Services</h2>
+      <div class="supp-grid">
+        <a href="/cmi-assignment-writing-service/" class="supp-card"><h3>CMI Assignment Writing Service</h3><p>Command verb accuracy as a core deliverable, at every level from Evaluate to Critically Analyse.</p></a>
+        <a href="/cmi-assignment-tutoring/" class="supp-card"><h3>CMI Assignment Tutoring</h3><p>Command verb coaching for students writing their own assignment — the most frequent tutoring request.</p></a>
+        <a href="/guides/cmi-assignment-structure/" class="supp-card"><h3>CMI Assignment Structure Guide</h3><p>How to deliver verb-depth analysis in the correct management report, essay, or reflective account format.</p></a>
+        <a href="/cmi-level-6-assignment-help/" class="supp-card"><h3>CMI Level 6 Assignment Help</h3><p>Critically Evaluate as the assessment standard across all major Level 6 units.</p></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>Get Expert CMI Assignment Help</h2>
+      <p>Whichever verb your unit demands, message us on WhatsApp with your brief for a fixed quote within two hours.</p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        WhatsApp Us Your Brief
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); color: #fff; padding: 5rem 0 4rem; text-align: center; }
+  .hero-inner { max-width: 840px; margin: 0 auto; }
+  .eyebrow { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem; }
+  .hero h1 { font-size: clamp(1.6rem, 3.6vw, 2.6rem); font-weight: 800; color: #fff; margin-bottom: 1.25rem; line-height: 1.25; }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+
+  .narrow { max-width: 860px; }
+
+  .tier-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.5rem; margin: 1.5rem 0; }
+  .tier-card { background: #fff; border: 1px solid var(--border); border-radius: 10px; padding: 1.5rem; box-shadow: var(--shadow); border-top: 4px solid var(--text-muted); }
+  .tier-card--mid { border-top-color: var(--blue); }
+  .tier-card--high { border-top-color: var(--navy); }
+  .tier-name { font-size: 1.05rem; font-weight: 700; color: var(--navy); margin-bottom: .3rem; }
+  .tier-levels { font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--text-muted); margin-bottom: .6rem; }
+  .tier-verbs { font-size: .9rem; font-weight: 600; color: var(--blue); margin-bottom: .75rem; }
+  .tier-desc { font-size: .875rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+
+  .verb-section { border-bottom: 1px solid var(--border); padding-bottom: 1rem; }
+  .level-tag {
+    display: inline-block; font-size: .68rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .04em; background: var(--bg-light); color: var(--text-muted);
+    border: 1px solid var(--border); padding: .2rem .6rem; border-radius: 20px; margin-left: .6rem;
+    vertical-align: middle;
+  }
+  .level-tag--primary { background: var(--blue); color: #fff; border-color: var(--blue); }
+
+  .verb-reqs { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1.25rem; margin: 1.25rem 0; }
+  .verb-req { border-radius: 8px; padding: 1.1rem 1.25rem; font-size: .875rem; line-height: 1.6; }
+  .verb-req--yes { background: #f0fdf4; border: 1px solid #bbf7d0; }
+  .verb-req--no { background: #fef2f2; border: 1px solid #fecaca; }
+  .verb-req h4 { font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; margin-bottom: .4rem; }
+  .verb-req--yes h4 { color: #15803d; }
+  .verb-req--no h4 { color: #b91c1c; }
+  .verb-req p { margin: 0; }
+
+  .worked-note { font-size: .9rem; color: var(--text); background: var(--bg-light); border-left: 4px solid var(--blue); padding: 1rem 1.25rem; border-radius: 0 var(--radius) var(--radius) 0; line-height: 1.65; }
+
+  .ce-steps { display: flex; flex-direction: column; gap: .9rem; margin: 1.25rem 0; }
+  .ce-step { display: grid; grid-template-columns: 2.25rem 1fr; gap: .9rem; align-items: start; font-size: .92rem; line-height: 1.6; }
+  .ce-num { display: flex; align-items: center; justify-content: center; width: 2.25rem; height: 2.25rem; border-radius: 50%; background: var(--navy); color: #fff; font-weight: 700; flex-shrink: 0; }
+  .ce-step p { margin: 0; }
+
+  .plan-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.25rem; margin: 1.25rem 0; }
+  .plan-card { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .plan-card h3 { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .6rem; }
+  .plan-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+
+  .grade-table { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .grade-col { background: #fff; border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .grade-heading { font-size: .85rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; margin-bottom: .75rem; }
+  .grade-heading--pass { color: var(--text-muted); }
+  .grade-heading--merit { color: var(--blue); }
+  .grade-heading--distinction { color: var(--navy); }
+  .grade-col p { font-size: .875rem; color: var(--text); line-height: 1.6; margin: 0; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; margin-top: 1.5rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q { display: block; padding: 1.1rem 1.25rem; font-weight: 600; font-size: .975rem; color: var(--navy); cursor: pointer; list-style: none; background: var(--bg-light); }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+  .supp-card { display: block; padding: 1.5rem; background: #fff; border: 1px solid var(--border); border-radius: 10px; text-decoration: none; color: var(--text); box-shadow: var(--shadow); transition: border-color .15s, transform .1s; }
+  .supp-card:hover { border-color: var(--blue); transform: translateY(-2px); text-decoration: none; color: var(--text); }
+  .supp-card h3 { font-size: .975rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .supp-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 1.9rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+</style>

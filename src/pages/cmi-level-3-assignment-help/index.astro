@@ -1,0 +1,335 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447000000000';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "CMI Level 3 Assignment Help",
+  "description": "Expert CMI Level 3 First Line Management assignment help. All 12 units (301–312) covered. Structured essay format, Identify/Describe/Explain command verbs, 5–8 Harvard sources. UK-based CMI writers.",
+  "provider": {
+    "@type": "Organization",
+    "name": "CMI Assignment Help UK",
+    "url": siteUrl
+  },
+  "areaServed": "United Kingdom",
+  "serviceType": "Academic Writing Support",
+  "url": siteUrl + "/cmi-level-3-assignment-help/"
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "What is the word count for a CMI Level 3 assignment?", "acceptedAnswer": { "@type": "Answer", "text": "CMI Level 3 assignments are typically 1,500 to 2,500 words per unit. The exact figure is set by your training provider's assignment brief. Word count usually excludes the reference list and any appendices." } },
+    { "@type": "Question", "name": "Which CMI Level 3 units are most commonly selected?", "acceptedAnswer": { "@type": "Answer", "text": "Units 301 (Principles of Management and Leadership), 302 (Managing a Team to Achieve Results), and 303 (Managing Individuals to be Effective in their Roles) form the core of most Level 3 Diploma pathways, alongside 304 and 306 for communication and equality-focused roles." } },
+    { "@type": "Question", "name": "Do CMI Level 3 assignments use management report or essay format?", "acceptedAnswer": { "@type": "Answer", "text": "Structured essay format. The management report format used at Level 5 and above does not apply at Level 3. A Level 3 essay has an introduction, body paragraphs following a point-evidence-evaluation-link structure, and a conclusion — no executive summary or recommendations section." } },
+    { "@type": "Question", "name": "How many sources are needed for a CMI Level 3 assignment?", "acceptedAnswer": { "@type": "Answer", "text": "A minimum of 5 to 8 Harvard-referenced sources per unit, including CMI ManagementDirect content alongside academic texts, with every source cited in-text and listed in a complete Harvard-format reference list." } },
+    { "@type": "Question", "name": "Can I get help with a CMI Level 3 resubmission after a Referral?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Send your original submission, the assessor feedback, and your unit brief via WhatsApp. Resubmission support identifies exactly which Learning Outcomes were marked as not met and what must change in the rewrite." } }
+  ]
+};
+
+const units = [
+  { num: '301', title: 'Principles of Management and Leadership', desc: 'Foundational leadership theory and the distinction between management and leadership functions. The most commonly selected Level 3 unit.', priority: true },
+  { num: '302', title: 'Managing a Team to Achieve Results', desc: 'Team development, goal-setting, and performance monitoring. Frequently uses Tuckman’s stages of team development.', priority: true },
+  { num: '303', title: 'Managing Individuals to be Effective in their Roles', desc: 'Individual performance management, motivation theory, and one-to-one management practice. Maslow’s Hierarchy of Needs is a common framework.', priority: true },
+  { num: '304', title: 'Principles of Communication in the Workplace', desc: 'Communication models, barriers to effective communication, and communication planning at team level.' },
+  { num: '305', title: 'Building Stakeholder Relationships Using Effective Communication', desc: 'Stakeholder identification and communication strategy tailored to different stakeholder groups.' },
+  { num: '306', title: 'Managing Equality, Diversity and Inclusion', desc: 'Foundational equality legislation and the first-line manager’s role in embedding inclusive practice.' },
+  { num: '307', title: 'Developing the Knowledge, Skills and Abilities of Individuals and Teams', desc: 'Training needs analysis and development planning for direct reports.' },
+  { num: '308', title: 'Managing Volunteers', desc: 'The distinct challenges of managing an unpaid workforce — relevant to charity and community sector students.' },
+  { num: '309', title: 'Introduction to Sales Management', desc: 'Foundational sales team management, relevant to commercial and retail sector students.' },
+  { num: '310', title: 'Managing a Budget', desc: 'Budget monitoring and variance reporting at team level.' },
+  { num: '311', title: 'Managing a Project', desc: 'Basic project planning tools and the first-line manager’s role in project delivery.' },
+  { num: '312', title: 'Managing Data and Information', desc: 'Data handling, GDPR awareness, and information management at team level.' },
+];
+---
+
+<Layout
+  title="CMI Level 3 Assignment Help — First Line Management | All 12 Units"
+  description="Expert CMI Level 3 assignment help for the First Line Management qualification. All 12 units (301–312) covered. Structured essay format, Describe and Explain command verbs, 5–8 Harvard sources. UK-based CMI writers."
+  canonical={siteUrl + '/cmi-level-3-assignment-help/'}
+  pageSchema={[serviceSchema, faqSchema]}
+>
+
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">UK-Based CMI Writers &bull; First Line Management Specialists</p>
+      <h1>CMI Level 3 Assignment Help — First Line Management</h1>
+      <p class="hero-sub">
+        All 12 units (301–312) covered. Structured essay format, Identify, Describe, and Explain
+        command verbs, 5–8 Harvard sources. Written for team leaders, supervisors, and first-line
+        managers by UK-based CMI-qualified writers. Fixed quote in 2 hours.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get CMI Level 3 Assignment Help
+      </a>
+      <p class="hero-note">Fixed quote in 2 hours &bull; All 12 Level 3 units &bull; Award, Certificate, and Diploma</p>
+    </div>
+  </section>
+
+  <img
+    class="page-header-img"
+    src="/images/headers/cmi-level-3-assignment-help.svg"
+    alt="CMI Level 3 First Line Management assignment help"
+    width="1200"
+    height="600"
+    loading="eager"
+    decoding="async"
+  />
+
+  <TableOfContents />
+
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="what-is-cmi-level-3">What Is CMI Level 3 First Line Management?</h2>
+      <p>
+        CMI Level 3 First Line Management is the Chartered Management Institute's entry-level
+        management qualification, positioned at RQF Level 3 — broadly equivalent to A-level academic
+        standard. It is available as an Award (1–2 units), a Certificate (3–5 units), or a Diploma
+        (6+ units), with the Diploma the most commonly funded pathway for employer-sponsored students.
+      </p>
+      <p>
+        The qualification is built for team leaders, supervisors, and first-line managers —
+        professionals responsible for the day-to-day management of a team but not yet operating at
+        departmental or strategic scope. Twelve units are available, numbered 301 to 312, covering
+        foundational first-line management responsibilities: leadership principles, team performance,
+        individual development, communication, stakeholder relationships, equality and inclusion,
+        budgets, projects, and data.
+      </p>
+      <p>
+        Assessment is entirely assignment-based, with no examinations. Every unit is assessed through a
+        written submission marked against its specific Learning Outcomes using CMI's grade descriptors:
+        Referral, Pass, Merit, and Distinction.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="all-12-units">All 12 CMI Level 3 Units — Assignment Help by Unit</h2>
+      <p class="section-lead">
+        Units 301, 302, and 303 form the core of most Diploma pathways — the fundamental leadership,
+        team, and individual management competencies expected of every first-line manager.
+      </p>
+      <div class="unit-list">
+        {units.map(u => (
+          <div class={`unit-item ${u.priority ? 'unit-item--priority' : ''}`}>
+            <div class="unit-number">{u.num}</div>
+            <div class="unit-body">
+              <h3 class="unit-title">
+                {u.title}
+                {u.priority && <span class="unit-badge">Core Unit</span>}
+              </h3>
+              <p class="unit-desc">{u.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+      <p class="unit-note">As unit-specific pages are published for each of these twelve units, they will be linked directly from this list.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="assignment-format">CMI Level 3 Assignment Format — Structured Essay</h2>
+      <p>
+        CMI Level 3 assignments are submitted as structured essays, not management reports — the
+        management report format used at Level 5 and above does not apply here.
+      </p>
+      <ul class="essay-parts">
+        <li><strong>Introduction</strong> (150–200 words) — defines the topic and states how the essay will address the Learning Outcomes.</li>
+        <li><strong>Body paragraphs</strong> — each addresses one Learning Outcome using a point, evidence, evaluation, and link structure.</li>
+        <li><strong>Conclusion</strong> (150–200 words) — synthesises the findings from the body without introducing new content.</li>
+      </ul>
+      <p>
+        Word count is typically 1,500 to 2,500 words per unit, with a minimum Harvard referencing
+        requirement of 5 to 8 sources. The essay must demonstrate workplace application of the
+        theory covered — a purely academic account without reference to the student's own team will
+        not meet the CMI assessment standard. See the full
+        <a href="/guides/cmi-assignment-structure/">CMI assignment structure guide</a> for every
+        CMI format in detail.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="command-verbs">Command Verbs at CMI Level 3 — Identify, Describe, Explain</h2>
+      <p>Five command verbs govern CMI Level 3 assignments. Confusing one for another is the most common cause of Referral at this level.</p>
+      <div class="verb-mini-grid">
+        <div class="verb-mini"><h3>Identify</h3><p>Name or list relevant factors, models, or concepts. No analysis required.</p></div>
+        <div class="verb-mini"><h3>Describe</h3><p>Give an account of the subject's characteristics — more than a list, but without evaluation.</p></div>
+        <div class="verb-mini"><h3>Explain</h3><p>Give reasons — a "why" or "how" element that Describe does not demand.</p></div>
+        <div class="verb-mini"><h3>Discuss</h3><p>Explore multiple viewpoints or considerations with breadth.</p></div>
+        <div class="verb-mini"><h3>Analyse</h3><p>The most demanding Level 3 verb — break the subject into components and examine the relationships between them.</p></div>
+      </div>
+      <p class="worked-note">
+        <strong>Describe vs Explain:</strong> "The Directive management style involves close supervision
+        and clear instruction" is Describe. "The Directive style is effective in crisis situations
+        because it removes ambiguity, but reduces team autonomy over time" is Explain. See the full
+        <a href="/guides/cmi-command-verbs-explained/">CMI command verbs explained</a> guide for every
+        verb across all five levels.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="pass-merit-distinction">What a Pass, Merit, and Distinction Look Like at CMI Level 3</h2>
+      <p class="section-lead">Worked example: Unit 302, Managing a Team to Achieve Results.</p>
+      <div class="grade-blocks">
+        <div class="grade-block">
+          <h3>Pass</h3>
+          <p>Addresses every Learning Outcome at the correct command verb level, with sufficient evidence and at least one workplace example connecting the theory to the student's own team.</p>
+        </div>
+        <div class="grade-block grade-merit">
+          <h3>Merit</h3>
+          <p>Applies named theory correctly and specifically — Tuckman's stages mapped explicitly onto the student's own team's history — with a wider evidence base and clearer links to practice.</p>
+        </div>
+        <div class="grade-block grade-distinction">
+          <h3>Distinction</h3>
+          <p>Identifies where the model's assumptions do not fully hold for the student's specific team, and reaches a justified conclusion about what this means for how the team should be managed.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="pathway-to-level-4">Pathway from CMI Level 3 to CMI Level 4</h2>
+      <p>
+        Completing CMI Level 3 is the natural route into
+        <a href="/cmi-level-4-assignment-help/">CMI Level 4 assignment help</a> — Management and
+        Leadership, for managers with department-level or cross-team responsibility.
+      </p>
+      <p>
+        The command verb depth shifts: Analyse and Evaluate become primary, where Level 3 relied on
+        Describe and Explain. The format also begins to shift, with some Level 4 units introducing
+        management report format alongside the structured essay. Students who complete Level 3 at
+        Merit or Distinction standard are well positioned for the increased analytical demand of Level 4.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="how-to-get-help">How to Get CMI Level 3 Assignment Help</h2>
+      <ol class="order-steps">
+        <li><strong>Message us on WhatsApp</strong> with your unit number (e.g., Unit 301 or Unit 302), your submission deadline, and a copy of your assignment brief.</li>
+        <li><strong>Receive a fixed quote within 2 hours.</strong> No hidden fees for referencing or revisions.</li>
+        <li><strong>A CMI Level 3 qualified writer</strong> produces your submission-ready structured essay with Harvard referencing and workplace application built in.</li>
+      </ol>
+      <div class="order-cta">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Order on WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="level-3-faq">CMI Level 3 Assignment Help — Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item"><summary class="faq-q">What is the word count for a CMI Level 3 assignment?</summary><div class="faq-a"><p>Typically 1,500 to 2,500 words per unit. The exact figure is set by your training provider's assignment brief. Word count usually excludes the reference list and appendices.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Which CMI Level 3 units are most commonly selected?</summary><div class="faq-a"><p>Units 301, 302, and 303 form the core of most Level 3 Diploma pathways, alongside 304 and 306 for students in communication- or equality-focused roles.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Do CMI Level 3 assignments use management report or essay format?</summary><div class="faq-a"><p>Structured essay format. The management report format used at Level 5 and above does not apply at Level 3 — the essay has an introduction, body paragraphs, and a conclusion, with no executive summary or recommendations section.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">How many sources are needed for a CMI Level 3 assignment?</summary><div class="faq-a"><p>A minimum of 5 to 8 Harvard-referenced sources per unit, including CMI ManagementDirect content alongside academic texts, with every source cited in-text and in the reference list.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Can I get help with a CMI Level 3 resubmission after a Referral?</summary><div class="faq-a"><p>Yes. Send your original submission, the assessor feedback, and your unit brief via WhatsApp. Resubmission support identifies exactly which Learning Outcomes were unmet and what must change in the rewrite.</p></div></details>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Related CMI Assignment Services</h2>
+      <div class="supp-grid">
+        <a href="/cmi-assignment-writing-service/" class="supp-card"><h3>CMI Assignment Writing Service</h3><p>Full delivery for all 12 Level 3 units and every other CMI level.</p></a>
+        <a href="/cmi-level-4-assignment-help/" class="supp-card"><h3>CMI Level 4 Assignment Help</h3><p>The natural progression from Level 3 — Analyse and Evaluate depth.</p></a>
+        <a href="/cmi-assignment-tutoring/" class="supp-card"><h3>CMI Assignment Tutoring</h3><p>For Level 3 students who want to write their own essay with expert guidance.</p></a>
+        <a href="/guides/cmi-command-verbs-explained/" class="supp-card"><h3>CMI Command Verbs Explained</h3><p>Every verb in the CMI hierarchy, including Identify, Describe, and Explain at Level 3.</p></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>WhatsApp Us Your Unit Number</h2>
+      <p>Message us with your unit number, deadline, and brief. Fixed quote in 2 hours. UK-based CMI writers for all 12 Level 3 units.</p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get CMI Level 3 Assignment Help
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); color: #fff; padding: 5rem 0 4rem; text-align: center; }
+  .hero-inner { max-width: 780px; margin: 0 auto; }
+  .eyebrow { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem; }
+  .hero h1 { font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 800; color: #fff; margin-bottom: 1.25rem; line-height: 1.2; }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+  .hero-note { font-size: .82rem; color: #93c5fd; margin-top: .75rem; }
+
+  .narrow { max-width: 860px; }
+
+  .unit-list { display: flex; flex-direction: column; gap: 1rem; }
+  .unit-item { display: grid; grid-template-columns: 3.5rem 1fr; gap: 1rem; padding: 1rem 0; border-bottom: 1px solid var(--border); }
+  .unit-item--priority { background: var(--bg-light); border-radius: var(--radius); padding: 1rem; border-bottom: none; }
+  .unit-number { font-size: 1.4rem; font-weight: 800; color: var(--blue); text-align: center; }
+  .unit-title { font-size: 1rem; font-weight: 700; color: var(--navy); margin-bottom: .35rem; display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; }
+  .unit-badge { font-size: .65rem; font-weight: 700; text-transform: uppercase; background: var(--green); color: #fff; padding: .15rem .5rem; border-radius: 20px; }
+  .unit-desc { font-size: .88rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+  .unit-note { font-size: .85rem; color: var(--text-muted); margin-top: 1rem; font-style: italic; }
+
+  .essay-parts { display: flex; flex-direction: column; gap: .9rem; padding-left: 1.25rem; }
+  .essay-parts li { font-size: .95rem; line-height: 1.6; }
+
+  .verb-mini-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .verb-mini { background: #fff; border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .verb-mini h3 { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .verb-mini p { font-size: .875rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+
+  .worked-note { font-size: .9rem; color: var(--text); background: var(--bg-light); border-left: 4px solid var(--blue); padding: 1rem 1.25rem; border-radius: 0 var(--radius) var(--radius) 0; line-height: 1.65; }
+
+  .grade-blocks { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; }
+  .grade-block { background: #fff; border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .grade-block h3 { font-size: .85rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--text-muted); margin-bottom: .6rem; }
+  .grade-merit { border-top: 3px solid var(--blue); }
+  .grade-merit h3 { color: var(--blue); }
+  .grade-distinction { border-top: 3px solid var(--navy); }
+  .grade-distinction h3 { color: var(--navy); }
+  .grade-block p { font-size: .88rem; color: var(--text); line-height: 1.6; margin: 0; }
+
+  .order-steps { display: flex; flex-direction: column; gap: 1rem; padding-left: 0; list-style: none; counter-reset: steps; margin-bottom: 1.5rem; }
+  .order-steps li { counter-increment: steps; display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem; font-size: .95rem; line-height: 1.65; }
+  .order-steps li::before { content: counter(steps); display: flex; align-items: center; justify-content: center; width: 2.5rem; height: 2.5rem; border-radius: 50%; background: var(--blue); color: #fff; font-weight: 700; font-size: 1rem; flex-shrink: 0; }
+  .order-cta { text-align: center; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; margin-top: 1.5rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q { display: block; padding: 1.1rem 1.25rem; font-weight: 600; font-size: .975rem; color: var(--navy); cursor: pointer; list-style: none; background: var(--bg-light); }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+  .supp-card { display: block; padding: 1.5rem; background: #fff; border: 1px solid var(--border); border-radius: 10px; text-decoration: none; color: var(--text); box-shadow: var(--shadow); transition: border-color .15s, transform .1s; }
+  .supp-card:hover { border-color: var(--blue); transform: translateY(-2px); text-decoration: none; color: var(--text); }
+  .supp-card h3 { font-size: .975rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .supp-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+</style>

@@ -1,0 +1,562 @@
+﻿---
+import Layout from '../../layouts/Layout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447000000000';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the word count for a CMI Level 6 assignment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CMI Level 6 assignment word counts are set by each unit's assessment brief, but the standard range is 4,000–5,000 words per unit. This is substantially longer than Level 5 (3,000–4,000 words) and reflects the greater analytical depth required by the Critically Evaluate command verb. The word count applies to the main body of the advanced management paper — the executive summary, reference list, and appendices are excluded. Always check your specific unit brief as your training provider may set a different range within the CMI guidelines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between Evaluate (Level 5) and Critically Evaluate (Level 6)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evaluate (Level 5) requires the student to apply named management frameworks to a management situation, assess the outcomes or impact, and reach a reasoned conclusion. Critically Evaluate (Level 6) requires all of that, plus: examining the assumptions and limitations of the frameworks used in the specific context; considering at least one alternative framework or counter-argument; and reaching a conclusion that is explicitly justified against the alternatives considered. The word 'critically' signals that the student must not simply apply theories — they must interrogate them. A Level 5 response that applies Kotter and reaches a conclusion would be a Merit at Level 5 but a Pass or lower at Level 6, because it does not critically examine the theoretical basis of the framework."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do CMI Level 6 assignments require peer-reviewed journals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Peer-reviewed academic journals are required at CMI Level 6 — they are not optional. ManagementDirect (CMI's research library) remains an important source at Level 6, but it is not sufficient on its own. The source requirement at Level 6 is 12–15 Harvard-referenced sources, and this mix should include peer-reviewed journals from management, leadership, or business research databases. Including journal sources demonstrates that the student can engage with academic literature at the level appropriate to professional management, distinguishing Level 6 from Level 5 in both source standard and analytical depth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which CMI Level 6 units are most commonly selected for a Diploma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For the CMI Level 6 Diploma in Professional Management and Leadership, the most commonly selected units are Unit 601 (Personal and Professional Development as a Senior Leader), Unit 602 (Senior Leadership), Unit 603 (Leading Organisational Change), and Unit 604 (Strategic Risk Management). These four units are directly relevant to the daily responsibilities of senior managers and department heads and are commonly set as the core units by training providers delivering employer-funded Level 6 Diploma programmes. Unit 608 (Leading Innovation and Change) is also frequently selected."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I study CMI Level 6 or Level 7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CMI Level 6 is the right choice for experienced senior managers, department heads, and those at NHS Band 8+ who are not yet at director or C-suite level. CMI Level 7 is appropriate for directors, C-suite executives, and NHS senior leaders at Executive level. The academic standard difference is significant: Level 6 is equivalent to final-year undergraduate standard, while Level 7 is postgraduate Master's equivalent. Some students study Level 7 directly from Level 5, bypassing Level 6 — this is possible but requires a significant jump in analytical standard. If you are unsure which level is right for your role and goals, message us on WhatsApp and we will advise based on your specific situation."
+      }
+    }
+  ]
+};
+
+const units = [
+  { num: "601", title: "Personal and Professional Development as a Senior Leader", desc: "Examines strategic self-awareness, leadership identity at senior level, and CPD planning appropriate to the responsibilities of a department head or director. Frequently core unit in Level 6 Diploma programmes.", popular: true },
+  { num: "602", title: "Senior Leadership", desc: "Covers senior leadership theory, leadership models at strategic scale, stakeholder influence, and the behaviours that distinguish effective senior leadership from operational management. Consistently high-demand Diploma unit.", popular: true },
+  { num: "603", title: "Leading Organisational Change", desc: "Examines change management theory and practice at organisational scale — leading complex change, managing resistance, and sustaining change outcomes in senior management roles.", popular: true },
+  { num: "604", title: "Strategic Risk Management", desc: "Covers risk identification, assessment, and management frameworks at senior management level — including enterprise risk, reputational risk, and board-level risk governance.", popular: true },
+  { num: "605", title: "Talent Management", desc: "Examines talent identification, development, retention, and succession planning from a senior management perspective, with a focus on strategic workforce capability." },
+  { num: "606", title: "Resource Management", desc: "Covers strategic resource planning — human, financial, and physical resources — at departmental and organisational scale, with emphasis on senior management decision-making." },
+  { num: "607", title: "Finance for Senior Leaders", desc: "Addresses financial management and reporting at senior leadership level — interpreting financial data, budget accountability, and financial decision-making for non-finance directors." },
+  { num: "608", title: "Leading Innovation and Change", desc: "Examines innovation management and strategic change leadership — building innovation culture, managing ambiguity, and leading transformational change in complex organisations.", popular: true },
+  { num: "609", title: "Leading Quality Management", desc: "Covers quality management frameworks and continuous improvement at senior leadership level, including quality culture, performance measurement, and senior accountability for quality outcomes." },
+  { num: "610", title: "Senior Leader as Coach and Mentor", desc: "Addresses coaching and mentoring at a senior level — coaching culture, mentoring programme design, and the senior leader's role in developing leadership capability throughout the organisation." },
+  { num: "611", title: "Negotiations for Senior Leaders", desc: "Covers negotiation theory and practice at senior management and executive scale — strategic negotiations, stakeholder negotiation, and senior leadership negotiation behaviours." },
+  { num: "612", title: "Communications in Senior Leadership", desc: "Examines strategic communication at senior level — communicating vision, managing complex stakeholder communication, and leading through influence and narrative." },
+  { num: "613", title: "Data and Knowledge Management", desc: "Covers data governance, knowledge management, and evidence-based decision-making at senior leadership level, including organisational intelligence and data ethics." },
+  { num: "614", title: "Ethics and Corporate Social Responsibility", desc: "Examines ethical leadership, corporate social responsibility frameworks, ESG considerations, and the senior leader's accountability for ethical organisational practice." },
+  { num: "615", title: "Senior Leadership in the Public Sector", desc: "Specifically addresses senior leadership in public sector contexts — NHS, local government, education, and regulatory bodies — including public sector governance and accountability frameworks." },
+  { num: "616", title: "Leading Governance", desc: "Covers governance frameworks, board accountability, corporate governance standards, and the senior leader's role in ensuring organisational compliance and governance integrity." },
+];
+---
+
+<Layout
+  title="CMI Level 6 Assignment Help — Professional Management and Leadership | All 16 Units"
+  description="Expert CMI Level 6 Professional Management and Leadership assignment help. All 16 units (601–616) covered. Critically Evaluate command verb, 12–15 Harvard sources including peer-reviewed journals. Senior manager and director student profile. UK-based CMI writers."
+  canonical={siteUrl + '/cmi-level-6-assignment-help/'}
+  pageSchema={faqSchema}
+>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">CMI Level 6 — Professional Management and Leadership</p>
+      <h1>CMI Level 6 Assignment Help — Professional Management and Leadership</h1>
+      <p class="hero-sub">
+        Expert assignment help for all 16 CMI Level 6 Professional Management and Leadership units (601–616).
+        Critically Evaluate command verb, advanced management paper format, 12–15 Harvard sources including
+        peer-reviewed journals. Senior manager and department head student profile. UK-based CMI-qualified writers.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get CMI Level 6 Assignment Help
+      </a>
+      <p class="hero-note">Fixed quote within 2 hours &bull; All 16 units (601–616) &bull; Critically Evaluate standard</p>
+    </div>
+  </section>
+
+  <img
+    class="page-header-img"
+    src="/images/headers/cmi-level-6-assignment-help.svg"
+    alt="CMI Level 6 Professional Management and Leadership assignment help"
+    width="1200"
+    height="600"
+    loading="eager"
+    decoding="async"
+  />
+
+  <TableOfContents />
+
+  <!-- What Is CMI Level 6 -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="what-is-cmi-level-6-professional-management-and-leadership">What Is CMI Level 6 Professional Management and Leadership?</h2>
+      <p>
+        CMI Level 6 in Professional Management and Leadership is the Chartered Management Institute's
+        qualification for senior managers, department heads, and directors. It is available as an
+        <strong>Award</strong>, <strong>Certificate</strong>, or <strong>Diploma</strong> — the Diploma is
+        the most commonly completed pathway and requires a minimum of six units from the 16 available (601–616).
+      </p>
+      <p>
+        The Level 6 qualification sits at <strong>RQF Level 6</strong> — equivalent to final-year undergraduate
+        academic standard. This makes it the critical progression step between CMI Level 5 (operational
+        middle management, second-year undergraduate equivalent) and <a href="/cmi-level-7-assignment-help/">CMI
+        Level 7</a> (strategic management and leadership, postgraduate Master's equivalent).
+      </p>
+      <p>
+        The defining characteristic of Level 6 is the introduction of <strong>Critically Evaluate</strong>
+        as the primary command verb. Where Level 5 requires students to Evaluate management frameworks in
+        their workplace context, Level 6 requires students to critically examine the assumptions and
+        limitations of those frameworks and to justify their conclusions against alternative theoretical
+        positions. Peer-reviewed academic journals are required at Level 6 — not optional.
+      </p>
+      <p>
+        Successful completion of the CMI Level 6 Diploma awards <strong>MCMI (Member)</strong> CMI membership —
+        the professional management membership grade. Some students progress directly from Level 5 to Level 7
+        without completing Level 6 — whether Level 6 is the right step depends on role level and employer expectations.
+      </p>
+      <div class="qual-grid">
+        <div class="qual-block">
+          <h3>Student Profile</h3>
+          <p>Senior managers, department heads, NHS Band 8+, experienced commercial directors, and public sector senior leaders in their first senior leadership role.</p>
+        </div>
+        <div class="qual-block">
+          <h3>Academic Standard</h3>
+          <p>RQF Level 6 — final-year undergraduate equivalent. Bridges Level 5 operational management and Level 7 strategic management with Critically Evaluate as the primary standard.</p>
+        </div>
+        <div class="qual-block">
+          <h3>Membership Outcome</h3>
+          <p>MCMI (Member of CMI) on Diploma completion — the professional management membership grade, above Associate (ACMI) and below Fellow (FCMI).</p>
+        </div>
+        <div class="qual-block">
+          <h3>Units Available</h3>
+          <p>16 units in total (601–616). The Diploma typically requires 6 units. Units 601, 602, 603, and 604 are the most commonly selected core units.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- All 16 Units -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="all-16-cmi-level-6-units">All 16 CMI Level 6 Units — Assignment Help by Unit</h2>
+      <p class="section-lead">
+        Assignment help is available for every CMI Level 6 unit. Send your unit number and brief via WhatsApp
+        to receive a quote and be matched with a Level 6 qualified senior manager writer.
+      </p>
+      <div class="units-grid">
+        {units.map(u => (
+          <div class={`unit-card ${u.popular ? 'unit-popular' : ''}`}>
+            {u.popular && <span class="popular-tag">High Demand</span>}
+            <p class="unit-num">Unit {u.num}</p>
+            <h3 class="unit-title">{u.title}</h3>
+            <p class="unit-desc">{u.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Format -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-level-6-assignment-format">CMI Level 6 Assignment Format — Advanced Management Paper</h2>
+      <p>
+        CMI Level 6 assignments are submitted as advanced management papers — an extension of the
+        <a href="/cmi-level-5-assignment-help/">Level 5</a> management report with significantly greater
+        analytical depth. The format retains the professional structure of the management report but raises
+        the academic standard at every section.
+      </p>
+      <h3 class="sub-h3">Key Differences from the Level 5 Management Report</h3>
+      <div class="diff-list">
+        <div class="diff-item">
+          <span class="diff-label">Command Verb</span>
+          <p>Level 5 uses Evaluate as the primary command verb. Level 6 uses Critically Evaluate — requiring examination of theoretical assumptions and explicit consideration of alternative positions, not merely application of a framework.</p>
+        </div>
+        <div class="diff-item">
+          <span class="diff-label">Source Standard</span>
+          <p>Level 5 requires 10–12 Harvard-referenced sources, predominantly ManagementDirect. Level 6 requires 12–15 sources <em>including peer-reviewed academic journals</em> — ManagementDirect alone is insufficient at Level 6.</p>
+        </div>
+        <div class="diff-item">
+          <span class="diff-label">Word Count</span>
+          <p>Level 5 management reports are typically 3,000–4,000 words. Level 6 advanced management papers are 4,000–5,000 words per unit, reflecting the additional analytical depth required by Critically Evaluate.</p>
+        </div>
+        <div class="diff-item">
+          <span class="diff-label">Analytical Depth</span>
+          <p>At Level 5, analysis sections apply frameworks to the workplace context and evaluate outcomes. At Level 6, analysis sections must critically examine the theoretical frameworks themselves — their underlying assumptions, their limitations in the specific context, and how competing frameworks compare.</p>
+        </div>
+        <div class="diff-item">
+          <span class="diff-label">Recommendations</span>
+          <p>SMART recommendations remain at Level 6, but must be explicitly justified with reference to the critical evaluation conducted — not derived from a single framework but from the comparative analysis of multiple theoretical positions.</p>
+        </div>
+      </div>
+      <h3 class="sub-h3">Advanced Management Paper Sections</h3>
+      <p class="section-list">
+        Executive Summary &rarr; Introduction &rarr; Critical Analysis Sections &rarr; Strategic Recommendations
+        &rarr; Conclusion &rarr; Bibliography (12–15 sources) &rarr; Appendices
+      </p>
+      <p class="link-note">
+        See the <a href="/guides/cmi-assignment-structure/">CMI assignment structure guide</a> for full
+        section-by-section guidance. For help with the management paper format specifically, see
+        <a href="/cmi-report-writing-help/">CMI report writing help</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- Command Verbs -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="command-verbs-at-cmi-level-6">Command Verbs at CMI Level 6 — Critically Evaluate</h2>
+      <p>
+        <strong>Critically Evaluate</strong> is the primary command verb at CMI Level 6. It is the most
+        common cause of under-performance at this level — because the step from Level 5 Evaluate to
+        Level 6 Critically Evaluate is not merely a matter of writing more, but of writing at a different
+        analytical register.
+      </p>
+      <div class="verb-def">
+        <h3>Critically Evaluate — Precise Definition</h3>
+        <p>Critically Evaluate requires the student to:</p>
+        <ol class="verb-steps">
+          <li><strong>Apply</strong> named theoretical frameworks to evaluate the subject in context</li>
+          <li><strong>Examine the assumptions and limitations</strong> of those frameworks in the specific organisational or management context</li>
+          <li><strong>Consider alternative frameworks or counter-arguments</strong> — at least one competing position must be engaged with</li>
+          <li><strong>Reach a justified conclusion</strong> that is defensible against the alternatives considered — explaining why the conclusion holds even when the limitations and competing positions are accounted for</li>
+        </ol>
+      </div>
+      <h3 class="sub-h3">Worked Example — Unit 603: Leading Organisational Change</h3>
+      <div class="example-grid">
+        <div class="example-card example-l5">
+          <p class="example-label">Level 5 Evaluate Response</p>
+          <p>Applies Kotter's 8-Step Model to a recent change initiative in the student's organisation.
+          Evaluates the impact — identifying what worked, what was less effective, and why. Reaches a
+          conclusion on the effectiveness of the change programme. Cites ManagementDirect and 10 sources.
+          This is Merit standard at Level 5.</p>
+        </div>
+        <div class="example-card example-l6">
+          <p class="example-label">Level 6 Critically Evaluate Response</p>
+          <p>Applies Kotter's 8-Step Model and evaluates the same change initiative. Then introduces
+          Lewin's Force Field Analysis as a competing change management framework, examines the
+          assumptions embedded in both (Kotter assumes linear sequential stages; Lewin assumes
+          equilibrium disruption), and identifies the limitations of each in complex, multi-site
+          change environments. Justifies why Force Field Analysis better explains the resistance
+          dynamics encountered, while acknowledging Kotter's strengths in communication planning.
+          Reaches a conclusion on change management effectiveness that accounts for both positions.
+          Cites 13 sources including at least two peer-reviewed change management journals.</p>
+        </div>
+      </div>
+      <p class="verb-note">
+        Also appearing at Level 6: <strong>Critically Assess</strong> (similar depth, directed at evaluating
+        a specific claim or position) and <strong>Assess</strong> (evaluate the significance or value of
+        something, at Level 6 depth). For the full command verb hierarchy, see
+        <a href="/guides/cmi-command-verbs-explained/">CMI command verbs explained</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- Pass Merit Distinction -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="what-a-distinction-looks-like-at-cmi-level-6">What a Distinction Looks Like at CMI Level 6</h2>
+      <p>Using Unit 602 — Senior Leadership — as a worked example:</p>
+      <div class="grade-grid">
+        <div class="grade-card">
+          <h3>Merit</h3>
+          <p>Critically Evaluates using named leadership frameworks (at minimum, transformational and
+          transactional leadership). Identifies some limitations of the primary framework in the
+          student's organisational context. Reaches a reasoned conclusion. Cites 12+ sources including
+          at least two peer-reviewed journals. The evaluation demonstrates understanding that frameworks
+          have contextual limits but does not yet engage with the academic debate around those limits.</p>
+        </div>
+        <div class="grade-card grade-distinction">
+          <h3>Distinction</h3>
+          <p>Critically Evaluates using a minimum of two competing leadership frameworks — for example,
+          transformational leadership (Bass and Avolio) versus distributed leadership. Explicitly names
+          the assumptions and limitations of transformational approaches in high-accountability sectors
+          (the evidence base for transformational leadership is predominantly drawn from manufacturing
+          and military contexts; its applicability to regulated professional services environments is
+          contested). Draws on peer-reviewed academic leadership research — not just ManagementDirect
+          — to support the critical evaluation. Justifies the conclusion by explaining why the competing
+          alternative (e.g., Spillane's distributed leadership model, 2005) is more contextually
+          appropriate, and why this conclusion holds even if the transformational leadership evidence
+          base is accepted. The writing occupies both sides of the argument before reaching a defensible
+          position.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Positioning -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-level-6-vs-level-5-and-level-7">CMI Level 6 vs Level 5 and Level 7 — Where Level 6 Sits</h2>
+      <div class="position-grid">
+        <div class="position-card">
+          <h3>Level 6 vs Level 5</h3>
+          <ul>
+            <li>Critically Evaluate (L6) vs Evaluate (L5) — the 'critically' is a distinct analytical standard, not just more evaluation</li>
+            <li>Peer-reviewed academic journals required at L6; ManagementDirect-led at L5</li>
+            <li>Word count: 4,000–5,000 at L6 vs 3,000–4,000 at L5</li>
+            <li>RQF standard: final-year undergraduate (L6) vs second-year undergraduate (L5)</li>
+          </ul>
+          <a href="/cmi-level-5-assignment-help/" class="position-link">CMI Level 5 assignment help &rarr;</a>
+        </div>
+        <div class="position-card">
+          <h3>Level 6 vs Level 7</h3>
+          <ul>
+            <li>Level 6: Professional Management; Level 7: Strategic Management — different scope and academic register</li>
+            <li>Critically Evaluate (L6) vs Critically Analyse (L7) — Level 7 requires academic debate engagement and original strategic synthesis</li>
+            <li>15–20 peer-reviewed sources at L7 vs 12–15 at L6</li>
+            <li>Level 7 is postgraduate Master's equivalent; Level 6 is final-year undergraduate</li>
+          </ul>
+          <a href="/cmi-level-7-assignment-help/" class="position-link">CMI Level 7 assignment help &rarr;</a>
+        </div>
+      </div>
+      <p class="position-note">
+        <strong>Who should study Level 6?</strong> Senior managers and department heads who are not yet at
+        director or C-suite level. Level 7 is appropriate for directors, C-suite executives, and NHS senior
+        leaders at Executive level. For a detailed side-by-side comparison, see the
+        <a href="/guides/cmi-level-5-vs-level-7/">CMI Level 5 vs Level 7 guide</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- How to Order -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="how-to-get-cmi-level-6-assignment-help">How to Get CMI Level 6 Assignment Help</h2>
+      <ol class="order-steps">
+        <li>Message us on WhatsApp with your unit number (e.g., Unit 602 or Unit 603), your assignment
+        brief, and your deadline.</li>
+        <li>Receive a fixed quote within 2 hours. No hidden fees.</li>
+        <li>A CMI Level 6 qualified senior manager writer produces your submission-ready advanced management
+        paper with 12–15 sources including peer-reviewed journals, at Critically Evaluate standard.</li>
+      </ol>
+      <div class="cta-wrap">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Order on WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-level-6-assignment-help-faq">CMI Level 6 Assignment Help — Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary class="faq-q">What is the word count for a CMI Level 6 assignment?</summary>
+          <div class="faq-a">
+            <p>CMI Level 6 assignment word counts are set by each unit's assessment brief, but the standard
+            range is 4,000–5,000 words per unit. This is substantially longer than Level 5 (3,000–4,000 words)
+            and reflects the greater analytical depth required by Critically Evaluate. The word count applies
+            to the main body of the advanced management paper — the executive summary, reference list, and
+            appendices are excluded. Always check your specific unit brief as your training provider may set
+            a different range within CMI guidelines.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">What is the difference between Evaluate (Level 5) and Critically Evaluate (Level 6)?</summary>
+          <div class="faq-a">
+            <p>Evaluate (Level 5) requires the student to apply named management frameworks, assess the
+            outcomes or impact, and reach a reasoned conclusion. Critically Evaluate (Level 6) requires
+            all of that plus: examining the assumptions and limitations of the frameworks in the specific
+            context; considering at least one alternative framework or counter-argument; and reaching a
+            justified conclusion that accounts for the alternatives. The word 'critically' signals that
+            the student must interrogate theories, not merely apply them. A Level 5 response that applies
+            Kotter and reaches a conclusion is Merit at Level 5 — but Pass or lower at Level 6, because
+            it does not critically examine the theoretical basis of the framework used.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Do CMI Level 6 assignments require peer-reviewed journals?</summary>
+          <div class="faq-a">
+            <p>Yes. Peer-reviewed academic journals are required at CMI Level 6 — they are not optional.
+            ManagementDirect remains an important source but is insufficient on its own at Level 6. The
+            source requirement is 12–15 Harvard-referenced sources, and this mix must include peer-reviewed
+            journal articles from management, leadership, or business research. Including journal sources
+            demonstrates that the student can engage with academic literature at the standard appropriate
+            to professional management, which is what distinguishes Level 6 from Level 5 in both source
+            standard and analytical depth.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Which CMI Level 6 units are most commonly selected for a Diploma?</summary>
+          <div class="faq-a">
+            <p>The most commonly selected Level 6 Diploma units are Unit 601 (Personal and Professional
+            Development as a Senior Leader), Unit 602 (Senior Leadership), Unit 603 (Leading Organisational
+            Change), and Unit 604 (Strategic Risk Management). These four are directly relevant to the daily
+            responsibilities of senior managers and department heads, and are commonly set as core units by
+            training providers on employer-funded Level 6 programmes. Unit 608 (Leading Innovation and Change)
+            is also frequently selected.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Should I study CMI Level 6 or Level 7?</summary>
+          <div class="faq-a">
+            <p>CMI Level 6 is the right choice for experienced senior managers, department heads, and NHS
+            Band 8+ leaders who are not yet at director or C-suite level. CMI Level 7 is appropriate for
+            directors, C-suite executives, and NHS senior leaders at Executive level. The academic standard
+            difference is significant: Level 6 is final-year undergraduate equivalent, while Level 7 is
+            postgraduate Master's equivalent. Some students progress directly from Level 5 to Level 7,
+            bypassing Level 6 — this is possible but requires a significant jump in analytical standard.
+            If you are unsure which is right for your role, WhatsApp us and we will advise.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- Supplementary -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="related-cmi-assignment-help">Related CMI Assignment Help</h2>
+      <div class="supp-grid">
+        <a href="/cmi-assignment-writing-service/" class="supp-card">
+          <h3>CMI Assignment Writing Service</h3>
+          <p>Full writing support for all CMI levels including Level 6 — advanced management paper format, Critically Evaluate standard, 12–15 peer-reviewed sources.</p>
+        </a>
+        <a href="/cmi-level-5-assignment-help/" class="supp-card">
+          <h3>CMI Level 5 Assignment Help</h3>
+          <p>If you are considering whether to study Level 5 or 6 — Level 5 guidance for middle managers and operational leaders at Evaluate standard.</p>
+        </a>
+        <a href="/cmi-level-7-assignment-help/" class="supp-card">
+          <h3>CMI Level 7 Assignment Help</h3>
+          <p>The next progression from Level 6 — Strategic Management and Leadership at postgraduate Master's equivalent depth for directors and C-suite leaders.</p>
+        </a>
+        <a href="/guides/cmi-command-verbs-explained/" class="supp-card">
+          <h3>CMI Command Verbs Explained</h3>
+          <p>Full guide to the command verb hierarchy across all CMI levels — Critically Evaluate at Level 6 depth explained with worked examples.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>Get CMI Level 6 Assignment Help Today</h2>
+      <p>WhatsApp us your unit number and deadline. Fixed quote in 2 hours. UK-based CMI Level 6 qualified senior manager writers delivering Critically Evaluate standard.</p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        WhatsApp Us Your Level 6 Brief
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    color: #fff; padding: 5rem 0 4rem; text-align: center;
+  }
+  .hero-inner { max-width: 800px; margin: 0 auto; }
+  .eyebrow { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem; }
+  .hero h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 800; color: #fff; margin-bottom: 1.25rem; line-height: 1.2; }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+  .hero-note { font-size: .82rem; color: #93c5fd; margin-top: .75rem; }
+  .narrow { max-width: 860px; }
+
+  .qual-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 1rem; margin-top: 1.5rem; }
+  .qual-block { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .qual-block h3 { font-size: .9rem; font-weight: 700; color: var(--navy); margin-bottom: .4rem; }
+  .qual-block p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .units-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
+  .unit-card { background: #fff; border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; position: relative; }
+  .unit-popular { border-top: 3px solid var(--blue); }
+  .popular-tag { position: absolute; top: -1px; right: 1rem; background: var(--blue); color: #fff; font-size: .68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; padding: .15rem .5rem; border-radius: 0 0 4px 4px; }
+  .unit-num { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--blue); margin-bottom: .25rem; }
+  .unit-title { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .unit-desc { font-size: .85rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .sub-h3 { font-size: 1.1rem; font-weight: 700; color: var(--navy); margin: 1.75rem 0 1rem; }
+  .diff-list { display: flex; flex-direction: column; gap: 1rem; margin-bottom: 1.5rem; }
+  .diff-item { display: grid; grid-template-columns: 140px 1fr; gap: 1rem; align-items: start; }
+  .diff-label { font-weight: 700; color: var(--blue); font-size: .88rem; padding-top: .1rem; }
+  .diff-item p { font-size: .9rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+  .section-list { font-size: .95rem; color: var(--text-muted); background: var(--bg-light); padding: .75rem 1rem; border-radius: 6px; margin-bottom: .75rem; }
+  .link-note { font-size: .875rem; color: var(--text-muted); }
+
+  .verb-def { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.5rem; margin: 1.25rem 0 1.5rem; }
+  .verb-def h3 { font-size: 1rem; font-weight: 700; color: var(--navy); margin-bottom: .75rem; }
+  .verb-def p { font-size: .9rem; color: var(--text-muted); margin-bottom: .5rem; }
+  .verb-steps { display: flex; flex-direction: column; gap: .5rem; padding-left: 1.25rem; margin: 0; }
+  .verb-steps li { font-size: .9rem; color: var(--text-muted); line-height: 1.55; }
+  .example-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0 1.25rem; }
+  .example-card { border-radius: 8px; padding: 1.25rem; font-size: .88rem; line-height: 1.6; color: var(--text-muted); }
+  .example-l5 { background: #f0f4ff; border: 1px solid #c7d2fe; }
+  .example-l6 { background: #f0fdf4; border: 1px solid #bbf7d0; }
+  .example-label { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--navy); margin-bottom: .5rem; }
+  .verb-note { font-size: .875rem; color: var(--text-muted); }
+
+  .grade-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 1.25rem; }
+  .grade-card { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .grade-card h3 { font-size: .85rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--text-muted); margin-bottom: .6rem; }
+  .grade-distinction { border-top: 3px solid var(--navy); }
+  .grade-distinction h3 { color: var(--navy); }
+  .grade-card p { font-size: .88rem; color: var(--text); line-height: 1.6; margin: 0; }
+
+  .position-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1.25rem 0; }
+  .position-card { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .position-card h3 { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .75rem; }
+  .position-card ul { padding-left: 1.25rem; margin: 0 0 1rem; display: flex; flex-direction: column; gap: .4rem; }
+  .position-card li { font-size: .875rem; color: var(--text-muted); line-height: 1.55; }
+  .position-link { font-size: .875rem; font-weight: 600; color: var(--blue); }
+  .position-note { font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+
+  .order-steps { list-style: none; padding: 0; counter-reset: steps; display: flex; flex-direction: column; gap: 1rem; margin-bottom: 2rem; }
+  .order-steps li { counter-increment: steps; display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem; font-size: .95rem; line-height: 1.65; }
+  .order-steps li::before { content: counter(steps); display: flex; align-items: center; justify-content: center; width: 2.5rem; height: 2.5rem; border-radius: 50%; background: var(--blue); color: #fff; font-weight: 700; font-size: 1rem; flex-shrink: 0; }
+  .cta-wrap { text-align: center; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q { display: block; padding: 1.1rem 1.25rem; font-weight: 600; font-size: .975rem; color: var(--navy); cursor: pointer; list-style: none; background: var(--bg-light); }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; }
+  .supp-card { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; text-decoration: none; display: block; transition: border-color .15s; }
+  .supp-card:hover { border-color: var(--blue); }
+  .supp-card h3 { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .4rem; }
+  .supp-card p { font-size: .85rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+
+  @media (max-width: 650px) {
+    .diff-item { grid-template-columns: 1fr; }
+    .example-grid { grid-template-columns: 1fr; }
+    .grade-grid { grid-template-columns: 1fr; }
+    .position-grid { grid-template-columns: 1fr; }
+  }
+</style>

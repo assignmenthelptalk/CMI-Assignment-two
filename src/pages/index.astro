@@ -1,0 +1,833 @@
+﻿---
+import Layout from '../layouts/Layout.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+
+
+const whatsappUrl = 'https://wa.me/447000000000';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the CMI assignment writing service include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A complete, submission-ready assignment written to the correct command verb depth for your unit and level. This includes the required CMI format (management report or structured essay), Harvard referencing to the minimum source count for your level (6+ at Level 3, 10–12 at Level 5, 15–20 at Level 7), and precise alignment to the Learning Outcomes and Assessment Criteria of your specific unit. All documents are written by UK-based CMI-qualified practitioners."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which CMI levels and units do you cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All five CMI qualification levels: Level 3 First Line Management (Units 301–312), Level 4 Management and Leadership (Units 401–411), Level 5 Management and Leadership Diploma (Units 501–525), Level 6 Professional Management and Leadership (Units 601–616), and Level 7 Strategic Management and Leadership (Units 701–717). That covers all 80+ CMI units across every Award, Certificate, and Diploma pathway."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I place an order for CMI assignment help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Message us on WhatsApp with your unit number, qualification level, assignment brief, and deadline. We respond with a fixed quote within 2 hours and assign a CMI-qualified writer matched to your level and unit subject."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between the writing service and CMI assignment tutoring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The writing service produces a complete, submission-ready document written by a CMI-qualified practitioner on your behalf. CMI assignment tutoring retains your authorship — the tutor guides you through structure, command verb application, Learning Outcome alignment, and argument construction so that you produce the document. Tutoring is also the primary route for resubmission coaching after a Referral grade."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my CMI assignment receives a Referral?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Referral means the assignment did not meet one or more Learning Outcomes at the required command verb depth. Our resubmission support identifies which Learning Outcomes were unmet, reads the assessor feedback, and either rewrites the relevant sections (writing service) or guides you through the restructure (tutoring). The most common resubmission causes are insufficient command verb depth — for example, describing where the brief demanded Evaluate — and under-referenced analysis sections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide CMI assignment help for NHS managers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. NHS managers are one of the primary student profiles for CMI Level 5 (Band 7 and above) and CMI Level 7 (Band 8+ and NHS Executive roles). Writers assigned to NHS manager assignments hold relevant NHS management experience and are familiar with NHS workforce context, NHS leadership frameworks, and the CMI units most commonly studied by NHS professionals."
+      }
+    }
+  ]
+};
+
+const levels = [
+  {
+    label: 'CMI Level 3',
+    title: 'First Line Management',
+    slug: '/cmi-level-3-assignment-help/',
+    units: 'Units 301–312',
+    format: 'Structured essay',
+    verbs: 'Identify, Describe, Explain',
+    profile: 'Team leaders and supervisors',
+    badge: null,
+  },
+  {
+    label: 'CMI Level 4',
+    title: 'Management and Leadership',
+    slug: '/cmi-level-4-assignment-help/',
+    units: 'Units 401–411',
+    format: 'Essay and management report',
+    verbs: 'Analyse, Evaluate',
+    profile: 'Junior and department managers',
+    badge: null,
+  },
+  {
+    label: 'CMI Level 5',
+    title: 'Management & Leadership Diploma',
+    slug: '/cmi-level-5-assignment-help/',
+    units: 'Units 501–525',
+    format: 'Management report',
+    verbs: 'Evaluate, Justify',
+    profile: 'Middle managers and NHS Band 7+',
+    badge: 'Most Popular',
+  },
+  {
+    label: 'CMI Level 6',
+    title: 'Professional Management and Leadership',
+    slug: '/cmi-level-6-assignment-help/',
+    units: 'Units 601–616',
+    format: 'Advanced management paper',
+    verbs: 'Critically Evaluate',
+    profile: 'Senior managers and directors',
+    badge: null,
+  },
+  {
+    label: 'CMI Level 7',
+    title: 'Strategic Management and Leadership',
+    slug: '/cmi-level-7-assignment-help/',
+    units: 'Units 701–717',
+    format: 'Strategic paper',
+    verbs: 'Critically Analyse, Justify',
+    profile: 'Directors and C-suite executives',
+    badge: 'Highest Level',
+  },
+];
+
+const services = [
+  {
+    icon: '✍️',
+    title: 'CMI Assignment Writing Service',
+    slug: '/cmi-assignment-writing-service/',
+    desc: 'Submission-ready assignment written to the correct command verb depth and CMI format — management report, essay, reflective account, or strategic paper — with full Harvard referencing.',
+  },
+  {
+    icon: '🎓',
+    title: 'CMI Assignment Tutoring',
+    slug: '/cmi-assignment-tutoring/',
+    desc: 'Expert guidance for students who write their own assignment. Covers structure planning, command verb application, Learning Outcome alignment, and resubmission coaching after a Referral.',
+  },
+  {
+    icon: '📋',
+    title: 'CMI Coursework Help',
+    slug: '/cmi-coursework-help/',
+    desc: 'Sustained support across multiple units throughout a full CMI Diploma. Consistent academic framing and command verb depth maintained across the entire qualification.',
+  },
+  {
+    icon: '🔄',
+    title: 'Resubmission Support',
+    slug: '/guides/cmi-resubmission-guide/',
+    desc: 'Referral recovery — identifying unmet Learning Outcomes from assessor feedback, restructuring the response, and meeting the required command verb depth for the resubmission.',
+  },
+];
+
+const steps = [
+  { n: '01', text: 'Message us on WhatsApp with your unit number, level, and deadline.' },
+  { n: '02', text: 'Receive a fixed quote within 2 hours — no hidden fees.' },
+  { n: '03', text: 'We match you with a CMI-qualified UK writer at your exact level.' },
+  { n: '04', text: 'Receive your submission-ready CMI assignment before your deadline.' },
+];
+---
+
+<Layout
+  title="CMI Assignment Help — All Levels 3 to 7 | UK-Based CMI Writers"
+  description="Expert CMI assignment help for working professionals studying Chartered Management Institute qualifications at Levels 3, 4, 5, 6, and 7. UK-based CMI-qualified writers. All 80+ units covered. WhatsApp order in minutes."
+  canonical={siteUrl + '/'}
+  pageSchema={faqSchema}
+>
+
+  <!-- ═══════════════════════════════════════════════
+       HERO — macro context, WhatsApp CTA above fold
+  ══════════════════════════════════════════════════ -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <p class="hero-eyebrow">UK-Based CMI Writers — All Levels 3 to 7</p>
+        <h1 class="hero-h1">CMI Assignment Help</h1>
+        <p class="hero-sub">
+          Expert CMI assignment writing, tutoring, and resubmission support for working
+          professionals across all 80+ CMI units. Every document written to the correct
+          command verb depth — Pass, Merit, or Distinction standard.
+        </p>
+        <div class="hero-ctas">
+          <a
+            href={whatsappUrl}
+            class="btn btn-whatsapp btn-lg"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Get a WhatsApp Quote
+          </a>
+          <a href="#levels" class="btn btn-outline btn-lg">Browse CMI Levels</a>
+        </div>
+        <p class="hero-note">Fixed quote in 2 hours &bull; All 5 CMI qualification levels &bull; UK-based writers</p>
+      </div>
+      <div class="hero-badge-wrap" aria-hidden="true">
+        <div class="hero-badge">
+          <span class="badge-num">80+</span>
+          <span class="badge-label">CMI Units<br>Covered</span>
+        </div>
+        <div class="hero-badge">
+          <span class="badge-num">L3–L7</span>
+          <span class="badge-label">All CMI<br>Levels</span>
+        </div>
+        <div class="hero-badge">
+          <span class="badge-num">UK</span>
+          <span class="badge-label">Based<br>Writers</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <img
+    class="page-header-img"
+    src="/images/headers/homepage.svg"
+    alt="CMI Assignment Help — UK-based CMI writers supporting all levels 3 to 7"
+    width="1200"
+    height="600"
+    loading="eager"
+    decoding="async"
+  />
+
+  <TableOfContents />
+
+  <!-- ═══════════════════════════════════════════════
+       LEVEL NAVIGATION — qualification framework
+  ══════════════════════════════════════════════════ -->
+  <section class="section" id="levels">
+    <div class="container">
+      <h2 class="section-title" id="cmi-assignment-help-by-level">CMI Assignment Help by Level</h2>
+      <p class="section-lead">
+        Select your CMI qualification level for level-specific assignment writing, tutoring, and unit-by-unit support.
+        Every level has distinct command verb requirements, format standards, and word count targets — our writers are
+        matched to your exact level.
+      </p>
+      <div class="level-grid">
+        {levels.map(lvl => (
+          <a href={lvl.slug} class="level-card" aria-label={`${lvl.label} Assignment Help — ${lvl.title}`}>
+            {lvl.badge && <span class="level-badge">{lvl.badge}</span>}
+            <p class="level-label">{lvl.label}</p>
+            <h3 class="level-title">{lvl.title}</h3>
+            <ul class="level-meta">
+              <li><span class="meta-key">Units:</span> {lvl.units}</li>
+              <li><span class="meta-key">Format:</span> {lvl.format}</li>
+              <li><span class="meta-key">Command verbs:</span> {lvl.verbs}</li>
+              <li><span class="meta-key">Student profile:</span> {lvl.profile}</li>
+            </ul>
+            <span class="level-link">View {lvl.label} assignment help →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════
+       SERVICES — service type disambiguation
+  ══════════════════════════════════════════════════ -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="cmi-assignment-support-services">CMI Assignment Support Services</h2>
+      <p class="section-lead">
+        Four distinct service types to match the support you need — whether you require a complete written assignment,
+        expert guidance on your own draft, or structured help across a full CMI Diploma.
+      </p>
+      <div class="services-grid">
+        {services.map(svc => (
+          <a href={svc.slug} class="service-card">
+            <span class="svc-icon" aria-hidden="true">{svc.icon}</span>
+            <h3 class="svc-title">{svc.title}</h3>
+            <p class="svc-desc">{svc.desc}</p>
+            <span class="svc-link">Learn more →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════
+       HOW IT WORKS — WhatsApp process
+  ══════════════════════════════════════════════════ -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="how-cmi-assignment-help-works">How CMI Assignment Help Works</h2>
+      <p class="section-lead">
+        The entire process runs through WhatsApp — from initial quote to final delivery. No registration, no portals.
+      </p>
+      <div class="steps-grid">
+        {steps.map(step => (
+          <div class="step-card">
+            <span class="step-num" aria-hidden="true">{step.n}</span>
+            <p class="step-text">{step.text}</p>
+          </div>
+        ))}
+      </div>
+      <div class="steps-cta">
+        <a
+          href={whatsappUrl}
+          class="btn btn-whatsapp btn-lg"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Start on WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════
+       WRITER CREDIBILITY — trust signals
+  ══════════════════════════════════════════════════ -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="uk-based-cmi-qualified-writers">UK-Based CMI-Qualified Writers</h2>
+      <p class="section-lead">
+        Every CMI assignment is written by a practitioner who holds the CMI qualification at the level they write —
+        not a generalist academic writer.
+      </p>
+      <div class="cred-grid">
+        <div class="cred-card">
+          <h3 class="cred-title">Qualification Match</h3>
+          <p>
+            Writers hold current CMI qualifications at the level they are assigned. A Level 7 strategic paper is
+            written by a CMI Level 7 holder — not by a Level 5 practitioner writing upward.
+          </p>
+        </div>
+        <div class="cred-card">
+          <h3 class="cred-title">Command Verb Expertise</h3>
+          <p>
+            Every response is calibrated to the exact command verb in your brief. Critically Analyse at Level 7
+            requires different argumentation depth, source weight, and structural positioning than Evaluate at Level 5.
+            Our writers know the difference and write to assessor expectations.
+          </p>
+        </div>
+        <div class="cred-card">
+          <h3 class="cred-title">UK Sector Experience</h3>
+          <p>
+            Writers are UK-based management practitioners — NHS leaders, public sector managers, commercial directors,
+            and professional services leaders. CMI qualification content is grounded in UK management context;
+            our writers reflect that.
+          </p>
+        </div>
+        <div class="cred-card">
+          <h3 class="cred-title">Harvard Referencing to CMI Standards</h3>
+          <p>
+            All assignments are referenced to CMI assessor standards: ManagementDirect as a primary source,
+            peer-reviewed journals at Levels 6 and 7, minimum source counts met at every level (6+ at L3,
+            10–12 at L5, 15–20 at L7).
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════
+       FAQ — contextual border (macro → supplementary)
+  ══════════════════════════════════════════════════ -->
+  <section class="section">
+    <div class="container faq-wrap">
+      <h2 class="section-title" id="cmi-assignment-help-faq">CMI Assignment Help — Frequently Asked Questions</h2>
+      <div class="faq-list">
+
+        <details class="faq-item">
+          <summary class="faq-q">What does the CMI assignment writing service include?</summary>
+          <div class="faq-a">
+            <p>
+              A complete, submission-ready assignment written to the correct command verb depth for your unit and level.
+              This includes the required CMI format (management report or structured essay), Harvard referencing to the
+              minimum source count for your level — 6+ at Level 3, 10–12 at Level 5, 15–20 at Level 7 — and precise
+              alignment to the Learning Outcomes and Assessment Criteria of your specific unit. All documents are written
+              by UK-based CMI-qualified practitioners.
+            </p>
+            <p><a href="/cmi-assignment-writing-service/">Full details: CMI Assignment Writing Service →</a></p>
+          </div>
+        </details>
+
+        <details class="faq-item">
+          <summary class="faq-q">Which CMI levels and units do you cover?</summary>
+          <div class="faq-a">
+            <p>
+              All five CMI qualification levels: <a href="/cmi-level-3-assignment-help/">Level 3 First Line Management</a>
+              (Units 301–312), <a href="/cmi-level-4-assignment-help/">Level 4 Management and Leadership</a> (Units 401–411),
+              <a href="/cmi-level-5-assignment-help/">Level 5 Management and Leadership Diploma</a> (Units 501–525),
+              <a href="/cmi-level-6-assignment-help/">Level 6 Professional Management and Leadership</a> (Units 601–616),
+              and <a href="/cmi-level-7-assignment-help/">Level 7 Strategic Management and Leadership</a> (Units 701–717).
+              That covers all 80+ CMI units across every Award, Certificate, and Diploma pathway.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-item">
+          <summary class="faq-q">How do I place an order for CMI assignment help?</summary>
+          <div class="faq-a">
+            <p>
+              Message us on WhatsApp with your unit number, qualification level, assignment brief, and deadline.
+              We respond with a fixed quote within 2 hours and assign a CMI-qualified writer matched to your level
+              and unit subject. See <a href="/cmi-assignment-help-online/">CMI assignment help online</a> for full
+              process details.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-item">
+          <summary class="faq-q">What is the difference between the writing service and CMI assignment tutoring?</summary>
+          <div class="faq-a">
+            <p>
+              The <a href="/cmi-assignment-writing-service/">writing service</a> produces a complete, submission-ready
+              document written by a CMI-qualified practitioner on your behalf. <a href="/cmi-assignment-tutoring/">CMI
+              assignment tutoring</a> retains your authorship — the tutor guides you through structure, command verb
+              application, Learning Outcome alignment, and argument construction so that you produce the document.
+              Tutoring is also the primary route for resubmission coaching after a Referral grade.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-item">
+          <summary class="faq-q">What happens if my CMI assignment receives a Referral?</summary>
+          <div class="faq-a">
+            <p>
+              A Referral means the assignment did not meet one or more Learning Outcomes at the required command verb
+              depth. Our resubmission support identifies which Learning Outcomes were unmet, reads the assessor
+              feedback, and either rewrites the relevant sections (writing service) or guides you through the
+              restructure (tutoring). The most common causes of CMI referrals are insufficient command verb depth —
+              for example, describing where the brief demanded Evaluate — and under-referenced analysis sections.
+            </p>
+            <p><a href="/guides/cmi-resubmission-guide/">Full guide: What to do after a CMI Referral →</a></p>
+          </div>
+        </details>
+
+        <details class="faq-item">
+          <summary class="faq-q">Do you provide CMI assignment help for NHS managers?</summary>
+          <div class="faq-a">
+            <p>
+              Yes. NHS managers are one of the primary student profiles for CMI Level 5 (Band 7 and above) and
+              CMI Level 7 (Band 8+ and NHS Executive roles). Writers assigned to NHS manager assignments hold
+              relevant NHS management experience and are familiar with NHS workforce context, NHS leadership
+              frameworks, and the CMI units most commonly studied by NHS professionals.
+            </p>
+            <p><a href="/guides/nhs-management-cmi-qualifications/">NHS Management and CMI Qualifications — full guide →</a></p>
+          </div>
+        </details>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════
+       SUPPLEMENTARY — micro context, outer node links
+  ══════════════════════════════════════════════════ -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="cmi-assignment-guides-and-resources">CMI Assignment Guides and Resources</h2>
+      <p class="section-lead">
+        Practical guides for CMI students — command verbs, assignment structure, Harvard referencing, and
+        qualification pathway comparisons.
+      </p>
+      <div class="guides-grid">
+        <a href="/guides/cmi-command-verbs-explained/" class="guide-card">
+          <h3>CMI Command Verbs Explained</h3>
+          <p>Every CMI command verb from Identify to Critically Analyse — what each requires, how they differ by level, and what Pass, Merit, and Distinction responses look like.</p>
+        </a>
+        <a href="/guides/cmi-assignment-structure/" class="guide-card">
+          <h3>CMI Assignment Structure Guide</h3>
+          <p>Section-by-section structure for every CMI format — management report, structured essay, and reflective account — with word count distribution guidance.</p>
+        </a>
+        <a href="/guides/cmi-level-5-vs-level-7/" class="guide-card">
+          <h3>CMI Level 5 vs Level 7</h3>
+          <p>Key differences in scope, format, command verb depth, and student profile — with guidance on which level to study and how assignment support differs.</p>
+        </a>
+        <a href="/guides/nhs-management-cmi-qualifications/" class="guide-card">
+          <h3>NHS Management and CMI Qualifications</h3>
+          <p>How CMI Level 5 and Level 7 fit into NHS leadership development — Band alignment, funded programmes, and the most common CMI units studied by NHS managers.</p>
+        </a>
+        <a href="/guides/cmi-resubmission-guide/" class="guide-card">
+          <h3>CMI Resubmission Guide</h3>
+          <p>What to do after a CMI Referral — reading assessor feedback, identifying unmet Learning Outcomes, and restructuring the response for resubmission.</p>
+        </a>
+        <a href="/guides/management-theory-cmi-assignments/" class="guide-card">
+          <h3>Management Theory for CMI Assignments</h3>
+          <p>Key frameworks used across CMI units — Tuckman, Kotter, Lewin, Gibbs, Kolb, Belbin, Bass and Avolio — mapped by level and unit, with guidance on applying them at Evaluate and Critically Analyse depth.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════
+       FINAL CTA
+  ══════════════════════════════════════════════════ -->
+  <section class="section cta-section">
+    <div class="container cta-inner">
+      <h2 class="cta-h2">Get Your CMI Assignment Help Today</h2>
+      <p class="cta-sub">
+        Message us on WhatsApp with your unit number and deadline. Fixed quote in 2 hours.
+        UK-based CMI-qualified writers across all levels and all 80+ CMI units.
+      </p>
+      <a
+        href={whatsappUrl}
+        class="btn btn-whatsapp btn-lg"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        WhatsApp Us for a Quote
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  /* ── Hero ── */
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    color: #fff;
+    padding: 5rem 0 4rem;
+  }
+  .hero-inner {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 3rem;
+    align-items: center;
+  }
+  .hero-eyebrow {
+    font-size: .85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    color: #93c5fd;
+    margin-bottom: .75rem;
+  }
+  .hero-h1 {
+    font-size: clamp(2rem, 5vw, 3.25rem);
+    font-weight: 800;
+    line-height: 1.15;
+    margin-bottom: 1.25rem;
+    color: #fff;
+  }
+  .hero-sub {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #bfdbfe;
+    max-width: 600px;
+    margin-bottom: 2rem;
+  }
+  .hero-ctas {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+  .btn-lg { padding: .85rem 2rem; font-size: 1.05rem; }
+  .btn-outline {
+    background: transparent;
+    color: #fff;
+    border: 2px solid rgba(255,255,255,.5);
+  }
+  .btn-outline:hover {
+    background: rgba(255,255,255,.1);
+    border-color: #fff;
+    color: #fff;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+  .hero-note {
+    font-size: .82rem;
+    color: #93c5fd;
+  }
+
+  /* badge cluster */
+  .hero-badge-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+    flex-shrink: 0;
+  }
+  .hero-badge {
+    background: rgba(255,255,255,.12);
+    border: 1px solid rgba(255,255,255,.2);
+    border-radius: 12px;
+    padding: 1rem 1.5rem;
+    text-align: center;
+    min-width: 110px;
+  }
+  .badge-num {
+    display: block;
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: #fff;
+    line-height: 1;
+  }
+  .badge-label {
+    display: block;
+    font-size: .75rem;
+    color: #93c5fd;
+    margin-top: .25rem;
+    line-height: 1.3;
+  }
+
+  /* ── Level cards ── */
+  .level-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 1.25rem;
+  }
+  .level-card {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: var(--shadow);
+    color: var(--text);
+    text-decoration: none;
+    transition: border-color .15s, box-shadow .15s, transform .1s;
+    position: relative;
+  }
+  .level-card:hover {
+    border-color: var(--blue);
+    box-shadow: 0 6px 20px rgba(30,77,140,.15);
+    transform: translateY(-2px);
+    text-decoration: none;
+    color: var(--text);
+  }
+  .level-badge {
+    position: absolute;
+    top: -1px;
+    right: 1rem;
+    background: var(--blue);
+    color: #fff;
+    font-size: .7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    padding: .2rem .6rem;
+    border-radius: 0 0 6px 6px;
+  }
+  .level-label {
+    font-size: .78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: var(--blue);
+    margin-bottom: .35rem;
+  }
+  .level-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--navy);
+    margin-bottom: 1rem;
+    line-height: 1.3;
+  }
+  .level-meta {
+    list-style: none;
+    font-size: .82rem;
+    color: var(--text-muted);
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;
+    flex: 1;
+    margin-bottom: 1rem;
+  }
+  .meta-key {
+    font-weight: 600;
+    color: var(--text);
+  }
+  .level-link {
+    font-size: .82rem;
+    font-weight: 600;
+    color: var(--blue-light);
+    margin-top: auto;
+  }
+
+  /* ── Services grid ── */
+  .services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.5rem;
+  }
+  .service-card {
+    display: flex;
+    flex-direction: column;
+    padding: 1.75rem;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+    text-decoration: none;
+    color: var(--text);
+    transition: border-color .15s, box-shadow .15s, transform .1s;
+  }
+  .service-card:hover {
+    border-color: var(--blue);
+    box-shadow: 0 6px 20px rgba(30,77,140,.15);
+    transform: translateY(-2px);
+    text-decoration: none;
+    color: var(--text);
+  }
+  .svc-icon { font-size: 2rem; margin-bottom: .75rem; }
+  .svc-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--navy);
+    margin-bottom: .65rem;
+  }
+  .svc-desc { font-size: .9rem; color: var(--text-muted); flex: 1; margin-bottom: 1rem; }
+  .svc-link { font-size: .85rem; font-weight: 600; color: var(--blue-light); }
+
+  /* ── Steps ── */
+  .steps-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+    counter-reset: steps;
+  }
+  .step-card {
+    background: var(--bg-light);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+  }
+  .step-num {
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--blue);
+    line-height: 1;
+  }
+  .step-text { font-size: .95rem; color: var(--text); line-height: 1.55; }
+  .steps-cta { text-align: center; }
+
+  /* ── Credibility ── */
+  .cred-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.5rem;
+  }
+  .cred-card {
+    padding: 1.5rem;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+  }
+  .cred-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--navy);
+    margin-bottom: .65rem;
+  }
+  .cred-card p { font-size: .9rem; color: var(--text-muted); line-height: 1.6; }
+
+  /* ── FAQ ── */
+  .faq-wrap { max-width: 820px; }
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; }
+  .faq-item {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .faq-q {
+    display: block;
+    padding: 1.1rem 1.25rem;
+    font-weight: 600;
+    font-size: .975rem;
+    color: var(--navy);
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+    background: var(--bg-light);
+    transition: background .15s;
+  }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after {
+    content: '+';
+    float: right;
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: var(--text-muted);
+  }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a {
+    padding: 1rem 1.25rem 1.25rem;
+    font-size: .9rem;
+    color: var(--text-muted);
+    line-height: 1.65;
+    display: flex;
+    flex-direction: column;
+    gap: .65rem;
+  }
+  .faq-a a { color: var(--blue-light); font-weight: 500; }
+
+  /* ── Guides ── */
+  .guides-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+  .guide-card {
+    display: block;
+    padding: 1.5rem;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    text-decoration: none;
+    color: var(--text);
+    transition: border-color .15s, box-shadow .15s, transform .1s;
+    box-shadow: var(--shadow);
+  }
+  .guide-card:hover {
+    border-color: var(--blue);
+    box-shadow: 0 6px 20px rgba(30,77,140,.15);
+    transform: translateY(-2px);
+    text-decoration: none;
+    color: var(--text);
+  }
+  .guide-card h3 {
+    font-size: .975rem;
+    font-weight: 700;
+    color: var(--navy);
+    margin-bottom: .5rem;
+  }
+  .guide-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; }
+
+  /* ── Final CTA ── */
+  .cta-section {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    padding: 4rem 0;
+  }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+
+  /* ── Responsive ── */
+  @media (max-width: 720px) {
+    .hero-inner { grid-template-columns: 1fr; }
+    .hero-badge-wrap {
+      flex-direction: row;
+      justify-content: center;
+    }
+  }
+</style>

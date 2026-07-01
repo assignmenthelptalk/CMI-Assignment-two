@@ -1,0 +1,647 @@
+﻿---
+import Layout from '../../layouts/Layout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447000000000';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you write CMI assignments for all 80+ units?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The CMI assignment writing service covers all 80+ units across every qualification level — Level 3 (Units 301–312), Level 4 (Units 401–411), Level 5 (Units 501–525), Level 6 (Units 601–616), and Level 7 (Units 701–717). Each assignment is written to the specific Learning Outcomes, Assessment Criteria, and command verb depth of the unit brief provided by the student. Writers are matched to the unit subject and qualification level."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to write a CMI assignment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Turnaround time depends on the word count, qualification level, and deadline provided at the time of ordering. Standard turnaround for a Level 5 management report (3,000–5,000 words) is typically 5–7 days. Urgent orders with shorter deadlines are accommodated where possible and may be subject to an urgent fee. The deadline and turnaround are confirmed in the fixed quote provided within 2 hours of your WhatsApp message."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to place an order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To receive a quote and begin your CMI assignment, message us on WhatsApp with: (1) your unit number and qualification level (e.g., Unit 502, CMI Level 5); (2) your full assignment brief including the specific questions or tasks; (3) your submission deadline; (4) your target grade (Pass, Merit, or Distinction); and (5) any organisational context you want the writer to use. Additional context — such as your sector, team size, or specific management challenge — improves the relevance and authenticity of the assignment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can the writer match my organisation's context in the assignment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. CMI assignments at Levels 4–7 require workplace application of management theory — the analysis must be grounded in a real or realistic organisational context. When you place your order, provide details of your organisation, sector, team size, your management role, and any specific challenges or projects relevant to the assignment brief. Writers use this context throughout the analysis sections, ensuring the assignment reflects genuine workplace application rather than generic theoretical discussion."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the CMI assignment writing service confidential?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All orders are handled with complete confidentiality. Your name, unit details, assignment brief, and organisational information are not shared beyond the writer assigned to your order. Orders are processed through WhatsApp and documents are delivered directly to you. No personal details are stored beyond what is required to complete and deliver your assignment."
+      }
+    }
+  ]
+};
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "CMI Assignment Writing Service",
+  "description": "Professional CMI assignment writing service for all qualification levels. Submission-ready management reports, essays, reflective accounts, and strategic papers written by UK-based CMI-qualified practitioners.",
+  "provider": {
+    "@type": "Organization",
+    "name": "CMI Assignment Help UK",
+    "url": siteUrl
+  },
+  "areaServed": "United Kingdom",
+  "serviceType": "Academic Writing Service"
+};
+
+const levels = [
+  { level: "CMI Level 3", units: "Units 301–312", words: "1,500–2,500", sources: "5–8 Harvard sources", verbs: "Identify, Describe, Explain", format: "Structured essay", slug: "/cmi-level-3-assignment-help/" },
+  { level: "CMI Level 4", units: "Units 401–411", words: "2,000–3,500", sources: "8–10 Harvard sources", verbs: "Analyse, Evaluate", format: "Essay and management report", slug: "/cmi-level-4-assignment-help/" },
+  { level: "CMI Level 5", units: "Units 501–525", words: "3,000–5,000", sources: "10–12 Harvard sources", verbs: "Evaluate, Justify", format: "Management report", slug: "/cmi-level-5-assignment-help/" },
+  { level: "CMI Level 6", units: "Units 601–616", words: "4,000–5,000", sources: "12–15 sources incl. peer-reviewed", verbs: "Critically Evaluate", format: "Advanced management paper", slug: "/cmi-level-6-assignment-help/" },
+  { level: "CMI Level 7", units: "Units 701–717", words: "5,000–6,500", sources: "15–20 peer-reviewed sources", verbs: "Critically Analyse, Justify", format: "Strategic paper", slug: "/cmi-level-7-assignment-help/" },
+];
+---
+
+<Layout
+  title="CMI Assignment Writing Service — All Levels and Formats | UK Writers"
+  description="Professional CMI assignment writing service for Levels 3 to 7. Management reports, essays, reflective accounts, and strategic papers written by UK-based CMI-qualified practitioners. Harvard referencing included. WhatsApp order in minutes."
+  canonical={siteUrl + '/cmi-assignment-writing-service/'}
+  pageSchema={[serviceSchema, faqSchema]}
+>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">UK-Based CMI-Qualified Writers</p>
+      <h1>CMI Assignment Writing Service — All Levels and Formats</h1>
+      <p class="hero-sub">
+        A complete, submission-ready CMI assignment written to the correct command verb depth for your unit and level.
+        Management reports, structured essays, reflective accounts, and strategic papers — all 80+ CMI units covered,
+        Levels 3 to 7. Harvard referencing included. UK-based CMI-qualified writers matched to your qualification level.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get a CMI Assignment Quote
+      </a>
+      <p class="hero-note">Fixed quote within 2 hours &bull; All 5 levels &bull; All 80+ units</p>
+    </div>
+  </section>
+
+  <img
+    class="page-header-img"
+    src="/images/headers/cmi-assignment-writing-service.svg"
+    alt="CMI Assignment Writing Service — professional writers producing submission-ready assignments"
+    width="1200"
+    height="600"
+    loading="eager"
+    decoding="async"
+  />
+
+  <TableOfContents />
+
+  <!-- What's Included -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="what-the-cmi-assignment-writing-service-includes">What the CMI Assignment Writing Service Includes</h2>
+      <p class="section-lead">
+        Every CMI assignment produced through this service meets the following standards — none are optional extras.
+      </p>
+      <ul class="includes-list">
+        <li>
+          <strong>Correct CMI format</strong> — management report, structured essay, reflective account, or strategic paper,
+          determined by your unit brief and qualification level. The format is not the student's choice — it is specified
+          by the assignment brief, and writers apply the correct structure for the unit.
+        </li>
+        <li>
+          <strong>All Learning Outcomes addressed</strong> — every Learning Outcome in your unit brief is covered
+          in the correct section of the assignment at the required command verb depth. No Learning Outcome is omitted
+          or addressed at a lower standard than the brief demands.
+        </li>
+        <li>
+          <strong>Command verb calibration</strong> — the response is written to your target grade standard.
+          Pass responses meet the command verb at the required evidential level. Merit responses apply named
+          management theories with workplace evidence. Distinction responses evaluate competing frameworks,
+          name limitations, and reach a justified conclusion.
+        </li>
+        <li>
+          <strong>Harvard referencing to CMI assessment standards</strong> — minimum source counts met for your
+          qualification level (5–8 at Level 3; 8–10 at Level 4; 10–12 at Level 5; 12–15 at Level 6; 15–20 at Level 7),
+          with in-text citations and a complete bibliography. ManagementDirect used as the primary source type
+          at all levels. Peer-reviewed journals included at Levels 6 and 7.
+        </li>
+        <li>
+          <strong>Executive summary</strong> (Level 5 and above, management report format) — 150–200 words
+          summarising the report's key findings and recommendations. Written last, placed first, reflects the
+          full analytical content of the report — not an introduction to the topic.
+        </li>
+        <li>
+          <strong>SMART recommendations</strong> (management report format) — minimum three SMART recommendations
+          explicitly derived from the analysis, each with a clear rationale linking back to the theoretical
+          evaluation conducted in the main body.
+        </li>
+        <li>
+          <strong>Workplace context integration</strong> — the analysis references the student's organisational
+          context, sector, role, and team situation where provided. CMI assessors expect workplace application
+          of theory; a purely academic response without workplace grounding will not achieve Merit or Distinction.
+        </li>
+        <li>
+          <strong>Appendices</strong> where applicable — supporting data, models, or framework diagrams referenced
+          in the main body but outside the word count.
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Format Coverage -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="cmi-assignment-format-coverage">CMI Assignment Format Coverage</h2>
+      <p class="section-lead">
+        CMI assignments are not all the same format. The correct format is determined by the unit brief and qualification level.
+        This service covers all four CMI assignment formats.
+      </p>
+      <div class="formats-grid">
+        <div class="format-card">
+          <h3>Management Report</h3>
+          <p class="format-level">Primary format: CMI Level 5 and Level 6</p>
+          <p>
+            The management report is the standard format for most Level 5 and Level 6 units. It consists of nine
+            sections: title page, executive summary (150–200 words, written last), table of contents, introduction,
+            main analysis sections applying named management theories at Evaluate or Critically Evaluate depth,
+            SMART recommendations (minimum three, derived from the analysis), conclusion (synthesis only — no
+            new content), reference list, and appendices.
+          </p>
+          <p>
+            The defining error in management report submissions is treating the executive summary as an introduction
+            to the topic. It is a summary of the report's findings and recommendations — written after the report
+            is complete, not before. See the <a href="/guides/cmi-assignment-structure/">CMI assignment structure guide</a>
+            for full section-by-section guidance.
+          </p>
+        </div>
+        <div class="format-card">
+          <h3>Structured Essay</h3>
+          <p class="format-level">Primary format: CMI Level 3 and Level 4</p>
+          <p>
+            The structured essay is the standard format for most Level 3 and Level 4 CMI units. Unlike a generic
+            academic essay, a CMI structured essay maps directly to the unit's Learning Outcomes — each body
+            paragraph addresses one Learning Outcome at the required command verb depth (Identify or Describe
+            at Level 3; Analyse or Evaluate at Level 4).
+          </p>
+          <p>
+            The essay must demonstrate workplace application of the theory covered. Purely theoretical discussion
+            without reference to a management context will not meet the CMI assessment standard. Word count:
+            1,500–2,500 words at Level 3; 2,000–3,500 words at Level 4.
+          </p>
+        </div>
+        <div class="format-card">
+          <h3>Reflective Account</h3>
+          <p class="format-level">Used across Levels 3, 4, and 5</p>
+          <p>
+            CMI reflective account assignments require the student to reflect on a management experience using
+            a structured reflective model — typically Gibbs' Reflective Cycle (six stages: description, feelings,
+            evaluation, analysis, conclusion, action plan) or Kolb's Experiential Learning Cycle (concrete
+            experience, reflective observation, abstract conceptualisation, active experimentation).
+          </p>
+          <p>
+            Reflective accounts are written in the first person and must demonstrate academic engagement with
+            the reflective model — not simply narrate events. The reflection must connect the experience to
+            named management theory and Learning Outcomes.
+          </p>
+        </div>
+        <div class="format-card">
+          <h3>Strategic Paper</h3>
+          <p class="format-level">Primary format: CMI Level 7</p>
+          <p>
+            The strategic paper is the Level 7 format. It is not a management report — it operates at
+            organisational and macro-environmental strategic scope rather than operational management scope.
+            The argument structure is academic at postgraduate depth: critical engagement with the academic
+            literature, primary source citations (Porter 1980, Christensen 1997 — not textbook summaries),
+            and strategic conclusions that synthesise multiple analytical threads.
+          </p>
+          <p>
+            Word count: 5,000–6,500 per unit. Source requirement: 15–20 peer-reviewed sources minimum.
+            Recommendations are strategic interventions at organisational or sectoral level, not SMART
+            operational tasks.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Writing Standard by Level -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="writing-standard-at-each-qualification-level">Writing Standard at Each Qualification Level</h2>
+      <p class="section-lead">
+        Command verb depth, word count, source requirements, and format differ at every CMI qualification level.
+        Writers are matched to your specific level — not assigned generically.
+      </p>
+      <div class="levels-table">
+        {levels.map(l => (
+          <div class="level-row">
+            <div class="level-name">
+              <a href={l.slug}>{l.level}</a>
+              <span class="level-units">{l.units}</span>
+            </div>
+            <div class="level-detail">
+              <span><strong>Format:</strong> {l.format}</span>
+              <span><strong>Words:</strong> {l.words}</span>
+              <span><strong>Sources:</strong> {l.sources}</span>
+              <span><strong>Command verbs:</strong> {l.verbs}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Command Verb Alignment -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="command-verb-alignment">Command Verb Alignment — Pass, Merit, and Distinction</h2>
+      <p class="section-lead">
+        CMI assignments are graded against Assessment Criteria tied directly to the command verb in the brief.
+        The same content can produce a Pass, Merit, or Distinction depending on how deeply the command verb is met.
+      </p>
+      <div class="grade-example">
+        <p class="example-label">Worked example — CMI Unit 502: <em>"Evaluate the impact of the work environment on team performance"</em></p>
+        <div class="grade-blocks">
+          <div class="grade-block">
+            <h3>Pass</h3>
+            <p>
+              Identifies factors in the work environment (physical conditions, psychological safety, managerial
+              behaviour, communication structures) and asserts that each has an impact on team performance.
+              Evidence is present but general. At least one named theory applied — for example, Maslow's Hierarchy
+              of Needs used to explain how unmet basic needs reduce performance motivation. The Learning Outcome
+              is met at surface Evaluate level.
+            </p>
+          </div>
+          <div class="grade-block grade-merit">
+            <h3>Merit</h3>
+            <p>
+              Applies Tuckman's stages of team development (Forming, Storming, Norming, Performing) to evaluate
+              how the work environment affects team cohesion at each stage. Herzberg's Two-Factor Theory used
+              to distinguish between hygiene factors (physical environment, policy) and motivators (recognition,
+              achievement) — the evaluation demonstrates that eliminating hygiene factors does not produce
+              positive performance; motivators must be actively created. Workplace context integrated throughout.
+              10+ sources, Harvard referencing correctly applied.
+            </p>
+          </div>
+          <div class="grade-block grade-distinction">
+            <h3>Distinction</h3>
+            <p>
+              Evaluates Tuckman and Herzberg as competing frameworks for explaining team performance in the
+              work environment. Identifies limitations: Tuckman's sequential model assumes linear team
+              development and does not account for disruption events (restructuring, remote work transitions);
+              Herzberg's model was developed in a manufacturing context and its applicability to knowledge
+              work environments is contested in the academic literature. A third framework — Edmondson's
+              (1999) psychological safety model — is introduced to address what Tuckman and Herzberg leave
+              unexplained. The evaluation reaches a justified conclusion on which framework best explains
+              performance variation in the student's specific organisational context.
+            </p>
+          </div>
+        </div>
+        <p class="example-note">
+          When ordering, state your target grade. Writers calibrate the depth of theoretical engagement,
+          source selection, and analytical conclusion accordingly. See the full
+          <a href="/guides/cmi-command-verbs-explained/">CMI command verbs explained guide</a> for every
+          verb across all five levels.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Harvard Referencing -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="harvard-referencing-to-cmi-assessment-standards">Harvard Referencing to CMI Assessment Standards</h2>
+      <p>
+        All CMI assignments are referenced in Harvard format with in-text citations and a complete bibliography.
+        CMI assessors have specific expectations about source types and minimum source counts that differ from
+        generic academic referencing — this service meets those expectations as standard.
+      </p>
+      <div class="ref-grid">
+        <div class="ref-block">
+          <h3>ManagementDirect</h3>
+          <p>CMI's own online research library is the expected primary source type at all qualification levels.
+          ManagementDirect provides access to management journals, research, and CMI publications. All
+          assignments cite ManagementDirect sources where relevant to the unit subject.</p>
+        </div>
+        <div class="ref-block">
+          <h3>Peer-Reviewed Journals</h3>
+          <p>Required from Level 6 upward. At Level 7, the majority of sources should be peer-reviewed
+          academic journals, cited from their primary publication (e.g., Harvard Business Review, Academy
+          of Management Journal, Journal of Applied Psychology) — not from textbook summaries.</p>
+        </div>
+        <div class="ref-block">
+          <h3>Minimum Source Counts</h3>
+          <p>Level 3: 5–8 sources &bull; Level 4: 8–10 sources &bull; Level 5: 10–12 sources &bull;
+          Level 6: 12–15 sources (including peer-reviewed) &bull; Level 7: 15–20 peer-reviewed sources.
+          All assignments meet the minimum count for the qualification level.</p>
+        </div>
+        <div class="ref-block">
+          <h3>In-Text and Bibliography</h3>
+          <p>Every source cited in-text is listed in the bibliography. Every bibliographic entry is
+          formatted correctly in Harvard style. See the
+          <a href="/guides/harvard-referencing-cmi/">Harvard referencing for CMI assignments guide</a>
+          for format detail.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How to Order -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="how-to-order-a-cmi-assignment">How to Order a CMI Assignment</h2>
+      <ol class="order-steps">
+        <li>
+          <strong>Message us on WhatsApp</strong> with your unit number and qualification level
+          (e.g., Unit 502, CMI Level 5), your full assignment brief, your submission deadline,
+          your target grade (Pass, Merit, or Distinction), and any organisational context
+          you want the writer to use.
+        </li>
+        <li>
+          <strong>Receive a fixed quote within 2 hours.</strong> The quote covers the full assignment
+          — no hidden fees for referencing, revisions, or format compliance.
+        </li>
+        <li>
+          <strong>A CMI-qualified writer at your level is assigned</strong> and produces your
+          submission-ready assignment before your deadline. Revision is included if the completed
+          assignment does not meet the requirements in your original brief.
+        </li>
+      </ol>
+      <div class="order-cta">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Order on WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-assignment-writing-service-faq">CMI Assignment Writing Service — Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary class="faq-q">Do you write CMI assignments for all 80+ units?</summary>
+          <div class="faq-a">
+            <p>Yes. The service covers all 80+ units across every qualification level — Level 3 (Units 301–312),
+            Level 4 (Units 401–411), Level 5 (Units 501–525), Level 6 (Units 601–616), and Level 7 (Units 701–717).
+            Each assignment is written to the specific Learning Outcomes, Assessment Criteria, and command verb depth
+            of the unit brief you provide. Writers are matched to the unit subject and qualification level — a
+            Level 7 strategic paper on Unit 702 Ethical Organisational Leadership is not assigned to the same
+            writer as a Level 3 structured essay on Unit 302.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">How long does it take to write a CMI assignment?</summary>
+          <div class="faq-a">
+            <p>Turnaround time depends on the word count, qualification level, and deadline provided at the time
+            of ordering. Standard turnaround for a Level 5 management report (3,000–5,000 words) is typically
+            5–7 days. Level 7 strategic papers (5,000–6,500 words) typically require 7–10 days at standard
+            turnaround. Urgent orders with shorter deadlines are accommodated where possible and may be subject
+            to an urgent fee. Your deadline and turnaround are confirmed in the fixed quote provided within
+            2 hours of your WhatsApp message.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">What information do I need to provide to place an order?</summary>
+          <div class="faq-a">
+            <p>Message us on WhatsApp with: your unit number and qualification level (e.g., Unit 502, CMI Level 5);
+            your full assignment brief including the specific tasks or questions; your submission deadline; your
+            target grade (Pass, Merit, or Distinction); and your organisational context — sector, team size,
+            your management role, and any specific challenge or project the brief asks you to analyse.
+            The more organisational context provided, the more authentic and credible the workplace application
+            sections of the assignment will be.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Can the writer match my organisation's context in the assignment?</summary>
+          <div class="faq-a">
+            <p>Yes. CMI assignments at Levels 4 to 7 require workplace application of management theory — the
+            analysis must be grounded in a real or realistic organisational context. Provide details of your
+            organisation, sector, team size, your role, and any specific challenges or projects relevant to the
+            brief. Writers integrate this context throughout the analysis sections, ensuring the assignment
+            demonstrates genuine workplace application rather than generic theoretical discussion, which is
+            what CMI assessors are specifically looking for at Merit and Distinction level.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Is the CMI assignment writing service confidential?</summary>
+          <div class="faq-a">
+            <p>All orders are handled with complete confidentiality. Your name, unit details, assignment brief,
+            and organisational information are not shared beyond the writer assigned to your order. Orders are
+            processed through WhatsApp and documents are delivered directly to you. No personal details are
+            stored beyond what is required to complete and deliver your assignment. The service operates on a
+            strictly private basis — your employer, training provider, and CMI will not be notified of your order.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- Supplementary -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="related-cmi-assignment-services">Related CMI Assignment Services</h2>
+      <div class="supp-grid">
+        <a href="/cmi-level-5-assignment-help/" class="supp-card">
+          <h3>CMI Level 5 Assignment Help</h3>
+          <p>The most widely studied CMI qualification. All 25 units of the Management and Leadership Diploma covered — management report format, Evaluate and Justify command verbs, 10–12 Harvard sources.</p>
+        </a>
+        <a href="/cmi-level-7-assignment-help/" class="supp-card">
+          <h3>CMI Level 7 Assignment Help</h3>
+          <p>Strategic Management and Leadership Diploma — all 17 units. Strategic paper format, Critically Analyse at postgraduate depth, 15–20 peer-reviewed sources. Director-level writers.</p>
+        </a>
+        <a href="/cmi-assignment-tutoring/" class="supp-card">
+          <h3>CMI Assignment Tutoring</h3>
+          <p>For students who want to write their own assignment with expert guidance. Covers structure planning, command verb application, Learning Outcome alignment, and resubmission coaching after a Referral.</p>
+        </a>
+        <a href="/guides/cmi-command-verbs-explained/" class="supp-card">
+          <h3>CMI Command Verbs Explained</h3>
+          <p>Every CMI command verb from Identify to Critically Analyse — what each requires at each level, how assessors differentiate Pass from Merit from Distinction, and how to apply them correctly.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>Order Your CMI Assignment Today</h2>
+      <p>Message us on WhatsApp with your unit number, level, and deadline. Fixed quote in 2 hours. UK-based CMI-qualified writers across all levels and all 80+ units.</p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        WhatsApp Us Your Brief
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    color: #fff;
+    padding: 5rem 0 4rem;
+    text-align: center;
+  }
+  .hero-inner { max-width: 780px; margin: 0 auto; }
+  .eyebrow {
+    font-size: .8rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem;
+  }
+  .hero h1 {
+    font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 800;
+    color: #fff; margin-bottom: 1.25rem; line-height: 1.2;
+  }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+  .hero-note { font-size: .82rem; color: #93c5fd; margin-top: .75rem; }
+
+  .narrow { max-width: 860px; }
+
+  .includes-list {
+    display: flex; flex-direction: column; gap: 1rem;
+    list-style: none; padding: 0;
+  }
+  .includes-list li {
+    padding: 1.25rem 1.5rem;
+    background: var(--bg-light);
+    border-left: 4px solid var(--blue);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-size: .95rem; line-height: 1.65;
+  }
+
+  .formats-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;
+  }
+  .format-card {
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 10px; padding: 1.5rem; box-shadow: var(--shadow);
+  }
+  .format-card h3 { font-size: 1.05rem; font-weight: 700; color: var(--navy); margin-bottom: .25rem; }
+  .format-level {
+    font-size: .78rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: .05em; color: var(--blue); margin-bottom: .75rem;
+  }
+  .format-card p { font-size: .9rem; color: var(--text-muted); line-height: 1.6; margin-bottom: .6rem; }
+
+  .levels-table { display: flex; flex-direction: column; gap: .75rem; }
+  .level-row {
+    display: grid; grid-template-columns: 220px 1fr;
+    border: 1px solid var(--border); border-radius: 8px; overflow: hidden;
+  }
+  .level-name {
+    background: var(--navy); padding: 1.25rem;
+    display: flex; flex-direction: column; gap: .35rem;
+  }
+  .level-name a {
+    color: #fff; font-weight: 700; font-size: 1rem; text-decoration: none;
+  }
+  .level-name a:hover { text-decoration: underline; }
+  .level-units { color: #93c5fd; font-size: .8rem; }
+  .level-detail {
+    padding: 1.25rem; background: var(--bg-light);
+    display: flex; flex-wrap: wrap; gap: .75rem 2rem; align-items: center;
+  }
+  .level-detail span { font-size: .88rem; color: var(--text); }
+
+  .grade-example {
+    background: var(--bg-light); border: 1px solid var(--border);
+    border-radius: 10px; padding: 2rem;
+  }
+  .example-label {
+    font-size: .9rem; font-weight: 600; color: var(--text-muted);
+    margin-bottom: 1.5rem; font-style: normal;
+  }
+  .grade-blocks { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; margin-bottom: 1.25rem; }
+  .grade-block {
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 8px; padding: 1.25rem;
+  }
+  .grade-block h3 {
+    font-size: .85rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .06em; color: var(--text-muted); margin-bottom: .6rem;
+  }
+  .grade-merit { border-top: 3px solid var(--blue); }
+  .grade-merit h3 { color: var(--blue); }
+  .grade-distinction { border-top: 3px solid var(--navy); }
+  .grade-distinction h3 { color: var(--navy); }
+  .grade-block p { font-size: .88rem; color: var(--text); line-height: 1.6; }
+  .example-note { font-size: .875rem; color: var(--text-muted); }
+
+  .ref-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1.25rem; margin-top: 1.5rem; }
+  .ref-block {
+    background: var(--bg-light); border: 1px solid var(--border);
+    border-radius: 8px; padding: 1.25rem;
+  }
+  .ref-block h3 { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .ref-block p { font-size: .875rem; color: var(--text-muted); line-height: 1.6; }
+
+  .order-steps {
+    display: flex; flex-direction: column; gap: 1rem;
+    padding-left: 0; list-style: none; counter-reset: steps; margin-bottom: 2rem;
+  }
+  .order-steps li {
+    counter-increment: steps;
+    display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem;
+    font-size: .95rem; line-height: 1.65;
+  }
+  .order-steps li::before {
+    content: counter(steps);
+    display: flex; align-items: center; justify-content: center;
+    width: 2.5rem; height: 2.5rem; border-radius: 50%;
+    background: var(--blue); color: #fff;
+    font-weight: 700; font-size: 1rem; flex-shrink: 0;
+  }
+  .order-cta { text-align: center; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; margin-top: 1.5rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q {
+    display: block; padding: 1.1rem 1.25rem;
+    font-weight: 600; font-size: .975rem; color: var(--navy);
+    cursor: pointer; list-style: none; background: var(--bg-light);
+  }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+  .supp-card {
+    display: block; padding: 1.5rem; background: #fff;
+    border: 1px solid var(--border); border-radius: 10px;
+    text-decoration: none; color: var(--text);
+    box-shadow: var(--shadow); transition: border-color .15s, transform .1s;
+  }
+  .supp-card:hover { border-color: var(--blue); transform: translateY(-2px); text-decoration: none; color: var(--text); }
+  .supp-card h3 { font-size: .975rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .supp-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+
+  @media (max-width: 700px) {
+    .level-row { grid-template-columns: 1fr; }
+    .level-name { padding: .75rem 1rem; }
+  }
+</style>

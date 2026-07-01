@@ -1,0 +1,764 @@
+﻿---
+import Layout from '../../layouts/Layout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447000000000';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the word count for a CMI Level 7 strategic paper?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CMI Level 7 strategic paper word counts are set by each unit's assessment brief, but the standard range is 5,000–6,500 words per unit. This reflects the postgraduate academic standard required — not simply more words but greater analytical depth, academic literature engagement, and strategic scope. The word count applies to the body of the strategic paper — the executive summary (200–250 words), reference list, and appendices are excluded. Some Level 7 units specify a shorter range (3,500–4,500 words) for focused reflective units such as Unit 701. Always check your specific unit brief as training providers may set variations within the CMI guidelines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between CMI Level 7 and a Master's degree?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The CMI Level 7 Diploma in Strategic Management and Leadership is a work-based professional qualification at RQF Level 7 — the same level as a UK Master's degree. Both are postgraduate-standard qualifications. The key difference is in structure and purpose: a Master's degree is a taught academic programme with modules, lectures, and research dissertation, assessed over 12–24 months full-time. The CMI Level 7 Diploma is work-based, assessed entirely by assignment, and can be completed flexibly alongside a full-time senior leadership role. The Diploma leads to FCMI (Fellow) CMI membership. Some students complete both — using the CMI Level 7 to develop strategic management competency in parallel with or instead of a traditional MBA or MSc."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between Critically Analyse (Level 7) and Critically Evaluate (Level 6)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Critically Evaluate (Level 6) requires the student to apply theoretical frameworks, examine their assumptions and limitations in context, consider alternative frameworks, and reach a justified conclusion. Critically Analyse (Level 7) operates at a different scope entirely: the student must analyse the components and interdependencies of the subject at strategic depth, engage with the academic debate in the field (not just apply established theories but understand where the field itself is contested), and reach strategic conclusions at organisational or sector level. The key distinction is that Critically Evaluate interrogates individual frameworks; Critically Analyse interrogates the theoretical and strategic landscape as a whole. A Level 7 Distinction response would be unrecognisable as a Level 6 response — it operates at a different academic register."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many peer-reviewed sources are needed for a CMI Level 7 assignment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CMI Level 7 strategic papers require a minimum of 15–20 peer-reviewed sources. ManagementDirect, which is the primary source at Level 5, is insufficient at Level 7. Level 7 assignments require primary academic sources — journal articles from management, strategic management, leadership, or organisational behaviour journals. Theoretical frameworks must be cited from their primary academic sources: Porter (1980), Christensen (1997), Barney (1991) — not from textbook summaries of those theories. Government reports, think-tank publications, and sector-specific strategic documents are also appropriate at Level 7. A bibliography that is predominantly ManagementDirect with a few journals will not meet the Distinction standard."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which CMI Level 7 units are most commonly selected for the Diploma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most commonly selected CMI Level 7 Diploma units are Unit 701 (Personal and Professional Development as a Strategic Leader), Unit 702 (Ethical Organisational Leadership), Unit 704 (Strategic Risk and Resilience), Unit 705 (Strategic Management of Resources), and Unit 708 (Innovation and Change Management at a Strategic Level). These five are consistently high-demand across employer-funded Level 7 programmes. Unit 701 is almost always included as it addresses personal leadership development at strategic level. Unit 702 has increased significantly in demand due to ESG and governance requirements at director level. Unit 715 (Strategic Leadership in the Public Sector) is the most selected unit among NHS and public sector Level 7 students."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide CMI 702 assignment help specifically?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. CMI Unit 702 (Ethical Organisational Leadership) assignment help is one of our most requested Level 7 services. Unit 702 requires Critically Analyse and Justify at strategic depth, engaging with the academic literature on ethical leadership (Bass and Avolio, Brown and Treviño, Ciulla), corporate governance frameworks, and moral decision-making theory. Writers assigned to Unit 702 have expertise in ethical leadership research and experience producing strategic papers at postgraduate academic standard. Message us on WhatsApp with your Unit 702 brief and deadline to receive a quote within 2 hours."
+      }
+    }
+  ]
+};
+
+const priorityUnits = [
+  {
+    num: "701",
+    title: "Personal and Professional Development as a Strategic Leader",
+    focus: "Strategic self-awareness, leadership identity, and CPD planning at director level. Typically the most personal unit in the Diploma — uses reflective academic format alongside critical analysis.",
+    verbs: "Critically Analyse, Evaluate",
+    frameworks: "Kolb Experiential Learning Cycle, Gibbs Reflective Cycle at strategic depth, Goleman Emotional Intelligence, leadership identity development frameworks"
+  },
+  {
+    num: "702",
+    title: "Ethical Organisational Leadership",
+    focus: "Ethical leadership theory, corporate governance, stakeholder ethics, and moral decision-making frameworks at strategic level. ESG and governance accountability for directors.",
+    verbs: "Critically Analyse, Justify",
+    frameworks: "Bass and Avolio Transformational Leadership, Brown and Treviño Ethical Leadership (2006), Ciulla Ethics and Leadership (2004), Carroll CSR Pyramid"
+  },
+  {
+    num: "704",
+    title: "Strategic Risk and Resilience",
+    focus: "Enterprise risk management at board level, resilience frameworks, strategic risk culture, and governance. Critical for directors in regulated or complex operating environments.",
+    verbs: "Critically Analyse, Develop a Strategy",
+    frameworks: "ISO 31000 Risk Management, COSO ERM Framework, Black Swan theory (Taleb), Organisational Resilience (McManus)"
+  },
+  {
+    num: "705",
+    title: "Strategic Management of Resources",
+    focus: "Strategic HRM, resource allocation at organisational level, capability development, and talent pipeline management from a director-level perspective.",
+    verbs: "Critically Analyse, Justify",
+    frameworks: "Resource-Based View (Barney, 1991), Dynamic Capabilities (Teece, Pisano and Shuen, 1997), Strategic HRM (Ulrich HR Business Partner model)"
+  },
+  {
+    num: "708",
+    title: "Innovation and Change Management at a Strategic Level",
+    focus: "Disruptive and incremental innovation, strategic change management, innovation culture, and the ambidextrous organisation. Highest-demand Level 7 innovation unit.",
+    verbs: "Critically Analyse, Develop and Implement a Strategy",
+    frameworks: "Christensen Disruptive Innovation (1997), Tidd and Bessant Managing Innovation (2018), Kotter 8-Step (evaluated critically at strategic scope), Tushman and O'Reilly Ambidextrous Organisation (1996)"
+  }
+];
+
+const allUnits = [
+  { num: "701", title: "Personal and Professional Development as a Strategic Leader", priority: true },
+  { num: "702", title: "Ethical Organisational Leadership", priority: true },
+  { num: "703", title: "Strategic Leadership and the Management of Change" },
+  { num: "704", title: "Strategic Risk and Resilience", priority: true },
+  { num: "705", title: "Strategic Management of Resources", priority: true },
+  { num: "706", title: "Strategic Finance" },
+  { num: "707", title: "Strategic Marketing" },
+  { num: "708", title: "Innovation and Change Management at a Strategic Level", priority: true },
+  { num: "709", title: "Leading Quality and Developing a Quality Culture" },
+  { num: "710", title: "Coaching and Mentoring at a Strategic Level" },
+  { num: "711", title: "Strategic Negotiations" },
+  { num: "712", title: "Strategic Communications" },
+  { num: "713", title: "Knowledge Management for Strategic Leaders" },
+  { num: "714", title: "Corporate Ethics and Social Responsibility" },
+  { num: "715", title: "Strategic Leadership in the Public Sector" },
+  { num: "716", title: "Strategic Governance" },
+  { num: "717", title: "Advancing Professional Development at a Strategic Level" },
+];
+---
+
+<Layout
+  title="CMI Level 7 Assignment Help — Strategic Management and Leadership | All 17 Units"
+  description="Expert CMI Level 7 Strategic Management and Leadership assignment help. All 17 units (701–717) including CMI 701, 702, and 704. Strategic paper format, Critically Analyse at Master's depth, 15–20 peer-reviewed sources. Director-level UK writers."
+  canonical={siteUrl + '/cmi-level-7-assignment-help/'}
+  pageSchema={faqSchema}
+>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">CMI Level 7 — Strategic Management and Leadership</p>
+      <h1>CMI Level 7 Assignment Help — Strategic Management and Leadership</h1>
+      <p class="hero-sub">
+        Expert assignment help for all 17 CMI Level 7 Strategic Management and Leadership units (701–717).
+        Critically Analyse at Master's-equivalent depth. Strategic paper format. 15–20 peer-reviewed sources.
+        Director-level and NHS Band 8+ qualified writers. WhatsApp order in minutes.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get CMI Level 7 Assignment Help
+      </a>
+      <p class="hero-note">
+        Fixed quote within 2 hours &bull; All 17 units (701–717) &bull; Postgraduate academic standard
+      </p>
+    </div>
+  </section>
+
+  <img
+    class="page-header-img"
+    src="/images/headers/cmi-level-7-assignment-help.svg"
+    alt="CMI Level 7 Strategic Management and Leadership assignment help"
+    width="1200"
+    height="600"
+    loading="eager"
+    decoding="async"
+  />
+
+  <TableOfContents />
+
+  <!-- What Is CMI Level 7 -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="what-is-the-cmi-level-7-diploma">What Is the CMI Level 7 Strategic Management and Leadership Diploma?</h2>
+      <p>
+        The CMI Level 7 Diploma in Strategic Management and Leadership is the Chartered Management
+        Institute's qualification for directors, C-suite executives, and senior organisational leaders.
+        It is available as an <strong>Award</strong>, <strong>Certificate</strong>, or <strong>Diploma</strong>
+        — the Diploma is assessed at <strong>postgraduate Master's-equivalent standard</strong>, carrying
+        the same RQF Level 7 as a UK Master's degree.
+      </p>
+      <p>
+        The student profile for CMI Level 7 includes directors and senior leaders across all sectors:
+        commercial directors, C-suite executives, <strong>NHS Band 8+ managers</strong> and Executive
+        roles (CEO, CFO, Medical Director, Nursing Director), senior public sector leaders, military
+        officers in command roles, and professional services partners. The Level 7 qualification is
+        frequently funded by organisations as part of senior leadership succession planning and board
+        readiness programmes.
+      </p>
+      <p>
+        The Level 7 Diploma covers 17 units (701–717) and leads to <strong>FCMI (Fellow)</strong> CMI
+        membership on completion — the highest grade of CMI membership, above both Associate (ACMI,
+        awarded at Level 5) and Member (MCMI, awarded at Level 6). For a detailed academic and career
+        comparison, see the <a href="/guides/cmi-level-5-vs-level-7/">CMI Level 5 vs Level 7 guide</a>.
+      </p>
+      <div class="qual-grid">
+        <div class="qual-block">
+          <h3>Academic Standard</h3>
+          <p>RQF Level 7 — postgraduate Master's equivalent. The same academic framework level as a UK MSc or MBA. Assessment is entirely by strategic paper assignment — no taught modules or exams.</p>
+        </div>
+        <div class="qual-block">
+          <h3>Student Profile</h3>
+          <p>Directors, C-suite executives, NHS Band 8+ and Executive roles, senior public sector leaders, military command officers, professional services partners.</p>
+        </div>
+        <div class="qual-block">
+          <h3>CMI Membership</h3>
+          <p>FCMI (Fellow of CMI) on Diploma completion — the highest CMI membership grade, signalling senior strategic leadership credentialing.</p>
+        </div>
+        <div class="qual-block">
+          <h3>Units Available</h3>
+          <p>17 units in total (701–717). The Diploma typically requires 6 units. Units 701, 702, 704, 705, and 708 are consistently the most selected across employer programmes.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- All 17 Units -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="all-17-cmi-level-7-units">All 17 CMI Level 7 Units — Assignment Help by Unit</h2>
+      <p class="section-lead">
+        Assignment help is available for every CMI Level 7 unit. Message us on WhatsApp with your unit
+        number and brief to receive a quote within 2 hours.
+      </p>
+      <div class="units-grid">
+        {allUnits.map(u => (
+          <div class={`unit-card ${u.priority ? 'unit-priority' : ''}`}>
+            {u.priority && <span class="priority-tag">High Demand</span>}
+            <p class="unit-num">Unit {u.num}</p>
+            <p class="unit-title">{u.title}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Format -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-level-7-assignment-format">CMI Level 7 Assignment Format — The Strategic Paper</h2>
+      <p>
+        CMI Level 7 assignments are submitted as <strong>strategic papers</strong> — not management
+        reports. The management report is the Level 5 format. The strategic paper is a fundamentally
+        different document: it operates at organisational and macro-environmental scope, engages with
+        primary academic literature at postgraduate depth, and produces strategic conclusions rather
+        than operational recommendations.
+      </p>
+      <h3 class="sub-h3">How the Strategic Paper Differs from the Level 5 Management Report</h3>
+      <div class="diff-table">
+        <div class="diff-row diff-header">
+          <span>Dimension</span>
+          <span>Level 5 Management Report</span>
+          <span>Level 7 Strategic Paper</span>
+        </div>
+        <div class="diff-row">
+          <span>Analytical scope</span>
+          <span>Operational — team, department, function</span>
+          <span>Strategic — organisation, sector, macro-environment</span>
+        </div>
+        <div class="diff-row">
+          <span>Command verb</span>
+          <span>Evaluate, Justify</span>
+          <span>Critically Analyse, Justify at strategic depth</span>
+        </div>
+        <div class="diff-row">
+          <span>Source standard</span>
+          <span>10–12 sources, ManagementDirect-led</span>
+          <span>15–20 peer-reviewed primary academic sources</span>
+        </div>
+        <div class="diff-row">
+          <span>Word count</span>
+          <span>3,000–4,000 words</span>
+          <span>5,000–6,500 words</span>
+        </div>
+        <div class="diff-row">
+          <span>Theory citation</span>
+          <span>Named frameworks applied to context</span>
+          <span>Primary sources: Porter (1980) not a textbook summary</span>
+        </div>
+        <div class="diff-row">
+          <span>Recommendations</span>
+          <span>SMART operational actions</span>
+          <span>Strategic interventions with implementation frameworks</span>
+        </div>
+        <div class="diff-row">
+          <span>Executive summary</span>
+          <span>100–150 words, overviews content</span>
+          <span>200–250 words, reflects strategic conclusions</span>
+        </div>
+      </div>
+      <h3 class="sub-h3">Strategic Paper Structure</h3>
+      <p class="section-list">
+        Executive Summary (200–250 words) &rarr; Introduction &rarr; Strategic Context Analysis &rarr;
+        Critical Analytical Sections &rarr; Strategic Recommendations &rarr; Conclusion &rarr;
+        Reference List (15–20 sources) &rarr; Appendices
+      </p>
+      <p class="link-note">
+        See the <a href="/guides/cmi-assignment-structure/">CMI assignment structure guide</a> for
+        section-by-section detail across all CMI formats.
+      </p>
+    </div>
+  </section>
+
+  <!-- Command Verbs -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="command-verbs-at-cmi-level-7">Command Verbs at CMI Level 7 — Critically Analyse</h2>
+      <p>
+        <strong>Critically Analyse</strong> is the primary command verb at CMI Level 7. It is fundamentally
+        distinct from Level 6 Critically Evaluate — not merely harder but operating at a different analytical
+        register entirely.
+      </p>
+      <div class="verb-compare">
+        <div class="verb-block verb-l6">
+          <p class="verb-label">Critically Evaluate — Level 6</p>
+          <p>Apply theoretical frameworks. Examine their assumptions and limitations in the specific context.
+          Consider alternative frameworks. Reach a justified conclusion that accounts for the alternatives.
+          The interrogation is directed at <em>frameworks</em> and their contextual applicability.</p>
+        </div>
+        <div class="verb-block verb-l7">
+          <p class="verb-label">Critically Analyse — Level 7</p>
+          <p>Analyse the components and interdependencies of the subject at strategic depth. Engage with the
+          academic debate in the field — not just apply theories, but understand where the academic field
+          itself is contested. Cite primary sources at their point of origin. Reach a strategic conclusion
+          at organisational or sector level. The interrogation is directed at the <em>theoretical and strategic
+          landscape as a whole</em> — the analytical ambition is larger.</p>
+        </div>
+      </div>
+      <h3 class="sub-h3">Worked Example — Unit 708: Innovation and Change Management at a Strategic Level</h3>
+      <div class="example-grid">
+        <div class="example-card example-l6">
+          <p class="example-label">Level 6 Critically Evaluate Response</p>
+          <p>Evaluates a change management framework (Kotter's 8-Step Model) in the student's organisational
+          context. Identifies the model's limitations in complex change environments. Introduces Lewin's Force
+          Field Analysis as an alternative. Reaches a justified conclusion on which framework better explains
+          the change outcome. Cites 13 sources including peer-reviewed journals.</p>
+        </div>
+        <div class="example-card example-l7">
+          <p class="example-label">Level 7 Critically Analyse Response</p>
+          <p>Analyses the theoretical basis of innovation and change management as a strategic discipline.
+          Engages with the academic literature on discontinuous versus incremental innovation (Christensen,
+          1997; Tidd and Bessant, 2018). Critically examines the assumptions embedded in managerial change
+          frameworks — that change is linear, manageable, and sequentially staged — against the evidence base
+          for strategic discontinuity and disruptive innovation. Examines the ambidextrous organisation
+          (Tushman and O'Reilly, 1996) as a strategic response to the exploration/exploitation tension.
+          Derives strategic conclusions on how innovation capability is built at organisational level, with
+          original synthesis across the analytical threads. Cites 18 peer-reviewed primary sources.</p>
+        </div>
+      </div>
+      <h3 class="sub-h3">Other Level 7 Command Verbs</h3>
+      <div class="verb-mini-list">
+        <div class="verb-mini">
+          <strong>Justify at Strategic Depth</strong>
+          <p>Defend a strategic recommendation against counter-arguments drawn from the academic literature
+          and strategic management theory. The justification must engage with the strongest opposing position,
+          not simply assert the chosen recommendation.</p>
+        </div>
+        <div class="verb-mini">
+          <strong>Develop and Implement a Strategy</strong>
+          <p>Construct a multi-phase strategic plan with implementation framework. At Level 7, the strategy
+          must be grounded in strategic management theory (PESTLE, Porter's Five Forces, Resource-Based View)
+          and justified by the critical analysis conducted — not a generic action plan.</p>
+        </div>
+      </div>
+      <p class="verb-note">
+        For the full command verb hierarchy across all five CMI levels, see
+        <a href="/guides/cmi-command-verbs-explained/">CMI command verbs explained</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- Distinction -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="what-a-distinction-looks-like-at-cmi-level-7">What a Distinction Looks Like at CMI Level 7</h2>
+      <p>Using Unit 702 — Ethical Organisational Leadership — as a worked example:</p>
+      <div class="grade-grid">
+        <div class="grade-card">
+          <h3>Merit</h3>
+          <p>Critically Analyses using named ethical leadership theories — Bass and Avolio's transformational
+          leadership, Brown and Treviño's ethical leadership framework. Identifies tensions between
+          transformational leadership and ethical compliance frameworks. Reaches a justified strategic
+          conclusion. Cites 15+ peer-reviewed sources. The analysis demonstrates engagement with the
+          academic literature but operates primarily within well-established frameworks.</p>
+        </div>
+        <div class="grade-card grade-distinction">
+          <h3>Distinction</h3>
+          <p>Critically Analyses by engaging with the academic debate on ethical versus moral leadership
+          — Ciulla (2004) on ethics as the heart of leadership; Treviño, Brown and Hartman (2003) on
+          perceived executive ethical leadership — examining the theoretical distinction between ethical
+          leadership (compliance-oriented) and moral leadership (virtue-oriented). The student examines
+          the institutional constraints that moderate ethical leadership effectiveness in regulated sectors.
+          Primary sources are cited at their origin, not through textbook summaries. The strategic
+          conclusion is an original synthesis: it derives from the interplay between multiple analytical
+          threads and could not be produced by applying any single framework. The academic register is
+          precise, economical, and citation-dense — consistent with postgraduate standard writing.</p>
+        </div>
+      </div>
+      <p class="grade-note">
+        Distinction at Level 7 requires <strong>original synthesis</strong> — a conclusion that is
+        not derivable from any single theoretical framework but emerges from the critical engagement
+        with the field as a whole. This is what postgraduate academic register means in practice.
+      </p>
+    </div>
+  </section>
+
+  <!-- Priority Units -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="priority-cmi-level-7-units">Priority CMI Level 7 Units — 701, 702, 704, 705, and 708</h2>
+      <p class="section-lead">The five highest-demand Level 7 units with subject focus, command verbs, and key theoretical frameworks.</p>
+      <div class="priority-grid">
+        {priorityUnits.map(u => (
+          <div class="priority-card">
+            <div class="priority-header">
+              <span class="priority-num">Unit {u.num}</span>
+              <h3 class="priority-title">{u.title}</h3>
+            </div>
+            <p class="priority-focus">{u.focus}</p>
+            <div class="priority-meta">
+              <div class="meta-row">
+                <span class="meta-label">Command Verbs</span>
+                <span class="meta-val">{u.verbs}</span>
+              </div>
+              <div class="meta-row">
+                <span class="meta-label">Key Frameworks</span>
+                <span class="meta-val">{u.frameworks}</span>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+      <div class="mid-cta">
+        <a href={whatsappUrl} class="btn btn-whatsapp" target="_blank" rel="noopener noreferrer">
+          WhatsApp Us Your Unit Number
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- NHS Section -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-level-7-for-nhs-senior-leaders">CMI Level 7 for NHS Senior Leaders — Band 8+ and Executive Roles</h2>
+      <p>
+        NHS Band 8+ managers and NHS Executive team members represent a significant CMI Level 7 student
+        segment. Many NHS trusts fund CMI Level 7 Diploma programmes for their senior leadership cohort
+        as part of succession planning and board readiness development.
+      </p>
+      <p>
+        The primary NHS Level 7 student profile includes <strong>NHS Band 8A, 8B, 8C, and 8D
+        managers</strong> — typically heads of service, clinical directors, and operational directors.
+        NHS Executive team members (Chief Executive, Chief Finance Officer, Medical Director, Nursing
+        Director) also complete Level 7 for FCMI credentialing at the highest level of organisational
+        leadership.
+      </p>
+      <p>
+        <strong>Unit 715 (Strategic Leadership in the Public Sector)</strong> is the NHS and public
+        sector-specific optional unit — covering public sector governance, NHS accountability frameworks,
+        statutory duties, and the particular leadership challenges of managing within public service
+        constraints. It is the most commonly selected Level 7 unit among NHS students.
+      </p>
+      <p>
+        Writers assigned to NHS Level 7 assignments have experience at NHS Band 8+ or Board level and
+        understand NHS organisational context, governance frameworks, NHS Long-Term Plan priorities,
+        and NHS strategic planning environment. For full context, see
+        <a href="/guides/nhs-management-cmi-qualifications/">NHS management and CMI qualifications</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- Level 5 vs Level 7 -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-level-5-vs-cmi-level-7">CMI Level 5 vs CMI Level 7 — Choosing the Right Qualification</h2>
+      <p>
+        The Level 5 vs Level 7 question is the single most common pre-enrolment question from prospective
+        CMI students. Here is how they differ across four dimensions:
+      </p>
+      <div class="compare-grid">
+        <div class="compare-card">
+          <h3>Academic Standard</h3>
+          <p><strong>Level 5</strong> is undergraduate second-year equivalent (RQF 5). <strong>Level 7</strong>
+          is postgraduate Master's equivalent (RQF 7). The source requirements, verb depth, and analytical
+          register are genuinely different — not just quantitatively but qualitatively.</p>
+        </div>
+        <div class="compare-card">
+          <h3>Student Profile</h3>
+          <p><strong>Level 5</strong> is for middle managers and operational team leaders. <strong>Level 7</strong>
+          is for directors, C-suite executives, and senior organisational leaders. Studying the wrong level
+          for your role creates a mismatch between the workplace evidence required and what you can
+          authentically demonstrate.</p>
+        </div>
+        <div class="compare-card">
+          <h3>Assignment Depth</h3>
+          <p><strong>Level 5</strong> Evaluates using management frameworks applied to the workplace and
+          produces operational SMART recommendations. <strong>Level 7</strong> Critically Analyses by
+          engaging with the academic debate in the field and produces strategic interventions justified
+          by original analytical synthesis.</p>
+        </div>
+        <div class="compare-card">
+          <h3>CMI Membership</h3>
+          <p><strong>Level 5</strong> Diploma leads to ACMI (Associate) membership.
+          <strong>Level 7</strong> Diploma leads to FCMI (Fellow) membership — the highest grade, which
+          carries significantly greater professional recognition at director and board level.</p>
+        </div>
+      </div>
+      <p class="compare-note">
+        For a full side-by-side comparison including which to choose for your role and sector, see the
+        <a href="/guides/cmi-level-5-vs-level-7/">CMI Level 5 vs Level 7 — full comparison</a>. For
+        Level 5 assignment help specifically, see
+        <a href="/cmi-level-5-assignment-help/">CMI Level 5 assignment help</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- How to Order -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="how-to-get-cmi-level-7-assignment-help">How to Get CMI Level 7 Assignment Help</h2>
+      <ol class="order-steps">
+        <li>Message us on WhatsApp with your unit number (e.g., Unit 702 or Unit 708), your assignment
+        brief, and your deadline.</li>
+        <li>Receive a fixed quote within 2 hours. No hidden fees.</li>
+        <li>A CMI Level 7 qualified director-level writer produces your submission-ready strategic paper
+        at Master's-equivalent depth — 15–20 peer-reviewed primary academic sources, Critically Analyse
+        standard, original strategic synthesis.</li>
+      </ol>
+      <div class="cta-wrap">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Order on WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-level-7-assignment-help-faq">CMI Level 7 Assignment Help — Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary class="faq-q">What is the word count for a CMI Level 7 strategic paper?</summary>
+          <div class="faq-a">
+            <p>The standard range is 5,000–6,500 words per unit. Some reflective units (such as Unit 701)
+            specify a shorter range of 3,500–4,500 words. The word count applies to the body of the
+            strategic paper — the executive summary (200–250 words), reference list, and appendices
+            are excluded. Always check your specific unit brief as training providers may set variations
+            within the CMI guidelines.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">What is the difference between CMI Level 7 and a Master's degree?</summary>
+          <div class="faq-a">
+            <p>Both are RQF Level 7 qualifications. The CMI Level 7 Diploma is work-based, assessed
+            entirely by assignment, and can be completed alongside a full-time senior leadership role.
+            A Master's degree is a taught academic programme with modules, lectures, and a research
+            dissertation. The Level 7 Diploma leads to FCMI membership. Some students complete both —
+            using CMI Level 7 to develop strategic management competency alongside or instead of a
+            traditional MBA or MSc.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">What is the difference between Critically Analyse (Level 7) and Critically Evaluate (Level 6)?</summary>
+          <div class="faq-a">
+            <p>Critically Evaluate (Level 6) interrogates individual frameworks: apply them, examine
+            their assumptions, consider alternatives, reach a justified conclusion. Critically Analyse
+            (Level 7) interrogates the theoretical and strategic landscape as a whole — engaging with
+            the academic debate in the field, not just applying established theories but understanding
+            where the field is contested. A Level 7 Distinction response is unrecognisable as a Level 6
+            response; it operates at a different academic register.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">How many peer-reviewed sources are needed for a CMI Level 7 assignment?</summary>
+          <div class="faq-a">
+            <p>15–20 peer-reviewed sources minimum. ManagementDirect alone is insufficient at Level 7.
+            Theoretical frameworks must be cited from primary academic sources — Porter (1980), Christensen
+            (1997), Barney (1991) — not textbook summaries. A bibliography that is predominantly
+            ManagementDirect with a few journals will not meet Distinction standard.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Which CMI Level 7 units are most commonly selected for the Diploma?</summary>
+          <div class="faq-a">
+            <p>The most commonly selected are Unit 701 (Personal and Professional Development as a
+            Strategic Leader), Unit 702 (Ethical Organisational Leadership), Unit 704 (Strategic Risk
+            and Resilience), Unit 705 (Strategic Management of Resources), and Unit 708 (Innovation and
+            Change Management at a Strategic Level). Unit 715 (Strategic Leadership in the Public Sector)
+            is the most selected unit among NHS students.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Do you provide CMI 702 assignment help specifically?</summary>
+          <div class="faq-a">
+            <p>Yes. Unit 702 (Ethical Organisational Leadership) is one of our most requested Level 7
+            services. Writers assigned to Unit 702 have expertise in ethical leadership research —
+            Bass and Avolio, Brown and Treviño, Ciulla — and experience producing strategic papers
+            at postgraduate academic standard. Message us on WhatsApp with your Unit 702 brief and
+            deadline to receive a quote within 2 hours.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- Supplementary -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="related-cmi-level-7-resources">Related CMI Level 7 Resources</h2>
+      <div class="supp-grid">
+        <a href="/cmi-assignment-writing-service/" class="supp-card">
+          <h3>CMI Assignment Writing Service</h3>
+          <p>Full strategic paper writing for all CMI Level 7 units at postgraduate academic depth — 15–20 peer-reviewed sources, director-level writers.</p>
+        </a>
+        <a href="/cmi-assignment-tutoring/" class="supp-card">
+          <h3>CMI Assignment Tutoring</h3>
+          <p>For Level 7 students who want to write their own strategic paper with structured guidance on Critically Analyse standard and academic source selection.</p>
+        </a>
+        <a href="/guides/cmi-level-5-vs-level-7/" class="supp-card">
+          <h3>CMI Level 5 vs Level 7 Guide</h3>
+          <p>Full qualification comparison for students deciding which CMI level to study — academic standard, student profile, ACMI vs FCMI outcomes.</p>
+        </a>
+        <a href="/guides/cmi-command-verbs-explained/" class="supp-card">
+          <h3>CMI Command Verbs Explained</h3>
+          <p>Critically Analyse at full Level 7 strategic depth — complete command verb hierarchy with worked examples across all five CMI levels.</p>
+        </a>
+        <a href="/cmi-level-6-assignment-help/" class="supp-card">
+          <h3>CMI Level 6 Assignment Help</h3>
+          <p>Professional Management and Leadership — if you are deciding between Level 6 and Level 7 for your current role.</p>
+        </a>
+        <a href="/guides/management-theory-cmi-assignments/" class="supp-card">
+          <h3>Management Theory for CMI Assignments</h3>
+          <p>Strategic frameworks for Level 7 — primary source guide to Barney RBV, Porter, Christensen, Tidd and Bessant, and other key Level 7 academic sources.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>Get CMI Level 7 Assignment Help Today</h2>
+      <p>
+        WhatsApp us your unit number and deadline. Fixed quote in 2 hours. Director-level UK writers
+        delivering Critically Analyse standard at postgraduate depth with 15–20 peer-reviewed sources.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        WhatsApp Us for a Level 7 Quote
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    color: #fff; padding: 5rem 0 4rem; text-align: center;
+  }
+  .hero-inner { max-width: 820px; margin: 0 auto; }
+  .eyebrow { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem; }
+  .hero h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 800; color: #fff; margin-bottom: 1.25rem; line-height: 1.2; }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+  .hero-note { font-size: .82rem; color: #93c5fd; margin-top: .75rem; }
+  .narrow { max-width: 860px; }
+
+  .qual-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 1rem; margin-top: 1.5rem; }
+  .qual-block { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .qual-block h3 { font-size: .9rem; font-weight: 700; color: var(--navy); margin-bottom: .4rem; }
+  .qual-block p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .units-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: .75rem; }
+  .unit-card { background: #fff; border: 1px solid var(--border); border-radius: 8px; padding: 1rem 1.1rem; position: relative; }
+  .unit-priority { border-left: 3px solid var(--blue); }
+  .priority-tag { display: inline-block; background: var(--blue); color: #fff; font-size: .65rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; padding: .1rem .4rem; border-radius: 3px; margin-bottom: .35rem; }
+  .unit-num { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--blue); margin-bottom: .2rem; }
+  .unit-title { font-size: .88rem; font-weight: 600; color: var(--navy); margin: 0; line-height: 1.4; }
+
+  .sub-h3 { font-size: 1.1rem; font-weight: 700; color: var(--navy); margin: 1.75rem 0 1rem; }
+  .diff-table { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; margin: 1rem 0 1.5rem; font-size: .875rem; }
+  .diff-row { display: grid; grid-template-columns: 1.4fr 1.8fr 1.8fr; gap: 0; }
+  .diff-row > span { padding: .65rem .9rem; border-bottom: 1px solid var(--border); line-height: 1.45; }
+  .diff-row:last-child > span { border-bottom: none; }
+  .diff-header { background: var(--navy); }
+  .diff-header > span { color: #fff; font-weight: 700; font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; }
+  .diff-row:not(.diff-header) > span:first-child { font-weight: 600; color: var(--navy); background: var(--bg-light); }
+  .diff-row:not(.diff-header) > span:not(:first-child) { color: var(--text-muted); }
+  .diff-row:nth-child(even):not(.diff-header) > span { background: #fafafa; }
+  .diff-row:nth-child(even):not(.diff-header) > span:first-child { background: #f1f5f9; }
+  .section-list { font-size: .95rem; color: var(--text-muted); background: var(--bg-light); padding: .75rem 1rem; border-radius: 6px; margin-bottom: .75rem; line-height: 1.6; }
+  .link-note { font-size: .875rem; color: var(--text-muted); }
+
+  .verb-compare { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1.25rem 0 1.5rem; }
+  .verb-block { border-radius: 8px; padding: 1.25rem; font-size: .9rem; line-height: 1.6; }
+  .verb-l6 { background: #f0f4ff; border: 1px solid #c7d2fe; }
+  .verb-l7 { background: #f0fdf4; border: 1px solid #bbf7d0; }
+  .verb-label { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--navy); margin-bottom: .6rem; }
+  .verb-block p:not(.verb-label) { color: var(--text-muted); margin: 0; }
+
+  .example-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0 1.5rem; }
+  .example-card { border-radius: 8px; padding: 1.25rem; font-size: .875rem; line-height: 1.6; color: var(--text-muted); }
+  .example-l6 { background: #f0f4ff; border: 1px solid #c7d2fe; }
+  .example-l7 { background: #f0fdf4; border: 1px solid #bbf7d0; }
+  .example-label { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--navy); margin-bottom: .5rem; }
+
+  .verb-mini-list { display: flex; flex-direction: column; gap: .75rem; margin: 1rem 0 1.25rem; }
+  .verb-mini { padding: 1rem; background: var(--bg-light); border-left: 3px solid var(--blue); border-radius: 0 6px 6px 0; }
+  .verb-mini strong { display: block; font-size: .9rem; color: var(--navy); margin-bottom: .35rem; }
+  .verb-mini p { font-size: .875rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+  .verb-note { font-size: .875rem; color: var(--text-muted); }
+
+  .grade-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 1.25rem; }
+  .grade-card { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .grade-card h3 { font-size: .85rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--text-muted); margin-bottom: .6rem; }
+  .grade-distinction { border-top: 3px solid var(--navy); }
+  .grade-distinction h3 { color: var(--navy); }
+  .grade-card p { font-size: .88rem; color: var(--text); line-height: 1.6; margin: 0; }
+  .grade-note { font-size: .875rem; color: var(--text-muted); margin-top: 1rem; line-height: 1.6; }
+
+  .priority-grid { display: flex; flex-direction: column; gap: 1rem; }
+  .priority-card { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .priority-header { margin-bottom: .6rem; }
+  .priority-num { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--blue); display: block; margin-bottom: .2rem; }
+  .priority-title { font-size: 1rem; font-weight: 700; color: var(--navy); margin: 0; }
+  .priority-focus { font-size: .88rem; color: var(--text-muted); line-height: 1.6; margin-bottom: .75rem; }
+  .priority-meta { display: flex; flex-direction: column; gap: .4rem; }
+  .meta-row { display: grid; grid-template-columns: 120px 1fr; gap: .75rem; font-size: .85rem; }
+  .meta-label { font-weight: 600; color: var(--navy); }
+  .meta-val { color: var(--text-muted); line-height: 1.5; }
+  .mid-cta { text-align: center; margin-top: 2rem; }
+
+  .compare-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 1rem; margin: 1.25rem 0; }
+  .compare-card { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .compare-card h3 { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .compare-card p { font-size: .88rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+  .compare-note { font-size: .88rem; color: var(--text-muted); line-height: 1.65; }
+
+  .order-steps { list-style: none; padding: 0; counter-reset: steps; display: flex; flex-direction: column; gap: 1rem; margin-bottom: 2rem; }
+  .order-steps li { counter-increment: steps; display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem; font-size: .95rem; line-height: 1.65; }
+  .order-steps li::before { content: counter(steps); display: flex; align-items: center; justify-content: center; width: 2.5rem; height: 2.5rem; border-radius: 50%; background: var(--blue); color: #fff; font-weight: 700; font-size: 1rem; flex-shrink: 0; }
+  .cta-wrap { text-align: center; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q { display: block; padding: 1.1rem 1.25rem; font-weight: 600; font-size: .975rem; color: var(--navy); cursor: pointer; list-style: none; background: var(--bg-light); }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; }
+  .supp-card { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; text-decoration: none; display: block; transition: border-color .15s; }
+  .supp-card:hover { border-color: var(--blue); }
+  .supp-card h3 { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .4rem; }
+  .supp-card p { font-size: .85rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+
+  @media (max-width: 700px) {
+    .verb-compare { grid-template-columns: 1fr; }
+    .example-grid { grid-template-columns: 1fr; }
+    .grade-grid { grid-template-columns: 1fr; }
+    .compare-grid { grid-template-columns: 1fr; }
+    .diff-table { font-size: .78rem; }
+    .diff-row { grid-template-columns: 1fr 1fr 1fr; }
+    .meta-row { grid-template-columns: 1fr; }
+  }
+</style>
