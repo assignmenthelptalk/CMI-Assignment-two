@@ -90,6 +90,8 @@ Evidence-based medicine (EBM) was developed in the 1990s (Sackett et al., 1996, 
 **What peer-reviewed sources should I use for Unit 616?**
 Core sources: Bhaskar, R. (1975) *A Realist Theory of Science*, Leeds Books; Pfeffer, J. and Sutton, R.I. (2006) 'Evidence-based management', *Harvard Business Review*, 84(1), pp.62–74; Shadish, W.R., Cook, T.D. and Campbell, D.T. (2002) *Experimental and Quasi-Experimental Designs for Generalized Causal Inference*, Houghton Mifflin; Bryman, A. (2016) *Social Research Methods*, 5th edn, Oxford University Press; Saunders, M., Lewis, P. and Thornhill, A. (2019) *Research Methods for Business Students*, 8th edn, Pearson; Denyer, D. and Tranfield, D. (2009) 'Producing a systematic review', in Buchanan, D. and Bryman, A. (eds) *The Sage Handbook of Organizational Research Methods*, Sage.
 
+The [Harvard Business Review](https://hbr.org/topic/technology) publishes research on digital transformation, technology strategy, and leadership in digital change relevant to the Critically Evaluate requirements of this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 604 Assignment Help](/cmi-604-assignment-help/), Developing Strategic Plans: evidence-based strategic planning

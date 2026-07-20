@@ -109,4 +109,6 @@ Send your unit brief, coaching or mentoring scenario, target grade, and deadline
 - [CMI 513 Assignment Help](/cmi-513-assignment-help/), Developing and Continuing Professional Practice, CPD and reflective account format
 - [CMI Assignment Tutoring](/cmi-assignment-tutoring/), Expert tutoring for CMI assignments across all levels
 
+The [Chartered Institute of Marketing](https://www.cim.co.uk/) is the UK's chartered body for marketing professionals and publishes the research standards that inform the marketing frameworks assessed in this CMI unit.
+
 [WhatsApp for CMI Unit 507 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

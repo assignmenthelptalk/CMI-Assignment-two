@@ -129,4 +129,6 @@ Send your unit brief, H&S scenario, target grade, and deadline via WhatsApp. A q
 - [CMI 510 Assignment Help](/cmi-510-assignment-help/), Managing Risk, risk management framework connects to H&S risk assessment
 - [CMI 502 Assignment Help](/cmi-502-assignment-help/), Developing, Managing and Leading Individuals, employee wellbeing in individual development context
 
+The [Chartered Institute of Marketing](https://www.cim.co.uk/) is the UK's chartered body for marketing professionals and provides evidence-based resources on customer and client relationship management assessed in this CMI unit.
+
 [WhatsApp for CMI Unit 521 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

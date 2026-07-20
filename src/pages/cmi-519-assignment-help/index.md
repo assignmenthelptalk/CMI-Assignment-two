@@ -119,4 +119,6 @@ Send your unit brief, innovation scenario, target grade, and deadline via WhatsA
 - [CMI 517 Assignment Help](/cmi-517-assignment-help/), Understanding and Leading Organisational Change, cultural conditions for innovation
 - [CMI 518 Assignment Help](/cmi-518-assignment-help/), Developing Organisational Strategy, innovation as strategic growth driver
 
+The [Chartered Institute of Marketing](https://www.cim.co.uk/) publishes professional standards for sales management and commercial practice that inform the frameworks and applied analysis required in this CMI unit.
+
 [WhatsApp for CMI Unit 519 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

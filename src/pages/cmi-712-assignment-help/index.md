@@ -95,6 +95,8 @@ Smythe (2007) defines genuine engagement as involving people in decisions before
 **What other sources should I include in Unit 712 beyond the four primary frameworks?**
 Beyond Smythe, Cornelissen, Aristotle, and Goffman, useful additions include: Bennis and Nanus (1985) *Leaders* on vision communication; Fairhurst and Sarr (1996) *The Art of Framing* on leadership framing; Sternberg et al. on wisdom-based communication; NHS communication-specific sources including NHS England board communication guidance, NHS Leadership Academy frameworks, and the NHS People Plan (2020) on staff engagement. For NHS-specific empirical evidence, the NHS Staff Survey (particularly the staff engagement scores) provides annual data on the gap between NHS communication intent and staff experience of engagement.
 
+The [CIPD's communications factsheet](https://www.cipd.org/uk/knowledge/factsheets/communications-factsheet/) provides evidence on strategic communication at organisational level directly relevant to the Critically Analyse depth required in this CMI Level 7 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 709 Assignment Help](/cmi-709-assignment-help/), Leading Strategic Change: Weick sensemaking, Beer & Nohria Theory E vs Theory O, the change communication context

@@ -127,4 +127,6 @@ Send your unit brief, team scenario, target grade, and deadline via WhatsApp. A 
 - [CMI 503 Assignment Help](/cmi-503-assignment-help/), Managing Individuals in Dispersed Settings, team management in remote contexts
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, all formats
 
+[NHS England](https://www.england.nhs.uk/) publishes workforce development frameworks and leadership standards that inform the health and social care management context most relevant to this CMI unit.
+
 [WhatsApp for CMI Unit 505 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

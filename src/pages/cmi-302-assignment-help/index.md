@@ -89,6 +89,8 @@ Hersey and Blanchard's Situational Leadership model is not typically listed as a
 **My team doesn't go through all of Tuckman's stages, we never really stormed. Is that a problem?**
 Not every team experiences all four stages in the linear order Tuckman describes, this is actually a useful analytical point to make in a Distinction response. Teams with experienced, compatible members may move through Storming quickly or with low intensity. Teams that are permanent rather than project-based may not adjoin. Noting the limitation of Tuckman's linear model in relation to your own team's experience, and explaining why, demonstrates the kind of evaluative thinking that earns Distinction at Level 3.
 
+[ACAS](https://www.acas.org.uk/) provides authoritative UK guidance on managing people and teams, covering the applied workplace scenarios that CMI Level 3 assignments require you to demonstrate.
+
 ## Related CMI Assignment Help
 
 - [CMI 301 Assignment Help](/cmi-301-assignment-help/), Principles of Management and Leadership: Kotter, Mintzberg, Tannenbaum-Schmidt

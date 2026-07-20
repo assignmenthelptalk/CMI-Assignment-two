@@ -155,4 +155,6 @@ The EDI principles in Unit 504 extend to Unit 506 (managing EDI in organisationa
 - [NHS Management and CMI Qualifications](/guides/nhs-management-cmi-qualifications/), WRES, WDES, NHS People Plan, and CMI Level 5 in NHS workforce development
 - [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), EDI at Critically Evaluate depth, Unit 613 for senior NHS and public sector managers
 
+The [Chartered Management Institute](https://www.managers.org.uk/) publishes research on operational management practice and efficiency that informs the applied analysis required at CMI Level 5 Evaluate depth.
+
 [WhatsApp for CMI Unit 504 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

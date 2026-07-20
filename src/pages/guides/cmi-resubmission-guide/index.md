@@ -167,4 +167,6 @@ Yes. Send your original submission, the assessor's referral feedback, and the un
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), Targeted rewriting of referred sections at the correct command verb depth, within your resubmission window
 - [CMI Command Verbs Explained](/guides/cmi-command-verbs-explained/), The most common root cause of CMI referrals, understand exactly what each command verb requires at each level
 
+The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes assessment guidance for its qualifications — including resubmission and referral procedures — that inform the process covered in this guide.
+
 [WhatsApp for CMI Resubmission Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

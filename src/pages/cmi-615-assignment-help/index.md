@@ -76,6 +76,8 @@ Cybersecurity risk is not the primary focus of Unit 615 (Unit 614 covers operati
 **What is the difference between digitisation, digitalisation, and digital transformation?**
 These three terms are frequently confused but analytically distinct at Level 6. **Digitisation** is converting analogue information to digital format, scanning paper records, entering data into electronic systems. **Digitalisation** is using digital technology to improve existing processes, using electronic forms to streamline a paper-based workflow. **Digital transformation** is using digital technology to fundamentally change how the organisation delivers value, reconceiving the service model, business model, or operational architecture through digital capability. Most NHS EPR implementations are closer to digitalisation (improving existing clinical workflows through electronic recording) than digital transformation (reconceiving how clinical care is delivered through digital capability). At Level 6, correctly identifying which of these three processes is actually occurring in the senior manager's context produces more precise analysis than treating "digital transformation" as a generic label for any technology initiative.
 
+The [CIPD's learning and development resources](https://www.cipd.org/uk/knowledge/factsheets/learning-factsheet/) provide evidence on organisational L&D strategy and practice directly relevant to the strategic learning frameworks in this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 603 Assignment Help](/cmi-603-assignment-help/), Leading Organisational Change: Kotter applied to digital transformation as a change programme

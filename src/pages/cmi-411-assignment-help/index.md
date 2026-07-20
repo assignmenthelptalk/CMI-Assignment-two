@@ -95,6 +95,8 @@ Unit 406 analyses the cultural mechanisms that enable or prevent ethical behavio
 **Does CSR apply to small organisations and the public sector?**
 Yes. Carroll's pyramid applies to organisations of all sizes and in both commercial and public sector contexts. For small organisations, the philanthropic tier may be less visible (smaller community grant-giving capacity) but the ethical tier, fair treatment of suppliers, employees, and communities, is fully applicable. For public sector organisations, the CSR framework illuminates responsibilities that may not be framed as "CSR", the public sector equivalent of Carroll's four tiers: economic (efficient use of public funds); legal (statutory compliance); ethical (fair treatment of service users, staff, and communities beyond the legal minimum); philanthropic (community benefit investment that exceeds the service mandate). NHS managers can apply Carroll's pyramid to analyse the Trust's responsibilities across these dimensions with direct relevance to their practice.
 
+The [Chartered Institute of Marketing](https://www.cim.co.uk/) sets professional standards for marketing campaign planning and measurement that inform the analytical frameworks assessed in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 406 Assignment Help](/cmi-406-assignment-help/), Organisational Culture and Ethics: Carroll's pyramid in the context of culture analysis

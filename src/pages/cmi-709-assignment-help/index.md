@@ -99,6 +99,8 @@ The sophisticated Level 7 approach is not to dismiss Theory E in NHS contexts bu
 **What sources beyond Beer & Nohria, Weick, and Pettigrew should I include for Unit 709?**
 At Level 7, fifteen to twenty sources at origin are expected. Beyond the primary framework sources, useful addition include: Armenakis and Bedeian (1999) *Journal of Management* systematic review of change research; Balogun and Hailey (2008) *Exploring Strategic Change* (3rd edn) for middle manager change agency; Higgs and Rowland (2005) on change leadership styles; Oreg et al. (2011) on individual resistance to change across cultures. NHS-specific sources: NHS Long Term Plan (2019); NHS People Plan (2020); ICS Implementation Framework (2022); specific ICS integration documentation for the student's employer. The fifteen to twenty source requirement is met by combining theoretical primary sources with NHS policy documents and secondary analytical sources.
 
+The [Chartered Management Institute](https://www.managers.org.uk/) publishes quality management and organisational excellence research relevant to the strategic-level analysis required at CMI Level 7 Critically Analyse depth.
+
 ## Related CMI Assignment Help
 
 - [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg deliberate vs emergent strategy, dynamic capabilities

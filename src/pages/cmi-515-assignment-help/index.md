@@ -117,4 +117,6 @@ Send your unit brief, operational planning scenario, target grade, and deadline 
 - [CMI 518 Assignment Help](/cmi-518-assignment-help/), Developing Organisational Strategy, strategic planning informs operational planning
 - [CMI 514 Assignment Help](/cmi-514-assignment-help/), Managing Projects, project planning compared to operational planning
 
+The [Equality and Human Rights Commission](https://www.equalityhumanrights.com/) publishes statutory guidance on the Equality Act 2010 and equality practice that provides the legal and ethical grounding for this CMI unit's assessment criteria.
+
 [WhatsApp for CMI Unit 515 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

@@ -80,6 +80,8 @@ Agency theory (Jensen and Meckling, 1976) describes the relationship between a p
 **How does public sector procurement differ from commercial procurement in Unit 608?**
 Public sector procurement is constrained by regulatory requirements, competitive tendering above defined thresholds, mandatory publication of contract notices, and public value requirements, that commercial procurement does not face. These constraints limit the depth of strategic SRM available in the public sector: long-term exclusive supplier partnerships on Strategic category items may conflict with the regulatory requirement for competitive procurement. The Procurement Act 2023 introduced "most advantageous tender" (replacing "most economically advantageous tender", MEAT) as the award criterion, allowing quality and social value to be more explicitly weighted alongside price, which supports a shift from purely price-competitive Leverage category procurement toward quality-weighted strategic sourcing. At Level 6, understanding this regulatory evolution and its implications for Kraljic category management demonstrates contextual sophistication.
 
+The [CIPD's organisational culture factsheet](https://www.cipd.org/uk/knowledge/factsheets/organisation-culture-factsheet/) provides evidence-based analysis of strategic culture change frameworks directly relevant to the Critically Evaluate requirements of this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 606 Assignment Help](/cmi-606-assignment-help/), Financial Management: financial risk management in procurement contexts

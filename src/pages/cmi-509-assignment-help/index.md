@@ -176,4 +176,6 @@ The financial management skills in Unit 509 connect to Unit 524 (Managing and Ev
 - [NHS Management and CMI Qualifications](/guides/nhs-management-cmi-qualifications/), NHS Band 7+ budget management, CIP, NHS finance context for CMI Level 5
 - [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Financial management at senior level, investment appraisal and strategic financial management
 
+The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) publishes research on resource planning, workforce management, and succession planning that supports the evidence-based analysis required in this CMI Level 5 unit.
+
 [WhatsApp for CMI Unit 509 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

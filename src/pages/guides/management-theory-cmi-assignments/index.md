@@ -224,4 +224,6 @@ Send your unit brief and the scenario you are working with via WhatsApp. A write
 - [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format, Evaluate depth
 - [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse depth
 
+The [Harvard Business Review](https://hbr.org/topic/management) publishes peer-reviewed management research and practitioner case studies that represent the academic standard expected in CMI assignments at Level 5 and above.
+
 [WhatsApp for CMI Assignment Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

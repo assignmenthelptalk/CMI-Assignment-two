@@ -134,4 +134,6 @@ Tuckman and Belbin frameworks introduced in Unit 502 reappear in Unit 503 (remot
 - [CMI 512 Assignment Help](/cmi-512-assignment-help/), Managing change, Kotter and Lewin applied to leading teams through organisational change
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, all formats
 
+The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) publishes evidence-based resources on team development, individual motivation, and performance management that directly underpin the frameworks assessed in this CMI unit.
+
 [WhatsApp for CMI Unit 502 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

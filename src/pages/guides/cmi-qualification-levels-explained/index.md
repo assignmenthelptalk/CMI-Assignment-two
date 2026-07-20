@@ -174,4 +174,6 @@ Yes. The service covers all levels, Level 3 through Level 7. Each level requires
 - [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), Strategic Management and Leadership, Critically Analyse, strategic paper, FCMI
 - [CMI Level 5 vs Level 7](/guides/cmi-level-5-vs-level-7/)
 
+The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes the full qualifications framework — Awards, Certificates, and Diplomas from Level 3 to Level 8 — and the membership pathway from ACMI to FCMI.
+
 [WhatsApp for CMI Assignment Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

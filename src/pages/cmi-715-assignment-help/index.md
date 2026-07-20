@@ -99,6 +99,8 @@ Yes, and this recontextualisation is the Level 7 analytical contribution. Marmot
 **What is the NHS People Plan and do I need to engage with it at source or can I reference it through secondary sources?**
 The NHS People Plan (NHS England, 2021), formally titled *We Are the NHS: People Plan 2020/21, Action for Us All*, is a primary policy document published by NHS England. At Level 7, it should be cited as a primary source: NHS England (2021) *We Are the NHS: People Plan 2020/21, Action for Us All*. London: NHS England. Secondary references to it (through HR textbooks or management guides) are not sufficient for Level 7. The analytical contribution is to evaluate the People Plan's wellbeing commitments through Cox & Griffiths' prevention level framework, are its four strategic themes addressing primary-level structural stressors, or predominantly secondary and tertiary intervention levels? This evaluation requires close reading of the People Plan itself.
 
+The [GOV.UK Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office) publishes public sector leadership frameworks and civil service management standards relevant to the Critically Analyse requirements of this CMI Level 7 public sector unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 710 Assignment Help](/cmi-710-assignment-help/), Corporate Responsibility and Sustainability: Carroll's CSR pyramid, Freeman's stakeholder theory, social responsibility as the broader context for wellbeing and inclusion

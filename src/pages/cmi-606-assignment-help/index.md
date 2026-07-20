@@ -88,6 +88,8 @@ Unit 409 at Level 4 covers budget variance analysis and break-even at Analyse de
 **What discount rate should I use for NPV calculations in the assignment?**
 The appropriate discount rate for NPV is the organisation's cost of capital, the weighted average cost of the funds used to finance the investment (Weighted Average Cost of Capital, or WACC). For NHS organisations, HM Treasury's Green Book provides the public sector discount rate (currently 3.5% real) for public sector business case appraisal. At Level 6, stating the appropriate discount rate for your organisational context and justifying its basis demonstrates financial management understanding. If the brief provides a discount rate, use that. If not, use either the organisation's published cost of capital, the HM Treasury Green Book rate (for public sector), or a stated reasonable assumption with justification.
 
+The [Harvard Business Review](https://hbr.org/topic/risk-management) publishes practitioner research on strategic risk, resilience, and crisis management relevant to the Critically Evaluate depth required in this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 605 Assignment Help](/cmi-605-assignment-help/), Developing Organisational Strategy: strategic options evaluation with financial dimension

@@ -82,6 +82,8 @@ The Workforce Race Equality Standard (WRES) is an NHS-mandated framework requiri
 **Can I write Unit 613 without reference to the NHS context?**
 Yes. Unit 613 applies to any organisational context, commercial, public sector, third sector, professional services. The core frameworks (Equality Act, intersectionality, unconscious bias evidence, structural redesign) are sector-agnostic. NHS-specific references (WRES, WDES, NHS People Plan) are optional additions for NHS students that add contextual specificity. If you work in a commercial or third-sector organisation, use your organisation's EDI data, policies, and structural conditions as the basis for the systemic inclusion analysis. The Critically Evaluate analysis of the Equality Act's structural limitations, intersectionality's explanatory power, and the evidence on intervention effectiveness applies regardless of sector.
 
+The [Chartered Institute of Procurement and Supply](https://www.cips.org/) is the global professional body for procurement and publishes supply chain research and professional standards relevant to this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 408 Assignment Help](/cmi-408-assignment-help/), Equality and Diversity (Level 4): Equality Act at Analyse depth, foundational comparison

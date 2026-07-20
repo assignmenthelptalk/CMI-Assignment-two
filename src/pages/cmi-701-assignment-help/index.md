@@ -134,4 +134,6 @@ The reflective practice and self-development frameworks in Unit 701 connect to U
 - [CMI 705 Assignment Help](/cmi-705-assignment-help/), Strategic leadership, Barney (1991) VRIO, Teece et al. (1997) Dynamic Capabilities
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, all formats
 
+The [CIPD's continuing professional development guidance](https://www.cipd.org/uk/knowledge/factsheets/cpd-factsheet/) provides evidence on strategic personal development practice directly relevant to the Critically Analyse engagement required in this CMI Level 7 unit.
+
 [WhatsApp for CMI Unit 701 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

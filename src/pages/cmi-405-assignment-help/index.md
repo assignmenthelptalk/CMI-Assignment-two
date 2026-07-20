@@ -84,6 +84,8 @@ Active listening at Level 4 is analysed rather than described. The analytical co
 **What is media richness theory and should I include it in Unit 405?**
 Media richness theory (Daft and Lengel, 1986) classifies communication channels by their capacity to carry information: face-to-face is the richest channel (carries verbal, vocal, and visual information simultaneously with immediate feedback), while written communication is the leanest. The theory predicts that high-uncertainty, high-complexity, or emotionally significant messages require richer channels. At Level 4, media richness theory is a strong analytical addition to Shannon-Weaver channel selection analysis, it provides the framework for evaluating why a particular channel is or is not appropriate for the specific message. Cite as: Daft, R.L. and Lengel, R.H. (1986) 'Organizational information requirements, media richness and structural design', *Management Science*, 32(5), pp.554–571.
 
+[ACAS](https://www.acas.org.uk/) provides practical guidance on meeting management, record-keeping, and workplace procedure that supports the applied management scenarios in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 401 Assignment Help](/cmi-401-assignment-help/), Managerial and Leadership Qualities: communication as a leadership behaviour

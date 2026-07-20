@@ -108,6 +108,8 @@ Unit 409 briefs vary between providers. Some require a structured essay applying
 **How should I present financial data in Unit 409, tables or text?**
 Financial data in Unit 409 should be presented in tables where possible (budget vs actual vs variance, or break-even calculation workings), with analytical commentary in the body text. The table shows the numbers; the text explains what the numbers mean and what management response is required. For example: present the variance analysis as a table (budget, actual, variance F/A for each cost line) in the body or appendix, then write a paragraph in the text analysing the most significant variances and their causes. This matches how management accounts are presented and used in practice.
 
+The [Chartered Institute of Marketing](https://www.cim.co.uk/) publishes professional standards for sales and marketing management practice that underpin the commercial frameworks assessed in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 310 Assignment Help](/cmi-310-assignment-help/), Managing a Budget (Level 3): budgeting at Describe depth, foundational comparison

@@ -124,4 +124,6 @@ Send your unit brief, partnership scenario, target grade, and deadline via Whats
 - [CMI 505 Assignment Help](/cmi-505-assignment-help/), Forming Successful Teams, team formation principles apply to partnership team development
 - [CMI 517 Assignment Help](/cmi-517-assignment-help/), Understanding and Leading Organisational Change, ICS transformation as change leadership context
 
+The [Information Commissioner's Office](https://ico.org.uk/) is the UK's data protection regulator and sets the GDPR and UK data protection framework that forms the legal basis for the information and data management content in this CMI unit.
+
 [WhatsApp for CMI Unit 524 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

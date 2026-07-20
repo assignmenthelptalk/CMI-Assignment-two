@@ -86,6 +86,8 @@ Yes, with adaptation. Kaplan and Norton (2001, 'Transforming the balanced scorec
 **How does strategic planning at Level 6 differ from operational planning at Level 5?**
 Level 5 strategic and operational planning units (e.g., Unit 506) apply planning frameworks at Evaluate depth, assessing their usefulness and limitations and forming a supported judgement. Level 6 Critically Evaluates the same frameworks, examining their theoretical assumptions and engaging with peer-reviewed research that challenges or supports those assumptions. Level 6 also requires developing a strategic plan that is traceable to the Critically Evaluated framework conclusions, not just applying the tools. The word count (4,000–5,000 at Level 6 vs 2,500–3,500 at Level 5) and reference depth (12–15 including peer-reviewed journals vs 10–12 at Level 5) reflect this qualitative difference.
 
+The [Financial Reporting Council](https://www.frc.org.uk/) publishes the UK Corporate Governance Code and financial reporting standards that provide the governance and compliance framework for this CMI Level 6 finance unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 603 Assignment Help](/cmi-603-assignment-help/), Leading Organisational Change: strategic planning in transformational change contexts

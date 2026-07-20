@@ -91,6 +91,8 @@ Unconscious bias, automatic, implicit associations and stereotypes that affect j
 **My organisation operates outside the NHS, is Unit 306 still relevant?**
 Unit 306 applies to all first-line managers regardless of sector, the Equality Act 2010 applies across all employment contexts. NHS students can contextualise within WRES/WDES obligations; retail, hospitality, logistics, and commercial students should contextualise within their own sector's equality obligations and workforce demographics. The legal framework is the same; the sector-specific application and examples will differ.
 
+The [Chartered Institute of Marketing](https://www.cim.co.uk/) is the UK's chartered professional body for marketing and publishes the professional standards that underpin the marketing frameworks assessed at CMI Level 3.
+
 ## Related CMI Assignment Help
 
 - [CMI 301 Assignment Help](/cmi-301-assignment-help/), Principles of Management and Leadership: inclusive leadership behaviours

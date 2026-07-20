@@ -80,6 +80,8 @@ Servant leadership is the primary framework for Unit 601 and is less central to 
 **How should SMART recommendations in a Level 6 assignment differ from Level 5?**
 At Level 5, SMART recommendations follow from Evaluate analysis, they are specific, measurable, and time-bound interventions traceable to the evaluation. At Level 6, SMART recommendations must be explicitly traceable to the Critically Evaluate conclusions, they should name which framework's evidence supports them and acknowledge the theoretical assumptions the recommendation depends on. A Level 6 SMART recommendation does not just state "implement a leadership development programme by Q2" but specifies the theoretical basis ("consistent with Bass and Avolio's Individualised Consideration, each senior manager to conduct quarterly structured development conversations using a coaching model"), the metric, the timeline, and the governance accountability.
 
+The [Chartered Management Institute](https://www.managers.org.uk/knowledge-and-insights/) publishes strategic management research and organisational direction frameworks relevant to the Critically Evaluate depth required in this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 601 Assignment Help](/cmi-601-assignment-help/), Principles of Management and Leadership: distributed and situational leadership foundations

@@ -159,4 +159,6 @@ Send the unit brief, target grade, and deadline via WhatsApp. A quote is returne
 - [CMI 705 Assignment Help](/cmi-705-assignment-help/), Strategic leadership, RBV and Dynamic Capabilities
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, strategic paper format
 
+[GOV.UK's risk management guidance](https://www.gov.uk/guidance/risk-assessment-a-brief-guide-to-controlling-risks-in-the-workplace) and the ISO 31000 framework provide the regulatory and professional context for the strategic risk analysis required at CMI Level 7 Critically Analyse depth.
+
 [WhatsApp for CMI Unit 704 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

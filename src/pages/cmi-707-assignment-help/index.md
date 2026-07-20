@@ -95,6 +95,8 @@ Kaplan and Norton (1992, and developed further in 2004) argue that the four Bala
 **How long should the Unit 707 strategic paper be?**
 CMI does not prescribe a fixed word count for Level 7 papers. A thorough Unit 707 strategic paper will typically be 4,000–6,000 words, with the theoretical analysis sections (agency theory, M&M, Balanced Scorecard, shareholder value) each requiring 400–600 words at Critically Analyse depth. The central debate section, where the original synthesis must be developed, should be the most substantial single section, typically 600–900 words. Executive Summary 200–250 words. References do not count toward the word count. Avoid the temptation to pad with description; every paragraph should make an analytical claim and use evidence to support it.
 
+The [Chartered Institute of Marketing](https://www.cim.co.uk/) publishes strategic marketing research and professional standards relevant to the Critically Analyse depth and primary source engagement required in this CMI Level 7 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Barney RBV, Teece dynamic capabilities, Mintzberg deliberate vs emergent strategy

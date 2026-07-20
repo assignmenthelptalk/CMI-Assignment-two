@@ -81,6 +81,8 @@ A minimum of five to eight Harvard-referenced sources is appropriate for Level 3
 **Can I use the same framework for multiple learning outcomes?**
 Frameworks can be applied across more than one learning outcome if genuinely relevant, for example, Mintzberg's roles address both the management roles LO and the management vs leadership LO (because the Figurehead and Leader roles are primarily leadership roles within his framework). However, avoid using the same framework identically for two separate LOs, adapt the application to address what each LO specifically asks for.
 
+The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) sets the assessment criteria and learning outcomes for all CMI Level 3 units and publishes practitioner resources through ManagementDirect.
+
 ## Related CMI Assignment Help
 
 - [CMI 302 Assignment Help](/cmi-302-assignment-help/), Managing a Team to Achieve Results: Tuckman, Belbin, SMART goal-setting

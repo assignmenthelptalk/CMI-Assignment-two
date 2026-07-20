@@ -97,6 +97,8 @@ At Level 7, recommendations are strategic directions, not operational tasks. A s
 **What is the word count for CMI Unit 703 and how should it be distributed across sections?**
 CMI Level 7 units do not prescribe a fixed word count, the strategic paper should be as long as the analysis requires, typically 4,000–6,000 words for a single unit submission, or longer for combined submissions. The distribution principle is: Executive Summary 200–250 words; theoretical positioning sections roughly equal (400–600 words each framework); the central debate section is the most intellectually substantial (600–900 words) because this is where the original synthesis must be developed. Conclusion 200–300 words. References are not counted. Avoid padding by ensuring every paragraph makes an analytical claim rather than describing what a framework says.
 
+The [Harvard Business Review](https://hbr.org/topic/leadership) publishes strategic leadership research at the postgraduate academic standard required for Critically Analyse engagement in CMI Level 7 assignments.
+
 ## Related CMI Assignment Help
 
 If you are studying CMI Unit 703, you may also need support with:

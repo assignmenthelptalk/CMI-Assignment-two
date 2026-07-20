@@ -94,6 +94,8 @@ Yes. PRINCE2 (Projects IN Controlled Environments) and PMI's PMBOK (Project Mana
 **How specific does the stakeholder analysis need to be in Unit 407?**
 Stakeholder analysis at Level 4 must be specific enough to demonstrate that the matrix has been populated based on actual assessment of real stakeholders, not a generic template. Name stakeholder types (not individuals if confidential), "Trust Board Sponsor," "Clinical Lead, Emergency Medicine," "Union Representative," "IT Department", and justify their quadrant placement with reasoning. The evaluation of the most critical stakeholder relationship (Key Players who require active management) should identify the specific concerns, interests, or power dynamics that make them critical, and the communication approach should be calibrated to those specifics.
 
+The [Chartered Management Institute](https://www.managers.org.uk/) publishes operations management research and professional standards relevant to the Analyse-depth assessment requirements of this CMI Level 4 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 311 Assignment Help](/cmi-311-assignment-help/), Managing a Project (Level 3): project lifecycle at Describe depth, foundational comparison

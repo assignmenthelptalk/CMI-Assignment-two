@@ -84,6 +84,8 @@ Unit 402 at Level 4 applies self-development frameworks (Kolb, Johari Window) to
 **How long should the personal development plan section be in Unit 402?**
 The PDP section is typically one of two to three sections in the Unit 402 essay, and need not be the longest. It should be specific enough to demonstrate that the development needs have been accurately identified (connected to Johari Window analysis and Kolb cycle stage diagnosis), that the development activities are appropriate for the needs (not generic), and that evaluation criteria and timescales are in place. Approximately 400–500 words for the PDP section is typical, more detailed plans can be included as a brief table in an appendix if word count is tight.
 
+The [CIPD's organisational culture factsheet](https://www.cipd.org/uk/knowledge/factsheets/organisation-culture-factsheet/) provides evidence-based analysis of culture models including Handy and Schein, directly relevant to the Analyse depth required in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 401 Assignment Help](/cmi-401-assignment-help/), Managerial and Leadership Qualities: Goleman EI connects to self-awareness in Unit 402

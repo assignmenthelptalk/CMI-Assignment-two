@@ -73,6 +73,8 @@ Yes. John Kotter's distinction between management (processes that keep systems r
 **How personal does the workplace application need to be in Unit 401?**
 At Level 4, workplace application must be specific enough to demonstrate genuine analysis, vague generalisations ("some managers are more task-focused than others") do not meet the assessment standard. Reference your own management role, a manager you work for or with, or a specific organisational scenario from your workplace. Anonymise if needed (refer to "a team leader in a busy NHS ward" rather than naming individuals), but provide enough context for the analysis to be grounded in observable reality.
 
+The [Chartered Management Institute](https://www.managers.org.uk/knowledge-and-insights/) publishes management style research and leadership insights that support the Analyse-depth framework application required in CMI Level 4 units.
+
 ## Related CMI Assignment Help
 
 - [CMI 402 Assignment Help](/cmi-402-assignment-help/), Managing and Developing Self: Kolb's learning cycle, Johari Window

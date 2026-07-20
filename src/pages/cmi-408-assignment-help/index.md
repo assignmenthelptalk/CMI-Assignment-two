@@ -80,6 +80,8 @@ The PSED applies directly only to public authorities as defined in Schedule 19 o
 **How do I write about equality issues in my workplace without creating problems for myself or my employer?**
 At Level 4, anonymisation is appropriate and expected. Refer to "a management decision in my organisation" or "a policy in my sector" rather than naming the organisation or individuals. If the scenario involves ongoing issues, frame your analysis in terms of what the law requires and what management practice should be, rather than making allegations about specific people. Assessment markers are looking for analytical capability, not organisational disclosure. If genuine disclosure concerns exist, construct a scenario based on publicly reported cases (Employment Tribunal decisions are publicly available) and apply the frameworks to that scenario rather than your specific workplace.
 
+[ACAS](https://www.acas.org.uk/working-through-change) provides employer guidance on managing workplace change, including communication planning and staff consultation, relevant to the applied scenarios in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 306 Assignment Help](/cmi-306-assignment-help/), Managing Equality, Diversity and Inclusion (Level 3): foundational level, Equality Act at Describe depth

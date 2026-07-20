@@ -90,6 +90,8 @@ CMI Level 3 assessors expect workplace application, using a real project from yo
 **What is the difference between a project and business-as-usual (BAU)?**
 A project is a temporary endeavour with a defined beginning, end, objective, and deliverable, it is distinct from the ongoing repetitive work of the team. Business-as-usual (BAU) is the regular, recurring operational work that the team performs daily. A project ends when the objective is achieved; BAU continues indefinitely. The distinction matters for Unit 311 because it defines the scope of the unit, managing a team's ongoing daily activity is covered in Unit 302; managing a bounded piece of defined work with a specific outcome is the subject of Unit 311.
 
+The [Equality and Human Rights Commission](https://www.equalityhumanrights.com/) publishes the statutory guidance and Equality Act 2010 framework that provides the legal grounding for the equality and diversity content in this CMI assignment.
+
 ## Related CMI Assignment Help
 
 - [CMI 305 Assignment Help](/cmi-305-assignment-help/), Building Stakeholder Relationships: stakeholder mapping and communication planning applicable to project context

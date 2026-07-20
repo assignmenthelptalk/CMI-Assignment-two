@@ -145,4 +145,6 @@ Send the unit brief, target grade, and deadline via WhatsApp. A fixed quote is r
 - [CMI 708 Assignment Help](/cmi-708-assignment-help/), Strategic innovation, Dynamic Capabilities applied to innovation and change
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, all formats
 
+The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) publishes strategic HRM research — including the Resource-Based View and Dynamic Capabilities evidence base — relevant to the Critically Analyse requirements of this CMI Level 7 unit.
+
 [WhatsApp for CMI Unit 705 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

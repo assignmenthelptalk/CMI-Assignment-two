@@ -119,4 +119,6 @@ Send your unit brief, leadership context, key frameworks required, target grade,
 - [CMI 513 Assignment Help](/cmi-513-assignment-help/), Developing and Continuing Professional Practice, CPD and professional standards
 - [CMI 519 Assignment Help](/cmi-519-assignment-help/), Leading Innovation and Change, leadership applied to innovation contexts
 
+The [Chartered Management Institute](https://www.managers.org.uk/knowledge-and-insights/) publishes leadership research and management insights that directly support the Evaluate-depth framework application in this CMI Level 5 leadership unit.
+
 [WhatsApp for CMI Unit 512 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

@@ -116,4 +116,6 @@ Send your unit brief, conflict scenario, target grade, and deadline via WhatsApp
 - [CMI 505 Assignment Help](/cmi-505-assignment-help/), Forming Successful Teams, Lencioni's trust foundation prevents conflict escalation
 - [CMI 502 Assignment Help](/cmi-502-assignment-help/), Developing, Managing and Leading Individuals, individual behaviour and interpersonal dynamics
 
+[GOV.UK's business finance guidance](https://www.gov.uk/topic/business-tax) provides the regulatory and reporting framework within which the financial management practice assessed in this CMI Level 5 unit operates.
+
 [WhatsApp for CMI Unit 522 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

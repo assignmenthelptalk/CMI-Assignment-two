@@ -92,6 +92,8 @@ Carroll's pyramid is explicitly introduced at Level 4 in Unit 406 as a framework
 **Should Unit 406 include examples from my organisation or general examples?**
 At Level 4, the strongest essays apply frameworks to a specific, real organisational context, typically the student's own organisation or one they know well. Generic examples ("many organisations have role cultures") do not demonstrate analytical depth. Specific examples ("the organisation's emphasis on procedure-following and approval hierarchies for even minor spending decisions reflects Role Culture artefacts, suggesting Apollo power distribution") demonstrate that the student can apply the framework as a diagnostic tool. Anonymise as needed, but maintain specificity.
 
+The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) is the UK's professional body for HR and people development and publishes the evidence base for the HR and people management practice assessed in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 401 Assignment Help](/cmi-401-assignment-help/), Managerial and Leadership Qualities: leadership style and its relationship to culture

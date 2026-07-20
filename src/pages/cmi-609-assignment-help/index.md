@@ -80,6 +80,8 @@ Yes. The Critically Evaluate analysis at Level 6 is precisely about examining wh
 **What peer-reviewed sources should I use for Unit 609?**
 Key sources: Womack, J.P., Jones, D.T. and Roos, D. (1990) *The Machine that Changed the World*, Free Press; Seddon, J. (2008) *Systems Thinking in the Public Sector*, Triarchy Press; Deming, W.E. (1982) *Out of the Crisis*, MIT Press; Sterman, J.D. et al. (1997) 'Unanticipated side effects of successful quality programs', *Management Science*, 43(4), pp.503–521; Radnor, Z. and Osborne, S.P. (2013) 'Lean: a failed theory for public services?', *Public Management Review*, 15(2), pp.265–287.
 
+The [Harvard Business Review](https://hbr.org/topic/change-management) publishes strategic change management research — including Kotter's 8-Step evidence base — relevant to the Critically Evaluate depth required in this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 607 Assignment Help](/cmi-607-assignment-help/), Project and Programme Management: programme governance for improvement initiatives

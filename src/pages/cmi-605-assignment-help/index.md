@@ -84,6 +84,8 @@ In NHS and public sector strategy contexts, PESTLE factors include: Political (N
 **What is the difference between Unit 605 (Developing Organisational Strategy) and Unit 604 (Developing Strategic Plans)?**
 Unit 604 focuses on the strategic planning process, SWOT, Balanced Scorecard, OKRs, and the operational translation of strategic objectives into measurable plans. Unit 605 focuses on strategic direction-setting, what the organisation should do (Porter, Ansoff) and what the external environment requires (PESTLE). In practice, the two units are complementary: Unit 605 answers "what should our strategy be?"; Unit 604 answers "how do we plan to implement it?" Both are Critically Evaluated at Level 6, and both require peer-reviewed sources and the advanced management paper format.
 
+The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) is the UK's professional body for HR and publishes the strategic HRM research base — including Ulrich's HR Business Partner model — underpinning this CMI Level 6 HR strategy unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 604 Assignment Help](/cmi-604-assignment-help/), Developing Strategic Plans: Balanced Scorecard and OKRs for operationalising strategy

@@ -119,4 +119,6 @@ The remote management frameworks in Unit 503 connect to Unit 506 (managing equal
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, submission-ready management reports
 - [NHS Management and CMI Qualifications](/guides/nhs-management-cmi-qualifications/), How CMI Level 5 applies to NHS Band 7+ and community team management
 
+The [CIPD's leadership factsheet](https://www.cipd.org/uk/knowledge/factsheets/leadership-factsheet/) provides evidence-based analysis of leadership styles and management practice directly relevant to the Evaluate-depth requirements of this CMI unit.
+
 [WhatsApp for CMI Unit 503 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

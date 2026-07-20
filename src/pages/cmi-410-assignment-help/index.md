@@ -97,6 +97,8 @@ Market segmentation is the process of dividing the total market into groups of c
 **Can I write Unit 410 about a public sector service rather than a commercial product?**
 Yes. Marketing principles apply to public sector services, the language and objectives differ from commercial marketing (patient satisfaction rather than consumer preference; community benefit rather than profit maximisation), but the analytical frameworks remain applicable. PESTLE analysis is directly applicable to public sector organisations (political funding decisions, economic austerity, social demographic change, technological innovation in service delivery). The 4Ps apply as: Product (the service specification), Price (funding model and any charges), Place (how and where the service is accessed), Promotion (how potential service users learn about and are encouraged to access the service). 7Ps are particularly relevant in public sector services because People (front-line staff) and Process (service pathway) are central to service quality.
 
+The [Chartered Institute of Marketing](https://www.cim.co.uk/) is the UK's chartered professional body for marketing and publishes the research base for customer relationship and channel management frameworks.
+
 ## Related CMI Assignment Help
 
 - [CMI 411 Assignment Help](/cmi-411-assignment-help/), Corporate Social Responsibility: ethical dimension of marketing and commercial strategy

@@ -146,4 +146,6 @@ Send your unit brief, financial statements or organisational context, target gra
 - [CMI 516 Assignment Help](/cmi-516-assignment-help/), Developing and Managing Budgets, budget variance analysis connects to financial performance evaluation
 - [CMI 509 Assignment Help](/cmi-509-assignment-help/), Managing Finance, financial management and resource allocation
 
+The [Harvard Business Review](https://hbr.org/topic/innovation) publishes innovation management research and case studies that provide the evidence base for the applied analysis required in this CMI Level 5 unit.
+
 [WhatsApp for CMI Unit 511 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

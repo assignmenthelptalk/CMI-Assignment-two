@@ -114,4 +114,6 @@ Unit 501 is the management and leadership principles foundation for the Level 5 
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), Complete, submission-ready CMI assignments across all levels and formats
 - [CMI Command Verbs Explained](/guides/cmi-command-verbs-explained/), What Evaluate requires at Level 5 and how it differs from Level 3 Describe and Level 6 Critically Evaluate
 
+The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes the management and leadership competency frameworks that define what Evaluate-depth application means in CMI Level 5 assignments.
+
 [WhatsApp for CMI Unit 501 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

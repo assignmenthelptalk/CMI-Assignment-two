@@ -89,6 +89,8 @@ At Explain depth, active listening must be connected to a reason. "Maintaining e
 **Is non-verbal communication covered in Unit 304?**
 Non-verbal communication is typically addressed within the communication channel section of Unit 304, as a dimension of face-to-face communication. Key non-verbal elements: body language (open vs closed posture), facial expression, eye contact, proximity, and tone of voice. All of these carry communicative meaning that may reinforce or contradict the verbal message. A manager who says "my door is always open" while maintaining a closed, unwelcoming physical posture and rarely being available sends contradictory messages, the non-verbal overrides the verbal in the receiver's interpretation.
 
+The [Information Commissioner's Office](https://ico.org.uk/) is the UK's independent data protection regulator and sets the legal framework for information management practice covered in CMI information management units.
+
 ## Related CMI Assignment Help
 
 - [CMI 305 Assignment Help](/cmi-305-assignment-help/), Building Stakeholder Relationships: Mendelow's matrix, stakeholder communication planning

@@ -108,4 +108,6 @@ Send your unit brief, procurement scenario, target grade, and deadline via Whats
 - [CMI 509 Assignment Help](/cmi-509-assignment-help/), Financial Management for Managers, budget management and financial analysis
 - [CMI 515 Assignment Help](/cmi-515-assignment-help/), Creating and Delivering Operational Plans, resource planning connects to procurement planning
 
+The [Association for Project Management](https://www.apm.org.uk/) publishes the APM Body of Knowledge and professional standards that provide the project management framework underpinning this CMI unit's assessment criteria.
+
 [WhatsApp for CMI Unit 508 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

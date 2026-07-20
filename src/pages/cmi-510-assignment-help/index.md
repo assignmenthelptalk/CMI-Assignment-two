@@ -135,4 +135,6 @@ Send your unit brief, risk management scenario or organisational context, target
 - [CMI 516 Assignment Help](/cmi-516-assignment-help/), Developing and Managing Budgets, financial risk and variance analysis
 - [CMI 521 Assignment Help](/cmi-521-assignment-help/), Managing Health, Safety and Welfare, H&S risk assessment within operational risk
 
+The [Harvard Business Review](https://hbr.org/topic/change-management) publishes practitioner evidence and peer-reviewed research on organisational change that informs the Evaluate and Justify depth required in this CMI change management unit.
+
 [WhatsApp for CMI Unit 510 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

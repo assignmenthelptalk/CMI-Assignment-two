@@ -130,4 +130,6 @@ Send your unit brief, change scenario, target grade, and deadline via WhatsApp. 
 - [CMI 517 Assignment Help](/cmi-517-assignment-help/), Understanding and Leading Organisational Change, leadership of change at organisational level
 - [CMI 519 Assignment Help](/cmi-519-assignment-help/), Leading Innovation and Change, innovation-driven change management
 
+The [Harvard Business Review](https://hbr.org/topic/strategy) publishes peer-reviewed strategic management research that provides the evidence base for the Evaluate and Justify depth required in this CMI strategy unit.
+
 [WhatsApp for CMI Unit 506 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

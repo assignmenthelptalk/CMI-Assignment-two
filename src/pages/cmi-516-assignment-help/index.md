@@ -117,4 +117,6 @@ Send your unit brief, budgeting scenario, target grade, and deadline via WhatsAp
 - [CMI 515 Assignment Help](/cmi-515-assignment-help/), Creating and Delivering Operational Plans, operational plans drive budget requirements
 - [CMI 509 Assignment Help](/cmi-509-assignment-help/), Managing Finance, financial management at department/team level
 
+[ACAS](https://www.acas.org.uk/working-hours) provides employer guidance on working time regulations and flexible working arrangements that inform the regulatory context for work-life balance practice in this CMI unit.
+
 [WhatsApp for CMI Unit 516 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

@@ -103,6 +103,8 @@ The common factors model (originally from psychotherapy research, particularly W
 **How many sources do I need for Unit 717 and what is the best balance between coaching-specific sources and broader management theory?**
 Unit 717 requires fifteen to twenty sources at origin. The four primary sources (Hawkins & Smith 2013, Bachkirova et al. 2014, Cavanagh 2006, Grant 2006) provide the theoretical core. Supporting sources should include: Whitmore (2009) *Coaching for Performance* 4th edn for GROW model comparison; Clutterbuck (2004) *Everyone Needs a Mentor* 4th edn CIPD for mentoring distinction; Edmondson (1999) on psychological safety (connects to team coaching context from Unit 716); NHS coaching-specific sources including NHS Leadership Academy coaching frameworks; NHS Staff Survey coaching culture indicators; Grant's subsequent meta-analyses in *Consulting Psychology Journal* and *International Journal of Evidence-Based Coaching and Mentoring*; and Passmore and Fillery-Travis (2011) *Coaching: An International Journal of Theory, Research and Practice* review of coaching effectiveness research. The fifteen to twenty source requirement is met by combining primary theoretical sources with empirical coaching research and NHS policy context sources.
 
+The [CIPD's CPD resources](https://www.cipd.org/uk/knowledge/factsheets/cpd-factsheet/) provide evidence on strategic professional development at director and executive level, directly relevant to the Critically Analyse engagement required in this CMI Level 7 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 716 Assignment Help](/cmi-716-assignment-help/), Leading and Developing Teams: Hackman, Edmondson, team coaching as the bridge between individual and systemic coaching

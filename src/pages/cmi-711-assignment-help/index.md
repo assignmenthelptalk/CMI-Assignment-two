@@ -97,6 +97,8 @@ BATNA (Best Alternative to a Negotiated Agreement) is the alternative available 
 **How many stakeholder sources should I cite in Unit 711, and which journals should they come from?**
 Unit 711 requires fifteen to twenty sources at origin. The primary sources are Mitchell et al. (1997) *Academy of Management Review*, Cialdini (1984) *Influence* William Morrow, Lax & Sebenius (1986) *The Manager as Negotiator* Free Press, and Granovetter (1973) *American Journal of Sociology*. These four provide the theoretical core. Supporting sources should include Freeman (1984) for stakeholder theory foundations (connection to Unit 710), Mendelow (1991) for Level 5 comparison, Donaldson and Preston (1995) *Academy of Management Review* on stakeholder theory paradigms, and NHS-specific stakeholder engagement policy documents (NHS People Plan, ICS governance framework, NHS England board effectiveness guidance). The fifteen to twenty source requirement is met by combining these theoretical foundations with NHS policy sources and secondary analytical literature.
 
+The [Harvard Business Review](https://hbr.org/topic/negotiations) publishes strategic negotiations research and case evidence at the postgraduate standard required for Critically Analyse engagement in this CMI Level 7 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 710 Assignment Help](/cmi-710-assignment-help/), Corporate Responsibility and Sustainability: Carroll's CSR pyramid, Freeman's stakeholder theory, the normative/instrumental debate that underpins Unit 711

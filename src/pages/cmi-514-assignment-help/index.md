@@ -114,4 +114,6 @@ Send your unit brief, project scenario, target grade, and deadline via WhatsApp.
 - [CMI 510 Assignment Help](/cmi-510-assignment-help/), Managing Risk, project risk management and risk registers
 - [CMI 515 Assignment Help](/cmi-515-assignment-help/), Creating and Delivering Operational Plans, operational planning distinct from project management
 
+[ACAS](https://www.acas.org.uk/) provides authoritative guidance on workplace partnerships, joint working, and stakeholder relationships relevant to the applied analysis required in this CMI unit.
+
 [WhatsApp for CMI Unit 514 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

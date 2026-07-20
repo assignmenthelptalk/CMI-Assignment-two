@@ -86,6 +86,8 @@ The 70% change failure rate is widely attributed to Kotter (1996) and repeated t
 **How does Unit 603 relate to Unit 709 at Level 7?**
 Unit 709 at Level 7 (Leading Strategic Change) requires Critically Analyse depth, engaging with the academic debate between Beer and Nohria, Pettigrew et al., and Weick as competing theoretical traditions, not just Critically Evaluating individual frameworks. Level 7 additionally requires 15–20 primary sources (journal articles and monographs) and an original synthesis position. Unit 603 at Level 6 provides excellent preparation for Unit 709: a student who can Critically Evaluate Kotter, Lewin, and Beer and Nohria at Level 6 has built the analytical vocabulary needed to engage with the academic debate between them at Level 7.
 
+The [CIPD's leadership factsheet](https://www.cipd.org/uk/knowledge/factsheets/leadership-factsheet/) provides evidence-based analysis of strategic leadership theory and practice that informs the Critically Evaluate requirements of this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 601 Assignment Help](/cmi-601-assignment-help/), Principles of Management and Leadership: leadership frameworks for change contexts

@@ -81,6 +81,8 @@ Yes. Unit 403 can be written about a team you observed closely, a team you worke
 **Should the essay focus on one team or multiple teams?**
 Most Unit 403 briefs are most effectively answered with reference to one primary team scenario, this enables deeper analysis of that specific team's dynamics. Referencing a second team for comparison (to illustrate a contrasting Tuckman stage or Belbin composition) can add analytical depth without fragmenting the essay. Using multiple team references at equal depth typically produces breadth at the expense of the analytical depth the Level 4 standard requires.
 
+The [Chartered Management Institute](https://www.managers.org.uk/) provides research on stakeholder engagement practice and management report standards relevant to CMI Level 4 assessment requirements.
+
 ## Related CMI Assignment Help
 
 - [CMI 401 Assignment Help](/cmi-401-assignment-help/), Managerial and Leadership Qualities: leadership style within team management

@@ -91,6 +91,8 @@ At Level 7, the primary focus is theoretical frameworks and the academic debate,
 **Can I write Unit 710 from an NHS perspective or is it primarily aimed at commercial organisations?**
 Unit 710 is fully applicable in NHS and public sector contexts, and NHS students often produce stronger papers because the stakeholder relationships are more complex and the tensions between economic, ethical, and philanthropic responsibilities are structurally embedded rather than optional. The analytical contribution is to explicitly recontextualise each framework for the NHS context, Carroll's economic responsibility as financial stewardship of public resources; Freeman's stakeholder network as a complex multi-principal structure including patients, carers, staff, communities, regulators, and political principals; Elkington's TBL applied to NHS Net Zero and WRES/WDES obligations; Porter & Kramer's CSV applied to NHS anchor institution community health strategies. The recontextualisation itself is an analytical contribution, not a limitation of the framework's relevance.
 
+The [CIPD's coaching and mentoring factsheet](https://www.cipd.org/uk/knowledge/factsheets/coaching-mentoring-factsheet/) provides evidence-based guidance on coaching practice and framework evaluation relevant to the Critically Analyse requirements of this CMI Level 7 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Barney RBV, Teece dynamic capabilities, Porter competitive positioning

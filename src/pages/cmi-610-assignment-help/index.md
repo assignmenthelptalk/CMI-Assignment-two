@@ -80,6 +80,8 @@ A moment of truth (coined by Scandinavian Airlines CEO Jan Carlzon, 1987, *Momen
 **What peer-reviewed sources are essential for Unit 610?**
 Core sources: Parasuraman, A., Zeithaml, V.A. and Berry, L.L. (1988) 'SERVQUAL: a multiple-item scale for measuring consumer perceptions of service quality', *Journal of Retailing*, 64(1), pp.12–40; Cronin, J.J. and Taylor, S.A. (1992) 'Measuring service quality: a reexamination and extension', *Journal of Marketing*, 56(3), pp.55–68; Keiningham, T.L. et al. (2007) 'A longitudinal examination of net promoter and firm revenue growth', *Journal of Marketing*, 71(3), pp.39–51; Reichheld, F.F. (2003) 'The one number you need to grow', *Harvard Business Review*, 81(12), pp.46–54.
 
+The [Harvard Business Review](https://hbr.org/topic/innovation) publishes innovation strategy research, including Christensen's disruptive innovation evidence, that underpins the Critically Evaluate framework engagement in this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 609 Assignment Help](/cmi-609-assignment-help/), Developing Organisational Systems and Processes: Lean and Six Sigma applied to service quality

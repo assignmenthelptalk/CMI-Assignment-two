@@ -91,6 +91,8 @@ At Merit and Distinction depth, learning styles should be connected to specific 
 **Does Kirkpatrick's evaluation model need to be covered in Unit 307?**
 Kirkpatrick's four-level evaluation model is not always explicitly listed in the Unit 307 brief, but the Learning Outcome on evaluating the effectiveness of development activities requires an evaluation framework. Kirkpatrick provides the most accessible and relevant framework for Level 3. Alternative evaluation approaches include: asking learners directly about what they have learned (Reaction and Learning levels); observing whether behaviour has changed (Behaviour level); tracking performance data for changes attributable to the development activity (Results level). Using Kirkpatrick by name and applying its levels demonstrates theoretical grounding; describing the same levels without the framework name still addresses the LO.
 
+The [Chartered Management Institute](https://www.managers.org.uk/) publishes operations management research and practical resources that support the applied analysis required in CMI Level 3 operations units.
+
 ## Related CMI Assignment Help
 
 - [CMI 303 Assignment Help](/cmi-303-assignment-help/), Managing Individuals: motivation theory including development as a motivator (Herzberg)

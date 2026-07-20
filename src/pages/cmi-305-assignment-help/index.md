@@ -87,6 +87,8 @@ At Level 3, these concepts are closely linked but not identical. Stakeholder com
 **Do I need a formal written communication plan, or can I just discuss communication approaches in the essay?**
 Most Unit 305 assessments do not require a formal separate communication plan document, they require you to explain a communication approach for your stakeholder groups within the essay. A table showing stakeholder group, communication channel, frequency, and purpose can be included as a supporting element within the essay body without constituting a separate document. Check your specific assignment brief, if it asks for a communication plan as a deliverable, a table format is typically acceptable.
 
+[GOV.UK](https://www.gov.uk/topic/business-tax) provides the regulatory and accounting framework within which the financial control responsibilities assessed in this CMI unit operate.
+
 ## Related CMI Assignment Help
 
 - [CMI 304 Assignment Help](/cmi-304-assignment-help/), Principles of Communication in the Workplace: Shannon and Weaver, barriers to communication

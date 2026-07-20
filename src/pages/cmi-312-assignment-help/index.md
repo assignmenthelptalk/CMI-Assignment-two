@@ -95,6 +95,8 @@ A data breach should be reported immediately to the organisation's Data Protecti
 **My organisation processes patient health data, does this need special treatment in Unit 312?**
 Yes. Health data is special category data under UK GDPR and NHS organisations are subject to additional information governance requirements including the NHS Data Security and Protection Toolkit, Caldicott Principles (governing the use of patient-identifiable information), and the Common Law Duty of Confidentiality. If you work in an NHS or healthcare setting, referencing these NHS-specific obligations alongside UK GDPR demonstrates contextual knowledge that strengthens the essay at Merit and Distinction level. The eight Caldicott Principles (updated 2021) cover the use of patient-identifiable information and are directly applicable to NHS first-line managers who handle patient records or refer patient information to other agencies.
 
+[ACAS](https://www.acas.org.uk/supporting-mental-health-workplace) provides UK employer guidance on workplace wellbeing and mental health at work, directly relevant to the wellbeing frameworks assessed in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 306 Assignment Help](/cmi-306-assignment-help/), Managing Equality, Diversity and Inclusion: data protection in handling sensitive equality information

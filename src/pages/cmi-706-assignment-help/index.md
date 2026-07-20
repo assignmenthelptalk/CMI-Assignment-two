@@ -89,6 +89,8 @@ Flyvbjerg (2014) argues that programme cost and benefit projections based on the
 **How does Unit 706 connect to Unit 703 Strategy and Unit 709 Change Leadership?**
 Unit 706 operates at the intersection of strategy (703) and change leadership (709). Strategy defines the transformation agenda that programmes are designed to deliver. Change leadership determines whether the human and cultural dimensions of transformation are managed effectively enough that project outputs translate into the intended strategic outcomes. Programme leadership (706) is the governance layer that connects strategic intent (703) to change realisation (709). At Level 7, demonstrating awareness of this cross-unit theoretical architecture, and the risk that programmes which are strong on project governance but weak on change leadership will deliver outputs without realising benefits, is an indicator of strategic thinking that markers look for.
 
+The [Financial Reporting Council](https://www.frc.org.uk/) publishes corporate governance and financial reporting standards that provide the regulatory framework for the strategic finance content assessed at Critically Analyse depth in this CMI Level 7 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg deliberate vs emergent strategy, Barney RBV, Teece dynamic capabilities

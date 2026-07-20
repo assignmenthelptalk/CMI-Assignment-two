@@ -88,6 +88,8 @@ Virement is the transfer of budget from one approved line to another, for exampl
 **How is Unit 310 different from Unit 516 (Developing and Managing Budgets) at Level 5?**
 Unit 310 at Level 3 addresses first-line budget management at Describe and Explain depth, how budgets work, how to monitor them, and what variances mean. Unit 516 at Level 5 addresses budget management at Evaluate depth, evaluating different budget preparation approaches, evaluating variance analysis methods, and reaching justified conclusions about financial management decisions. The Level 5 unit also covers budget types at greater complexity (activity-based budgeting, rolling budgets) and connects budget management to strategic financial planning in a way that Level 3 does not require.
 
+The [Harvard Business Review](https://hbr.org/topic/innovation) publishes peer-reviewed research and practitioner evidence on innovation management that informs the theoretical frameworks covered in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 311 Assignment Help](/cmi-311-assignment-help/), Managing a Project: budget management within a project context

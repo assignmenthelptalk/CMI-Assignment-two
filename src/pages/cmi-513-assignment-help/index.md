@@ -134,4 +134,6 @@ Send your unit brief, the professional experience you want to reflect on, the pr
 - [CMI 512 Assignment Help](/cmi-512-assignment-help/), Becoming an Effective Leader, leadership self-evaluation using Kouzes & Posner and Goleman
 - [CMI Reflective Practice Guide](/guides/cmi-reflective-practice/), Gibbs and Kolb explained for CMI assignments
 
+The [CIPD's CPD guidance](https://www.cipd.org/uk/knowledge/factsheets/cpd-factsheet/) provides the professional development framework that underpins the reflective practice assessed in this CMI unit, alongside Kolb and Gibbs.
+
 [WhatsApp for CMI Unit 513 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

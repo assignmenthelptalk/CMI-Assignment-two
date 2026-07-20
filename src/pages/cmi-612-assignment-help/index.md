@@ -84,6 +84,8 @@ Swift trust (Meyerson, D., Weick, K.E. and Kramer, R.M., 1996, in Kramer, R.M. a
 **What peer-reviewed sources should I use for Unit 612?**
 Core sources: Jarvenpaa, S.L. and Leidner, D.E. (1999) 'Communication and trust in global virtual teams', *Organization Science*, 10(6), pp.791–815; Walther, J.B. (1996) 'Computer-mediated communication: impersonal, interpersonal, and hyperpersonal interaction', *Communication Research*, 23(1), pp.3–43; Edmondson, A.C. (1999) 'Psychological safety and learning behavior in work teams', *Administrative Science Quarterly*, 44(2), pp.350–383; Liden, R.C. et al. (2004) 'The role of context and agentic factors in determining task performance', *Journal of Applied Psychology*, 89(2); Daft, R.L. and Lengel, R.H. (1986) 'Organizational information requirements, media richness and structural design', *Management Science*, 32(5), pp.554–571.
 
+The [Association for Project Management](https://www.apm.org.uk/) publishes the APM Body of Knowledge and programme governance standards that provide the professional framework for the project and programme management content in this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 601 Assignment Help](/cmi-601-assignment-help/), Principles of Management and Leadership: distributed leadership principles applicable to distributed teams

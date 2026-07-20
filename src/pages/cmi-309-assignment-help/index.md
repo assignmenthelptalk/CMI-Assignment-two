@@ -82,6 +82,8 @@ Sales training delivers knowledge and skills in a structured learning format, te
 **How do I address activity targets vs output targets in the Unit 309 essay?**
 The distinction between activity targets (leading indicators: calls made, meetings held, proposals submitted) and output targets (lagging indicators: revenue achieved, deals closed) is important for explaining how a first-line sales manager monitors performance. Activity targets are within the team member's direct control and are the primary management lever, a manager can hold team members accountable for call volume without holding them accountable for market conditions that affect conversion. Output targets are the ultimate measure of results. Monitoring both enables the manager to distinguish between underperformance caused by insufficient activity (a management and motivation issue) and underperformance caused by low conversion rates despite sufficient activity (a skills and coaching issue).
 
+[GOV.UK's environmental and social reporting guidance](https://www.gov.uk/guidance/environmental-reporting-guidelines) sets the UK regulatory framework for corporate social responsibility reporting referenced in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 302 Assignment Help](/cmi-302-assignment-help/), Managing a Team to Achieve Results: SMART goals and performance monitoring applicable to sales teams

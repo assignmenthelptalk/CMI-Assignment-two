@@ -84,6 +84,8 @@ Delegation involves a leader with formal authority assigning specific tasks or d
 **Do I need to use all three frameworks (Spillane, Hersey-Blanchard, Greenleaf) or can I choose?**
 The Learning Outcomes determine which frameworks are required. Most Unit 601 briefs address multiple leadership frameworks, check whether your brief names specific frameworks or allows student selection. If the brief specifies distributed, situational, and servant leadership, all three must be addressed. If the brief allows framework selection, choosing three frameworks you can Critically Evaluate with genuine depth (engaging with their assumptions and peer-reviewed evidence) is more effective than selecting three frameworks you can only describe and apply.
 
+The [Harvard Business Review](https://hbr.org/topic/strategy) publishes peer-reviewed strategic management research and case studies that form the primary source evidence base for Critically Evaluate-depth analysis in this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 602 Assignment Help](/cmi-602-assignment-help/), Leading and Developing People: Bass & Avolio transformational leadership at Critically Evaluate depth

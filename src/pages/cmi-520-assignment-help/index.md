@@ -121,4 +121,6 @@ Send your unit brief, customer experience scenario, target grade, and deadline v
 - [CMI 523 Assignment Help](/cmi-523-assignment-help/), Managing Quality and Improvement, quality frameworks that underpin service quality
 - [CMI 515 Assignment Help](/cmi-515-assignment-help/), Creating and Delivering Operational Plans, operational plans drive customer experience delivery
 
+The [Chartered Institute of Marketing](https://www.cim.co.uk/) provides research-based guidance on account management and client relationship strategy relevant to the Evaluate-depth scenarios in this CMI unit.
+
 [WhatsApp for CMI Unit 520 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

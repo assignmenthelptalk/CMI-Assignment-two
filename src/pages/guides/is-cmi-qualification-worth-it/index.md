@@ -149,4 +149,6 @@ Send your unit brief, target grade, and deadline via WhatsApp. A quote is return
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, all formats
 - [CMI Qualification Levels Explained](/guides/cmi-qualification-levels-explained/), What each level covers, who studies it, and how they connect
 
+The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes salary and career progression evidence for qualified managers and leaders across all CMI membership levels.
+
 [WhatsApp for CMI Assignment Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

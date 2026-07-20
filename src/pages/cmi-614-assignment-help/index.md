@@ -82,6 +82,8 @@ ISO 31000 is a voluntary international standard, not a statutory requirement. UK
 **What peer-reviewed sources should I use for Unit 614?**
 Core sources: Power, M. (2009) 'The risk management of nothing', *Accounting, Organizations and Society*, 34(6–7), pp.849–855; Taleb, N.N. (2007) *The Black Swan*, Random House; Kahneman, D. (2011) *Thinking, Fast and Slow*, Allen Lane (on cognitive biases in risk assessment); Bowman, C. and Ambrosini, V. (1997) 'Perceptions of strategic priorities, consensus and firm performance', *Journal of Management Studies*, 34(2); ISO 31000:2018; COSO (2017) *Enterprise Risk Management: Integrating with Strategy and Performance*; HM Treasury (2023) *Orange Book: Management of Risk, Principles and Concepts*.
 
+The [Chartered Management Institute](https://www.managers.org.uk/) publishes quality management research and operational excellence frameworks that support the Critically Evaluate depth required in this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 606 Assignment Help](/cmi-606-assignment-help/), Financial Management: financial risk management within investment appraisal

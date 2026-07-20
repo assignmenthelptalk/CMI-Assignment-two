@@ -103,4 +103,6 @@ Send your unit brief, organisational context, target grade, and deadline via Wha
 - [CMI 515 Assignment Help](/cmi-515-assignment-help/), Creating and Delivering Operational Plans, operational plans translate strategy into action
 - [CMI 519 Assignment Help](/cmi-519-assignment-help/), Leading Innovation and Change, innovation as a strategic growth driver
 
+The [CIPD's communications factsheet](https://www.cipd.org/uk/knowledge/factsheets/communications-factsheet/) provides evidence on internal communication strategy and practice that directly supports the frameworks assessed in this CMI Level 5 unit.
+
 [WhatsApp for CMI Unit 518 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

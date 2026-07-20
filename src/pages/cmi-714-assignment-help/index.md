@@ -95,6 +95,8 @@ McAfee and Brynjolfsson (2017) argue that the Machine shift, AI and automation r
 **What NHS-specific sources should I use to contextualise Unit 714?**
 NHS-specific sources that strengthen Unit 714 contextualisation: NHS Digital Strategy 2021–2026; NHS England (2019) *The NHS Long Term Plan* (digital health commitments); NHS England (2021) *Transforming NHS Infrastructure, Our Digital Enabling Strategy*; NHS Transformation Directorate guidance on EPR adoption; Topol Review (2019) *Preparing the Healthcare Workforce to Deliver the Digital Future*, a peer-reviewed NHS workforce planning document specifically addressing the Machine shift. These policy sources provide the institutional context for applying Westerman et al., Bharadwaj et al., and McAfee & Brynjolfsson to NHS digital transformation, and citing them at source (rather than through secondary summaries) demonstrates the Level 7 requirement for primary source engagement.
 
+The [Financial Reporting Council](https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/) and the UK Corporate Governance Code provide the statutory ethics and governance framework for the Critically Analyse engagement required in this CMI Level 7 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg, Barney, Teece, the strategic context within which digital strategy is developed

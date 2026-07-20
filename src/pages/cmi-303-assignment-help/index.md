@@ -93,6 +93,8 @@ Unit 303 asks you to apply motivation theory to managing individuals, which inhe
 **What other motivation frameworks can I use alongside Maslow and Herzberg?**
 At Level 3, the most commonly used additional frameworks are: McClelland's Theory of Needs (Achievement, Affiliation, Power), useful for explaining individual differences in motivation orientation; Vroom's Expectancy Theory, useful for explaining why performance expectations must be seen as achievable; and McGregor's Theory X and Theory Y, useful for explaining how management assumptions about people affect individual motivation. Any of these can supplement Maslow and Herzberg without replacing them. At Level 3, depth of application on two frameworks is more valuable than breadth across four frameworks at surface level.
 
+The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) publishes research-based factsheets on managing individuals, motivation, and performance that underpin the frameworks assessed in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 301 Assignment Help](/cmi-301-assignment-help/), Principles of Management and Leadership: Kotter, Mintzberg, leadership styles

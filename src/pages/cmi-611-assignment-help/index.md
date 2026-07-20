@@ -80,6 +80,8 @@ Yes. The Level 6 Critically Evaluate standard requires reaching a defensible pos
 **What is the TCFD framework and should I include it in Unit 611?**
 The Task Force on Climate-related Financial Disclosures (TCFD) is a framework for reporting climate-related risks and opportunities in financial filings. The UK Government mandated TCFD-aligned disclosure for large listed companies from April 2022. At Level 6, TCFD is relevant as an example of the regulatory migration of environmental CSR from voluntary (philanthropic tier) to mandatory (legal tier), demonstrating Carroll's tier hierarchy dynamic in practice. Including TCFD as an illustration of the legal tier's expanding environmental scope strengthens the Carroll Critically Evaluate analysis and demonstrates current regulatory awareness.
 
+The [Financial Reporting Council](https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/) publishes the UK Corporate Governance Code — the primary statutory framework for the corporate governance practice assessed at Critically Evaluate depth in this CMI unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 605 Assignment Help](/cmi-605-assignment-help/), Developing Organisational Strategy: CSR as a strategic positioning dimension

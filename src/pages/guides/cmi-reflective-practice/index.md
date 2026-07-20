@@ -119,6 +119,8 @@ A management report (the primary format at Levels 5 and 6) is written in third-p
 
 Send your unit brief, the scenario you are planning to reflect on, and your target grade via WhatsApp. A quote is returned within 2 hours. A writer or tutor with CMI Level 5 or Level 7 qualification, experienced in Gibbs and Kolb application at the correct command verb depth, is assigned.
 
+The [CIPD's CPD guidance](https://www.cipd.org/uk/knowledge/factsheets/cpd-factsheet/) provides the professional development evidence base that complements the Gibbs and Kolb frameworks covered in this guide to CMI reflective practice.
+
 ## Related CMI Assignment Support
 
 - [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), Unit 513 (reflective account) is one of 25 Level 5 units, full Level 5 support across all units and the management report format

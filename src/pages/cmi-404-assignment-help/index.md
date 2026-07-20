@@ -78,6 +78,8 @@ Unit 404 at Level 4 applies Lewin and Kotter at Analyse and Evaluate depth, the 
 **Can I write Unit 404 about a change I was affected by rather than one I led?**
 Yes. Unit 404 can be written about a change you observed, participated in as a team member, or led. The requirement is that the change scenario is real and specific enough to ground the Force Field Analysis, you need to know what the driving and restraining forces were and what the management approach was. If writing about a change you observed rather than led, frame the evaluation as an assessment of the approach taken, with conclusions about what could have been done differently and why.
 
+[GOV.UK financial guidance for businesses](https://www.gov.uk/topic/business-tax) sets the regulatory context within which the financial resource management responsibilities assessed in this CMI unit operate.
+
 ## Related CMI Assignment Help
 
 - [CMI 403 Assignment Help](/cmi-403-assignment-help/), Leading and Managing a Team: team dynamics during change

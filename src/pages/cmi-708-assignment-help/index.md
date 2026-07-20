@@ -134,4 +134,6 @@ Send the unit brief, target grade, and deadline via WhatsApp. A fixed quote is r
 - [CMI 701 Assignment Help](/cmi-701-assignment-help/), Personal development as a strategic leader, double-loop learning (Argyris and Schön, 1978) as a foundation for the questioning of governing assumptions that disruptive change requires
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, all formats
 
+The [Harvard Business Review](https://hbr.org/topic/innovation) publishes Christensen's disruptive innovation research and strategic change evidence at the postgraduate depth required for Critically Analyse engagement in this CMI Level 7 unit.
+
 [WhatsApp for CMI Unit 708 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

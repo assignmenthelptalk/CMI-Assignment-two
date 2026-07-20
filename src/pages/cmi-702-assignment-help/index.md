@@ -135,4 +135,6 @@ Send the unit brief, target grade (Pass, Merit, or Distinction), and deadline vi
 - [NHS Management and CMI Qualifications](/guides/nhs-management-cmi-qualifications/), NHS Leadership Academy, transformational leadership in NHS context, Band 8+ and executive CMI pathways
 - [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, strategic paper format
 
+The [Financial Reporting Council](https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/) publishes the UK Corporate Governance Code and ethical leadership standards that provide the governance framework for the Critically Analyse engagement required in this CMI Level 7 unit.
+
 [WhatsApp for CMI Unit 702 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

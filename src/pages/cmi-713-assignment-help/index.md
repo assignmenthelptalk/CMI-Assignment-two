@@ -93,6 +93,8 @@ Gratton (2011) identifies five forces reshaping work. Applied to NHS: Technology
 **How long is the Unit 713 strategic paper and how should sections be weighted?**
 CMI does not prescribe word counts for Level 7 papers. A thorough Unit 713 paper typically runs 4,000–6,000 words. The four primary frameworks (Galbraith, Ulrich & Brockbank, Gratton, Miles & Snow) each warrant 400–600 words at Critically Analyse depth. The central debate section (design determinism vs adaptive futures) is the synthesis locus and should be 600–900 words. The Executive Summary is 200–250 words. Strategic recommendations should be directional and theoretically grounded, not SMART operational objectives. Conclusion 200–300 words restating the synthesis. The distinction between description (what the framework says) and critical analysis (what it contributes, what its limitations are, what the synthesis position is) is the primary marking criterion.
 
+The [Harvard Business Review](https://hbr.org/topic/knowledge-management) publishes knowledge management research at the postgraduate academic standard required for primary source engagement in this CMI Level 7 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg, Barney, Teece, the strategic context within which organisational design choices are made

@@ -146,4 +146,6 @@ Send your unit brief, the development experience you want to reflect on, target 
 - [CMI 512 Assignment Help](/cmi-512-assignment-help/), Becoming an Effective Leader, Goleman's self-awareness connects to Johari Window blind spot identification
 - [CMI Reflective Practice Guide](/guides/cmi-reflective-practice/), Gibbs and Kolb explained for CMI assignments
 
+The [Chartered Institute of Procurement and Supply](https://www.cips.org/) is the global professional body for procurement and provides the professional standards and research base underpinning this CMI procurement and supply unit.
+
 [WhatsApp for CMI Unit 525 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

@@ -142,4 +142,6 @@ Send your unit brief, quality management scenario, target grade, and deadline vi
 - [CMI 520 Assignment Help](/cmi-520-assignment-help/), Managing and Improving the Customer Experience, SERVQUAL connects to quality measurement
 - [CMI 515 Assignment Help](/cmi-515-assignment-help/), Creating and Delivering Operational Plans, operational KPIs connect to quality measurement
 
+The [Association for Project Management](https://www.apm.org.uk/) publishes the APM Body of Knowledge and programme management standards that provide the professional framework underpinning this CMI project portfolio unit.
+
 [WhatsApp for CMI Unit 523 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

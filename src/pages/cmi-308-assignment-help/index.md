@@ -77,6 +77,8 @@ The organisation's duty of care under the Health and Safety at Work Act 1974 ext
 **Is it appropriate to manage volunteers the same way as paid staff?**
 No, and explaining why is a core learning outcome of Unit 308. The absence of financial reward means that management approaches based on financial incentives or disciplinary sanctions are not available. The volunteer's legal status means that attendance cannot be compelled and performance managed through the same formal HR processes available for employees. Volunteer management requires a relationship-based approach that prioritises the volunteer's experience, respects their autonomy, connects their contribution to the organisation's mission, and recognises their contribution in ways that meet their individual motivational drivers.
 
+The [Association for Project Management](https://www.apm.org.uk/), the UK's chartered body for the project profession, publishes the APM Body of Knowledge — the professional standard that informs CMI project management assessment criteria.
+
 ## Related CMI Assignment Help
 
 - [CMI 303 Assignment Help](/cmi-303-assignment-help/), Managing Individuals: Maslow and Herzberg motivation theory that underpins volunteer motivation

@@ -76,6 +76,8 @@ Unit 407 at Level 4 applies project management tools (Gantt chart, Mendelow's st
 **What peer-reviewed sources should I use for Unit 607?**
 Key sources: Flyvbjerg, B., Bruzelius, N. and Rothengatter, W. (2003) *Megaprojects and Risk*, Cambridge University Press (optimism bias in large projects); Turner, J.R. and Müller, R. (2005) 'The project manager's leadership style as a success factor on projects', *Project Management Journal*, 36(2), pp.49–61; Williams, T. (2005) 'Assessing and moving on from the dominant project management discourse in the light of project overruns', *IEEE Transactions on Engineering Management*, 52(4); Conboy, K. (2009) 'Agility from first principles', *European Journal of Information Systems*, 18(4); OGC (2011) *Managing Successful Programmes*, 4th edn, TSO.
 
+The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) publishes research on stakeholder engagement and communication strategy that supports the strategic-level analysis required in this CMI Level 6 unit.
+
 ## Related CMI Assignment Help
 
 - [CMI 604 Assignment Help](/cmi-604-assignment-help/), Developing Strategic Plans: strategic planning that programmes implement
