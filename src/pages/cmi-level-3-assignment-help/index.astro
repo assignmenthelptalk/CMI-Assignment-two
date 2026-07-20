@@ -126,11 +126,9 @@ const units = [
                 {u.priority && <span class="unit-badge">Core Unit</span>}
               </h3>
               <p class="unit-desc">{u.desc}</p>
-            </div>
           </div>
         ))}
       </div>
-      <p class="unit-note">As unit-specific pages are published for each of these twelve units, they will be linked directly from this list.</p>
     </div>
   </section>
 
@@ -332,4 +330,11 @@ const units = [
   .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
   .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
   .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+  a.unit-card { text-decoration: none; color: inherit; display: block; transition: border-color .15s, box-shadow .15s; }
+  a.unit-card:hover { border-color: var(--blue); box-shadow: 0 4px 12px rgba(0,0,0,.12); text-decoration: none; }
+  .unit-cta { font-size: .8rem; font-weight: 600; color: var(--blue-light); margin-top: .75rem; margin-bottom: 0; }
+
+  a.unit-number { text-decoration: none; display: flex; align-items: center; justify-content: center; font-weight: inherit; transition: background .15s, color .15s; }
+  a.unit-number:hover { background: var(--blue); color: #fff; text-decoration: none; }
+
 </style>

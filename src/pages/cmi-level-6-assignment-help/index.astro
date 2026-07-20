@@ -168,12 +168,13 @@ const units = [
       </p>
       <div class="units-grid">
         {units.map(u => (
-          <div class={`unit-card ${u.popular ? 'unit-popular' : ''}`}>
+          <a href={`/cmi-${u.num}-assignment-help/`} class={`unit-card ${u.popular ? 'unit-popular' : ''}`}>
             {u.popular && <span class="popular-tag">High Demand</span>}
             <p class="unit-num">Unit {u.num}</p>
             <h3 class="unit-title">{u.title}</h3>
             <p class="unit-desc">{u.desc}</p>
-          </div>
+            <p class="unit-cta">Get help &rarr;</p>
+          </a>
         ))}
       </div>
     </div>
@@ -559,4 +560,8 @@ const units = [
     .grade-grid { grid-template-columns: 1fr; }
     .position-grid { grid-template-columns: 1fr; }
   }
+  a.unit-card { text-decoration: none; color: inherit; display: block; transition: border-color .15s, box-shadow .15s; }
+  a.unit-card:hover { border-color: var(--blue); box-shadow: 0 4px 12px rgba(0,0,0,.12); text-decoration: none; }
+  .unit-cta { font-size: .8rem; font-weight: 600; color: var(--blue-light); margin-top: .75rem; margin-bottom: 0; }
+
 </style>
