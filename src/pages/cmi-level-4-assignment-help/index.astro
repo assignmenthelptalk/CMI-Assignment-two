@@ -199,8 +199,8 @@ const faqSchema = {
 
       <div class="unit-list">
 
-        <div class="unit-item">
-          <a href="/cmi-401-assignment-help/" class="unit-number">401</a>
+        <a href="/cmi-401-assignment-help/" class="unit-item">
+          <span class="unit-number">401</span>
           <div class="unit-body">
             <h3 class="unit-title">Managerial Styles and Behaviours</h3>
             <p class="unit-desc">
@@ -211,10 +211,10 @@ const faqSchema = {
               strong Diploma anchor unit.
             </p>
           </div>
-        </div>
+        </a>
 
-        <div class="unit-item">
-          <a href="/cmi-402-assignment-help/" class="unit-number">402</a>
+        <a href="/cmi-402-assignment-help/" class="unit-item">
+          <span class="unit-number">402</span>
           <div class="unit-body">
             <h3 class="unit-title">Organisational Culture</h3>
             <p class="unit-desc">
@@ -224,10 +224,10 @@ const faqSchema = {
               as Handy's Culture Types and Schein's Cultural Model.
             </p>
           </div>
-        </div>
+        </a>
 
-        <div class="unit-item">
-          <a href="/cmi-403-assignment-help/" class="unit-number">403</a>
+        <a href="/cmi-403-assignment-help/" class="unit-item">
+          <span class="unit-number">403</span>
           <div class="unit-body">
             <h3 class="unit-title">Managing Stakeholder Relationships</h3>
             <p class="unit-desc">
@@ -237,10 +237,10 @@ const faqSchema = {
               different stakeholder groups at department level.
             </p>
           </div>
-        </div>
+        </a>
 
-        <div class="unit-item">
-          <a href="/cmi-404-assignment-help/" class="unit-number">404</a>
+        <a href="/cmi-404-assignment-help/" class="unit-item">
+          <span class="unit-number">404</span>
           <div class="unit-body">
             <h3 class="unit-title">Understanding Financial Management</h3>
             <p class="unit-desc">
@@ -249,10 +249,10 @@ const faqSchema = {
               financial reporting and resource allocation decisions within their department.
             </p>
           </div>
-        </div>
+        </a>
 
-        <div class="unit-item">
-          <a href="/cmi-405-assignment-help/" class="unit-number">405</a>
+        <a href="/cmi-405-assignment-help/" class="unit-item">
+          <span class="unit-number">405</span>
           <div class="unit-body">
             <h3 class="unit-title">Managing Meetings</h3>
             <p class="unit-desc">
@@ -262,10 +262,10 @@ const faqSchema = {
               and documenting formal meetings.
             </p>
           </div>
-        </div>
+        </a>
 
-        <div class="unit-item">
-          <a href="/cmi-406-assignment-help/" class="unit-number">406</a>
+        <a href="/cmi-406-assignment-help/" class="unit-item">
+          <span class="unit-number">406</span>
           <div class="unit-body">
             <h3 class="unit-title">Managing Risk</h3>
             <p class="unit-desc">
@@ -275,10 +275,10 @@ const faqSchema = {
               Frequently submitted in management report format.
             </p>
           </div>
-        </div>
+        </a>
 
-        <div class="unit-item">
-          <a href="/cmi-407-assignment-help/" class="unit-number">407</a>
+        <a href="/cmi-407-assignment-help/" class="unit-item">
+          <span class="unit-number">407</span>
           <div class="unit-body">
             <h3 class="unit-title">Workforce Planning</h3>
             <p class="unit-desc">
@@ -288,10 +288,10 @@ const faqSchema = {
               suited to their operational context.
             </p>
           </div>
-        </div>
+        </a>
 
-        <div class="unit-item">
-          <a href="/cmi-408-assignment-help/" class="unit-number">408</a>
+        <a href="/cmi-408-assignment-help/" class="unit-item">
+          <span class="unit-number">408</span>
           <div class="unit-body">
             <h3 class="unit-title">Procurement and Supplier Management</h3>
             <p class="unit-desc">
@@ -301,10 +301,10 @@ const faqSchema = {
               relationships and compliance.
             </p>
           </div>
-        </div>
+        </a>
 
-        <div class="unit-item">
-          <a href="/cmi-409-assignment-help/" class="unit-number">409</a>
+        <a href="/cmi-409-assignment-help/" class="unit-item">
+          <span class="unit-number">409</span>
           <div class="unit-body">
             <h3 class="unit-title">Sales and Account Management</h3>
             <p class="unit-desc">
@@ -314,10 +314,10 @@ const faqSchema = {
               Commonly selected in commercial and retail management contexts.
             </p>
           </div>
-        </div>
+        </a>
 
-        <div class="unit-item">
-          <a href="/cmi-410-assignment-help/" class="unit-number">410</a>
+        <a href="/cmi-410-assignment-help/" class="unit-item">
+          <span class="unit-number">410</span>
           <div class="unit-body">
             <h3 class="unit-title">Developing Customer Relationships</h3>
             <p class="unit-desc">
@@ -327,10 +327,10 @@ const faqSchema = {
               and their organisation's commercial objectives.
             </p>
           </div>
-        </div>
+        </a>
 
-        <div class="unit-item">
-          <a href="/cmi-411-assignment-help/" class="unit-number">411</a>
+        <a href="/cmi-411-assignment-help/" class="unit-item">
+          <span class="unit-number">411</span>
           <div class="unit-body">
             <h3 class="unit-title">Managing a Marketing Campaign</h3>
             <p class="unit-desc">
@@ -340,7 +340,7 @@ const faqSchema = {
               marketing decisions against stated commercial outcomes.
             </p>
           </div>
-        </div>
+        </a>
 
       </div>
     </div>
@@ -932,6 +932,8 @@ const faqSchema = {
     gap: 1rem;
     margin-top: 1.75rem;
   }
+  a.unit-item { text-decoration: none; color: inherit; cursor: pointer; }
+  a.unit-item:hover { border-color: var(--blue); box-shadow: 0 4px 12px rgba(0,0,0,.1); }
   .unit-item {
     display: flex;
     gap: 1.25rem;
