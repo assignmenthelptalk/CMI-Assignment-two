@@ -246,19 +246,19 @@ const levels = [
       <h2 class="section-title" id="how-to-set-up-coursework-support-for-your-diploma">How to Set Up Coursework Support for Your Diploma</h2>
       <ol class="order-steps">
         <li>
-          <strong>Message us on WhatsApp</strong> with your full unit list — or as many units as you
+          <span><strong>Message us on WhatsApp</strong> with your full unit list — or as many units as you
           currently have confirmed by your training provider — your qualification level, your
-          organisational context and target grade, and the deadlines you already know.
+          organisational context and target grade, and the deadlines you already know.</span>
         </li>
         <li>
-          <strong>Receive a fixed quote within 2 hours.</strong> The quote covers the coursework
+          <span><strong>Receive a fixed quote within 2 hours.</strong> The quote covers the coursework
           arrangement either priced per unit as each brief comes in, or as an agreed package across a
-          known set of units.
+          known set of units.</span>
         </li>
         <li>
-          <strong>Send each unit brief via WhatsApp as it becomes available.</strong> Because your
+          <span><strong>Send each unit brief via WhatsApp as it becomes available.</strong> Because your
           context is already on file, turnaround depends only on the specific unit brief and its
-          deadline — not on re-establishing the basics again.
+          deadline — not on re-establishing the basics again.</span>
         </li>
       </ol>
       <div class="order-cta">
@@ -430,7 +430,7 @@ const levels = [
   }
   .order-steps li {
     counter-increment: steps;
-    display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem;
+    position: relative; padding-left: 3.5rem; min-height: 2.5rem;
     font-size: .95rem; line-height: 1.65;
   }
   .order-steps li::before {
@@ -438,7 +438,8 @@ const levels = [
     display: flex; align-items: center; justify-content: center;
     width: 2.5rem; height: 2.5rem; border-radius: 50%;
     background: var(--blue); color: #fff;
-    font-weight: 700; font-size: 1rem; flex-shrink: 0;
+    font-weight: 700; font-size: 1rem;
+    position: absolute; left: 0; top: 0;
   }
   .order-cta { text-align: center; }
 
