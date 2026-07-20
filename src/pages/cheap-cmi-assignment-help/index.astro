@@ -1,0 +1,482 @@
+﻿---
+import Layout from '../../layouts/Layout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447916696894';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is cheap CMI assignment help actually lower quality?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Competitive pricing at CMI Assignment Help UK comes from how the service is structured — direct WhatsApp contact with writers, no call centre or account manager layer, no reseller markup — not from reducing research time, source count, or Learning Outcome coverage. Every order, regardless of price, goes through the same brief analysis, writer matching, referencing, and completion check before delivery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do prices vary between CMI levels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Price reflects what the assessment actually demands at each level. Level 3 and Level 4 assignments require fewer sources and less analytical depth than Level 6 and Level 7, which require peer-reviewed sources and postgraduate-depth writing at Critically Evaluate or Critically Analyse standard. The difference in price mirrors the difference in the work required, not an arbitrary scale between levels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does a longer word count always cost more?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally yes, because a longer word count requires proportionally more research, structuring, and referencing to reach the same standard throughout. This is not a flat per-page markup — it reflects the actual time and source depth needed to sustain the required quality across a longer piece of work. Your quote will state clearly how word count has factored into the figure you are given."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a fixed price before I confirm my order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Message your unit number, qualification level, word count, and deadline via WhatsApp, and you will receive a fixed quote within two hours. No payment is required to receive the quote, and the quote will not change once you confirm the order unless you subsequently change the brief, word count, or deadline yourself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there an extra fee for urgent turnaround?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, urgent turnaround (typically 48 to 72 hours, compared to the standard five to ten days depending on level) is priced higher than standard turnaround, because it requires a writer to reprioritise other work to meet your deadline. The exact urgent fee is confirmed at quote stage along with the standard-turnaround price, so you can compare both before deciding."
+      }
+    }
+  ]
+};
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Cheap CMI Assignment Help",
+  "description": "Competitive, transparent UK pricing for CMI assignments across all qualification levels, with the same quality assurance process applied regardless of price band.",
+  "provider": {
+    "@type": "Organization",
+    "name": "CMI Assignment Help UK",
+    "url": siteUrl
+  },
+  "areaServed": "United Kingdom",
+  "serviceType": "Academic Writing Service"
+};
+
+const priceFactors = [
+  { name: "Qualification Level", detail: "Level 3–4 require less analytical depth and fewer sources than Level 6–7, which need peer-reviewed sources and postgraduate-depth writers." },
+  { name: "Word Count", detail: "CMI word counts scale from 1,500–2,500 at Level 3 up to 5,000–6,500 at Level 7. Price scales with research and writing volume, not a per-page markup." },
+  { name: "Turnaround", detail: "Standard turnaround (5–10 days) is priced lower than urgent turnaround (48–72 hours), which requires a writer to reprioritise other work." },
+];
+
+const levels = [
+  { level: "CMI Level 3", units: "Units 301–312", words: "1,500–2,500", band: "Most affordable band", note: "Structured essay, 5–8 sources", slug: "/cmi-level-3-assignment-help/" },
+  { level: "CMI Level 4", units: "Units 401–411", words: "2,000–3,500", band: "Modestly higher than L3", note: "Analyse/Evaluate depth, 8–10 sources", slug: "/cmi-level-4-assignment-help/" },
+  { level: "CMI Level 5", units: "Units 501–525", words: "3,000–5,000", band: "Mid-range — most ordered", note: "Management report, 10–12 sources", slug: "/cmi-level-5-assignment-help/" },
+  { level: "CMI Level 6", units: "Units 601–616", words: "4,000–5,000", band: "Higher than L5", note: "Critically Evaluate, 12–15 sources", slug: "/cmi-level-6-assignment-help/" },
+  { level: "CMI Level 7", units: "Units 701–717", words: "5,000–6,500", band: "Highest band", note: "Strategic scope, 15–20 peer-reviewed sources", slug: "/cmi-level-7-assignment-help/" },
+];
+
+const qaSteps = [
+  "Brief analysis against the unit's Learning Outcomes and command verbs before writing starts",
+  "Writer matching by qualification level and unit subject — never assigned generically",
+  "Harvard referencing to the minimum source count required for the level",
+  "Completed-assignment check against the original brief before delivery",
+  "Revision included if the delivered assignment does not meet the original brief",
+];
+---
+
+<Layout
+  title="Cheap CMI Assignment Help — Competitive UK Pricing, No Quality Compromise"
+  description="Affordable CMI assignment help with competitive UK pricing across Levels 3 to 7. See what determines your price — level, word count, turnaround — and get a fixed WhatsApp quote within 2 hours."
+  canonical={siteUrl + '/cheap-cmi-assignment-help/'}
+  pageSchema={[serviceSchema, faqSchema]}
+>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">Competitive UK Pricing &bull; All Levels 3–7</p>
+      <h1>Cheap CMI Assignment Help — Competitive UK Pricing, No Quality Compromise</h1>
+      <p class="hero-sub">
+        Affordable CMI assignment help means transparent, competitive UK pricing — not a reduced standard of work.
+        Every assignment, whatever the price band, goes through the same Learning Outcome mapping, command verb
+        calibration, and Harvard referencing process. Price is shaped by your level, word count, and turnaround —
+        never by cutting corners.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get a Fixed WhatsApp Quote
+      </a>
+      <p class="hero-note">Fixed quote within 2 hours &bull; All 5 levels &bull; Same QA process at every price point</p>
+    </div>
+  </section>
+
+  <TableOfContents />
+
+  <!-- What Affordable Means -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="what-affordable-actually-means-at-cmi-assignment-help-uk">What "Affordable" Actually Means at CMI Assignment Help UK</h2>
+      <p class="section-lead">
+        A low price can be a warning sign — it's a fair question to ask what's being cut to hit that price.
+        Here's what actually keeps our pricing competitive.
+      </p>
+      <p>
+        Competitive pricing does not come from cutting research time, skipping Learning Outcome mapping, or
+        reusing generic content across students. It comes from how the service is structured: there is no call
+        centre, no account manager layer, and no reseller margin stacked on top of what the writer is actually
+        paid. You message a UK-based writer directly through WhatsApp, describe your unit and brief, and receive
+        a quote that reflects the real cost of producing your assignment.
+      </p>
+      <p>
+        The quality assurance process is identical across every price band. A Level 3 structured essay and a
+        Level 7 strategic paper both go through brief analysis against the Learning Outcomes, writer matching by
+        qualification level and subject, and referencing to the minimum source count for that level. What changes
+        between price points is the level, the word count, and the turnaround — never the standard the work is
+        held to. The full scope of what is included in every order is set out on the
+        <a href="/cmi-assignment-writing-service/">CMI assignment writing service</a> page.
+      </p>
+    </div>
+  </section>
+
+  <!-- Price Factors -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="what-determines-the-price-of-a-cmi-assignment">What Determines the Price of a CMI Assignment</h2>
+      <p class="section-lead">
+        Three factors determine price, in order of impact. Every quote states which of these is driving the figure.
+      </p>
+      <div class="factor-grid">
+        {priceFactors.map((f, i) => (
+          <div class="factor-card">
+            <span class="factor-num">{i + 1}</span>
+            <h3>{f.name}</h3>
+            <p>{f.detail}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Price by Level -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="price-by-qualification-level-what-to-expect">Price by Qualification Level — What to Expect</h2>
+      <p class="section-lead">
+        Relative pricing across the five CMI levels. These describe positioning, not a fixed public price list —
+        exact prices are confirmed after your specific brief is reviewed.
+      </p>
+      <div class="levels-table">
+        {levels.map(l => (
+          <div class="level-row">
+            <div class="level-name">
+              <a href={l.slug}>{l.level}</a>
+              <span class="level-units">{l.units}</span>
+            </div>
+            <div class="level-detail">
+              <span><strong>Words:</strong> {l.words}</span>
+              <span><strong>Band:</strong> {l.band}</span>
+              <span>{l.note}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- How Prices Stay Competitive -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="how-we-keep-prices-competitive-without-cutting-quality">How We Keep Prices Competitive Without Cutting Quality</h2>
+      <p>
+        Competitive pricing comes from three structural choices, not from reducing the work. Direct WhatsApp
+        contact between you and the writer removes the layers a larger agency typically builds in: no call
+        centre staff, no account manager, no reseller markup sitting on top of the writer's fee. Writers are
+        matched directly to units they are qualified in, which reduces the revision cycles and re-work that would
+        otherwise need to be priced into the quote. Fixed quotes are given upfront within two hours of your
+        message, so there is no scope creep and no hidden fee added once work has started.
+      </p>
+      <p>
+        These are efficiencies in how the service is run, not shortcuts in what you receive. The research time,
+        Learning Outcome mapping, and referencing standard applied to a Level 3 essay are proportionate to that
+        unit's requirements in exactly the same way they are for a Level 7 strategic paper — the process scales
+        with the brief, not with the price you are paying.
+      </p>
+    </div>
+  </section>
+
+  <!-- Quality Assurance -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="quality-assurance-at-a-lower-price-point">Quality Assurance at a Lower Price Point</h2>
+      <p class="section-lead">
+        Every order, at every price point, goes through the same five-step quality assurance process.
+      </p>
+      <ul class="includes-list">
+        {qaSteps.map(step => (
+          <li>{step}</li>
+        ))}
+      </ul>
+      <p>
+        None of these five steps is skipped or reduced to reach a lower price point. The price you are quoted
+        reflects the level, the word count, and the turnaround you need — never a reduction in the quality
+        assurance process itself. The wider service, including how orders are handled end to end, is covered on
+        the <a href="/cmi-assignment-help-online/">CMI assignment help online</a> page.
+      </p>
+      <div class="order-cta">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Ask About Your Unit's Price
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- How to Get a Quote -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="how-to-get-a-whatsapp-quote">How to Get a WhatsApp Quote</h2>
+      <ol class="order-steps">
+        <li>
+          <strong>Message us on WhatsApp</strong> with your unit number, your qualification level, the word
+          count stated in your brief, and your submission deadline.
+        </li>
+        <li>
+          <strong>Receive a fixed quote within 2 hours</strong> that breaks down how your level, word count,
+          and turnaround shaped the figure — not a single number with no explanation.
+        </li>
+        <li>
+          <strong>Confirm your order</strong> and a writer matched to your level and unit subject begins work.
+          No payment is required to receive a quote, and there are no hidden fees added afterwards.
+        </li>
+      </ol>
+      <p class="order-note">
+        If you would prefer someone to manage the whole process for you rather than write it yourself, this is
+        the same pricing structure used for the pay someone to do my CMI assignment service.
+      </p>
+      <div class="order-cta">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Message Us for a Quote
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="cheap-cmi-assignment-help-faq">Cheap CMI Assignment Help — Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary class="faq-q">Is cheap CMI assignment help actually lower quality?</summary>
+          <div class="faq-a">
+            <p>No. Competitive pricing at CMI Assignment Help UK comes from how the service is structured —
+            direct WhatsApp contact with writers, no call centre or account manager layer, no reseller markup —
+            not from reducing research time, source count, or Learning Outcome coverage. Every order, regardless
+            of price, goes through the same brief analysis, writer matching, referencing, and completion check
+            before delivery.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Why do prices vary between CMI levels?</summary>
+          <div class="faq-a">
+            <p>Price reflects what the assessment actually demands at each level. Level 3 and Level 4
+            assignments require fewer sources and less analytical depth than Level 6 and Level 7, which require
+            peer-reviewed sources and postgraduate-depth writing at Critically Evaluate or Critically Analyse
+            standard. The difference in price mirrors the difference in the work required, not an arbitrary
+            scale between levels.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Does a longer word count always cost more?</summary>
+          <div class="faq-a">
+            <p>Generally yes, because a longer word count requires proportionally more research, structuring,
+            and referencing to reach the same standard throughout. This is not a flat per-page markup — it
+            reflects the actual time and source depth needed to sustain the required quality across a longer
+            piece of work. Your quote will state clearly how word count has factored into the figure you are
+            given.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Can I get a fixed price before I confirm my order?</summary>
+          <div class="faq-a">
+            <p>Yes. Message your unit number, qualification level, word count, and deadline via WhatsApp, and
+            you will receive a fixed quote within two hours. No payment is required to receive the quote, and
+            the quote will not change once you confirm the order unless you subsequently change the brief,
+            word count, or deadline yourself.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Is there an extra fee for urgent turnaround?</summary>
+          <div class="faq-a">
+            <p>Yes, urgent turnaround (typically 48 to 72 hours, compared to the standard five to ten days
+            depending on level) is priced higher than standard turnaround, because it requires a writer to
+            reprioritise other work to meet your deadline. The exact urgent fee is confirmed at quote stage
+            along with the standard-turnaround price, so you can compare both before deciding.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- Supplementary -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="related-cmi-assignment-services">Related CMI Assignment Services</h2>
+      <div class="supp-grid">
+        <a href="/cmi-assignment-writing-service/" class="supp-card">
+          <h3>CMI Assignment Writing Service</h3>
+          <p>What every order includes regardless of price band — correct CMI format, full Learning Outcome coverage, command verb calibration, and Harvard referencing to CMI standards.</p>
+        </a>
+        <a href="/cmi-assignment-help-online/" class="supp-card">
+          <h3>CMI Assignment Help Online</h3>
+          <p>The full service overview — how orders are placed, how writers are matched, and how confidentiality and delivery work end to end.</p>
+        </a>
+        <a href="/cmi-level-5-assignment-help/" class="supp-card">
+          <h3>CMI Level 5 Assignment Help</h3>
+          <p>The most frequently ordered level. Mid-range pricing reflecting management report format and Evaluate-depth analysis across all 25 units.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>Get Your Fixed Quote in 2 Hours</h2>
+      <p>Message us on WhatsApp with your unit number, level, word count, and deadline. Competitive UK pricing, no quality compromise, across all levels 3 to 7.</p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        WhatsApp Us Your Brief
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    color: #fff;
+    padding: 5rem 0 4rem;
+    text-align: center;
+  }
+  .hero-inner { max-width: 780px; margin: 0 auto; }
+  .eyebrow {
+    font-size: .8rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem;
+  }
+  .hero h1 {
+    font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 800;
+    color: #fff; margin-bottom: 1.25rem; line-height: 1.2;
+  }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+  .hero-note { font-size: .82rem; color: #93c5fd; margin-top: .75rem; }
+
+  .narrow { max-width: 860px; }
+
+  .factor-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1.5rem;
+  }
+  .factor-card {
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 10px; padding: 1.5rem; box-shadow: var(--shadow);
+    position: relative;
+  }
+  .factor-num {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 2rem; height: 2rem; border-radius: 50%;
+    background: var(--blue); color: #fff; font-weight: 700; font-size: .9rem;
+    margin-bottom: .75rem;
+  }
+  .factor-card h3 { font-size: 1.05rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .factor-card p { font-size: .9rem; color: var(--text-muted); line-height: 1.6; }
+
+  .levels-table { display: flex; flex-direction: column; gap: .75rem; }
+  .level-row {
+    display: grid; grid-template-columns: 220px 1fr;
+    border: 1px solid var(--border); border-radius: 8px; overflow: hidden;
+  }
+  .level-name {
+    background: var(--navy); padding: 1.25rem;
+    display: flex; flex-direction: column; gap: .35rem;
+  }
+  .level-name a {
+    color: #fff; font-weight: 700; font-size: 1rem; text-decoration: none;
+  }
+  .level-name a:hover { text-decoration: underline; }
+  .level-units { color: #93c5fd; font-size: .8rem; }
+  .level-detail {
+    padding: 1.25rem; background: var(--bg-light);
+    display: flex; flex-wrap: wrap; gap: .75rem 2rem; align-items: center;
+  }
+  .level-detail span { font-size: .88rem; color: var(--text); }
+
+  .includes-list {
+    display: flex; flex-direction: column; gap: 1rem;
+    list-style: none; padding: 0; margin-bottom: 1.5rem;
+  }
+  .includes-list li {
+    padding: 1.25rem 1.5rem;
+    background: var(--bg-light);
+    border-left: 4px solid var(--blue);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-size: .95rem; line-height: 1.65;
+  }
+
+  .order-steps {
+    display: flex; flex-direction: column; gap: 1rem;
+    padding-left: 0; list-style: none; counter-reset: steps; margin-bottom: 1.5rem;
+  }
+  .order-steps li {
+    counter-increment: steps;
+    display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem;
+    font-size: .95rem; line-height: 1.65;
+  }
+  .order-steps li::before {
+    content: counter(steps);
+    display: flex; align-items: center; justify-content: center;
+    width: 2.5rem; height: 2.5rem; border-radius: 50%;
+    background: var(--blue); color: #fff;
+    font-weight: 700; font-size: 1rem; flex-shrink: 0;
+  }
+  .order-note { font-size: .9rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+  .order-cta { text-align: center; margin-top: 1.5rem; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; margin-top: 1.5rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q {
+    display: block; padding: 1.1rem 1.25rem;
+    font-weight: 600; font-size: .975rem; color: var(--navy);
+    cursor: pointer; list-style: none; background: var(--bg-light);
+  }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+  .supp-card {
+    display: block; padding: 1.5rem; background: #fff;
+    border: 1px solid var(--border); border-radius: 10px;
+    text-decoration: none; color: var(--text);
+    box-shadow: var(--shadow); transition: border-color .15s, transform .1s;
+  }
+  .supp-card:hover { border-color: var(--blue); transform: translateY(-2px); text-decoration: none; color: var(--text); }
+  .supp-card h3 { font-size: .975rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .supp-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+
+  @media (max-width: 700px) {
+    .level-row { grid-template-columns: 1fr; }
+    .level-name { padding: .75rem 1rem; }
+  }
+</style>

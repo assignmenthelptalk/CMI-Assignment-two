@@ -1,0 +1,134 @@
+---
+import Layout from './Layout.astro';
+
+const { frontmatter } = Astro.props;
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+---
+
+<Layout
+  title={frontmatter.title}
+  description={frontmatter.description}
+  canonical={frontmatter.canonical ?? siteUrl}
+>
+  <article class="prose-wrap container">
+    <slot />
+  </article>
+</Layout>
+
+<style>
+  .prose-wrap {
+    padding: 3rem 1.25rem 5rem;
+    max-width: 860px;
+  }
+
+  .prose-wrap :global(h1) {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0f2a4a;
+    margin-bottom: 1rem;
+    line-height: 1.25;
+  }
+
+  .prose-wrap :global(h2) {
+    font-size: 1.45rem;
+    font-weight: 700;
+    color: #0f2a4a;
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid #e2e8f0;
+  }
+
+  .prose-wrap :global(h3) {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #1e4d8c;
+    margin-top: 1.75rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .prose-wrap :global(p) {
+    margin-bottom: 1.1rem;
+    line-height: 1.7;
+    color: #1f2937;
+  }
+
+  .prose-wrap :global(ul),
+  .prose-wrap :global(ol) {
+    margin: 0.75rem 0 1.1rem 1.5rem;
+    line-height: 1.7;
+  }
+
+  .prose-wrap :global(li) {
+    margin-bottom: 0.35rem;
+  }
+
+  .prose-wrap :global(strong) {
+    font-weight: 700;
+    color: #0f2a4a;
+  }
+
+  .prose-wrap :global(a) {
+    color: #2563eb;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .prose-wrap :global(a:hover) {
+    color: #1e4d8c;
+  }
+
+  .prose-wrap :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.9rem;
+  }
+
+  .prose-wrap :global(th) {
+    background: #0f2a4a;
+    color: #fff;
+    padding: 0.6rem 0.85rem;
+    text-align: left;
+    font-weight: 600;
+  }
+
+  .prose-wrap :global(td) {
+    padding: 0.55rem 0.85rem;
+    border-bottom: 1px solid #e2e8f0;
+    vertical-align: top;
+  }
+
+  .prose-wrap :global(tr:nth-child(even) td) {
+    background: #f8fafc;
+  }
+
+  .prose-wrap :global(blockquote) {
+    border-left: 4px solid #2563eb;
+    padding: 0.75rem 1.25rem;
+    margin: 1.5rem 0;
+    background: #f0f7ff;
+    color: #1e4d8c;
+    border-radius: 0 6px 6px 0;
+  }
+
+  .prose-wrap :global(code) {
+    background: #f1f5f9;
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    color: #0f2a4a;
+  }
+
+  .prose-wrap :global(hr) {
+    border: none;
+    border-top: 1px solid #e2e8f0;
+    margin: 2.5rem 0;
+  }
+
+  @media (max-width: 640px) {
+    .prose-wrap :global(h1) { font-size: 1.6rem; }
+    .prose-wrap :global(h2) { font-size: 1.25rem; }
+    .prose-wrap :global(table) { font-size: 0.8rem; }
+  }
+</style>

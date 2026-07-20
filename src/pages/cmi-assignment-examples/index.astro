@@ -1,0 +1,555 @@
+﻿---
+import Layout from '../../layouts/Layout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447916696894';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I see a full CMI assignment example before I order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not as a complete, publicly published document. Full examples create an originality risk for any student who reuses or closely paraphrases them, since CMI training providers check submissions against text-matching software. Instead, this page describes example structure, format, and grade differentiation in detail, and a short, unit-specific extract can be requested privately via WhatsApp — enough to see formatting and depth without a document that could be submitted as-is."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you have CMI assignment examples for every level and unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structural guidance is available for all levels 3 to 7 and all three main formats — management report, essay, and reflective account. A sample extract requested via WhatsApp is matched to your specific unit number and level so the structure and command verb depth shown are directly relevant to your brief, rather than a generic example from an unrelated unit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between a Pass, Merit, and Distinction example?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Pass-standard example applies one named theory generally and asserts an impact without weighing competing evidence. A Merit-standard example applies two named frameworks, distinguishes categories of evidence within them, and integrates workplace context throughout. A Distinction-standard example evaluates the frameworks against each other, names specific limitations in each, introduces a further framework to address what the others leave unexplained, and reaches a justified conclusion. The distinction is about testing theoretical choices, not simply adding more sources or words."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will a sample extract match my exact unit brief?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The extract is matched to the unit number, qualification level, and format you provide via WhatsApp, so the structure and command verb depth shown reflect your specific brief rather than a generic example. It remains a short illustration rather than a complete assignment, so it demonstrates the approach without providing content that could be copied into your own submission."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it safe to use a CMI assignment example as a starting point for my own work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An example is safe to use as a structural reference — studying how sections are organised, how theory is applied, and how a command verb is answered. It is not safe to copy or closely paraphrase any example, published or provided as an extract, into your own submission. CMI training providers check for originality, and doing so risks an academic misconduct finding. If you want a complete, original assignment built to your brief, the CMI assignment writing service is the appropriate route."
+      }
+    }
+  ]
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "CMI Assignment Examples — Sample Structures by Level and Format",
+  "description": "CMI assignment examples across Levels 3 to 7 — structured breakdowns of management reports, essays, and reflective accounts showing correct format, section order, and command verb depth.",
+  "url": siteUrl + '/cmi-assignment-examples/',
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "CMI Assignment Help UK",
+    "url": siteUrl
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "CMI assignment"
+  }
+};
+
+const levelExamples = [
+  { level: "CMI Level 3", format: "Structured essay", words: "1,500–2,500", verbs: "Describe, Explain", focus: "Causal-chain structure over description", slug: "/cmi-level-3-assignment-help/" },
+  { level: "CMI Level 4", format: "Essay / early report", words: "2,000–3,500", verbs: "Analyse", focus: "Breaking an issue into components and examining interaction", slug: "/cmi-level-4-assignment-help/" },
+  { level: "CMI Level 5", format: "Management report", words: "3,000–5,000", verbs: "Evaluate", focus: "Executive summary written last; stated, defended conclusion", slug: "/cmi-level-5-assignment-help/" },
+  { level: "CMI Level 6", format: "Advanced management paper", words: "4,000–5,000", verbs: "Critically Evaluate", focus: "Framework critique plus test against an alternative framework", slug: "/cmi-level-6-assignment-help/" },
+  { level: "CMI Level 7", format: "Strategic paper", words: "5,000–6,500", verbs: "Critically Analyse", focus: "Academic debate engagement at organisational/sector scope", slug: "/cmi-level-7-assignment-help/" },
+];
+---
+
+<Layout
+  title="CMI Assignment Examples — Sample Structures by Level and Format | UK"
+  description="See how CMI assignment examples are structured across Levels 3–7 — management reports, essays, and reflective accounts. What Pass, Merit, and Distinction look like. Free sample via WhatsApp."
+  canonical={siteUrl + '/cmi-assignment-examples/'}
+  pageSchema={[webPageSchema, faqSchema]}
+>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">Sample Structures — Levels 3 to 7</p>
+      <h1>CMI Assignment Examples — Sample Structures by Level and Format</h1>
+      <p class="hero-sub">
+        See how strong CMI assignment examples are organised — management reports, structured essays, and
+        reflective accounts — across every qualification level. This page describes example structure and what
+        Merit and Distinction-level work demonstrates rather than publishing a full sample. A free, unit-specific
+        extract is available privately on request.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Request a Free Sample Extract
+      </a>
+      <p class="hero-note">Fixed quote within 2 hours &bull; All 5 levels &bull; All formats</p>
+    </div>
+  </section>
+
+  <TableOfContents />
+
+  <!-- What an example shows -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="what-a-cmi-assignment-example-actually-shows-you">What a CMI Assignment Example Actually Shows You</h2>
+      <p class="section-lead">
+        A useful example is a reference for structure and depth — not content to copy.
+      </p>
+      <ul class="includes-list">
+        <li>
+          <strong>How the response is organised</strong> — section by section, and how much word count each
+          section receives relative to the whole.
+        </li>
+        <li>
+          <strong>How a named theory is applied, not just described</strong> — introduced, then used as an
+          analytical lens against the specific context in the brief.
+        </li>
+        <li>
+          <strong>How the command verb is visibly answered</strong> — Describe, Explain, Analyse, Evaluate,
+          Critically Evaluate, or Critically Analyse, each met at its correct depth for the level.
+        </li>
+        <li>
+          <strong>How a conclusion is derived, not asserted</strong> — recommendations and conclusions
+          that follow logically from the analysis that precedes them.
+        </li>
+      </ul>
+      <p>
+        Students who study examples for structure and depth improve their own drafts faster than students
+        searching for a matching unit to lift from. Every CMI submission is checked for originality by the
+        training provider, and a copied or closely paraphrased example carries an academic integrity risk
+        regardless of where it came from. The
+        <a href="/cmi-assignment-writing-service/">CMI assignment writing service</a> exists for students who
+        want a complete, original, submission-ready document built to their own brief rather than adapted
+        from someone else's example.
+      </p>
+    </div>
+  </section>
+
+  <!-- By level -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="cmi-assignment-examples-by-qualification-level">CMI Assignment Examples by Qualification Level</h2>
+      <p class="section-lead">
+        What a strong example looks like changes considerably by level, because the command verb, the format,
+        and the expected depth all shift as the qualification progresses.
+      </p>
+      <div class="levels-table">
+        {levelExamples.map(l => (
+          <div class="level-row">
+            <div class="level-name">
+              <a href={l.slug}>{l.level}</a>
+              <span class="level-units">{l.format}</span>
+            </div>
+            <div class="level-detail">
+              <span><strong>Words:</strong> {l.words}</span>
+              <span><strong>Command verb:</strong> {l.verbs}</span>
+              <span><strong>Example focus:</strong> {l.focus}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- By format -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="cmi-assignment-examples-by-format-type">CMI Assignment Examples by Format Type</h2>
+      <p class="section-lead">
+        Format literacy matters as much as level. The same Learning Outcome can require a different
+        structural response depending on the format the brief calls for.
+      </p>
+      <div class="formats-grid">
+        <div class="format-card">
+          <h3>Management Report</h3>
+          <p class="format-level">Primary format: CMI Level 5 and Level 6</p>
+          <p>
+            Nine-part structure: title page, executive summary, table of contents, introduction, main
+            analysis sections, SMART recommendations, conclusion, reference list, appendices. Strong
+            examples keep each analysis section focused on one Learning Outcome and one named framework
+            rather than blending several loosely.
+          </p>
+          <p>
+            See the <a href="/cmi-report-writing-help/">CMI report writing help</a> page for a full
+            section-by-section breakdown of this structure.
+          </p>
+        </div>
+        <div class="format-card">
+          <h3>Structured Essay</h3>
+          <p class="format-level">Primary format: CMI Level 3 and Level 4</p>
+          <p>
+            A strong essay example maps each body paragraph to a specific Learning Outcome and command
+            verb, opens with an introduction that states how the essay is structured, and closes with a
+            conclusion that synthesises the argument rather than repeating it.
+          </p>
+        </div>
+        <div class="format-card">
+          <h3>Reflective Account</h3>
+          <p class="format-level">Used across Levels 3, 4, and 5</p>
+          <p>
+            Written in first person around a structured model — Gibbs' Reflective Cycle (description,
+            feelings, evaluation, analysis, conclusion, action plan) or Kolb's Experiential Learning Cycle.
+            Strong examples move through every stage in sequence and connect the experience explicitly to
+            named theory and the unit's Learning Outcomes.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Merit/Distinction -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="what-merit-and-distinction-standard-looks-like-in-a-cmi-example">What Merit and Distinction Standard Looks Like in a CMI Example</h2>
+      <p class="section-lead">
+        Grade differentiation shows up in how an example handles theory and reaches conclusions —
+        not in length or citation count.
+      </p>
+      <div class="grade-example">
+        <p class="example-label">Illustration only — described, not reproduced. Based on a generic Unit 502-style brief on work environment and team performance.</p>
+        <div class="grade-blocks">
+          <div class="grade-block">
+            <h3>Pass</h3>
+            <p>
+              Identifies relevant factors in the situation and applies one named theory at a general level,
+              asserting an impact without weighing competing evidence for and against.
+            </p>
+          </div>
+          <div class="grade-block grade-merit">
+            <h3>Merit</h3>
+            <p>
+              Applies two named frameworks, distinguishes between different categories of evidence within
+              them — for instance, separating hygiene factors from motivators within Herzberg's Two-Factor
+              Theory — and integrates workplace context throughout rather than in one isolated paragraph.
+            </p>
+          </div>
+          <div class="grade-block grade-distinction">
+            <h3>Distinction</h3>
+            <p>
+              Evaluates the two frameworks against each other, names a specific limitation in each — a
+              sequential model that assumes linear progression; a model developed in a different type of
+              work context — introduces a third framework to address what the first two leave unexplained,
+              and reaches a justified conclusion about which framework best explains the situation.
+            </p>
+          </div>
+        </div>
+        <p class="example-note">
+          The difference between Merit and Distinction is rarely a matter of more sources or more words.
+          It is whether the response tests its own theoretical choices and defends a position.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why no full samples -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="why-we-do-not-publish-full-sample-assignments">Why We Do Not Publish Full Sample Assignments</h2>
+      <p>
+        A full, publicly published CMI assignment example creates two problems. The first is originality
+        risk: CMI training providers and assessors use text-matching and originality-checking software, and
+        a student who submits a paraphrased version of a public example risks an academic misconduct finding
+        regardless of how much it was reworded. The second is that once an example is public, its value as a
+        genuine reference declines, because assessors and training providers can see the same page — any
+        submission that resembles it closely gets flagged rather than credited.
+      </p>
+      <p>
+        For both reasons, this page describes structure and standard rather than publishing complete
+        responses. A short, unit-specific extract — enough to see formatting, section order, and command
+        verb depth without a document that could be submitted as-is — can be provided privately on request.
+      </p>
+    </div>
+  </section>
+
+  <!-- Free sample CTA steps -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="get-a-free-sample-extract-via-whatsapp">Get a Free Sample Extract via WhatsApp</h2>
+      <ol class="order-steps">
+        <li>
+          <strong>Message us on WhatsApp</strong> with your unit number, your qualification level, and your
+          required format if known — management report, essay, or reflective account.
+        </li>
+        <li>
+          <strong>Receive a short, non-reusable extract</strong> illustrating structure, section headings,
+          and command verb depth relevant to your unit — not a complete assignment.
+        </li>
+        <li>
+          <strong>Get a fixed quote within 2 hours</strong> if you want full support afterward, whether the
+          <a href="/cmi-assignment-writing-service/">CMI assignment writing service</a> or tutoring.
+        </li>
+      </ol>
+      <div class="order-cta">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Ask for a Private Extract on WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-assignment-examples-faq">CMI Assignment Examples — Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary class="faq-q">Can I see a full CMI assignment example before I order?</summary>
+          <div class="faq-a">
+            <p>Not as a complete, publicly published document. Full examples create an originality risk for
+            any student who reuses or closely paraphrases them, since CMI training providers check
+            submissions against text-matching software. Instead, this page describes example structure,
+            format, and grade differentiation in detail, and a short, unit-specific extract can be requested
+            privately via WhatsApp — enough to see formatting and depth without a document that could be
+            submitted as-is.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Do you have CMI assignment examples for every level and unit?</summary>
+          <div class="faq-a">
+            <p>Structural guidance is available for all levels 3 to 7 and all three main formats —
+            management report, essay, and reflective account. A sample extract requested via WhatsApp is
+            matched to your specific unit number and level so the structure and command verb depth shown
+            are directly relevant to your brief, rather than a generic example from an unrelated unit.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">What is the difference between a Pass, Merit, and Distinction example?</summary>
+          <div class="faq-a">
+            <p>A Pass-standard example applies one named theory generally and asserts an impact without
+            weighing competing evidence. A Merit-standard example applies two named frameworks,
+            distinguishes categories of evidence within them, and integrates workplace context throughout.
+            A Distinction-standard example evaluates the frameworks against each other, names specific
+            limitations in each, introduces a further framework to address what the others leave
+            unexplained, and reaches a justified conclusion. The distinction is about testing theoretical
+            choices, not simply adding more sources or words.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Will a sample extract match my exact unit brief?</summary>
+          <div class="faq-a">
+            <p>The extract is matched to the unit number, qualification level, and format you provide via
+            WhatsApp, so the structure and command verb depth shown reflect your specific brief rather than
+            a generic example. It remains a short illustration rather than a complete assignment, so it
+            demonstrates the approach without providing content that could be copied into your own
+            submission.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Is it safe to use a CMI assignment example as a starting point for my own work?</summary>
+          <div class="faq-a">
+            <p>An example is safe to use as a structural reference — studying how sections are organised,
+            how theory is applied, and how a command verb is answered. It is not safe to copy or closely
+            paraphrase any example, published or provided as an extract, into your own submission. CMI
+            training providers check for originality, and doing so risks an academic misconduct finding.
+            If you want a complete, original assignment built to your brief, the
+            <a href="/cmi-assignment-writing-service/">CMI assignment writing service</a> is the appropriate
+            route.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- Supplementary -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="related-cmi-assignment-services">Related CMI Assignment Services</h2>
+      <div class="supp-grid">
+        <a href="/cmi-assignment-writing-service/" class="supp-card">
+          <h3>CMI Assignment Writing Service</h3>
+          <p>A complete, original assignment built to your specific unit brief rather than adapted from a generic example. All levels 3 to 7, all 80+ units.</p>
+        </a>
+        <a href="/cmi-level-5-assignment-help/" class="supp-card">
+          <h3>CMI Level 5 Assignment Help</h3>
+          <p>The most requested example level — management report format, Evaluate command verb depth, and executive summary structure covered in full.</p>
+        </a>
+        <a href="/cmi-level-7-assignment-help/" class="supp-card">
+          <h3>CMI Level 7 Assignment Help</h3>
+          <p>Strategic paper format, Critically Analyse at postgraduate depth, and primary academic source selection covered for Level 7 students.</p>
+        </a>
+        <a href="/cmi-report-writing-help/" class="supp-card">
+          <h3>CMI Report Writing Help</h3>
+          <p>Full section-by-section guidance on the nine-part management report structure that underpins most Level 5 and Level 6 examples.</p>
+        </a>
+        <a href="/guides/cmi-assignment-structure/" class="supp-card">
+          <h3>CMI Assignment Structure Guide</h3>
+          <p>The format reference behind every example on this page — which format applies, section order, word counts, and common structural errors.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>Get Your Free CMI Sample Extract</h2>
+      <p>Message us on WhatsApp with your unit number, level, and format. A short, unit-specific extract is sent to show structure and depth — not a full assignment.</p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        WhatsApp Us for a Sample
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    color: #fff;
+    padding: 5rem 0 4rem;
+    text-align: center;
+  }
+  .hero-inner { max-width: 780px; margin: 0 auto; }
+  .eyebrow {
+    font-size: .8rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem;
+  }
+  .hero h1 {
+    font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 800;
+    color: #fff; margin-bottom: 1.25rem; line-height: 1.2;
+  }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+  .hero-note { font-size: .82rem; color: #93c5fd; margin-top: .75rem; }
+
+  .narrow { max-width: 860px; }
+
+  .includes-list {
+    display: flex; flex-direction: column; gap: 1rem;
+    list-style: none; padding: 0; margin-bottom: 1.5rem;
+  }
+  .includes-list li {
+    padding: 1.25rem 1.5rem;
+    background: var(--bg-light);
+    border-left: 4px solid var(--blue);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-size: .95rem; line-height: 1.65;
+  }
+
+  .levels-table { display: flex; flex-direction: column; gap: .75rem; }
+  .level-row {
+    display: grid; grid-template-columns: 220px 1fr;
+    border: 1px solid var(--border); border-radius: 8px; overflow: hidden;
+  }
+  .level-name {
+    background: var(--navy); padding: 1.25rem;
+    display: flex; flex-direction: column; gap: .35rem;
+  }
+  .level-name a {
+    color: #fff; font-weight: 700; font-size: 1rem; text-decoration: none;
+  }
+  .level-name a:hover { text-decoration: underline; }
+  .level-units { color: #93c5fd; font-size: .8rem; }
+  .level-detail {
+    padding: 1.25rem; background: var(--bg-light);
+    display: flex; flex-wrap: wrap; gap: .75rem 2rem; align-items: center;
+  }
+  .level-detail span { font-size: .88rem; color: var(--text); }
+
+  .formats-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;
+  }
+  .format-card {
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 10px; padding: 1.5rem; box-shadow: var(--shadow);
+  }
+  .format-card h3 { font-size: 1.05rem; font-weight: 700; color: var(--navy); margin-bottom: .25rem; }
+  .format-level {
+    font-size: .78rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: .05em; color: var(--blue); margin-bottom: .75rem;
+  }
+  .format-card p { font-size: .9rem; color: var(--text-muted); line-height: 1.6; margin-bottom: .6rem; }
+
+  .grade-example {
+    background: var(--bg-light); border: 1px solid var(--border);
+    border-radius: 10px; padding: 2rem;
+  }
+  .example-label {
+    font-size: .9rem; font-weight: 600; color: var(--text-muted);
+    margin-bottom: 1.5rem; font-style: normal;
+  }
+  .grade-blocks { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; margin-bottom: 1.25rem; }
+  .grade-block {
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 8px; padding: 1.25rem;
+  }
+  .grade-block h3 {
+    font-size: .85rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .06em; color: var(--text-muted); margin-bottom: .6rem;
+  }
+  .grade-merit { border-top: 3px solid var(--blue); }
+  .grade-merit h3 { color: var(--blue); }
+  .grade-distinction { border-top: 3px solid var(--navy); }
+  .grade-distinction h3 { color: var(--navy); }
+  .grade-block p { font-size: .88rem; color: var(--text); line-height: 1.6; }
+  .example-note { font-size: .875rem; color: var(--text-muted); }
+
+  .order-steps {
+    display: flex; flex-direction: column; gap: 1rem;
+    padding-left: 0; list-style: none; counter-reset: steps; margin-bottom: 2rem;
+  }
+  .order-steps li {
+    counter-increment: steps;
+    display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem;
+    font-size: .95rem; line-height: 1.65;
+  }
+  .order-steps li::before {
+    content: counter(steps);
+    display: flex; align-items: center; justify-content: center;
+    width: 2.5rem; height: 2.5rem; border-radius: 50%;
+    background: var(--blue); color: #fff;
+    font-weight: 700; font-size: 1rem; flex-shrink: 0;
+  }
+  .order-cta { text-align: center; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; margin-top: 1.5rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q {
+    display: block; padding: 1.1rem 1.25rem;
+    font-weight: 600; font-size: .975rem; color: var(--navy);
+    cursor: pointer; list-style: none; background: var(--bg-light);
+  }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+  .supp-card {
+    display: block; padding: 1.5rem; background: #fff;
+    border: 1px solid var(--border); border-radius: 10px;
+    text-decoration: none; color: var(--text);
+    box-shadow: var(--shadow); transition: border-color .15s, transform .1s;
+  }
+  .supp-card:hover { border-color: var(--blue); transform: translateY(-2px); text-decoration: none; color: var(--text); }
+  .supp-card h3 { font-size: .975rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .supp-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+
+  @media (max-width: 700px) {
+    .level-row { grid-template-columns: 1fr; }
+    .level-name { padding: .75rem 1rem; }
+  }
+</style>

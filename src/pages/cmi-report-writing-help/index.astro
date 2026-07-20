@@ -1,0 +1,580 @@
+﻿---
+import Layout from '../../layouts/Layout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447916696894';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in CMI report writing help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CMI report writing help covers the management report format specifically: executive summary writing, analysis sections written at the correct command verb depth (Evaluate at Level 5, Critically Evaluate at Level 6), SMART recommendations derived from the analysis, and a Harvard-referenced bibliography. It is available as a complete report written from your unit brief, or as help with one or more specific sections if you have already written most of the report yourself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you just rewrite my executive summary or recommendations, not the whole report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Section-specific help is available for students who have written most of the report independently but need one part brought up to standard — most commonly the executive summary, the recommendations, or the Harvard referencing. Send your draft and unit brief via WhatsApp specifying which section needs attention, and the quote will reflect that narrower scope rather than the cost of a full report."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many sources does a CMI management report need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Level 5 management reports typically require 10 to 12 Harvard-referenced sources. Level 6 reports typically require 12 to 15 sources, including a proportion of peer-reviewed journal articles. ManagementDirect, CMI's own research library, is the expected primary source type at both levels. Every source cited in-text must appear in the reference list, and the reference list should not include sources that were never cited in the body of the report."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is CMI report writing help available for Level 4 units that use the report format?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. While the management report is primarily associated with Level 5 and Level 6, some Level 4 units also specify the report format rather than a structured essay. Send your unit brief via WhatsApp to confirm the required format and receive a quote — the brief's Learning Outcome language and command verbs determine whether report format applies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between report writing help and CMI assignment tutoring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report writing help produces or corrects the management report itself — either the complete document or specific sections — delivered as finished content. CMI assignment tutoring is coaching where the student writes the report and the tutor provides guidance on structure, command verb depth, and draft review, with the student retaining authorship throughout. Students who want a section written for them should use report writing help; students who want to write it themselves with expert direction should use tutoring."
+      }
+    }
+  ]
+};
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "CMI Report Writing Help",
+  "description": "Specialist CMI report writing help for the management report format — executive summary, analysis sections, SMART recommendations, and Harvard-referenced bibliography. Primarily Level 5 and Level 6.",
+  "provider": {
+    "@type": "Organization",
+    "name": "CMI Assignment Help UK",
+    "url": siteUrl
+  },
+  "areaServed": "United Kingdom",
+  "serviceType": "Academic Writing Service"
+};
+
+const reportSections = [
+  { num: "2", title: "Executive Summary", alert: true, desc: "150–200 words. Written last, placed first. Summarises findings and recommendations — not an introduction to the topic." },
+  { num: "5", title: "Main Analysis Sections", alert: false, desc: "Carries 50–60% of the word count. Applies named theory at Evaluate (L5) or Critically Evaluate (L6) depth. Sets the grade." },
+  { num: "6", title: "Recommendations", alert: false, desc: "Minimum three SMART recommendations, each traceable to a specific analytical finding." },
+  { num: "8", title: "Reference List", alert: false, desc: "Full Harvard-format list of sources actually cited in-text — not a bibliography of sources merely read." },
+];
+---
+
+<Layout
+  title="CMI Report Writing Help — Management Report Format, Levels 5 & 6"
+  description="Specialist CMI report writing help for the management report format — executive summary, analysis sections, SMART recommendations, and Harvard referencing. Primarily Levels 5 and 6. UK-based CMI writers. WhatsApp quote in 2 hours."
+  canonical={siteUrl + '/cmi-report-writing-help/'}
+  pageSchema={[serviceSchema, faqSchema]}
+>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">Management Report Format &bull; Levels 5 &amp; 6</p>
+      <h1>CMI Report Writing Help — Management Report Format Specialists</h1>
+      <p class="hero-sub">
+        Specialist support for the CMI management report format — the nine-section structure required by
+        most Level 5 and Level 6 units. Executive summary writing, analysis sections evaluated at the
+        correct depth, SMART recommendations, and Harvard-referenced bibliography. Full report writing
+        or help with specific sections — priced according to scope.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get CMI Report Writing Help
+      </a>
+      <p class="hero-note">Fixed quote within 2 hours &bull; Full report or single sections &bull; Levels 5 and 6</p>
+    </div>
+  </section>
+
+  <TableOfContents />
+
+  <!-- What's Covered -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="what-cmi-report-writing-help-covers">What CMI Report Writing Help Covers</h2>
+      <p class="section-lead">
+        Scoped specifically to the management report format — the structure required by most Level 5
+        and Level 6 units.
+      </p>
+      <ul class="includes-list">
+        <li>
+          <strong>Executive summary writing</strong> — 150–200 words, summarising the report's key
+          findings and recommendations, written after the analysis is complete.
+        </li>
+        <li>
+          <strong>Analysis section development</strong> — written at the correct command verb depth,
+          Evaluate at Level 5 or Critically Evaluate at Level 6, applying named management theory
+          to your organisational context.
+        </li>
+        <li>
+          <strong>SMART recommendation drafting</strong> — minimum three recommendations, each derived
+          directly from a specific analytical finding.
+        </li>
+        <li>
+          <strong>Bibliography and Harvard referencing</strong> — correctly formatted reference list
+          matched exactly to in-text citations, meeting the minimum source count for your level.
+        </li>
+      </ul>
+      <p>
+        Available as <strong>full report writing</strong> — a CMI-qualified writer produces the complete
+        submission-ready report from your unit brief — or as <strong>section-specific help</strong> for
+        students who have written most of the report independently but need one part corrected, most
+        commonly the executive summary, the recommendations, or the referencing.
+      </p>
+      <p>
+        This is distinct from the <a href="/cmi-assignment-writing-service/">CMI assignment writing service</a>,
+        which covers every CMI format including essays, reflective accounts, and strategic papers, and from
+        <a href="/cmi-assignment-tutoring/">CMI assignment tutoring</a>, where the student retains authorship
+        and the tutor provides guidance rather than producing content. Report writing help is specifically for
+        students whose brief requires the management report format and who want that format produced or
+        corrected to CMI assessment standard.
+      </p>
+    </div>
+  </section>
+
+  <!-- Format vs Essay -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="management-report-format-vs-essay">The Management Report Format — Why It Is Different from an Essay</h2>
+      <p>
+        The CMI management report is a nine-section structure: title page, executive summary, table of
+        contents, introduction, main analysis sections, recommendations, conclusion, reference list, and
+        appendices. This is fundamentally different from a structured essay, which has no executive summary
+        and no standalone recommendations section.
+      </p>
+      <p>
+        Students who have written essays at Level 3 or Level 4 and progress to Level 5 often default to
+        essay conventions when the brief requires a report — an introduction that previews conclusions, a
+        conclusion that introduces new content, headings that do not map to Learning Outcomes. None of
+        these meet management report standard, regardless of the analytical quality underneath them.
+      </p>
+      <p class="report-sections-lead">
+        The report is written for an assessor who may read only the executive summary and the
+        recommendations first. Four sections below carry the most weight relative to their word count:
+      </p>
+      <div class="report-sections">
+        {reportSections.map(s => (
+          <div class={`report-section ${s.alert ? 'report-section--alert' : ''}`}>
+            <div class="rs-num">{s.num}</div>
+            <div class="rs-body">
+              <h3 class="rs-title">{s.title}{s.alert && <span class="rs-alert">Most misunderstood</span>}</h3>
+              <p class="rs-desc">{s.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+      <p>
+        For the complete nine-section breakdown with word count distribution across a typical report, see
+        the <a href="/guides/cmi-assignment-structure/">CMI assignment structure guide</a>. This page focuses
+        on the three sections that most frequently cost students marks — covered in detail below.
+      </p>
+    </div>
+  </section>
+
+  <!-- Executive Summary -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="executive-summary-writing">Executive Summary Writing — The Most Misunderstood Section</h2>
+      <p>
+        The executive summary is 150 to 200 words. It is written last, after every other section of the
+        report is complete, and placed first. It summarises the report's key findings and recommendations —
+        it is not an introduction to the topic.
+      </p>
+      <div class="es-compare">
+        <div class="es-col es-col--wrong">
+          <h3>What It Is Not</h3>
+          <p>"This report will examine leadership approaches with reference to Kotter's change framework..." — an introduction sentence describing what the report will do.</p>
+        </div>
+        <div class="es-col es-col--right">
+          <h3>What It Is</h3>
+          <p>"Analysis of the leadership approach applied during the restructure indicates that the Directive style produced a measurable increase in voluntary turnover... Three recommendations are presented accordingly." — a summary of what the report found.</p>
+        </div>
+      </div>
+      <p>
+        The test: a reader who reads only the executive summary should understand what the report found and
+        what it recommends, without reading anything else. Executive summary writing help typically involves
+        drafting or rewriting this section after the analysis and recommendations are finalised, since it
+        must reflect the report's actual content rather than the student's original plan, which frequently
+        changes during writing.
+      </p>
+    </div>
+  </section>
+
+  <!-- Analysis Sections -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="analysis-sections-evaluate-depth">Analysis Sections — Evaluating at the Correct Depth</h2>
+      <p>
+        The main analysis sections carry 50 to 60 percent of the total word count and are where the grade
+        is primarily determined. Each section applies a named management theory or framework to the
+        organisational context, at the depth the unit's command verb requires.
+      </p>
+      <div class="verb-depth-grid">
+        <div class="verb-depth-card">
+          <h3>Level 5 — Evaluate</h3>
+          <p>
+            The analysis must weigh the framework's strengths and limitations in the specific context and
+            reach a stated, defended conclusion. An Evaluate response that describes strengths and
+            limitations but never states a position is incomplete — the conclusion is not optional.
+          </p>
+        </div>
+        <div class="verb-depth-card verb-depth-card--l6">
+          <h3>Level 6 — Critically Evaluate</h3>
+          <p>
+            Beyond Evaluate, the analysis must also examine the assumptions the framework rests on as an
+            academic construct, consider at least one alternative framework, and show the conclusion has
+            been tested against a counter-argument.
+          </p>
+        </div>
+      </div>
+      <p>
+        Report writing help at this stage typically means restructuring analysis that describes a
+        framework instead of applying it, adding a missing conclusion to an Evaluate section, or adding
+        the framework critique and counter-argument testing that a Level 6 submission is missing.
+      </p>
+    </div>
+  </section>
+
+  <!-- SMART Recommendations -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="smart-recommendations">SMART Recommendations — Derived from the Analysis</h2>
+      <p>CMI management report recommendations must meet all five SMART criteria:</p>
+      <div class="smart-grid">
+        <div class="smart-item"><h3>Specific</h3><p>Names a concrete action. "Improve communication" fails. "Implement weekly one-to-ones using the SBI feedback model from a stated date" passes.</p></div>
+        <div class="smart-item"><h3>Measurable</h3><p>Includes a success criterion that can be checked against evidence.</p></div>
+        <div class="smart-item"><h3>Achievable</h3><p>Realistic within the constraints established earlier in the analysis.</p></div>
+        <div class="smart-item"><h3>Relevant</h3><p>Traceable directly to a specific analytical finding — not introduced without evidential basis.</p></div>
+        <div class="smart-item"><h3>Time-bound</h3><p>Includes a timeline or review date for implementation.</p></div>
+      </div>
+      <p>
+        A recommendation with no evidential basis in the preceding analysis is unsupported and reduces the
+        grade regardless of how well the sentence itself is worded. Minimum three recommendations are
+        expected for a Level 5 or Level 6 report. Report writing help on recommendations typically involves
+        rewriting vague statements into SMART-compliant actions and making sure each one is explicitly
+        linked back to the sub-conclusion of the analysis section that supports it.
+      </p>
+    </div>
+  </section>
+
+  <!-- Bibliography -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="bibliography-and-harvard-referencing">Bibliography and Harvard Referencing</h2>
+      <p>
+        Every source cited in-text within the report body must appear in the reference list, and the
+        reference list must contain only sources that were actually cited — not every source read during
+        research. Harvard format applies throughout: in-text citations use author-date format, and each
+        reference list entry follows the correct Harvard structure for its source type, whether a book,
+        journal article, website, or ManagementDirect resource.
+      </p>
+      <div class="ref-grid">
+        <div class="ref-block">
+          <h3>Level 5 Sources</h3>
+          <p>10–12 Harvard-referenced sources, with ManagementDirect as the expected primary source type.</p>
+        </div>
+        <div class="ref-block">
+          <h3>Level 6 Sources</h3>
+          <p>12–15 sources, including a proportion of peer-reviewed journal articles alongside ManagementDirect material.</p>
+        </div>
+        <div class="ref-block">
+          <h3>In-Text Matching</h3>
+          <p>Every reference list entry must have a matching in-text citation, and vice versa — no orphaned citations either way.</p>
+        </div>
+      </div>
+      <p>
+        Report writing help on the bibliography covers correcting inconsistent Harvard formatting,
+        checking that in-text citations and reference list entries match exactly, and sourcing appropriate
+        management journals and ManagementDirect material where a draft falls under the minimum source
+        count for its level.
+      </p>
+    </div>
+  </section>
+
+  <!-- By Level -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="report-writing-help-by-level">CMI Report Writing Help by Level — Level 5 and Level 6</h2>
+      <div class="level-summary-grid">
+        <div class="level-summary-card">
+          <h3><a href="/cmi-level-5-assignment-help/">CMI Level 5</a></h3>
+          <p>
+            The management report is the primary format across most of the 25-unit Management and
+            Leadership Diploma. Operative verb: Evaluate. Most common request: executive summary
+            correction and ensuring the analysis reaches a stated conclusion. Most frequently supported
+            units: 502, 503, 512.
+          </p>
+        </div>
+        <div class="level-summary-card">
+          <h3><a href="/cmi-level-6-assignment-help/">CMI Level 6</a></h3>
+          <p>
+            The report format continues but the verb steps up to Critically Evaluate, requiring framework
+            critique and counter-argument testing, with a higher evidential standard for Merit and
+            Distinction. Most frequently supported units: 601, 602, 603.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How to Get Help -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="how-to-get-cmi-report-writing-help">How to Get CMI Report Writing Help</h2>
+      <ol class="order-steps">
+        <li>
+          <strong>Message us on WhatsApp</strong> with your unit number, qualification level, and full
+          assignment brief. State whether you need the complete report written or section-specific help —
+          for example, the executive summary only, the recommendations only, or referencing correction
+          only. Attach your current draft if one exists.
+        </li>
+        <li>
+          <strong>Receive a fixed quote within 2 hours,</strong> priced according to scope. A full report
+          costs more than a single-section correction.
+        </li>
+        <li>
+          <strong>Receive your completed report or corrected sections</strong> in the agreed format and
+          timeframe, structured to the nine-section management report standard and referenced in Harvard
+          style.
+        </li>
+      </ol>
+      <div class="order-cta">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Message Us to Start
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-report-writing-help-faq">CMI Report Writing Help — Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary class="faq-q">What is included in CMI report writing help?</summary>
+          <div class="faq-a">
+            <p>CMI report writing help covers the management report format specifically: executive summary
+            writing, analysis sections written at the correct command verb depth (Evaluate at Level 5,
+            Critically Evaluate at Level 6), SMART recommendations derived from the analysis, and a
+            Harvard-referenced bibliography. It is available as a complete report written from your unit
+            brief, or as help with one or more specific sections if you have already written most of the
+            report yourself.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Can you just rewrite my executive summary or recommendations, not the whole report?</summary>
+          <div class="faq-a">
+            <p>Yes. Section-specific help is available for students who have written most of the report
+            independently but need one part brought up to standard — most commonly the executive summary,
+            the recommendations, or the Harvard referencing. Send your draft and unit brief via WhatsApp
+            specifying which section needs attention, and the quote will reflect that narrower scope rather
+            than the cost of a full report.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">How many sources does a CMI management report need?</summary>
+          <div class="faq-a">
+            <p>Level 5 management reports typically require 10 to 12 Harvard-referenced sources. Level 6
+            reports typically require 12 to 15 sources, including a proportion of peer-reviewed journal
+            articles. ManagementDirect, CMI's own research library, is the expected primary source type at
+            both levels. Every source cited in-text must appear in the reference list, and the reference
+            list should not include sources that were never cited in the body of the report.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Is CMI report writing help available for Level 4 units that use the report format?</summary>
+          <div class="faq-a">
+            <p>Yes. While the management report is primarily associated with Level 5 and Level 6, some
+            Level 4 units also specify the report format rather than a structured essay. Send your unit
+            brief via WhatsApp to confirm the required format and receive a quote — the brief's Learning
+            Outcome language and command verbs determine whether report format applies.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">What is the difference between report writing help and CMI assignment tutoring?</summary>
+          <div class="faq-a">
+            <p>Report writing help produces or corrects the management report itself — either the complete
+            document or specific sections — delivered as finished content. CMI assignment tutoring is
+            coaching where the student writes the report and the tutor provides guidance on structure,
+            command verb depth, and draft review, with the student retaining authorship throughout.
+            Students who want a section written for them should use report writing help; students who want
+            to write it themselves with expert direction should use tutoring.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- Supplementary -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="related-cmi-assignment-services">Related CMI Assignment Services</h2>
+      <div class="supp-grid">
+        <a href="/guides/cmi-assignment-structure/" class="supp-card">
+          <h3>CMI Assignment Structure Guide</h3>
+          <p>The full nine-section management report breakdown, word count distribution, and the ten most common structural errors.</p>
+        </a>
+        <a href="/cmi-level-5-assignment-help/" class="supp-card">
+          <h3>CMI Level 5 Assignment Help</h3>
+          <p>All 25 units of the Management and Leadership Diploma, where the management report is the standard format.</p>
+        </a>
+        <a href="/cmi-level-6-assignment-help/" class="supp-card">
+          <h3>CMI Level 6 Assignment Help</h3>
+          <p>Critically Evaluate depth and a higher evidential standard, across the full Level 6 unit set.</p>
+        </a>
+        <a href="/cmi-assignment-tutoring/" class="supp-card">
+          <h3>CMI Assignment Tutoring</h3>
+          <p>For students who want to write their own management report with expert guidance on structure and command verb depth.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>Get Your Management Report Written</h2>
+      <p>Message us on WhatsApp with your unit number, level, and deadline. Fixed quote in 2 hours — full report or specific sections only.</p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        WhatsApp Us Your Brief
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    color: #fff;
+    padding: 5rem 0 4rem;
+    text-align: center;
+  }
+  .hero-inner { max-width: 780px; margin: 0 auto; }
+  .eyebrow {
+    font-size: .8rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem;
+  }
+  .hero h1 {
+    font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 800;
+    color: #fff; margin-bottom: 1.25rem; line-height: 1.2;
+  }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+  .hero-note { font-size: .82rem; color: #93c5fd; margin-top: .75rem; }
+
+  .narrow { max-width: 860px; }
+
+  .includes-list {
+    display: flex; flex-direction: column; gap: 1rem;
+    list-style: none; padding: 0; margin-bottom: 1.5rem;
+  }
+  .includes-list li {
+    padding: 1.25rem 1.5rem;
+    background: var(--bg-light);
+    border-left: 4px solid var(--blue);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-size: .95rem; line-height: 1.65;
+  }
+
+  .report-sections-lead { font-size: .95rem; color: var(--text-muted); margin: 1.5rem 0 1rem; }
+  .report-sections { display: flex; flex-direction: column; gap: 1rem; margin-bottom: 1.5rem; }
+  .report-section { display: grid; grid-template-columns: 3rem 1fr; gap: 1rem; padding: 1rem 1.25rem; background: #fff; border: 1px solid var(--border); border-radius: 8px; }
+  .report-section--alert { border-color: var(--blue); background: #eff6ff; }
+  .rs-num { font-size: 1.3rem; font-weight: 800; color: var(--blue); }
+  .rs-title { font-size: 1rem; font-weight: 700; color: var(--navy); margin-bottom: .35rem; display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; }
+  .rs-alert { font-size: .68rem; font-weight: 700; text-transform: uppercase; background: var(--green); color: #fff; padding: .15rem .5rem; border-radius: 20px; }
+  .rs-desc { font-size: .88rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+
+  .es-compare { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .es-col { border-radius: 8px; padding: 1.25rem; font-size: .875rem; line-height: 1.6; }
+  .es-col--wrong { background: #fef2f2; border: 1px solid #fecaca; }
+  .es-col--right { background: #f0fdf4; border: 1px solid #bbf7d0; }
+  .es-col h3 { font-size: .85rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; margin-bottom: .6rem; }
+  .es-col--wrong h3 { color: #b91c1c; }
+  .es-col--right h3 { color: #15803d; }
+
+  .verb-depth-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .verb-depth-card { background: #fff; border: 1px solid var(--border); border-radius: 10px; padding: 1.5rem; box-shadow: var(--shadow); border-top: 3px solid var(--blue); }
+  .verb-depth-card--l6 { border-top-color: var(--navy); }
+  .verb-depth-card h3 { font-size: 1rem; font-weight: 700; color: var(--navy); margin-bottom: .6rem; }
+  .verb-depth-card p { font-size: .9rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+
+  .smart-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .smart-item { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .smart-item h3 { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .smart-item p { font-size: .85rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .ref-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .ref-block { background: var(--bg-light); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+  .ref-block h3 { font-size: .95rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .ref-block p { font-size: .875rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+
+  .level-summary-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; }
+  .level-summary-card { background: #fff; border: 1px solid var(--border); border-radius: 10px; padding: 1.5rem; box-shadow: var(--shadow); }
+  .level-summary-card h3 { margin-bottom: .6rem; }
+  .level-summary-card h3 a { font-size: 1.05rem; font-weight: 700; color: var(--navy); }
+  .level-summary-card p { font-size: .9rem; color: var(--text-muted); line-height: 1.6; margin: 0; }
+
+  .order-steps {
+    display: flex; flex-direction: column; gap: 1rem;
+    padding-left: 0; list-style: none; counter-reset: steps; margin-bottom: 2rem;
+  }
+  .order-steps li {
+    counter-increment: steps;
+    display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem;
+    font-size: .95rem; line-height: 1.65;
+  }
+  .order-steps li::before {
+    content: counter(steps);
+    display: flex; align-items: center; justify-content: center;
+    width: 2.5rem; height: 2.5rem; border-radius: 50%;
+    background: var(--blue); color: #fff;
+    font-weight: 700; font-size: 1rem; flex-shrink: 0;
+  }
+  .order-cta { text-align: center; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; margin-top: 1.5rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q {
+    display: block; padding: 1.1rem 1.25rem;
+    font-weight: 600; font-size: .975rem; color: var(--navy);
+    cursor: pointer; list-style: none; background: var(--bg-light);
+  }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+  .supp-card {
+    display: block; padding: 1.5rem; background: #fff;
+    border: 1px solid var(--border); border-radius: 10px;
+    text-decoration: none; color: var(--text);
+    box-shadow: var(--shadow); transition: border-color .15s, transform .1s;
+  }
+  .supp-card:hover { border-color: var(--blue); transform: translateY(-2px); text-decoration: none; color: var(--text); }
+  .supp-card h3 { font-size: .975rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .supp-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+</style>

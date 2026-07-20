@@ -1,0 +1,510 @@
+﻿---
+import Layout from '../../layouts/Layout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447916696894';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a CMI assignment answer and the full writing service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A CMI assignment answer is a written response to one specific question, task, or Learning Outcome, scoped to the exact wording in your brief. The full writing service produces the complete submission-ready assignment across every Learning Outcome and section the unit requires. Students who need one or two questions answered order a single answer. Students starting a unit from nothing, or who need every Learning Outcome covered, typically order the full writing service. Both are available at all levels 3 to 7."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you answer just one Learning Outcome from my CMI Referral feedback?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. This is one of the most common reasons students order a single answer. CMI Referral feedback is reported at Learning Outcome level, so if your assessor marked one or two Learning Outcomes as not met while the rest of your submission passed, you can send the assessor feedback, the relevant Learning Outcome wording, and your original draft via WhatsApp, and receive a targeted answer addressing only what was unmet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will the answer match the exact question in my unit brief?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Every answer is written to the exact question or task wording you send, not a generic version of the topic. CMI briefs vary between training providers and cohorts even for the same unit number, so send the precise wording from your own brief, along with the command verb, the Learning Outcome it maps to, and any word count guidance your provider has given for that question."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide answers for all CMI levels including Level 7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Answers are available for all levels from 3 to 7 and all 80-plus CMI units within each level. Level 7 answers address Critically Analyse questions at strategic scope and require primary academic sources rather than textbook summaries, which is reflected in the fixed quote for that answer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the price worked out for a single assignment answer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Price is based on the length and command verb depth required for that specific question or Learning Outcome, not on the length of the whole assignment. A short Describe answer at Level 3 is priced differently from a Critically Evaluate answer at Level 6 requiring framework critique and additional sourcing. Send the exact question, level, and your deadline via WhatsApp for a fixed quote within two hours."
+      }
+    }
+  ]
+};
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "CMI Assignment Answers",
+  "description": "Expert written answers to specific CMI assignment questions or Learning Outcomes, for students who need one response rather than a full assignment. Covers all qualification levels 3 to 7 and all 80+ CMI units.",
+  "provider": {
+    "@type": "Organization",
+    "name": "CMI Assignment Help UK",
+    "url": siteUrl
+  },
+  "areaServed": "United Kingdom",
+  "serviceType": "Academic Writing Service"
+};
+
+const levels = [
+  { level: "CMI Level 3", focus: "Describe and Explain tasks — causal-chain structure modelled against your specific question.", slug: "/cmi-level-3-assignment-help/" },
+  { level: "CMI Level 4", focus: "Analyse questions and the transition from essay-style answers to management report sections.", slug: "/cmi-level-4-assignment-help/" },
+  { level: "CMI Level 5", focus: "Evaluate questions requiring a stated, defended conclusion, and executive summary sections.", slug: "/cmi-level-5-assignment-help/" },
+  { level: "CMI Level 6", focus: "Critically Evaluate questions requiring framework critique and a counter-argument test.", slug: "/cmi-level-6-assignment-help/" },
+  { level: "CMI Level 7", focus: "Critically Analyse questions at strategic scope, requiring primary academic sources.", slug: "/cmi-level-7-assignment-help/" },
+];
+---
+
+<Layout
+  title="CMI Assignment Answers — Expert Written Responses to Specific Questions"
+  description="Need answers to specific CMI assignment questions or Learning Outcomes, not a full assignment? Get expert, unit-specific written answers across all CMI levels 3-7. UK-based writers, WhatsApp order, fixed quote in 2 hours."
+  canonical={siteUrl + '/cmi-assignment-answers/'}
+  pageSchema={[serviceSchema, faqSchema]}
+>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">UK-Based CMI-Qualified Writers</p>
+      <h1>CMI Assignment Answers — Expert Written Responses to Specific Questions</h1>
+      <p class="hero-sub">
+        Need one specific question or Learning Outcome answered — not a complete assignment written from
+        scratch? Every CMI assignment answer is written to the exact wording of your question, at the correct
+        command verb depth for your target grade. All levels 3 to 7, all 80+ units.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get Your CMI Assignment Answer
+      </a>
+      <p class="hero-note">Fixed quote within 2 hours &bull; All 5 levels &bull; Priced per answer</p>
+    </div>
+  </section>
+
+  <TableOfContents />
+
+  <!-- Disambiguation -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="what-are-cmi-assignment-answers-and-how-are-they-different-from-a-full-assignment">
+        What Are CMI Assignment Answers — and How Are They Different from a Full Assignment?
+      </h2>
+      <p>
+        A CMI assignment answer is a written response to one specific question, task, or Learning Outcome
+        within a unit brief. It is scoped to that question, not to the whole assignment. The student sends
+        the exact question wording, the qualification level, the command verb it contains, and the target
+        grade, and receives a written answer addressed precisely to that question.
+      </p>
+      <p>
+        This is distinct from the <a href="/cmi-assignment-writing-service/">CMI assignment writing service</a>,
+        which produces the complete submission-ready document across every Learning Outcome, section, and
+        format requirement in the unit brief. The two services solve different problems. A student who has
+        already completed most of a brief independently but is stuck on one question does not need the whole
+        assignment rewritten — they need that one answer. A student starting a unit from nothing typically
+        needs the full writing service. Some students order individual answers only for the questions they
+        find hardest, and write the remaining sections themselves.
+      </p>
+      <p>
+        Because the scope is narrower, ordering an answer requires more precision at the start: the exact
+        question text as it appears in the brief, not a paraphrase, along with the Learning Outcome it maps
+        to and any word count guidance the training provider has given for that specific question.
+      </p>
+    </div>
+  </section>
+
+  <!-- Who needs it -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="who-needs-a-cmi-assignment-answer-rather-than-a-full-assignment">
+        Who Needs a CMI Assignment Answer Rather Than a Full Assignment?
+      </h2>
+      <p class="section-lead">
+        Four student profiles account for most requests for a single CMI assignment answer.
+      </p>
+      <ul class="includes-list">
+        <li>
+          <strong>The student stuck on one question</strong> — has completed most of the brief independently
+          but cannot bring one specific task or Learning Outcome up to the required command verb depth.
+        </li>
+        <li>
+          <strong>The post-Referral student with a partial resubmission</strong> — received a Referral in
+          which only one or two Learning Outcomes were marked as not met, while the rest of the submission
+          passed. Rewriting the entire assignment would waste the work that already met the standard.
+        </li>
+        <li>
+          <strong>The student checking their own answer</strong> — has already written a response and wants
+          a model answer to compare it against before submitting.
+        </li>
+        <li>
+          <strong>The time-pressed student close to deadline</strong> — has most sections finished but ran
+          out of time on the hardest question, usually the one requiring Evaluate or Critically Evaluate
+          depth, and needs that one answer delivered quickly.
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Unit-specific answers -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="unit-specific-answers-written-to-your-exact-question">
+        Unit-Specific Answers — Written to Your Exact Question
+      </h2>
+      <p>
+        Every CMI assignment answer is written to the exact wording of the question or task set in the
+        student's own unit brief, not to a generic version of the topic. CMI briefs vary between training
+        providers and cohorts even when the unit number is the same — two students both studying Unit 502
+        may be asked to evaluate different named organisational contexts, or given different word count
+        allocations per question, depending on their provider.
+      </p>
+      <p>
+        The process starts with the student sending the exact question text, the command verb it contains,
+        the Learning Outcome it maps to, and any word count or format guidance given by their provider. The
+        answer is then written to address that specific wording, applying the correct command verb depth and
+        referencing named management theory relevant to the exact question asked. This applies across all
+        80-plus CMI units at all five qualification levels.
+      </p>
+    </div>
+  </section>
+
+  <!-- Learning Outcome targeted -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="learning-outcome-targeted-answers">
+        Learning-Outcome-Targeted Answers
+      </h2>
+      <p>
+        Some students need an answer scoped to a single Learning Outcome rather than a single question,
+        particularly when a unit brief groups several tasks under one Learning Outcome, or when assessor
+        feedback identifies one Learning Outcome as unmet while the others passed.
+      </p>
+      <p>
+        A Learning-Outcome-targeted answer addresses every assessment criterion attached to that specific
+        Learning Outcome, at the command verb depth the Learning Outcome specifies, so the finished answer
+        can be inserted directly into the student's existing submission without a mismatch in depth or tone
+        against the sections the student wrote themselves.
+      </p>
+      <p>
+        This is the most common answer type requested by post-Referral students, because CMI Referral
+        feedback is reported at Learning Outcome level, not question level.
+      </p>
+      <div class="order-cta">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Send Your Question on WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- What it includes -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="what-a-cmi-assignment-answer-includes">
+        What a CMI Assignment Answer Includes
+      </h2>
+      <p class="section-lead">
+        Every CMI assignment answer, regardless of size, is written to the same standard as a section of a
+        full assignment.
+      </p>
+      <ul class="includes-list">
+        <li>
+          <strong>Command verb calibration</strong> to the target grade — Pass, Merit, or Distinction —
+          applied to the specific question asked.
+        </li>
+        <li>
+          <strong>Named management theory</strong> applied at the correct analytical depth for that command
+          verb, not described in general terms.
+        </li>
+        <li>
+          <strong>Harvard-referenced sources</strong> appropriate to the qualification level.
+        </li>
+        <li>
+          <strong>Workplace context integration</strong> where the question requires application to a real
+          or realistic organisational scenario.
+        </li>
+        <li>
+          <strong>Length matched to your brief's allocation</strong> for that specific question or Learning
+          Outcome, not a fixed default length.
+        </li>
+        <li>
+          <strong>Delivered as a standalone document</strong> you can review, edit, or insert directly into
+          your existing draft.
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- By level -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="cmi-assignment-answers-by-level">
+        CMI Assignment Answers by Level
+      </h2>
+      <p class="section-lead">
+        The most frequently requested answer type differs by qualification level.
+      </p>
+      <div class="levels-table">
+        {levels.map(l => (
+          <div class="level-row">
+            <div class="level-name">
+              <a href={l.slug}>{l.level}</a>
+            </div>
+            <div class="level-detail">
+              <span>{l.focus}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- How to order -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="how-to-order-a-cmi-assignment-answer">
+        How to Order a CMI Assignment Answer
+      </h2>
+      <ol class="order-steps">
+        <li>
+          <strong>Message us on WhatsApp</strong> with the exact question or task wording from your brief,
+          your unit number and qualification level, the Learning Outcome it maps to if known, your target
+          grade, and your deadline.
+        </li>
+        <li>
+          <strong>Receive a fixed quote within 2 hours.</strong> The quote is based on the length and command
+          verb depth required for that specific question — not the length of the whole assignment.
+        </li>
+        <li>
+          <strong>Your answer is delivered as a standalone document</strong> — Harvard-referenced and ready
+          to insert into your submission.
+        </li>
+      </ol>
+      <div class="order-cta">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Message Us to Order
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-assignment-answers-frequently-asked-questions">
+        CMI Assignment Answers — Frequently Asked Questions
+      </h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary class="faq-q">What is the difference between a CMI assignment answer and the full writing service?</summary>
+          <div class="faq-a">
+            <p>A CMI assignment answer is a written response to one specific question, task, or Learning
+            Outcome, scoped to the exact wording in your brief. The full writing service produces the complete
+            submission-ready assignment across every Learning Outcome and section the unit requires. Students
+            who need one or two questions answered order a single answer. Students starting a unit from
+            nothing, or who need every Learning Outcome covered, typically order the full writing service.
+            Both are available at all levels 3 to 7.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Can you answer just one Learning Outcome from my CMI Referral feedback?</summary>
+          <div class="faq-a">
+            <p>Yes. This is one of the most common reasons students order a single answer. CMI Referral
+            feedback is reported at Learning Outcome level, so if your assessor marked one or two Learning
+            Outcomes as not met while the rest of your submission passed, you can send the assessor feedback,
+            the relevant Learning Outcome wording, and your original draft via WhatsApp, and receive a targeted
+            answer addressing only what was unmet.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Will the answer match the exact question in my unit brief?</summary>
+          <div class="faq-a">
+            <p>Yes. Every answer is written to the exact question or task wording you send, not a generic
+            version of the topic. CMI briefs vary between training providers and cohorts even for the same
+            unit number, so send the precise wording from your own brief, along with the command verb, the
+            Learning Outcome it maps to, and any word count guidance your provider has given for that
+            question.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Do you provide answers for all CMI levels including Level 7?</summary>
+          <div class="faq-a">
+            <p>Yes. Answers are available for all levels from 3 to 7 and all 80-plus CMI units within each
+            level. Level 7 answers address Critically Analyse questions at strategic scope and require primary
+            academic sources rather than textbook summaries, which is reflected in the fixed quote for that
+            answer.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">How is the price worked out for a single assignment answer?</summary>
+          <div class="faq-a">
+            <p>Price is based on the length and command verb depth required for that specific question or
+            Learning Outcome, not on the length of the whole assignment. A short Describe answer at Level 3 is
+            priced differently from a Critically Evaluate answer at Level 6 requiring framework critique and
+            additional sourcing. Send the exact question, level, and your deadline via WhatsApp for a fixed
+            quote within two hours.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- Supplementary -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="related-cmi-assignment-services">Related CMI Assignment Services</h2>
+      <div class="supp-grid">
+        <a href="/cmi-assignment-writing-service/" class="supp-card">
+          <h3>CMI Assignment Writing Service</h3>
+          <p>For students who need every Learning Outcome covered — the complete submission-ready assignment across all levels 3 to 7.</p>
+        </a>
+        <a href="/cmi-level-5-assignment-help/" class="supp-card">
+          <h3>CMI Level 5 Assignment Help</h3>
+          <p>The most frequently requested level for single answers — Evaluate questions and executive summary sections. Full unit range covered.</p>
+        </a>
+        <a href="/cmi-level-7-assignment-help/" class="supp-card">
+          <h3>CMI Level 7 Assignment Help</h3>
+          <p>Strategic-level answers requiring Critically Analyse depth and primary academic sources. Full strategic unit range covered.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>Get Your CMI Assignment Answer Today</h2>
+      <p>Message us on WhatsApp with your exact question, unit number, level, and deadline. Fixed quote in 2 hours, priced per answer — not per assignment.</p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get Your Answer Today
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    color: #fff;
+    padding: 5rem 0 4rem;
+    text-align: center;
+  }
+  .hero-inner { max-width: 780px; margin: 0 auto; }
+  .eyebrow {
+    font-size: .8rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem;
+  }
+  .hero h1 {
+    font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 800;
+    color: #fff; margin-bottom: 1.25rem; line-height: 1.2;
+  }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+  .hero-note { font-size: .82rem; color: #93c5fd; margin-top: .75rem; }
+
+  .narrow { max-width: 860px; }
+  .narrow p { margin-bottom: 1.25rem; line-height: 1.7; }
+  .narrow p:last-child { margin-bottom: 0; }
+
+  .includes-list {
+    display: flex; flex-direction: column; gap: 1rem;
+    list-style: none; padding: 0;
+  }
+  .includes-list li {
+    padding: 1.25rem 1.5rem;
+    background: var(--bg-light);
+    border-left: 4px solid var(--blue);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-size: .95rem; line-height: 1.65;
+  }
+
+  .levels-table { display: flex; flex-direction: column; gap: .75rem; }
+  .level-row {
+    display: grid; grid-template-columns: 220px 1fr;
+    border: 1px solid var(--border); border-radius: 8px; overflow: hidden;
+  }
+  .level-name {
+    background: var(--navy); padding: 1.25rem;
+    display: flex; flex-direction: column; gap: .35rem;
+  }
+  .level-name a {
+    color: #fff; font-weight: 700; font-size: 1rem; text-decoration: none;
+  }
+  .level-name a:hover { text-decoration: underline; }
+  .level-detail {
+    padding: 1.25rem; background: var(--bg-light);
+    display: flex; flex-wrap: wrap; gap: .75rem 2rem; align-items: center;
+  }
+  .level-detail span { font-size: .9rem; color: var(--text); line-height: 1.5; }
+
+  .order-steps {
+    display: flex; flex-direction: column; gap: 1rem;
+    padding-left: 0; list-style: none; counter-reset: steps; margin-bottom: 2rem;
+  }
+  .order-steps li {
+    counter-increment: steps;
+    display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem;
+    font-size: .95rem; line-height: 1.65;
+  }
+  .order-steps li::before {
+    content: counter(steps);
+    display: flex; align-items: center; justify-content: center;
+    width: 2.5rem; height: 2.5rem; border-radius: 50%;
+    background: var(--blue); color: #fff;
+    font-weight: 700; font-size: 1rem; flex-shrink: 0;
+  }
+  .order-cta { text-align: center; margin-top: 1.5rem; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; margin-top: 1.5rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q {
+    display: block; padding: 1.1rem 1.25rem;
+    font-weight: 600; font-size: .975rem; color: var(--navy);
+    cursor: pointer; list-style: none; background: var(--bg-light);
+  }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+  .supp-card {
+    display: block; padding: 1.5rem; background: #fff;
+    border: 1px solid var(--border); border-radius: 10px;
+    text-decoration: none; color: var(--text);
+    box-shadow: var(--shadow); transition: border-color .15s, transform .1s;
+  }
+  .supp-card:hover { border-color: var(--blue); transform: translateY(-2px); text-decoration: none; color: var(--text); }
+  .supp-card h3 { font-size: .975rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .supp-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+
+  @media (max-width: 700px) {
+    .level-row { grid-template-columns: 1fr; }
+    .level-name { padding: .75rem 1rem; }
+  }
+</style>

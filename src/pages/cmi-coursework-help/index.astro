@@ -1,0 +1,479 @@
+﻿---
+import Layout from '../../layouts/Layout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+
+const whatsappUrl = 'https://wa.me/447916696894';
+const siteUrl = 'https://cmiassignmenthelp.uk.com';
+
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between CMI coursework help and ordering assignments one at a time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ordering assignments one at a time treats each unit as an independent transaction — a new brief, a new quote, and a fresh explanation of context every time. CMI coursework help sets up one arrangement covering the full Diploma: the unit list, deadlines, format requirements, organisational context, and target grade are recorded once and reused across every unit as its brief becomes available. Units are still delivered against their individual deadlines, but the student is not restarting the relationship with every new unit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to give you every unit in my Diploma at the start, or can I add units as I go?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Either approach works. Some students provide their complete unit list at the start of the programme because their training provider has already issued it. Others set up coursework help with the units they currently know about and add further units as new briefs are issued throughout the Diploma. In both cases, the organisational context, target grade, and format preferences recorded at setup are carried forward to every subsequent unit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you keep my coursework consistent across different units?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The organisational context, sector detail, and management voice established when coursework help is set up are used consistently across every unit in the Diploma, so the portfolio reads as one coherent body of work rather than a set of disconnected submissions. Command verb depth is still calibrated to each individual unit's brief and Learning Outcomes, but the underlying analytical voice and approach to theory stays the same throughout, which matters when a portfolio is reviewed holistically by an assessor."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is coursework help available for all CMI levels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Coursework help is available for all levels from 3 to 7. Diploma size and structure differ by level — Level 3 Diplomas typically run to six to eight units, while Level 5 Diplomas often carry the largest unit count of any level, and Level 7 Diplomas involve fewer but more strategically demanding units. The coursework arrangement is adapted to the unit count and structure of the specific Diploma and level."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine coursework help with tutoring for some units?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Some students use coursework help for the majority of their Diploma, where full delivery against a rolling deadline schedule is the more practical option, and tutoring for specific units they want to attempt themselves with expert guidance. This is set up by specifying, at the point each unit brief is sent, whether that unit should be delivered in full or handled as a tutoring session."
+      }
+    }
+  ]
+};
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "CMI Coursework Help",
+  "description": "Ongoing, unit-by-unit CMI coursework support across a full Diploma. Multi-unit tracking, consistent academic framing, and Diploma progression support for all qualification levels 3 to 7.",
+  "provider": {
+    "@type": "Organization",
+    "name": "CMI Assignment Help UK",
+    "url": siteUrl
+  },
+  "areaServed": "United Kingdom",
+  "serviceType": "Academic Coursework Support Service"
+};
+
+const levels = [
+  { level: "CMI Level 3", note: "6–8 units &bull; Explain/Describe register held consistent across the set", slug: "/cmi-level-3-assignment-help/" },
+  { level: "CMI Level 4", note: "Growing unit count &bull; consistent step-up into Analyse across units", slug: "/cmi-level-4-assignment-help/" },
+  { level: "CMI Level 5", note: "Largest typical unit count &bull; most benefit from centralised tracking", slug: "/cmi-level-5-assignment-help/" },
+  { level: "CMI Level 6", note: "Smaller unit set &bull; Critically Evaluate depth held consistent throughout", slug: "/cmi-level-6-assignment-help/" },
+  { level: "CMI Level 7", note: "Fewer units, strategic scope &bull; consistent register and source base", slug: "/cmi-level-7-assignment-help/" },
+];
+---
+
+<Layout
+  title="CMI Coursework Help — Ongoing Support Across Your Full Diploma"
+  description="CMI coursework help for students working through a full Diploma across multiple units. Consistent academic framing, multi-unit tracking, and Diploma progression support. All levels 3–7. WhatsApp-based UK team."
+  canonical={siteUrl + '/cmi-coursework-help/'}
+  pageSchema={[serviceSchema, faqSchema]}
+>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">UK-Based CMI Coursework Support</p>
+      <h1>CMI Coursework Help — Ongoing Support Across Your Full Diploma</h1>
+      <p class="hero-sub">
+        Sustained, unit-by-unit support for students working through a full CMI Diploma — not a single
+        one-off assignment order. Multi-unit tracking keeps deadlines, organisational context, and academic
+        framing consistent from your first unit to your last. All levels 3 to 7.
+      </p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Set Up Coursework Support
+      </a>
+      <p class="hero-note">Fixed quote within 2 hours &bull; All 5 levels &bull; Full Diploma coverage</p>
+    </div>
+  </section>
+
+  <TableOfContents />
+
+  <!-- What Is Coursework Help -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="what-is-cmi-coursework-help-and-how-is-it-different-from-a-single-assignment-order">What Is CMI Coursework Help — and How Is It Different from a Single Assignment Order?</h2>
+      <p>
+        CMI coursework is the full set of units that make up a Diploma. A single assignment order solves
+        one unit, one deadline, one brief in isolation. Coursework help is structured around the whole
+        qualification: every unit the student is registered for, the order those units will be submitted
+        in, and the deadline attached to each one.
+      </p>
+      <p>
+        The distinction matters because units within a Diploma are not independent of each other in the
+        way separate orders can be treated as independent. An assessor or training provider reviewing a
+        student's overall Diploma portfolio can see every submitted unit, not just the one currently under
+        review. A student's approach to one unit should read consistently with their approach to the next
+        if the same organisational context and management voice are being used throughout.
+      </p>
+      <p>
+        Coursework help means the student's context, target grade, and unit list are recorded once and
+        reused across the qualification, rather than each unit being ordered as an unconnected transaction
+        that starts from zero. This does not mean every unit is produced at the same time — each is still
+        delivered against its individual deadline — but the student is not restarting the relationship or
+        re-establishing basic details with every new unit that comes up. Students who only need a single
+        unit resolved without a full-Diploma arrangement are better served by the
+        <a href="/cmi-assignment-writing-service/">CMI assignment writing service</a>, which handles
+        one-off orders at any level.
+      </p>
+    </div>
+  </section>
+
+  <!-- Who Needs It -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="who-needs-ongoing-cmi-coursework-support">Who Needs Ongoing CMI Coursework Support?</h2>
+      <p class="section-lead">
+        Three student profiles account for most requests for coursework help rather than one-off assignment orders.
+      </p>
+      <ul class="includes-list">
+        <li>
+          <strong>The Diploma student with a full unit list</strong> — has just received their complete
+          list of units from their training provider at the start of the programme and wants a single
+          arrangement covering the whole Diploma, rather than negotiating a fresh quote and re-explaining
+          their context every few weeks as each new unit brief is issued.
+        </li>
+        <li>
+          <strong>The student rebuilding consistency mid-Diploma</strong> — has already submitted several
+          units independently, sometimes through different routes or writers, and has noticed that their
+          organisational examples, referencing style, or theoretical approach vary between units in a way
+          that looks inconsistent when the portfolio is reviewed as a whole.
+        </li>
+        <li>
+          <strong>The time-pressured professional on a rolling schedule</strong> — a working manager whose
+          training provider has set staggered deadlines across the Diploma, commonly one unit every four
+          to six weeks, who wants those deadlines tracked centrally rather than re-establishing status and
+          requirements every time a new unit becomes due.
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Multi-Unit Tracking -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="how-multi-unit-tracking-works">How Multi-Unit Tracking Works</h2>
+      <p>
+        Multi-unit tracking is the practical system behind coursework help. When a student sets up
+        coursework support, the full unit list is logged along with the deadline for each unit, the
+        format required for each — management report, structured essay, reflective account, or strategic
+        paper — and the student's organisational context, sector, and target grade. This information is
+        captured once and reused across every unit rather than being re-collected each time a new brief
+        comes in.
+      </p>
+      <p>
+        As each unit's brief becomes available, the student sends it via WhatsApp. Because the underlying
+        context, format expectations, and target grade are already on file, only the unit-specific brief
+        and any updates to circumstances need to be provided. Deadlines are tracked centrally against the
+        full unit list, so if a training provider moves a submission date or opens a resubmission window
+        after a Referral, that change is absorbed into the existing schedule without the student needing
+        to re-explain their full context from scratch.
+      </p>
+      <p>
+        This tracking is not automated software. It is a maintained record tied to the student's WhatsApp
+        thread, reviewed and updated each time a new unit brief arrives or a deadline changes.
+      </p>
+    </div>
+  </section>
+
+  <!-- Academic Framing Consistency -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="keeping-academic-framing-consistent-across-a-diploma">Keeping Academic Framing Consistent Across a Diploma</h2>
+      <p>
+        Assessors and training providers reviewing a student's Diploma portfolio see all submitted units
+        together, not only the one currently in front of them. Inconsistent academic framing across units
+        — a management voice that shifts markedly in register between submissions, organisational examples
+        that contradict each other, or a referencing style that changes from unit to unit — is a
+        credibility issue even when each individual unit is technically sound on its own terms.
+      </p>
+      <p>
+        Coursework help addresses this directly by keeping the same organisational context, sector detail,
+        and management voice consistent across every unit in the Diploma, unless the student's own
+        circumstances genuinely change partway through the programme. Command verb depth is still
+        calibrated per unit according to that unit's specific brief and Learning Outcomes; a Level 5 unit
+        requiring Evaluate is not treated the same as one requiring Justify. What stays constant is the
+        underlying analytical voice and the way management theory is applied, so the portfolio reads as
+        one coherent piece of work produced to one consistent standard rather than a set of disconnected
+        submissions.
+      </p>
+      <p>
+        This matters most at Level 5, 6, and 7, where Diplomas tend to run to a higher unit count and
+        portfolios are more likely to be reviewed holistically by an internal or external assessor rather
+        than unit by unit in isolation.
+      </p>
+    </div>
+  </section>
+
+  <!-- Coursework by Level -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="coursework-support-across-cmi-levels-3-to-7">Coursework Support Across CMI Levels 3 to 7</h2>
+      <p class="section-lead">
+        Diploma size and structure vary by level, which changes what coursework support looks like at each one.
+      </p>
+      <div class="levels-table">
+        {levels.map(l => (
+          <div class="level-row">
+            <div class="level-name">
+              <a href={l.slug}>{l.level}</a>
+            </div>
+            <div class="level-detail">
+              <span set:html={l.note} />
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- How to Set Up -->
+  <section class="section section-alt">
+    <div class="container narrow">
+      <h2 class="section-title" id="how-to-set-up-coursework-support-for-your-diploma">How to Set Up Coursework Support for Your Diploma</h2>
+      <ol class="order-steps">
+        <li>
+          <strong>Message us on WhatsApp</strong> with your full unit list — or as many units as you
+          currently have confirmed by your training provider — your qualification level, your
+          organisational context and target grade, and the deadlines you already know.
+        </li>
+        <li>
+          <strong>Receive a fixed quote within 2 hours.</strong> The quote covers the coursework
+          arrangement either priced per unit as each brief comes in, or as an agreed package across a
+          known set of units.
+        </li>
+        <li>
+          <strong>Send each unit brief via WhatsApp as it becomes available.</strong> Because your
+          context is already on file, turnaround depends only on the specific unit brief and its
+          deadline — not on re-establishing the basics again.
+        </li>
+      </ol>
+      <div class="order-cta">
+        <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+          Send Your Unit List on WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section">
+    <div class="container narrow">
+      <h2 class="section-title" id="cmi-coursework-help-frequently-asked-questions">CMI Coursework Help — Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary class="faq-q">What is the difference between CMI coursework help and ordering assignments one at a time?</summary>
+          <div class="faq-a">
+            <p>Ordering assignments one at a time treats each unit as an independent transaction — a new
+            brief, a new quote, and a fresh explanation of context every time. CMI coursework help sets up
+            one arrangement covering the full Diploma: the unit list, deadlines, format requirements,
+            organisational context, and target grade are recorded once and reused across every unit as its
+            brief becomes available. Units are still delivered against their individual deadlines, but the
+            student is not restarting the relationship with every new unit.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Do I need to give you every unit in my Diploma at the start, or can I add units as I go?</summary>
+          <div class="faq-a">
+            <p>Either approach works. Some students provide their complete unit list at the start of the
+            programme because their training provider has already issued it. Others set up coursework help
+            with the units they currently know about and add further units as new briefs are issued
+            throughout the Diploma. In both cases, the organisational context, target grade, and format
+            preferences recorded at setup are carried forward to every subsequent unit.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">How do you keep my coursework consistent across different units?</summary>
+          <div class="faq-a">
+            <p>The organisational context, sector detail, and management voice established when coursework
+            help is set up are used consistently across every unit in the Diploma, so the portfolio reads
+            as one coherent body of work rather than a set of disconnected submissions. Command verb depth
+            is still calibrated to each individual unit's brief and Learning Outcomes, but the underlying
+            analytical voice and approach to theory stays the same throughout, which matters when a
+            portfolio is reviewed holistically by an assessor.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Is coursework help available for all CMI levels?</summary>
+          <div class="faq-a">
+            <p>Yes. Coursework help is available for all levels from 3 to 7. Diploma size and structure
+            differ by level — Level 3 Diplomas typically run to six to eight units, while Level 5 Diplomas
+            often carry the largest unit count of any level, and Level 7 Diplomas involve fewer but more
+            strategically demanding units. The coursework arrangement is adapted to the unit count and
+            structure of the specific Diploma and level.</p>
+          </div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-q">Can I combine coursework help with tutoring for some units?</summary>
+          <div class="faq-a">
+            <p>Yes. Some students use coursework help for the majority of their Diploma, where full
+            delivery against a rolling deadline schedule is the more practical option, and
+            <a href="/cmi-assignment-tutoring/">CMI assignment tutoring</a> for specific units they want to
+            attempt themselves with expert guidance. This is set up by specifying, at the point each unit
+            brief is sent, whether that unit should be delivered in full or handled as a tutoring session.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- Supplementary -->
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="related-cmi-assignment-services">Related CMI Assignment Services</h2>
+      <div class="supp-grid">
+        <a href="/cmi-assignment-writing-service/" class="supp-card">
+          <h3>CMI Assignment Writing Service</h3>
+          <p>For a single unit resolved without a full-Diploma arrangement. Same fixed-quote WhatsApp process, available at any level 3 to 7.</p>
+        </a>
+        <a href="/cmi-assignment-tutoring/" class="supp-card">
+          <h3>CMI Assignment Tutoring</h3>
+          <p>For students who want to write their own units with expert guidance across the same Diploma. Combine with coursework help unit by unit.</p>
+        </a>
+        <a href="/cmi-level-5-assignment-help/" class="supp-card">
+          <h3>CMI Level 5 Assignment Help</h3>
+          <p>The level with the largest typical unit count — management report format, Evaluate and Justify command verbs, most tracked under coursework arrangements.</p>
+        </a>
+        <a href="/cmi-level-7-assignment-help/" class="supp-card">
+          <h3>CMI Level 7 Assignment Help</h3>
+          <p>Fewer units, strategic scope. Coursework help keeps the strategic register and primary source base consistent across a Level 7 student's full unit set.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="cta-section">
+    <div class="container cta-inner">
+      <h2>Set Up CMI Coursework Support Today</h2>
+      <p>Message us on WhatsApp with your unit list, level, and deadlines. Fixed quote in 2 hours. One consistent point of contact across your full CMI Diploma.</p>
+      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
+        Get CMI Coursework Support
+      </a>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    color: #fff;
+    padding: 5rem 0 4rem;
+    text-align: center;
+  }
+  .hero-inner { max-width: 780px; margin: 0 auto; }
+  .eyebrow {
+    font-size: .8rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .08em; color: #93c5fd; margin-bottom: .75rem;
+  }
+  .hero h1 {
+    font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 800;
+    color: #fff; margin-bottom: 1.25rem; line-height: 1.2;
+  }
+  .hero-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.7; }
+  .hero-note { font-size: .82rem; color: #93c5fd; margin-top: .75rem; }
+
+  .narrow { max-width: 860px; }
+
+  .narrow p { margin-bottom: 1.25rem; font-size: .98rem; line-height: 1.7; }
+  .narrow p:last-child { margin-bottom: 0; }
+
+  .includes-list {
+    display: flex; flex-direction: column; gap: 1rem;
+    list-style: none; padding: 0;
+  }
+  .includes-list li {
+    padding: 1.25rem 1.5rem;
+    background: #fff;
+    border-left: 4px solid var(--blue);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-size: .95rem; line-height: 1.65;
+    box-shadow: var(--shadow);
+  }
+
+  .levels-table { display: flex; flex-direction: column; gap: .75rem; }
+  .level-row {
+    display: grid; grid-template-columns: 220px 1fr;
+    border: 1px solid var(--border); border-radius: 8px; overflow: hidden;
+  }
+  .level-name {
+    background: var(--navy); padding: 1.25rem;
+    display: flex; flex-direction: column; gap: .35rem;
+  }
+  .level-name a {
+    color: #fff; font-weight: 700; font-size: 1rem; text-decoration: none;
+  }
+  .level-name a:hover { text-decoration: underline; }
+  .level-detail {
+    padding: 1.25rem; background: var(--bg-light);
+    display: flex; flex-wrap: wrap; gap: .75rem 2rem; align-items: center;
+  }
+  .level-detail span { font-size: .88rem; color: var(--text); }
+
+  .order-steps {
+    display: flex; flex-direction: column; gap: 1rem;
+    padding-left: 0; list-style: none; counter-reset: steps; margin-bottom: 2rem;
+  }
+  .order-steps li {
+    counter-increment: steps;
+    display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem;
+    font-size: .95rem; line-height: 1.65;
+  }
+  .order-steps li::before {
+    content: counter(steps);
+    display: flex; align-items: center; justify-content: center;
+    width: 2.5rem; height: 2.5rem; border-radius: 50%;
+    background: var(--blue); color: #fff;
+    font-weight: 700; font-size: 1rem; flex-shrink: 0;
+  }
+  .order-cta { text-align: center; }
+
+  .faq-list { display: flex; flex-direction: column; gap: .75rem; margin-top: 1.5rem; }
+  .faq-item { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .faq-q {
+    display: block; padding: 1.1rem 1.25rem;
+    font-weight: 600; font-size: .975rem; color: var(--navy);
+    cursor: pointer; list-style: none; background: var(--bg-light);
+  }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; float: right; font-size: 1.25rem; font-weight: 400; color: var(--text-muted); }
+  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q::after { content: '−'; }
+  .faq-a { padding: 1rem 1.25rem 1.25rem; font-size: .9rem; color: var(--text-muted); line-height: 1.65; }
+  .faq-a p { margin: 0; }
+
+  .supp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+  .supp-card {
+    display: block; padding: 1.5rem; background: #fff;
+    border: 1px solid var(--border); border-radius: 10px;
+    text-decoration: none; color: var(--text);
+    box-shadow: var(--shadow); transition: border-color .15s, transform .1s;
+  }
+  .supp-card:hover { border-color: var(--blue); transform: translateY(-2px); text-decoration: none; color: var(--text); }
+  .supp-card h3 { font-size: .975rem; font-weight: 700; color: var(--navy); margin-bottom: .5rem; }
+  .supp-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; margin: 0; }
+
+  .cta-section { background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%); padding: 4rem 0; }
+  .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
+  .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
+  .cta-inner p { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+
+  @media (max-width: 700px) {
+    .level-row { grid-template-columns: 1fr; }
+    .level-name { padding: .75rem 1rem; }
+  }
+</style>

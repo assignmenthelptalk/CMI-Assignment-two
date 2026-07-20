@@ -1,0 +1,107 @@
+﻿---
+layout: ../../layouts/UnitPage.astro
+title: "CMI Unit 715 Assignment Help — Strategic Approaches to Health, Wellbeing and Inclusion"
+description: "CMI Unit 715, Strategic Approaches to Health, Wellbeing and Inclusion, is the Level 7 unit that examines the theoretical foundations of organisational wellbe..."
+canonical: "https://cmiassignmenthelp.uk.com/cmi-715-assignment-help/"
+---
+
+# CMI Unit 715 Assignment Help — Strategic Approaches to Health, Wellbeing and Inclusion
+
+CMI Unit 715, Strategic Approaches to Health, Wellbeing and Inclusion, is the Level 7 unit that examines the theoretical foundations of organisational wellbeing and equity strategies — moving well beyond EAP programmes and absence management into the academic debate about what actually determines workforce health, why health inequalities exist, and what structural rather than individual interventions are required. Written as a strategic paper at Critically Analyse depth, it requires engagement with Marmot's social determinants framework, Seligman's PERMA model, Cox and Griffiths' transactional stress model, and the NHS People Plan. The central academic debate is between individual-level wellbeing interventions and structural, organisational-level approaches to health equity. Directors of HR, chief people officers, and NHS medical and nursing directors find this unit directly relevant to the persistent gap between NHS staff wellbeing investment and NHS Staff Survey wellbeing scores. If you need expert support with Unit 715, message us on WhatsApp.
+
+## What CMI Unit 715 Covers
+
+Unit 715 addresses health, wellbeing, and inclusion as strategic leadership responsibilities — not HR compliance functions. The learning outcomes require understanding strategic approaches to employee and organisational health and wellbeing, strategic approaches to inclusion and equity, and how to embed health, wellbeing, and inclusion in organisational strategy. At Level 7, this means Critically Analysing the theoretical debate about why workforce health inequalities exist, what level of intervention is required to address them, and what the strategic leader's role is in creating the conditions for genuine inclusion.
+
+## Marmot (2010) — Social Determinants of Health
+
+Sir Michael Marmot's *Fair Society, Healthy Lives: The Marmot Review* (University College London, 2010) is the definitive UK evidence base for understanding health as a socially determined outcome, not a biologically fixed characteristic or a healthcare consumption product.
+
+Marmot's central argument: health inequalities — the systematic differences in health outcomes between social groups — are caused primarily by inequalities in social, economic, and environmental conditions (the social determinants of health), not by individual health behaviours or differential access to healthcare. The evidence base demonstrates a social gradient: health outcomes worsen at every step down the social hierarchy, from the most advantaged to the least, with no threshold below which social disadvantage ceases to affect health. The policy implication is correspondingly structural: addressing health inequalities requires reducing inequalities in power, money, and resources — not simply providing better health services to disadvantaged groups.
+
+For NHS workforce strategy, Marmot's framework is analytically powerful in two directions. First, the NHS workforce contains a social gradient: Band 1–4 staff (disproportionately female, BAME, and from lower socioeconomic backgrounds) face working conditions, development opportunities, and career prospects that mirror the social determinants of poor health — high demands, low control, limited resources, insecure employment. The WRES (Workforce Race Equality Standard) data provides annual evidence of this gradient: BAME staff at NHS Trusts report systematically worse experience of bullying, harassment, career development opportunity, and managerial support than white colleagues. Marmot's framework converts these WRES findings from HR metrics into health equity data — the NHS workforce structure is itself a health inequality.
+
+Second, Marmot's six policy objectives — give every child the best start, enable all to maximise capabilities, create fair employment and good work for all, ensure a healthy standard of living for all, create and develop sustainable places, and strengthen prevention — provide a strategic framework for NHS anchor institution roles: what the NHS, as a major employer in most communities it serves, can do to influence the social determinants of health for the communities it employs from.
+
+The limitation at distinction level: Marmot's social determinants framework is a public health and social policy framework. It identifies causes but provides limited operational guidance for the strategic leader within a single organisation. The gap between knowing that health inequalities are caused by power, money, and resource inequalities and knowing what a specific NHS Trust's Director of People should do differently next quarter is the analytical challenge that distinction-level synthesis must address.
+
+## Seligman (2011) — PERMA and Flourishing
+
+Martin Seligman's *Flourish: A Visionary New Understanding of Happiness and Well-being* (Free Press, 2011) introduces the PERMA model of wellbeing: Positive emotions, Engagement, Relationships, Meaning, and Accomplishment. PERMA moves beyond hedonic wellbeing (pleasure, happiness, absence of negative affect) to eudaimonic wellbeing (flourishing — living a life of engagement, purpose, and achievement).
+
+At Level 7, the critical analysis of Seligman's PERMA framework in an organisational wellbeing context requires the distinction between hedonic and eudaimonic wellbeing. Most NHS wellbeing programmes (EAP counselling, staff discounts, mindfulness apps, recognition schemes) are hedonic interventions — they aim to increase positive affect and reduce negative affect in employees. Eudaimonic wellbeing, in contrast, requires work that is engaging, meaningful, and provides a sense of accomplishment. These qualities are structural features of job design (does the role provide autonomy, skill variety, task significance, and feedback?) rather than supplementary support services.
+
+For NHS clinical roles at senior levels, PERMA's Meaning dimension is analytically significant: NHS staff motivation research consistently demonstrates that clinical purpose (contributing to patient health outcomes) is a primary engagement driver. NHS strategies that erode clinical meaning — through excessive administrative burden, loss of clinical autonomy, moral injury from resource constraints, and distance from patient contact — undermine the primary wellbeing foundation of NHS clinical staff more than EAP service quality.
+
+The critical limitation: Seligman's PERMA model is grounded in positive psychology's primary population (educated, English-speaking, relatively advantaged research participants). Its applicability to Band 1–4 NHS staff in physically demanding, low-autonomy, insecure roles — precisely the roles where WRES/WDES data identifies the worst wellbeing outcomes — is theoretically limited. A Meaning intervention for a Band 3 healthcare support worker facing food insecurity, childcare costs, and zero-hours contract conditions is structurally inadequate as a wellbeing strategy.
+
+## Cox and Griffiths (1996) — Transactional Stress Model and Prevention Levels
+
+Tom Cox and Amanda Griffiths' contribution in *Evaluation of Human Work* (2nd edn, Taylor & Francis, 1996) provides the theoretical framework for categorising organisational wellbeing interventions by their level of intervention and target.
+
+Cox and Griffiths distinguish primary prevention (removing or reducing the stressor at source — changing the work environment, job design, management practices, or organisational policies that create stress), secondary prevention (improving the individual's capacity to cope with existing stressors — stress management training, resilience building, mindfulness, cognitive behavioural coaching), and tertiary prevention (treatment and rehabilitation after stress-related harm has occurred — EAP counselling, occupational health, managed return to work).
+
+The analytically critical finding: secondary and tertiary prevention interventions have demonstrably limited effectiveness when primary stressors are not addressed. An EAP counselling service provided to NHS staff experiencing burnout from excessive workload, understaffing, and managerial bullying addresses the tertiary consequence without touching the primary causes. The evidence base (Semmer, 2011; Bhui et al., 2016) demonstrates that individual-level stress management interventions in high-demand, low-control working environments produce minimal sustained benefit.
+
+For NHS wellbeing strategy, Cox and Griffiths' framework exposes the structural inadequacy of the conventional NHS wellbeing investment model: most NHS staff wellbeing programmes are secondary and tertiary interventions (EAP, occupational health, resilience training, mental health first aiders) operating in working environments characterised by primary-level stressors (chronic understaffing, unsafe patient loads, moral injury from resource constraints, bullying and harassment as documented in NHS Staff Survey data). At Level 7, applying this framework to evaluate whether the NHS People Plan's wellbeing commitments are primarily or secondary/tertiary level interventions is the analytical contribution.
+
+## NHS England (2021) — We Are the NHS: People Plan
+
+The NHS People Plan (NHS England, 2021) is the institutional strategy document that operationalises NHS wellbeing and inclusion commitments. Its four strategic themes — looking after our people (wellbeing, mental health, physical health), belonging in the NHS (inclusion, equality, diversity), new ways of working (flexibility, remote working, digital), and growing for the future (recruitment, retention, development) — provide the NHS-specific policy framework within which the theoretical debates above operate.
+
+The analytically significant inclusion element: the WRES (Workforce Race Equality Standard) and WDES (Workforce Disability Equality Standard) are mandatory annual measurement tools that provide NHS-specific quantitative data on the structural inclusion gap. The WRES measures nine indicators including staff experience, career development access, disciplinary rates, and board representation by race. WDES measures ten indicators for disabled staff. Both generate annually comparable data that functions as the NHS equivalent of Marmot's social gradient data at the workforce level.
+
+## The Central Academic Debate: Individual Interventions vs Structural Change
+
+The central academic debate in Unit 715 is between individual-level wellbeing interventions (secondary and tertiary: resilience training, EAP, mindfulness, PERMA-based programmes) and structural, organisational-level change (primary: addressing job demands, management quality, workload, professional autonomy, and equity of opportunity). Marmot's social determinants framework and Cox & Griffiths' prevention level model converge on the same conclusion: individual-level interventions cannot compensate for structural causes of poor health and wellbeing.
+
+Seligman's PERMA model is analytically positioned between the two poles: PERMA's Engagement, Relationships, and Meaning dimensions, properly applied, require structural change to job design and managerial culture, not simply programme delivery. But PERMA is frequently operationalised in organisations as a programme framework (workshops, coaching, apps) rather than as a diagnostic for structural job redesign.
+
+The original synthesis: a strategic approach to health, wellbeing, and inclusion requires a tripartite framework. Primary prevention (Marmot-informed: addressing structural determinants of workforce health inequality through fair employment practices, management quality, psychological safety, and workload management) provides the foundation. PERMA-informed job design (eudaimonic wellbeing through meaningful, engaging, autonomy-enabling work) provides the structural engagement layer. Cox & Griffiths' secondary and tertiary prevention services (EAP, occupational health, mental health support) provide the necessary but insufficient safety net for individuals who experience health harm despite structural improvements.
+
+## Pass / Merit / Distinction
+
+**Pass:** Marmot's social determinants applied; Seligman's PERMA introduced; NHS People Plan referenced; Cox & Griffiths' prevention levels applied; strategic paper format maintained.
+
+**Merit:** Marmot's social gradient connected to WRES/WDES data as evidence of workforce health inequality; Cox & Griffiths' primary/secondary/tertiary framework applied to evaluate the NHS People Plan's intervention level; Seligman's eudaimonic vs hedonic distinction drawn; NHS anchor institution role connected to Marmot's six objectives.
+
+**Distinction — worked example:** "Marmot (2010) establishes that health inequalities are caused by structural determinants — inequalities in power, money, and resources — not by individual health behaviours or healthcare access differentials. Applied to NHS workforce health equity, WRES data (NHS England, 2023) demonstrates that BAME NHS staff at Band 7+ are systematically underrepresented relative to their Band 5–6 share, that disciplinary action rates are disproportionate, and that subjective experience of bullying and harassment is substantially worse than for white colleagues — a structural health inequality embedded in NHS workforce architecture. Cox and Griffiths' (1996) prevention level model provides the intervention framework: current NHS wellbeing investment is predominantly secondary and tertiary (EAP, resilience training, mental health first aiders) — individual-capacity interventions operating against primary-level structural stressors (workload, management quality, career discrimination) that are not being addressed. Seligman's (2011) PERMA model, properly applied to the eudaimonic wellbeing dimension, supports structural rather than programme-based wellbeing strategy: Meaning (clinical purpose), Engagement (job design with autonomy and skill variety), and Relationships (psychologically safe team environments) require structural job redesign and management development — not positive psychology workshops. The synthesis position is that a genuinely strategic approach to health, wellbeing, and inclusion in the NHS requires primary-level structural intervention (Marmot-informed: management quality, workload governance, career equity) as the foundation; PERMA-informed job design (eudaimonic wellbeing through structural engagement) as the strategic design layer; and Cox & Griffiths' secondary/tertiary services as a necessary but structurally insufficient complement."
+
+## Strategic Paper Format for Unit 715
+
+| Section | Content |
+|---|---|
+| Executive Summary | 200–250 words; individual vs structural debate; synthesis stated |
+| Introduction | Health, wellbeing, and inclusion as strategic leadership responsibilities |
+| Marmot | Social determinants; health gradient; NHS workforce equity application; WRES/WDES |
+| Seligman | PERMA; eudaimonic vs hedonic; structural vs programme interpretation |
+| Cox & Griffiths | Primary/secondary/tertiary prevention; NHS wellbeing investment analysis |
+| NHS People Plan | Four themes; WRES/WDES as measurement tools; policy context |
+| Central Debate | Individual interventions vs structural change; synthesis |
+| Strategic Recommendations | 3–5 strategic wellbeing and inclusion recommendations |
+| Conclusion | Original synthesis on strategic health, wellbeing, and inclusion leadership |
+| References | 15–20 Harvard-format sources at origin |
+
+## Common Questions About CMI Unit 715
+
+**Is CMI Unit 715 about occupational health and safety, or is it a broader strategic unit?**
+Unit 715 is a strategic leadership unit that addresses health, wellbeing, and inclusion as systemic organisational challenges — it is not an occupational health management unit. The legal compliance dimension (HSWA 1974, MHSWR 1999) is covered at Level 5 in Unit 521. Unit 715 at Level 7 addresses the theoretical foundations of why health inequalities exist in organisations, what level of intervention is required to address structural determinants of poor wellbeing, and how inclusion and equity are embedded in organisational strategy rather than managed as compliance functions. The distinction between operational compliance (Level 5) and strategic approach (Level 7) should be explicit in the paper's framing.
+
+**How do I use WRES data in Unit 715 without it becoming a data presentation exercise?**
+WRES (Workforce Race Equality Standard) and WDES (Workforce Disability Equality Standard) data are evidence to support theoretical arguments, not the subject of the paper. The Level 7 use of WRES data is: cite the national WRES data or your own Trust's WRES report as empirical evidence that structural health and equity inequalities exist in the NHS workforce, then apply Marmot's social determinants framework to explain why they exist and Cox & Griffiths' prevention level model to evaluate whether current NHS wellbeing interventions are addressing the causal level. The data contextualises the theory — it does not replace theoretical analysis.
+
+**What is the difference between hedonic and eudaimonic wellbeing and why does it matter for Unit 715?**
+Hedonic wellbeing is defined by the presence of positive affect and the absence of negative affect — feeling good, being happy, enjoying pleasurable experiences. Eudaimonic wellbeing (from Aristotle's *eudaimonia*) is defined by engagement, meaning, purpose, and achievement — living a full human life rather than simply a pleasant one. Seligman's (2011) PERMA model is primarily eudaimonic: Positive emotions is the only hedonic element; Engagement, Relationships, Meaning, and Accomplishment are all eudaimonic. The distinction matters for Unit 715 because most NHS wellbeing programmes are hedonic (EAP, staff discounts, social events, recognition schemes) while the PERMA evidence base and NHS Staff Survey engagement data point to eudaimonic deficits (loss of clinical meaning, insufficient autonomy, team relationship quality, limited sense of accomplishment in constrained environments) as the primary wellbeing challenge. Strategic health and wellbeing investment that is misaligned with the eudaimonic vs hedonic distinction will address the wrong problem.
+
+**Can I apply Marmot's framework to an NHS workforce context when it was designed as a public health policy framework?**
+Yes — and this recontextualisation is the Level 7 analytical contribution. Marmot (2010) was written as a public health and social policy framework addressing population health inequalities. The Level 7 move is to apply the framework's core insight — that health is socially determined by power, money, and resource inequalities — to the NHS workforce as a population within the organisation. NHS Band 1–4 staff face working conditions that exhibit the social determinants of poor health: high demands, low control, limited development resources, and insecure employment. WRES/WDES data demonstrates that race and disability add additional intersecting inequalities. Recontextualising Marmot at the organisational workforce level — and identifying what the NHS Trust, as employer, can do to address the social determinants of health for its own workforce — is the analytically productive application of the framework at Level 7.
+
+**What is the NHS People Plan and do I need to engage with it at source or can I reference it through secondary sources?**
+The NHS People Plan (NHS England, 2021) — formally titled *We Are the NHS: People Plan 2020/21 — Action for Us All* — is a primary policy document published by NHS England. At Level 7, it should be cited as a primary source: NHS England (2021) *We Are the NHS: People Plan 2020/21 — Action for Us All*. London: NHS England. Secondary references to it (through HR textbooks or management guides) are not sufficient for Level 7. The analytical contribution is to evaluate the People Plan's wellbeing commitments through Cox & Griffiths' prevention level framework — are its four strategic themes addressing primary-level structural stressors, or predominantly secondary and tertiary intervention levels? This evaluation requires close reading of the People Plan itself.
+
+## Related CMI Assignment Help
+
+- [CMI 710 Assignment Help](/cmi-710-assignment-help/) — Corporate Responsibility and Sustainability: Carroll's CSR pyramid, Freeman's stakeholder theory — social responsibility as the broader context for wellbeing and inclusion
+- [CMI 713 Assignment Help](/cmi-713-assignment-help/) — Workforce Planning and Organisational Design: Galbraith Star Model, Gratton future of work — structural workforce design within which wellbeing and inclusion operate
+- [CMI 716 Assignment Help](/cmi-716-assignment-help/) — Leading and Developing Teams: Edmondson psychological safety — team-level safety as the relational foundation for wellbeing
+- [CMI 521 Assignment Help](/cmi-521-assignment-help/) — Managing Health, Safety and Welfare (Level 5): HSWA 1974, MHSWR 1999, HSE risk assessment — the Level 5 operational comparator
