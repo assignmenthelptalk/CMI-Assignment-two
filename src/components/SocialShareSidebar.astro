@@ -29,7 +29,7 @@ const shareTitle = pageTitle || 'Check this out';
     link.type === 'native-share' ? (
       <button
         type="button"
-        class="share-block"
+        class="share-block st-btn"
         data-native-share
         style={`--share-bg:${link.color};--share-bg-hover:${link.hoverColor};`}
         aria-label="Share this page"
@@ -40,7 +40,7 @@ const shareTitle = pageTitle || 'Check this out';
     ) : (
       <a
         href={link.getShareUrl!(pageUrl, shareTitle)}
-        class="share-block"
+        class="share-block st-btn"
         data-popup-share
         target="_blank"
         rel="noopener noreferrer"
@@ -141,6 +141,15 @@ const shareTitle = pageTitle || 'Check this out';
     background: var(--share-bg-hover);
   }
 
+  .st-btn {
+    transition: background-color 0.15s ease, transform 0.2s ease;
+  }
+
+  .st-btn:hover,
+  .st-btn:focus-visible {
+    transform: translateX(-6px);
+  }
+
   .share-icon {
     width: 50%;
     height: 50%;
@@ -185,6 +194,11 @@ const shareTitle = pageTitle || 'Check this out';
       width: auto;
       height: 44px;
       flex: 1 1 0;
+    }
+
+    .st-btn:hover,
+    .st-btn:focus-visible {
+      transform: scale(1.08);
     }
 
     .share-block[data-copied]::after {
