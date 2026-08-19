@@ -224,42 +224,8 @@ const sidebarClass = [
   }
 
   @media (max-width: 900px) {
-    .social-share-sidebar:not(.mobile-vertical) {
-      top: auto;
-      bottom: var(--share-mobile-bottom-offset, 0px);
-      right: 0;
-      left: 0;
-      transform: none;
-      flex-direction: row;
-      width: 100%;
-    }
-
-    .social-share-sidebar:not(.mobile-vertical) .share-block {
-      width: auto;
-      height: 44px;
-      flex: 1 1 0;
-    }
-
-    .social-share-sidebar.mobile-vertical {
-      top: var(--share-mobile-top-offset, var(--share-top-offset, 50%));
-    }
-
-    .social-share-sidebar.mobile-vertical .share-block {
-      width: 44px;
-      height: 44px;
-    }
-
-    .st-btn:hover,
-    .st-btn:focus-visible {
-      transform: scale(1.08);
-    }
-
-    .social-share-sidebar:not(.mobile-vertical) .share-block[data-copied]::after {
-      right: auto;
-      left: 50%;
-      top: auto;
-      bottom: calc(100% + 8px);
-      transform: translateX(-50%);
+    .social-share-sidebar {
+      display: none;
     }
   }
 </style>
