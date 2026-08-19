@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 410 Assignment Help — Marketing Principles"
 description: "CMI Unit 410, Marketing Principles, introduces the core frameworks of marketing strategy and management for managers whose primary role is not marketing but ..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-410-assignment-help/"
+headerImage: "/images/headers/cmi-410-assignment-help.webp"
+headerImageAlt: "CMI Unit 410 Assignment Help — Marketing Principles"
 ---
 
 # CMI Unit 410 Assignment Help — Marketing Principles

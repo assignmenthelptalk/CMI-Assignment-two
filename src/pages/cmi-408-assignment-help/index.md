@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 408 Assignment Help — Equality and Diversity in the Workplace"
 description: "CMI Unit 408, Equality and Diversity in the Workplace, covers the legal framework for equality, the management of an inclusive workplace, and the business ca..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-408-assignment-help/"
+headerImage: "/images/headers/cmi-408-assignment-help.webp"
+headerImageAlt: "CMI Unit 408 Assignment Help — Equality and Diversity in the Workplace"
 ---
 
 # CMI Unit 408 Assignment Help — Equality and Diversity in the Workplace

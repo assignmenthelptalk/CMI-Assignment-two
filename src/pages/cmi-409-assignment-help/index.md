@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 409 Assignment Help — Introduction to Financial Management for Managers"
 description: "CMI Unit 409, Introduction to Financial Management for Managers, covers the financial management skills needed by managers who hold budget responsibility at ..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-409-assignment-help/"
+headerImage: "/images/headers/cmi-409-assignment-help.webp"
+headerImageAlt: "CMI Unit 409 Assignment Help — Introduction to Financial Management for Managers"
 ---
 
 # CMI Unit 409 Assignment Help — Introduction to Financial Management for Managers

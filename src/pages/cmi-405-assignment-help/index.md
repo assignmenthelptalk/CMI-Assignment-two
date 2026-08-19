@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 405 Assignment Help — Management Communication"
 description: "CMI Unit 405, Management Communication, covers the theory and practice of effective management communication at Level 4 Analyse and Evaluate depth. Submitted..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-405-assignment-help/"
+headerImage: "/images/headers/cmi-405-assignment-help.webp"
+headerImageAlt: "CMI Unit 405 Assignment Help — Management Communication"
 ---
 
 # CMI Unit 405 Assignment Help — Management Communication

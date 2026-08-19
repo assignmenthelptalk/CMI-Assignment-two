@@ -10,6 +10,17 @@ const siteUrl = 'https://cmiassignmenthelp.uk.com';
   description={frontmatter.description}
   canonical={frontmatter.canonical ?? siteUrl}
 >
+  {frontmatter.headerImage && (
+    <img
+      class="page-header-img"
+      src={frontmatter.headerImage}
+      alt={frontmatter.headerImageAlt ?? frontmatter.title}
+      width="1376"
+      height="688"
+      loading="eager"
+      decoding="async"
+    />
+  )}
   <article class="prose-wrap container">
     <slot />
   </article>

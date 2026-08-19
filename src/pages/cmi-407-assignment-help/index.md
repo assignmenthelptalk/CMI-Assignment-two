@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 407 Assignment Help — Conducting a Management Project"
 description: "CMI Unit 407, Conducting a Management Project, covers project management methodology and stakeholder management for managers who initiate, plan, and oversee ..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-407-assignment-help/"
+headerImage: "/images/headers/cmi-407-assignment-help.webp"
+headerImageAlt: "CMI Unit 407 Assignment Help — Conducting a Management Project"
 ---
 
 # CMI Unit 407 Assignment Help — Conducting a Management Project
