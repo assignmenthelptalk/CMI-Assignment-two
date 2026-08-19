@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 513 Assignment Help — Developing and Continuing Professional Practice"
 description: "Reflective Account Format — Gibbs (1988), Kolb (1984), CPD — Evaluate Depth"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-513-assignment-help/"
+headerImage: "/images/headers/cmi-513-assignment-help.webp"
+headerImageAlt: "CMI Unit 513 Assignment Help — Developing and Continuing Professional Practice"
 ---
 
 # CMI Unit 513 Assignment Help — Developing and Continuing Professional Practice
