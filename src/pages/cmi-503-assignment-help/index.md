@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 503 Assignment Help"
 description: "Principles of Managing and Leading Individuals and Teams in Remote Environments — Level 5 Management Report — Transformational Leadership Applied to Remote C..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-503-assignment-help/"
+headerImage: "/images/headers/cmi-503-assignment-help.webp"
+headerImageAlt: "CMI Unit 503 Assignment Help — Principles of Managing and Leading Individuals and Teams in Remote Environments"
 ---
 
 # CMI Unit 503 Assignment Help

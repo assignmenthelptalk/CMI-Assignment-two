@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 525 Assignment Help — Using Reflective Practice to Inform Personal and Professional Development"
 description: "Reflective Account Format — Gibbs (1988), Kolb (1984), Johari Window — Evaluate Depth"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-525-assignment-help/"
+headerImage: "/images/headers/cmi-525-assignment-help.webp"
+headerImageAlt: "CMI Unit 525 Assignment Help — Using Reflective Practice to Inform Personal and Professional Development"
 ---
 
 # CMI Unit 525 Assignment Help — Using Reflective Practice to Inform Personal and Professional Development

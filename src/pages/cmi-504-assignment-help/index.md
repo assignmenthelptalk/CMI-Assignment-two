@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 504 Assignment Help"
 description: "Equality, Diversity and Inclusion in the Workplace — Level 5 Management Report — Equality Act 2010 — Nine Protected Characteristics — UK Writers"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-504-assignment-help/"
+headerImage: "/images/headers/cmi-504-assignment-help.webp"
+headerImageAlt: "CMI Unit 504 Assignment Help — Equality, Diversity and Inclusion in the Workplace"
 ---
 
 # CMI Unit 504 Assignment Help

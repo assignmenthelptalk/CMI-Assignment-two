@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 523 Assignment Help — Managing Quality and Improvement"
 description: "Deming (1986), ISO 9001:2015, Lean TIMWOOD, Six Sigma DMAIC — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-523-assignment-help/"
+headerImage: "/images/headers/cmi-523-assignment-help.webp"
+headerImageAlt: "CMI Unit 523 Assignment Help — Managing Quality and Improvement"
 ---
 
 # CMI Unit 523 Assignment Help — Managing Quality and Improvement

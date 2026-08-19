@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 508 Assignment Help — Procurement and Contracting"
 description: "Kraljic (1983), Supplier Relationship Management, Contract Types — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-508-assignment-help/"
+headerImage: "/images/headers/cmi-508-assignment-help.webp"
+headerImageAlt: "CMI Unit 508 Assignment Help — Procurement and Contracting"
 ---
 
 # CMI Unit 508 Assignment Help — Procurement and Contracting

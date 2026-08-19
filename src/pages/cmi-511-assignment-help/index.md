@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 511 Assignment Help — Interpreting Financial Statements"
 description: "Financial Ratios, P&L Analysis, NHS Financial Context — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-511-assignment-help/"
+headerImage: "/images/headers/cmi-511-assignment-help.webp"
+headerImageAlt: "CMI Unit 511 Assignment Help — Interpreting Financial Statements"
 ---
 
 # CMI Unit 511 Assignment Help — Interpreting Financial Statements

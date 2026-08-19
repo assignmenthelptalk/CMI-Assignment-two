@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 502 Assignment Help"
 description: "Principles of Developing, Managing and Leading Individuals and Teams — Most Submitted Level 5 Unit — Tuckman, Belbin, Herzberg, Maslow, McClelland — UK Writers"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-502-assignment-help/"
+headerImage: "/images/headers/cmi-502-assignment-help.webp"
+headerImageAlt: "CMI Unit 502 Assignment Help — Principles of Developing, Managing and Leading Individuals and Teams"
 ---
 
 # CMI Unit 502 Assignment Help

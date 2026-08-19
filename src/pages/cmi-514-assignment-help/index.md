@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 514 Assignment Help — Managing Projects"
 description: "PRINCE2, Project Lifecycle, Mendelow Stakeholder Matrix — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-514-assignment-help/"
+headerImage: "/images/headers/cmi-514-assignment-help.webp"
+headerImageAlt: "CMI Unit 514 Assignment Help — Managing Projects"
 ---
 
 # CMI Unit 514 Assignment Help — Managing Projects

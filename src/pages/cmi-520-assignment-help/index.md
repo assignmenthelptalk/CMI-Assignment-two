@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 520 Assignment Help — Managing and Improving the Customer Experience"
 description: "SERVQUAL, Customer Journey Mapping, NPS — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-520-assignment-help/"
+headerImage: "/images/headers/cmi-520-assignment-help.webp"
+headerImageAlt: "CMI Unit 520 Assignment Help — Managing and Improving the Customer Experience"
 ---
 
 # CMI Unit 520 Assignment Help — Managing and Improving the Customer Experience
