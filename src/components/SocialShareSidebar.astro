@@ -7,6 +7,20 @@ interface Props {
   iconWidth?: string;
   iconHeight?: string;
   topOffset?: string;
+  mobileBottomOffset?: string;
+  /** 'horizontal' collapses to a full-width bottom bar on mobile (default).
+   *  'vertical' keeps the right-edge stack on mobile too — use this when the
+   *  site already has other bottom-anchored mobile UI (CTA bars, cookie
+   *  banners, floating chat buttons) that a full-width bar would collide with. */
+  mobileLayout?: 'horizontal' | 'vertical';
+  mobileTopOffset?: string;
+  /** Which viewport edge to anchor to. Defaults to 'right'. */
+  side?: 'left' | 'right';
+  /** true (default): topOffset/mobileTopOffset is the vertical CENTER point.
+   *  false: topOffset/mobileTopOffset is the literal top edge — use this on
+   *  pages with tall sticky headers (nav + banners) where centering on a
+   *  short viewport can push the stack up into that header furniture. */
+  centerVertically?: boolean;
 }
 
 const {
@@ -15,15 +29,26 @@ const {
   iconWidth = '60px',
   iconHeight = '60px',
   topOffset = '50%',
+  mobileBottomOffset = '0px',
+  mobileLayout = 'horizontal',
+  mobileTopOffset,
+  side = 'right',
+  centerVertically = true,
 } = Astro.props;
 
 const shareTitle = pageTitle || 'Check this out';
+const sidebarClass = [
+  'social-share-sidebar',
+  mobileLayout === 'vertical' ? 'mobile-vertical' : '',
+  side === 'left' ? 'side-left' : '',
+  centerVertically ? '' : 'no-center',
+].filter(Boolean).join(' ');
 ---
 
 <aside
-  class="social-share-sidebar"
+  class={sidebarClass}
   aria-label="Share this page"
-  style={`--share-icon-width:${iconWidth};--share-icon-height:${iconHeight};--share-top-offset:${topOffset};`}
+  style={`--share-icon-width:${iconWidth};--share-icon-height:${iconHeight};--share-top-offset:${topOffset};--share-mobile-bottom-offset:${mobileBottomOffset};${mobileTopOffset ? `--share-mobile-top-offset:${mobileTopOffset};` : ''}`}
 >
   {socialLinks.map((link) => (
     link.type === 'native-share' ? (
@@ -120,6 +145,15 @@ const shareTitle = pageTitle || 'Check this out';
     flex-direction: column;
   }
 
+  .social-share-sidebar.side-left {
+    right: auto;
+    left: 0;
+  }
+
+  .social-share-sidebar.no-center {
+    transform: none;
+  }
+
   .share-block {
     width: var(--share-icon-width, 60px);
     height: var(--share-icon-height, 60px);
@@ -148,6 +182,11 @@ const shareTitle = pageTitle || 'Check this out';
   .st-btn:hover,
   .st-btn:focus-visible {
     transform: translateX(-6px);
+  }
+
+  .side-left .st-btn:hover,
+  .side-left .st-btn:focus-visible {
+    transform: translateX(6px);
   }
 
   .share-icon {
@@ -179,10 +218,15 @@ const shareTitle = pageTitle || 'Check this out';
     pointer-events: none;
   }
 
+  .side-left .share-block[data-copied]::after {
+    right: auto;
+    left: calc(100% + 8px);
+  }
+
   @media (max-width: 900px) {
-    .social-share-sidebar {
+    .social-share-sidebar:not(.mobile-vertical) {
       top: auto;
-      bottom: 0;
+      bottom: var(--share-mobile-bottom-offset, 0px);
       right: 0;
       left: 0;
       transform: none;
@@ -190,10 +234,19 @@ const shareTitle = pageTitle || 'Check this out';
       width: 100%;
     }
 
-    .share-block {
+    .social-share-sidebar:not(.mobile-vertical) .share-block {
       width: auto;
       height: 44px;
       flex: 1 1 0;
+    }
+
+    .social-share-sidebar.mobile-vertical {
+      top: var(--share-mobile-top-offset, var(--share-top-offset, 50%));
+    }
+
+    .social-share-sidebar.mobile-vertical .share-block {
+      width: 44px;
+      height: 44px;
     }
 
     .st-btn:hover,
@@ -201,7 +254,7 @@ const shareTitle = pageTitle || 'Check this out';
       transform: scale(1.08);
     }
 
-    .share-block[data-copied]::after {
+    .social-share-sidebar:not(.mobile-vertical) .share-block[data-copied]::after {
       right: auto;
       left: 50%;
       top: auto;
