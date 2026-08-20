@@ -4,8 +4,8 @@
     <path class="ico-line" d="M104 55v30" fill="none" stroke-width="6" stroke-linecap="round" />
     <circle class="ico" cx="104" cy="89" r="6.5" />
     <style>
-        .ico { fill: #0f2a4a; }
-        .ico-line { stroke: #0f2a4a; }
+        .ico { fill: #2563eb; }
+        .ico-line { stroke: #2563eb; }
         @media (prefers-color-scheme: dark) {
             .ico { fill: #FFF; }
             .ico-line { stroke: #FFF; }
