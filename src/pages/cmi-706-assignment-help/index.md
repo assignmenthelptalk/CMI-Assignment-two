@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 706 Assignment Help — Programme and Project Leadership"
+title: "CMI Unit 706 Assignment Help | Programme and Project Leadership"
 description: "CMI Unit 706, Programme and Project Leadership, is the Level 7 unit that examines how senior leaders govern complex change at programme scale — beyond indivi..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-706-assignment-help/"
 ---
 
-# CMI Unit 706 Assignment Help — Programme and Project Leadership
+# CMI Unit 706 Assignment Help | Programme and Project Leadership
 
 CMI Unit 706, Programme and Project Leadership, is the Level 7 unit that examines how senior leaders govern complex change at programme scale, beyond individual project management. Written as a strategic paper at Critically Analyse depth, this unit requires you to engage with the academic debate between benefits-realisation frameworks (OGC's Managing Successful Programmes) and the empirical evidence on why large programmes systematically fail to deliver (Flyvbjerg's megaproject research). Directors and senior leaders with responsibility for transformation portfolios find this unit particularly demanding because it challenges the planning optimism that underpins most programme business cases. If you need expert support with Unit 706, message us on WhatsApp.
 

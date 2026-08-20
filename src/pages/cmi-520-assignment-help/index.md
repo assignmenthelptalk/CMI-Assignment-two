@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 520 Assignment Help — Managing and Improving the Customer Experience"
+title: "CMI Unit 520 Assignment Help | Managing and Improving the Customer Experience"
 description: "SERVQUAL, Customer Journey Mapping, NPS — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-520-assignment-help/"
 headerImage: "/images/headers/cmi-520-assignment-help.webp"
 headerImageAlt: "CMI Unit 520 Assignment Help — Managing and Improving the Customer Experience"
 ---
 
-# CMI Unit 520 Assignment Help — Managing and Improving the Customer Experience
+# CMI Unit 520 Assignment Help | Managing and Improving the Customer Experience
 **SERVQUAL, Customer Journey Mapping, NPS, Evaluate Depth, Management Report Format**
 
 CMI Unit 520 assignment help for Managing and Improving the Customer Experience, the service quality and customer management unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with the SERVQUAL gap model applied to diagnose service quality failures, customer journey mapping used to evaluate the end-to-end experience, and NPS applied as a customer loyalty metric with its limitations acknowledged.

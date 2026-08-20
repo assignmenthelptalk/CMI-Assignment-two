@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../../layouts/UnitPage.astro
-title: "Management Theories for CMI Assignments — Which Frameworks to Use and How to Apply Them"
+title: "Management Theories for CMI Assignments | Which Frameworks to Use and How to Apply Them"
 description: "Knowing the theory is not the same as knowing how to apply it in a CMI assignment. A student who can describe Tuckman's five stages but does not evaluate the..."
 canonical: "https://cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/"
 ---
 
-# Management Theories for CMI Assignments — Which Frameworks to Use and How to Apply Them
+# Management Theories for CMI Assignments | Which Frameworks to Use and How to Apply Them
 
 Knowing the theory is not the same as knowing how to apply it in a CMI assignment. A student who can describe Tuckman's five stages but does not evaluate their application to their team's specific context will receive a Pass at Level 5. A student who applies Kotter's eight steps but does not name the model's limitations will not receive Distinction. This guide maps the management frameworks used across CMI Levels 3 to 7, shows which units use them, and explains what the correct application looks like at each command verb depth.
 

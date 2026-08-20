@@ -1,13 +1,13 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 513 Assignment Help — Developing and Continuing Professional Practice"
+title: "CMI Unit 513 Assignment Help | Developing and Continuing Professional Practice"
 description: "Reflective Account Format — Gibbs (1988), Kolb (1984), CPD — Evaluate Depth"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-513-assignment-help/"
 headerImage: "/images/headers/cmi-513-assignment-help.webp"
 headerImageAlt: "CMI Unit 513 Assignment Help — Developing and Continuing Professional Practice"
 ---
 
-# CMI Unit 513 Assignment Help — Developing and Continuing Professional Practice
+# CMI Unit 513 Assignment Help | Developing and Continuing Professional Practice
 **Reflective Account Format, Gibbs (1988), Kolb (1984), CPD, Evaluate Depth**
 
 CMI Unit 513 assignment help for Developing and Continuing Professional Practice, the CPD and reflective practice unit of the CMI Level 5 Diploma. This unit uses **reflective account format:** first-person, structured by reflective cycle stages, not management report format. Submitting Unit 513 as a management report is a format error that results in referral regardless of content quality.

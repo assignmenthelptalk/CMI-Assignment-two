@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 517 Assignment Help — Understanding and Leading Organisational Change"
+title: "CMI Unit 517 Assignment Help | Understanding and Leading Organisational Change"
 description: "McKinsey 7-S, Schein (2010), Kotter & Schlesinger (1979) — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-517-assignment-help/"
 headerImage: "/images/headers/cmi-517-assignment-help.webp"
 headerImageAlt: "CMI Unit 517 Assignment Help — Understanding and Leading Organisational Change"
 ---
 
-# CMI Unit 517 Assignment Help — Understanding and Leading Organisational Change
+# CMI Unit 517 Assignment Help | Understanding and Leading Organisational Change
 **McKinsey 7-S, Schein (2010), Kotter & Schlesinger (1979), Evaluate Depth, Management Report Format**
 
 CMI Unit 517 assignment help for Understanding and Leading Organisational Change, the strategic change leadership unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with McKinsey's 7-S model applied to assess organisational alignment during change, Schein's culture model used to evaluate cultural readiness, and Kotter and Schlesinger's resistance approaches used to evaluate the quality of resistance management.

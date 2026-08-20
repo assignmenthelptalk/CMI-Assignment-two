@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 306 Assignment Help — Managing Equality, Diversity and Inclusion"
+title: "CMI Unit 306 Assignment Help | Managing Equality, Diversity and Inclusion"
 description: "CMI Unit 306, Managing Equality, Diversity and Inclusion, covers the legislative framework governing equality in the workplace and the first-line manager's r..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-306-assignment-help/"
 ---
 
-# CMI Unit 306 Assignment Help — Managing Equality, Diversity and Inclusion
+# CMI Unit 306 Assignment Help | Managing Equality, Diversity and Inclusion
 
 CMI Unit 306, Managing Equality, Diversity and Inclusion, covers the legislative framework governing equality in the workplace and the first-line manager's role in creating and maintaining an inclusive team environment. Submitted as a structured essay at Describe and Explain command verb depth, it requires accurate knowledge of the Equality Act 2010, an understanding of the nine protected characteristics, the distinction between direct and indirect discrimination, and the practical inclusive management behaviours that support a diverse team. Team leaders and supervisors across all sectors study this unit, and NHS and public sector students find it directly relevant to WRES and WDES obligations. If you need support with Unit 306, message us on WhatsApp for a same-day quote.
 

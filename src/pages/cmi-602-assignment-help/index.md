@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 602 Assignment Help — Leading and Developing People"
+title: "CMI Unit 602 Assignment Help | Leading and Developing People"
 description: "CMI Unit 602, Leading and Developing People, covers senior leadership applied to professional development and organisational capability building at Level 6 C..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-602-assignment-help/"
 ---
 
-# CMI Unit 602 Assignment Help — Leading and Developing People
+# CMI Unit 602 Assignment Help | Leading and Developing People
 
 CMI Unit 602, Leading and Developing People, covers senior leadership applied to professional development and organisational capability building at Level 6 Critically Evaluate depth. Submitted as an advanced management paper, it applies Bass and Avolio's Transformational Leadership model, Spillane's Distributed Leadership, and situational leadership to the challenges of leading and developing professional teams at senior management level. Senior managers who are responsible for the development of a leadership pipeline, the capability of a professional team, or the performance of a senior team structure find this unit directly applicable to their strategic people leadership responsibilities. If you need support with Unit 602, message us on WhatsApp for a same-day quote.
 

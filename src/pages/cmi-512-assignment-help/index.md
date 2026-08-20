@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 512 Assignment Help — Becoming an Effective Leader"
+title: "CMI Unit 512 Assignment Help | Becoming an Effective Leader"
 description: "Kouzes & Posner (2017), Goleman (1998), George (2003) — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-512-assignment-help/"
 headerImage: "/images/headers/cmi-512-assignment-help.webp"
 headerImageAlt: "CMI Unit 512 Assignment Help — Becoming an Effective Leader"
 ---
 
-# CMI Unit 512 Assignment Help — Becoming an Effective Leader
+# CMI Unit 512 Assignment Help | Becoming an Effective Leader
 **Kouzes & Posner (2017), Goleman (1998), George (2003), Evaluate Depth, Management Report Format**
 
 CMI Unit 512 assignment help for Becoming an Effective Leader, the personal leadership development unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with leadership effectiveness evaluated through Kouzes and Posner's Five Practices, Goleman's five emotional intelligence domains, and George's authentic leadership model, applied to the student's own leadership practice.

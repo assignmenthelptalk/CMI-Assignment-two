@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 514 Assignment Help — Managing Projects"
+title: "CMI Unit 514 Assignment Help | Managing Projects"
 description: "PRINCE2, Project Lifecycle, Mendelow Stakeholder Matrix — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-514-assignment-help/"
 headerImage: "/images/headers/cmi-514-assignment-help.webp"
 headerImageAlt: "CMI Unit 514 Assignment Help — Managing Projects"
 ---
 
-# CMI Unit 514 Assignment Help — Managing Projects
+# CMI Unit 514 Assignment Help | Managing Projects
 **PRINCE2, Project Lifecycle, Mendelow Stakeholder Matrix, Evaluate Depth, Management Report Format**
 
 CMI Unit 514 assignment help for Managing Projects, the project management unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with the project lifecycle applied to a real project scenario, PRINCE2 principles used as the evaluative framework, and stakeholder engagement evaluated through Mendelow's power-interest matrix.

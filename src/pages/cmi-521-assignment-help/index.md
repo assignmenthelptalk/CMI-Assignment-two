@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 521 Assignment Help — Managing Health, Safety and Welfare"
+title: "CMI Unit 521 Assignment Help | Managing Health, Safety and Welfare"
 description: "HSWA 1974, Hierarchy of Controls, HSE Management Standards — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-521-assignment-help/"
 headerImage: "/images/headers/cmi-521-assignment-help.webp"
 headerImageAlt: "CMI Unit 521 Assignment Help — Managing Health, Safety and Welfare"
 ---
 
-# CMI Unit 521 Assignment Help — Managing Health, Safety and Welfare
+# CMI Unit 521 Assignment Help | Managing Health, Safety and Welfare
 **HSWA 1974, Hierarchy of Controls, HSE Management Standards, Evaluate Depth, Management Report Format**
 
 CMI Unit 521 assignment help for Managing Health, Safety and Welfare, the occupational health, safety and wellbeing unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with the legal framework (HSWA 1974, MHSWR 1999) applied to manager duties, the hierarchy of controls used to evaluate risk control measures, and the HSE Management Standards applied to workplace wellbeing.

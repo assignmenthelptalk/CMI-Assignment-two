@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 715 Assignment Help — Strategic Approaches to Health, Wellbeing and Inclusion"
+title: "CMI Unit 715 Assignment Help | Strategic Approaches to Health, Wellbeing and Inclusion"
 description: "CMI Unit 715, Strategic Approaches to Health, Wellbeing and Inclusion, is the Level 7 unit that examines the theoretical foundations of organisational wellbe..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-715-assignment-help/"
 ---
 
-# CMI Unit 715 Assignment Help — Strategic Approaches to Health, Wellbeing and Inclusion
+# CMI Unit 715 Assignment Help | Strategic Approaches to Health, Wellbeing and Inclusion
 
 CMI Unit 715, Strategic Approaches to Health, Wellbeing and Inclusion, is the Level 7 unit that examines the theoretical foundations of organisational wellbeing and equity strategies, moving well beyond EAP programmes and absence management into the academic debate about what actually determines workforce health, why health inequalities exist, and what structural rather than individual interventions are required. Written as a strategic paper at Critically Analyse depth, it requires engagement with Marmot's social determinants framework, Seligman's PERMA model, Cox and Griffiths' transactional stress model, and the NHS People Plan. The central academic debate is between individual-level wellbeing interventions and structural, organisational-level approaches to health equity. Directors of HR, chief people officers, and NHS medical and nursing directors find this unit directly relevant to the persistent gap between NHS staff wellbeing investment and NHS Staff Survey wellbeing scores. If you need expert support with Unit 715, message us on WhatsApp.
 

@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 522 Assignment Help — Managing Conflict"
+title: "CMI Unit 522 Assignment Help | Managing Conflict"
 description: "Thomas-Kilmann (1974), Mediation, ACAS Code of Practice — Evaluate Depth — Management Report Format"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-522-assignment-help/"
 headerImage: "/images/headers/cmi-522-assignment-help.webp"
 headerImageAlt: "CMI Unit 522 Assignment Help — Managing Conflict"
 ---
 
-# CMI Unit 522 Assignment Help — Managing Conflict
+# CMI Unit 522 Assignment Help | Managing Conflict
 **Thomas-Kilmann (1974), Mediation, ACAS Code of Practice, Evaluate Depth, Management Report Format**
 
 CMI Unit 522 assignment help for Managing Conflict, the workplace conflict management unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with the Thomas-Kilmann TKI model applied to evaluate conflict handling style selection, mediation stages used to evaluate informal resolution approaches, and ACAS Code of Practice applied as the procedural benchmark.

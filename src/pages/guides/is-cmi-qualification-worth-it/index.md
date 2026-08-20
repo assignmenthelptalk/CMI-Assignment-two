@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../../layouts/UnitPage.astro
-title: "Is a CMI Qualification Worth It? — Career ROI, Employer Recognition, and Who Benefits Most"
+title: "Is a CMI Qualification Worth It? | Career ROI, Employer Recognition, and Who Benefits Most"
 description: "The honest answer is: it depends on who you are, what sector you work in, and what you are trying to achieve. A CMI qualification is not universally the best..."
 canonical: "https://cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/"
 ---
 
-# Is a CMI Qualification Worth It? — Career ROI, Employer Recognition, and Who Benefits Most
+# Is a CMI Qualification Worth It? | Career ROI, Employer Recognition, and Who Benefits Most
 
 The honest answer is: it depends on who you are, what sector you work in, and what you are trying to achieve. A CMI qualification is not universally the best professional development investment, but for a specific set of working professionals in the UK, it is one of the most direct credentials available for formalising management competence and accessing professional membership grades. This guide covers the career evidence, sector recognition, how CMI compares to ILM and MBA, and which professional profiles get the most value.
 

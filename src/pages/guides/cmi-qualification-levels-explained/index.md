@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../../layouts/UnitPage.astro
-title: "CMI Qualification Levels Explained — Levels 3 to 7, Who Studies Each, and How They Connect"
+title: "CMI Qualification Levels Explained | Levels 3 to 7, Who Studies Each, and How They Connect"
 description: "The CMI (Chartered Management Institute) qualification framework runs from Level 3 (First Line Management) to Level 7 (Strategic Management and Leadership). ..."
 canonical: "https://cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/"
 ---
 
-# CMI Qualification Levels Explained — Levels 3 to 7, Who Studies Each, and How They Connect
+# CMI Qualification Levels Explained | Levels 3 to 7, Who Studies Each, and How They Connect
 
 The CMI (Chartered Management Institute) qualification framework runs from Level 3 (First Line Management) to Level 7 (Strategic Management and Leadership). Each level corresponds to a different management seniority, academic depth, and assignment format, and each unlocks a different CMI membership grade. This guide explains what each level covers, who typically studies it, and how the qualification pathway connects from team leader to director.
 

@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 713 Assignment Help — Workforce Planning and Organisational Design"
+title: "CMI Unit 713 Assignment Help | Workforce Planning and Organisational Design"
 description: "CMI Unit 713, Workforce Planning and Organisational Design, is the Level 7 unit that examines how strategic leaders design organisations for capability and p..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-713-assignment-help/"
 ---
 
-# CMI Unit 713 Assignment Help — Workforce Planning and Organisational Design
+# CMI Unit 713 Assignment Help | Workforce Planning and Organisational Design
 
 CMI Unit 713, Workforce Planning and Organisational Design, is the Level 7 unit that examines how strategic leaders design organisations for capability and plan workforces for future demands, well beyond operational headcount management. Written as a strategic paper at Critically Analyse depth, this unit requires engagement with Galbraith's Star Model, Ulrich and Brockbank's HR value proposition, Gratton's future of work framework, and Miles and Snow's strategy-structure typology. The central academic debate is between design determinism (the belief that organisations can be deliberately engineered to deliver strategic capability) and adaptive workforce futures (the evidence that macro forces are reshaping work in ways that make deterministic planning unreliable). Directors of HR, chief people officers, and senior NHS workforce leads find this unit the most directly relevant to their strategic roles. If you need expert support with Unit 713, message us on WhatsApp.
 

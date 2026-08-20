@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../../layouts/UnitPage.astro
-title: "Harvard Referencing for CMI Assignments — The Complete Guide"
+title: "Harvard Referencing for CMI Assignments | The Complete Guide"
 description: "Harvard referencing is required in all CMI assignment submissions from Level 3 upwards. At Level 5 and above, the quality and quantity of sources — and the a..."
 canonical: "https://cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/"
 ---
 
-# Harvard Referencing for CMI Assignments — The Complete Guide
+# Harvard Referencing for CMI Assignments | The Complete Guide
 
 Harvard referencing is required in all CMI assignment submissions from Level 3 upwards. At Level 5 and above, the quality and quantity of sources, and the accuracy of their citation, directly affects the grade. A Merit response with weak or missing in-text citations becomes a Pass. A Distinction-level analysis undermined by a bibliography that cites textbook summaries rather than primary sources will not receive Distinction at Level 7. This guide covers every Harvard referencing format CMI students need: in-text citation, bibliography layout, ManagementDirect citation, and minimum source counts by level.
 

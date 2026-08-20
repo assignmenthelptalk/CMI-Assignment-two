@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../../layouts/UnitPage.astro
-title: "CMI Reflective Practice — How to Use Gibbs and Kolb in Your CMI Assignment"
+title: "CMI Reflective Practice | How to Use Gibbs and Kolb in Your CMI Assignment"
 description: "CMI reflective practice is one of the most misunderstood areas of the qualification. Students who have strong professional experience often write detailed de..."
 canonical: "https://cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/"
 ---
 
-# CMI Reflective Practice — How to Use Gibbs and Kolb in Your CMI Assignment
+# CMI Reflective Practice | How to Use Gibbs and Kolb in Your CMI Assignment
 
 CMI reflective practice is one of the most misunderstood areas of the qualification. Students who have strong professional experience often write detailed descriptions of what happened, and receive a Pass where they expected a Merit. The problem is almost always the same: confusing a personal account of an event with an academically structured reflective analysis. This guide explains how to use Gibbs' Reflective Cycle and Kolb's Experiential Learning Cycle correctly in a CMI reflective account, what command verb depth means in this format, and what separates a Distinction-level reflection from a narrative description.
 

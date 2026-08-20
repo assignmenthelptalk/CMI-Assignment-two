@@ -1,11 +1,11 @@
-﻿---
+---
 layout: ../../../layouts/UnitPage.astro
-title: "CMI Assignment Referral — What It Means and How to Resubmit Successfully"
+title: "CMI Assignment Referral | What It Means and How to Resubmit Successfully"
 description: "Receiving a CMI referral is not a final result. A referral means that one or more Learning Outcomes in your assignment did not meet the assessment standard —..."
 canonical: "https://cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/"
 ---
 
-# CMI Assignment Referral — What It Means and How to Resubmit Successfully
+# CMI Assignment Referral | What It Means and How to Resubmit Successfully
 
 Receiving a CMI referral is not a final result. A referral means that one or more Learning Outcomes in your assignment did not meet the assessment standard, and that you have a resubmission window to address the specific gaps and resubmit. Most CMI students who receive a referral can resubmit successfully with targeted work. The key is understanding exactly what the assessor flagged and knowing precisely what needs to change.
 
