@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 312 Assignment Help | Managing Data and Information"
 description: "CMI Unit 312, Managing Data and Information, covers the first-line manager's responsibilities for handling data and information lawfully, securely, and effec..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-312-assignment-help/"
+headerImage: "/images/headers/cmi-312-assignment-help.webp"
+headerImageAlt: "CMI Unit 312 Assignment Help — Managing Data and Information"
 ---
 
 # CMI Unit 312 Assignment Help | Managing Data and Information

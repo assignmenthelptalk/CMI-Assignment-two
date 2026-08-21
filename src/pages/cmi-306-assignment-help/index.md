@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 306 Assignment Help | Managing Equality, Diversity and Inclusion"
 description: "CMI Unit 306, Managing Equality, Diversity and Inclusion, covers the legislative framework governing equality in the workplace and the first-line manager's r..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-306-assignment-help/"
+headerImage: "/images/headers/cmi-306-assignment-help.webp"
+headerImageAlt: "CMI Unit 306 Assignment Help — Managing Equality, Diversity and Inclusion"
 ---
 
 # CMI Unit 306 Assignment Help | Managing Equality, Diversity and Inclusion

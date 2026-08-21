@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 303 Assignment Help | Managing Individuals to be Effective in their Roles"
 description: "CMI Unit 303, Managing Individuals to be Effective in their Roles, covers the one-to-one management responsibilities of a first-line manager — motivating ind..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-303-assignment-help/"
+headerImage: "/images/headers/cmi-303-assignment-help.webp"
+headerImageAlt: "CMI Unit 303 Assignment Help — Managing Individuals to be Effective in their Roles"
 ---
 
 # CMI Unit 303 Assignment Help | Managing Individuals to be Effective in their Roles

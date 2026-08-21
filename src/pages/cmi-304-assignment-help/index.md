@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 304 Assignment Help | Principles of Communication in the Workplace"
 description: "CMI Unit 304, Principles of Communication in the Workplace, covers the theoretical foundations of workplace communication and the first-line manager's respon..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-304-assignment-help/"
+headerImage: "/images/headers/cmi-304-assignment-help.webp"
+headerImageAlt: "CMI Unit 304 Assignment Help — Principles of Communication in the Workplace"
 ---
 
 # CMI Unit 304 Assignment Help | Principles of Communication in the Workplace

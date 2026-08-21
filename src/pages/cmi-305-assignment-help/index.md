@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 305 Assignment Help | Building Stakeholder Relationships Using Effective Communication"
 description: "CMI Unit 305, Building Stakeholder Relationships Using Effective Communication, covers how first-line managers identify the people and groups with an interes..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-305-assignment-help/"
+headerImage: "/images/headers/cmi-305-assignment-help.webp"
+headerImageAlt: "CMI Unit 305 Assignment Help — Building Stakeholder Relationships Using Effective Communication"
 ---
 
 # CMI Unit 305 Assignment Help | Building Stakeholder Relationships Using Effective Communication

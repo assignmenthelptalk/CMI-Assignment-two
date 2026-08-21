@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 307 Assignment Help | Developing the Knowledge, Skills and Abilities of Individuals and Teams"
 description: "CMI Unit 307, Developing the Knowledge, Skills and Abilities of Individuals and Teams, covers the first-line manager's responsibility for identifying develop..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-307-assignment-help/"
+headerImage: "/images/headers/cmi-307-assignment-help.webp"
+headerImageAlt: "CMI Unit 307 Assignment Help — Developing the Knowledge, Skills and Abilities of Individuals and Teams"
 ---
 
 # CMI Unit 307 Assignment Help | Developing the Knowledge, Skills and Abilities of Individuals and Teams

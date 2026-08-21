@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 302 Assignment Help | Managing a Team to Achieve Results"
 description: "CMI Unit 302, Managing a Team to Achieve Results, is one of the three core units of the Level 3 First Line Management qualification. Submitted as a structure..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-302-assignment-help/"
+headerImage: "/images/headers/cmi-302-assignment-help.webp"
+headerImageAlt: "CMI Unit 302 Assignment Help — Managing a Team to Achieve Results"
 ---
 
 # CMI Unit 302 Assignment Help | Managing a Team to Achieve Results

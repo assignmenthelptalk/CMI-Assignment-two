@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 310 Assignment Help | Managing a Budget"
 description: "CMI Unit 310, Managing a Budget, covers the first-line manager's financial management responsibilities — understanding budget types, monitoring income and ex..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-310-assignment-help/"
+headerImage: "/images/headers/cmi-310-assignment-help.webp"
+headerImageAlt: "CMI Unit 310 Assignment Help — Managing a Budget"
 ---
 
 # CMI Unit 310 Assignment Help | Managing a Budget

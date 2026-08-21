@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 309 Assignment Help | Introduction to Sales Management"
 description: "CMI Unit 309, Introduction to Sales Management, covers the first-line management responsibilities specific to leading a sales team — including understanding ..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-309-assignment-help/"
+headerImage: "/images/headers/cmi-309-assignment-help.webp"
+headerImageAlt: "CMI Unit 309 Assignment Help — Introduction to Sales Management"
 ---
 
 # CMI Unit 309 Assignment Help | Introduction to Sales Management

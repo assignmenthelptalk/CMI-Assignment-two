@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 301 Assignment Help | Principles of Management and Leadership"
 description: "CMI Unit 301, Principles of Management and Leadership, is the foundational unit of the Level 3 First Line Management qualification and the most commonly sele..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-301-assignment-help/"
+headerImage: "/images/headers/cmi-301-assignment-help.webp"
+headerImageAlt: "CMI Unit 301 Assignment Help — Principles of Management and Leadership"
 ---
 
 # CMI Unit 301 Assignment Help | Principles of Management and Leadership
