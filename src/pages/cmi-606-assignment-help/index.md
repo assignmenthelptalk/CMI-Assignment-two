@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 606 Assignment Help | Financial Management for Senior Leaders"
 description: "CMI Unit 606, Financial Management for Senior Leaders, covers strategic financial management for senior managers who hold significant budget responsibility o..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-606-assignment-help/"
+headerImage: "/images/headers/cmi-606-assignment-help.webp"
+headerImageAlt: "CMI Unit 606 Assignment Help — Financial Management for Senior Leaders"
 ---
 
 # CMI Unit 606 Assignment Help | Financial Management for Senior Leaders

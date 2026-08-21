@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 604 Assignment Help | Developing Strategic Plans"
 description: "CMI Unit 604, Developing Strategic Plans, covers operational and strategic planning at senior management level, requiring Critically Evaluate depth applied t..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-604-assignment-help/"
+headerImage: "/images/headers/cmi-604-assignment-help.webp"
+headerImageAlt: "CMI Unit 604 Assignment Help — Developing Strategic Plans"
 ---
 
 # CMI Unit 604 Assignment Help | Developing Strategic Plans

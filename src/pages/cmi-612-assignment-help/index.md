@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 612 Assignment Help | Leading and Managing Remote and Distributed Teams"
 description: "CMI Unit 612, Leading and Managing Remote and Distributed Teams, covers the specific leadership and management challenges of geographically dispersed team st..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-612-assignment-help/"
+headerImage: "/images/headers/cmi-612-assignment-help.webp"
+headerImageAlt: "CMI Unit 612 Assignment Help — Leading and Managing Remote and Distributed Teams"
 ---
 
 # CMI Unit 612 Assignment Help | Leading and Managing Remote and Distributed Teams

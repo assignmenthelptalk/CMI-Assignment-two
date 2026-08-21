@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 608 Assignment Help | Procurement and Contract Management"
 description: "CMI Unit 608, Procurement and Contract Management, covers strategic procurement and contract governance at senior management level at Level 6 Critically Eval..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-608-assignment-help/"
+headerImage: "/images/headers/cmi-608-assignment-help.webp"
+headerImageAlt: "CMI Unit 608 Assignment Help — Procurement and Contract Management"
 ---
 
 # CMI Unit 608 Assignment Help | Procurement and Contract Management

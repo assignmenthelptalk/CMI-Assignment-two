@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 605 Assignment Help | Developing Organisational Strategy"
 description: "CMI Unit 605, Developing Organisational Strategy, covers strategic analysis and strategic direction-setting at the interface between senior management and st..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-605-assignment-help/"
+headerImage: "/images/headers/cmi-605-assignment-help.webp"
+headerImageAlt: "CMI Unit 605 Assignment Help — Developing Organisational Strategy"
 ---
 
 # CMI Unit 605 Assignment Help | Developing Organisational Strategy

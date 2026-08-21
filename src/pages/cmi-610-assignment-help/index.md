@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 610 Assignment Help | Managing the Customer Experience"
 description: "CMI Unit 610, Managing the Customer Experience, covers customer experience strategy, service quality management, and customer journey design at Level 6 Criti..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-610-assignment-help/"
+headerImage: "/images/headers/cmi-610-assignment-help.webp"
+headerImageAlt: "CMI Unit 610 Assignment Help — Managing the Customer Experience"
 ---
 
 # CMI Unit 610 Assignment Help | Managing the Customer Experience

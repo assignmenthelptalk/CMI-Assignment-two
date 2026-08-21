@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 603 Assignment Help | Leading Organisational Change"
 description: "CMI Unit 603, Leading Organisational Change, is the most analytically demanding Level 6 unit and the most commonly submitted by senior managers seeking Disti..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-603-assignment-help/"
+headerImage: "/images/headers/cmi-603-assignment-help.webp"
+headerImageAlt: "CMI Unit 603 Assignment Help — Leading Organisational Change"
 ---
 
 # CMI Unit 603 Assignment Help | Leading Organisational Change

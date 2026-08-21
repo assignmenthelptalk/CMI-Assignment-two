@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 601 Assignment Help | Principles of Management and Leadership in an Organisational Context"
 description: "CMI Unit 601, Principles of Management and Leadership in an Organisational Context, is the Level 6 foundation unit and the most commonly studied starting poi..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-601-assignment-help/"
+headerImage: "/images/headers/cmi-601-assignment-help.webp"
+headerImageAlt: "CMI Unit 601 Assignment Help — Principles of Management and Leadership in an Organisational Context"
 ---
 
 # CMI Unit 601 Assignment Help | Principles of Management and Leadership in an Organisational Context

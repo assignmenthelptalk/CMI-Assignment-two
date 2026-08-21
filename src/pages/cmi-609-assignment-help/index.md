@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 609 Assignment Help | Developing and Leading Organisational Systems and Processes"
 description: "CMI Unit 609, Developing and Leading Organisational Systems and Processes, covers operational excellence and process improvement at senior management level, ..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-609-assignment-help/"
+headerImage: "/images/headers/cmi-609-assignment-help.webp"
+headerImageAlt: "CMI Unit 609 Assignment Help — Developing and Leading Organisational Systems and Processes"
 ---
 
 # CMI Unit 609 Assignment Help | Developing and Leading Organisational Systems and Processes

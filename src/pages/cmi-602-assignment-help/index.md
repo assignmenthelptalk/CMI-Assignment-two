@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 602 Assignment Help | Leading and Developing People"
 description: "CMI Unit 602, Leading and Developing People, covers senior leadership applied to professional development and organisational capability building at Level 6 C..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-602-assignment-help/"
+headerImage: "/images/headers/cmi-602-assignment-help.webp"
+headerImageAlt: "CMI Unit 602 Assignment Help — Leading and Developing People"
 ---
 
 # CMI Unit 602 Assignment Help | Leading and Developing People
