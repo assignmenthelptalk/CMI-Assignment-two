@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 613 Assignment Help | Managing Equality, Diversity and Inclusion"
 description: "CMI Unit 613, Managing Equality, Diversity and Inclusion, covers EDI strategy at senior management level — applying the Equality Act 2010, intersectionality ..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-613-assignment-help/"
+headerImage: "/images/headers/cmi-613-assignment-help.webp"
+headerImageAlt: "CMI Unit 613 Assignment Help — Managing Equality, Diversity and Inclusion"
 ---
 
 # CMI Unit 613 Assignment Help | Managing Equality, Diversity and Inclusion

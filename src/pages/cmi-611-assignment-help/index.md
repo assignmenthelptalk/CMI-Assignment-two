@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 611 Assignment Help | Managing Corporate Social Responsibility"
 description: "CMI Unit 611, Managing Corporate Social Responsibility, covers CSR strategy at senior management level — applying Carroll's Pyramid, Freeman's Stakeholder Th..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-611-assignment-help/"
+headerImage: "/images/headers/cmi-611-assignment-help.webp"
+headerImageAlt: "CMI Unit 611 Assignment Help — Managing Corporate Social Responsibility"
 ---
 
 # CMI Unit 611 Assignment Help | Managing Corporate Social Responsibility

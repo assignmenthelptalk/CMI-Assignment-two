@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 614 Assignment Help | Operational Risk Management"
 description: "CMI Unit 614, Operational Risk Management, covers risk management at senior operational level, applying the ISO 31000 Risk Management Standard and enterprise..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-614-assignment-help/"
+headerImage: "/images/headers/cmi-614-assignment-help.webp"
+headerImageAlt: "CMI Unit 614 Assignment Help — Operational Risk Management"
 ---
 
 # CMI Unit 614 Assignment Help | Operational Risk Management
