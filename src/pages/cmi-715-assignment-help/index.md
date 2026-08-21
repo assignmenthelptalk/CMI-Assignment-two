@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 715 Assignment Help | Strategic Approaches to Health, Wellbeing and Inclusion"
 description: "CMI Unit 715, Strategic Approaches to Health, Wellbeing and Inclusion, is the Level 7 unit that examines the theoretical foundations of organisational wellbe..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-715-assignment-help/"
+headerImage: "/images/headers/cmi-715-assignment-help.webp"
+headerImageAlt: "CMI Unit 715 Assignment Help — Strategic Approaches to Health, Wellbeing and Inclusion"
 ---
 
 # CMI Unit 715 Assignment Help | Strategic Approaches to Health, Wellbeing and Inclusion
