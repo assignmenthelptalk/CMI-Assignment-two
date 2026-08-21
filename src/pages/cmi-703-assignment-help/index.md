@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 703 Assignment Help | Developing and Implementing Strategy"
 description: "CMI Unit 703, Developing and Implementing Strategy, is one of the highest-stakes units in the Level 7 suite. Written as a strategic paper, not a management r..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-703-assignment-help/"
+headerImage: "/images/headers/cmi-703-assignment-help.webp"
+headerImageAlt: "CMI Unit 703 Assignment Help — Developing and Implementing Strategy"
 ---
 
 # CMI Unit 703 Assignment Help | Developing and Implementing Strategy

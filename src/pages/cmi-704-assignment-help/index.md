@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 704 Assignment Help"
 description: "Governance, Risk and Ethics — Strategic Paper — ISO 31000, COSO ERM, Taleb (2007), Carroll (1991) — Critically Analyse Depth"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-704-assignment-help/"
+headerImage: "/images/headers/cmi-704-assignment-help.webp"
+headerImageAlt: "CMI Unit 704 Assignment Help — Governance, Risk and Ethics"
 ---
 
 # CMI Unit 704 Assignment Help

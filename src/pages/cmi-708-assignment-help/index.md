@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 708 Assignment Help | Strategic Approaches to Innovation and Change"
 description: "Christensen (1997), Tidd and Bessant (2018), Tushman and Anderson (1986) — Critically Analyse Depth — Director-Level Writers"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-708-assignment-help/"
+headerImage: "/images/headers/cmi-708-assignment-help.webp"
+headerImageAlt: "CMI Unit 708 Assignment Help — Strategic Approaches to Innovation and Change"
 ---
 
 # CMI Unit 708 Assignment Help | Strategic Approaches to Innovation and Change

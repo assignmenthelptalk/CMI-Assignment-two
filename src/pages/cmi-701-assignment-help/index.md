@@ -1,8 +1,10 @@
-﻿---
+---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 701 Assignment Help"
 description: "Personal and Professional Development as a Strategic Leader — Strategic Paper Format — Critically Analyse Depth — Kolb, Gibbs, Goleman, Argyris and Schön"
 canonical: "https://cmiassignmenthelp.uk.com/cmi-701-assignment-help/"
+headerImage: "/images/headers/cmi-701-assignment-help.webp"
+headerImageAlt: "CMI Unit 701 Assignment Help — Personal and Professional Development as a Strategic Leader"
 ---
 
 # CMI Unit 701 Assignment Help

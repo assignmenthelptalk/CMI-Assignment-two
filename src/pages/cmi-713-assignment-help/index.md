@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 713 Assignment Help | Workforce Planning and Organisational Design"
 description: "CMI Unit 713, Workforce Planning and Organisational Design, is the Level 7 unit that examines how strategic leaders design organisations for capability and p..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-713-assignment-help/"
+headerImage: "/images/headers/cmi-713-assignment-help.webp"
+headerImageAlt: "CMI Unit 713 Assignment Help — Workforce Planning and Organisational Design"
 ---
 
 # CMI Unit 713 Assignment Help | Workforce Planning and Organisational Design

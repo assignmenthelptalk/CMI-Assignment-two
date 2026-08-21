@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 706 Assignment Help | Programme and Project Leadership"
 description: "CMI Unit 706, Programme and Project Leadership, is the Level 7 unit that examines how senior leaders govern complex change at programme scale — beyond indivi..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-706-assignment-help/"
+headerImage: "/images/headers/cmi-706-assignment-help.webp"
+headerImageAlt: "CMI Unit 706 Assignment Help — Programme and Project Leadership"
 ---
 
 # CMI Unit 706 Assignment Help | Programme and Project Leadership

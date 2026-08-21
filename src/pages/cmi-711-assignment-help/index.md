@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 711 Assignment Help | Engaging Stakeholders and Building Relationships"
 description: "CMI Unit 711, Engaging Stakeholders and Building Relationships, is the Level 7 unit that examines the theoretical foundations of strategic stakeholder engage..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-711-assignment-help/"
+headerImage: "/images/headers/cmi-711-assignment-help.webp"
+headerImageAlt: "CMI Unit 711 Assignment Help — Engaging Stakeholders and Building Relationships"
 ---
 
 # CMI Unit 711 Assignment Help | Engaging Stakeholders and Building Relationships

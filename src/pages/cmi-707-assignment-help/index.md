@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 707 Assignment Help | Finance for Strategic Leaders"
 description: "CMI Unit 707, Finance for Strategic Leaders, is not a financial accounting unit. It is a unit about the theoretical frameworks that govern how strategic lead..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-707-assignment-help/"
+headerImage: "/images/headers/cmi-707-assignment-help.webp"
+headerImageAlt: "CMI Unit 707 Assignment Help — Finance for Strategic Leaders"
 ---
 
 # CMI Unit 707 Assignment Help | Finance for Strategic Leaders

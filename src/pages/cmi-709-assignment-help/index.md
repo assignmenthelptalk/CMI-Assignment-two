@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 709 Assignment Help | Leading Strategic Change"
 description: "CMI Unit 709, Leading Strategic Change, is the Level 7 unit that asks the most fundamental question in management theory: why do organisations so frequently ..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-709-assignment-help/"
+headerImage: "/images/headers/cmi-709-assignment-help.webp"
+headerImageAlt: "CMI Unit 709 Assignment Help — Leading Strategic Change"
 ---
 
 # CMI Unit 709 Assignment Help | Leading Strategic Change

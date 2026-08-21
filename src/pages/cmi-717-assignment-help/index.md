@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 717 Assignment Help | Advanced Coaching and Mentoring"
 description: "CMI Unit 717, Advanced Coaching and Mentoring, is the Level 7 unit that moves beyond coaching methodology into the theoretical foundations of why coaching wo..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-717-assignment-help/"
+headerImage: "/images/headers/cmi-717-assignment-help.webp"
+headerImageAlt: "CMI Unit 717 Assignment Help — Advanced Coaching and Mentoring"
 ---
 
 # CMI Unit 717 Assignment Help | Advanced Coaching and Mentoring
