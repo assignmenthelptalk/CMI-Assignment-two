@@ -3,6 +3,8 @@ layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 714 Assignment Help | Digital Transformation and Technology Leadership"
 description: "CMI Unit 714, Digital Transformation and Technology Leadership, is the Level 7 unit that requires strategic leaders to Critically Analyse the theoretical fra..."
 canonical: "https://cmiassignmenthelp.uk.com/cmi-714-assignment-help/"
+headerImage: "/images/headers/cmi-714-assignment-help.webp"
+headerImageAlt: "CMI Unit 714 Assignment Help — Digital Transformation and Technology Leadership"
 ---
 
 # CMI Unit 714 Assignment Help | Digital Transformation and Technology Leadership

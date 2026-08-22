@@ -3,6 +3,8 @@ layout: ../../../layouts/UnitPage.astro
 title: "CMI Reflective Practice | How to Use Gibbs and Kolb in Your CMI Assignment"
 description: "CMI reflective practice is one of the most misunderstood areas of the qualification. Students who have strong professional experience often write detailed de..."
 canonical: "https://cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/"
+headerImage: "/images/headers/cmi-reflective-practice.webp"
+headerImageAlt: "CMI Reflective Practice — how to use Gibbs and Kolb in your CMI assignment"
 ---
 
 # CMI Reflective Practice | How to Use Gibbs and Kolb in Your CMI Assignment

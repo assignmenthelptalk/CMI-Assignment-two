@@ -3,6 +3,8 @@ layout: ../../../layouts/UnitPage.astro
 title: "CMI Assignment Referral | What It Means and How to Resubmit Successfully"
 description: "Receiving a CMI referral is not a final result. A referral means that one or more Learning Outcomes in your assignment did not meet the assessment standard —..."
 canonical: "https://cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/"
+headerImage: "/images/headers/cmi-resubmission-guide.webp"
+headerImageAlt: "CMI Assignment Referral — what it means and how to resubmit successfully"
 ---
 
 # CMI Assignment Referral | What It Means and How to Resubmit Successfully
