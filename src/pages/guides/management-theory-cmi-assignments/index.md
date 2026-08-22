@@ -3,6 +3,8 @@ layout: ../../../layouts/UnitPage.astro
 title: "Management Theories for CMI Assignments | Which Frameworks to Use and How to Apply Them"
 description: "Knowing the theory is not the same as knowing how to apply it in a CMI assignment. A student who can describe Tuckman's five stages but does not evaluate the..."
 canonical: "https://cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/"
+headerImage: "/images/headers/management-theory-cmi-assignments.webp"
+headerImageAlt: "Management Theories for CMI Assignments — which frameworks to use and how to apply them"
 ---
 
 # Management Theories for CMI Assignments | Which Frameworks to Use and How to Apply Them

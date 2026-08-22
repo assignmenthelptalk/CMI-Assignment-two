@@ -3,6 +3,8 @@ layout: ../../../layouts/UnitPage.astro
 title: "Harvard Referencing for CMI Assignments | The Complete Guide"
 description: "Harvard referencing is required in all CMI assignment submissions from Level 3 upwards. At Level 5 and above, the quality and quantity of sources — and the a..."
 canonical: "https://cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/"
+headerImage: "/images/headers/harvard-referencing-cmi.webp"
+headerImageAlt: "Harvard Referencing for CMI Assignments — the complete guide"
 ---
 
 # Harvard Referencing for CMI Assignments | The Complete Guide
