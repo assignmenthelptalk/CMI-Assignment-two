@@ -1,5 +1,6 @@
 ﻿---
 import SocialShareSidebar from '../components/SocialShareSidebar.astro';
+import { levels, guides, services } from '../data/navMenu.js';
 
 interface Props {
   title: string;
@@ -68,26 +69,48 @@ const extraSchemas = pageSchema
 
         <nav class="main-nav" aria-label="Main navigation">
           <ul class="nav-list">
+            {levels.map((level) => (
+              <li class="nav-item has-dropdown">
+                <button class="nav-toggle" aria-expanded="false" aria-haspopup="true">
+                  {level.label} <span class="caret" aria-hidden="true">▾</span>
+                </button>
+                <div class="dropdown mega" role="menu">
+                  <a href={level.slug} class="mega-view-all" role="menuitem">
+                    View {level.label} Overview →
+                  </a>
+                  <ul class="mega-cols">
+                    {level.units.map((u) => (
+                      <li>
+                        <a href={`/cmi-${u.num}-assignment-help/`} role="menuitem">
+                          Unit {u.num}: {u.title}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </li>
+            ))}
             <li class="nav-item has-dropdown">
               <button class="nav-toggle" aria-expanded="false" aria-haspopup="true">
-                CMI Levels <span class="caret" aria-hidden="true">▾</span>
+                Guides <span class="caret" aria-hidden="true">▾</span>
+              </button>
+              <div class="dropdown mega" role="menu">
+                <ul class="mega-cols">
+                  {guides.map((g) => (
+                    <li><a href={g.slug} role="menuitem">{g.title}</a></li>
+                  ))}
+                </ul>
+              </div>
+            </li>
+            <li class="nav-item has-dropdown">
+              <button class="nav-toggle" aria-expanded="false" aria-haspopup="true">
+                Services <span class="caret" aria-hidden="true">▾</span>
               </button>
               <ul class="dropdown" role="menu">
-                <li><a href="/cmi-level-3-assignment-help/" role="menuitem">CMI Level 3 Assignment Help</a></li>
-                <li><a href="/cmi-level-4-assignment-help/" role="menuitem">CMI Level 4 Assignment Help</a></li>
-                <li><a href="/cmi-level-5-assignment-help/" role="menuitem">CMI Level 5 Assignment Help</a></li>
-                <li><a href="/cmi-level-6-assignment-help/" role="menuitem">CMI Level 6 Assignment Help</a></li>
-                <li><a href="/cmi-level-7-assignment-help/" role="menuitem">CMI Level 7 Assignment Help</a></li>
+                {services.map((s) => (
+                  <li><a href={s.slug} role="menuitem">{s.title}</a></li>
+                ))}
               </ul>
-            </li>
-            <li class="nav-item">
-              <a href="/cmi-assignment-writing-service/">CMI Assignment Writing Service</a>
-            </li>
-            <li class="nav-item">
-              <a href="/cmi-assignment-tutoring/">CMI Assignment Tutoring</a>
-            </li>
-            <li class="nav-item">
-              <a href="/cmi-coursework-help/">CMI Coursework Help</a>
             </li>
           </ul>
         </nav>
@@ -101,8 +124,67 @@ const extraSchemas = pageSchema
         >
           WhatsApp Us
         </a>
+
+        <button
+          class="hamburger"
+          aria-expanded="false"
+          aria-controls="mobile-nav"
+          aria-label="Open menu"
+        >
+          <span></span><span></span><span></span>
+        </button>
       </div>
     </header>
+
+    <div class="mobile-nav-backdrop"></div>
+    <nav id="mobile-nav" class="mobile-nav" aria-label="Mobile navigation">
+      <button class="mobile-nav-close" aria-label="Close menu">✕</button>
+      <ul class="mobile-nav-list">
+        {levels.map((level) => (
+          <li>
+            <details>
+              <summary>{level.label}</summary>
+              <a href={level.slug} class="mobile-view-all">View {level.label} Overview →</a>
+              <ul>
+                {level.units.map((u) => (
+                  <li>
+                    <a href={`/cmi-${u.num}-assignment-help/`}>Unit {u.num}: {u.title}</a>
+                  </li>
+                ))}
+              </ul>
+            </details>
+          </li>
+        ))}
+        <li>
+          <details>
+            <summary>Guides</summary>
+            <ul>
+              {guides.map((g) => (
+                <li><a href={g.slug}>{g.title}</a></li>
+              ))}
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>Services</summary>
+            <ul>
+              {services.map((s) => (
+                <li><a href={s.slug}>{s.title}</a></li>
+              ))}
+            </ul>
+          </details>
+        </li>
+      </ul>
+      <a
+        href={whatsappUrl}
+        class="btn btn-whatsapp mobile-whatsapp"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        WhatsApp Us
+      </a>
+    </nav>
 
     <main>
       <slot />
@@ -189,6 +271,7 @@ const extraSchemas = pageSchema
       toggles.forEach(btn => {
         btn.addEventListener('click', () => {
           const expanded = btn.getAttribute('aria-expanded') === 'true';
+          toggles.forEach(other => other.setAttribute('aria-expanded', 'false'));
           btn.setAttribute('aria-expanded', String(!expanded));
         });
       });
@@ -199,6 +282,30 @@ const extraSchemas = pageSchema
           }
         });
       });
+
+      const hamburger = document.querySelector<HTMLButtonElement>('.hamburger');
+      const mobileNav = document.querySelector<HTMLElement>('.mobile-nav');
+      const backdrop = document.querySelector<HTMLElement>('.mobile-nav-backdrop');
+      const closeBtn = document.querySelector<HTMLButtonElement>('.mobile-nav-close');
+
+      function openMobileNav() {
+        mobileNav?.classList.add('open');
+        backdrop?.classList.add('open');
+        hamburger?.setAttribute('aria-expanded', 'true');
+        document.body.style.overflow = 'hidden';
+      }
+      function closeMobileNav() {
+        mobileNav?.classList.remove('open');
+        backdrop?.classList.remove('open');
+        hamburger?.setAttribute('aria-expanded', 'false');
+        document.body.style.overflow = '';
+      }
+      hamburger?.addEventListener('click', () => {
+        const expanded = hamburger.getAttribute('aria-expanded') === 'true';
+        expanded ? closeMobileNav() : openMobileNav();
+      });
+      closeBtn?.addEventListener('click', closeMobileNav);
+      backdrop?.addEventListener('click', closeMobileNav);
     </script>
 
   </body>
@@ -369,6 +476,134 @@ const extraSchemas = pageSchema
   }
   .nav-toggle[aria-expanded="true"] + .dropdown { display: block; }
 
+  /* mega dropdown (Level 3-7 units, Guides) */
+  .dropdown.mega {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 720px;
+    max-width: 92vw;
+    padding: .75rem 1rem 1rem;
+  }
+  .mega-view-all {
+    display: block;
+    padding: .5rem .75rem;
+    font-size: .85rem;
+    font-weight: 700;
+    color: var(--blue-light);
+    border-bottom: 1px solid var(--border);
+    margin-bottom: .5rem;
+    white-space: normal;
+  }
+  .mega-view-all:hover { background: var(--bg-light); text-decoration: none; }
+  .mega-cols {
+    column-width: 230px;
+    column-gap: 1.25rem;
+    max-height: 65vh;
+    overflow-y: auto;
+    list-style: none;
+  }
+  .mega-cols li { break-inside: avoid; }
+  .mega-cols li a {
+    padding: .4rem .6rem;
+    font-size: .82rem;
+    line-height: 1.4;
+    white-space: normal;
+  }
+
+  /* hamburger (mobile only) */
+  .hamburger {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 36px;
+    height: 36px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+  .hamburger span {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background: #fff;
+    border-radius: 2px;
+    transition: transform .2s, opacity .2s;
+  }
+  .hamburger[aria-expanded="true"] span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .hamburger[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
+  .hamburger[aria-expanded="true"] span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+  /* mobile off-canvas nav */
+  .mobile-nav-backdrop {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(15,42,74,.5);
+    z-index: 300;
+  }
+  .mobile-nav-backdrop.open { display: block; }
+
+  .mobile-nav {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: min(320px, 85vw);
+    background: #fff;
+    z-index: 400;
+    padding: 1.25rem;
+    overflow-y: auto;
+    transform: translateX(100%);
+    transition: transform .25s ease;
+  }
+  .mobile-nav.open {
+    display: block;
+    transform: translateX(0);
+  }
+  .mobile-nav-close {
+    background: none;
+    border: none;
+    font-size: 1.25rem;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    color: var(--navy);
+  }
+  .mobile-nav-list { list-style: none; }
+  .mobile-nav-list > li {
+    border-bottom: 1px solid var(--border);
+  }
+  .mobile-nav-list summary {
+    padding: .85rem .25rem;
+    font-weight: 600;
+    color: var(--navy);
+    cursor: pointer;
+  }
+  .mobile-view-all {
+    display: block;
+    padding: .4rem .5rem;
+    font-size: .82rem;
+    font-weight: 700;
+    color: var(--blue-light);
+  }
+  .mobile-nav-list ul {
+    list-style: none;
+    padding-bottom: .5rem;
+  }
+  .mobile-nav-list ul li a {
+    display: block;
+    padding: .4rem .75rem;
+    font-size: .82rem;
+    color: var(--text);
+  }
+  .mobile-whatsapp {
+    display: block;
+    text-align: center;
+    margin-top: 1rem;
+  }
+
   /* ── Footer ── */
   .site-footer {
     background: var(--navy);
@@ -453,6 +688,8 @@ const extraSchemas = pageSchema
   @media (max-width: 900px) {
     .footer-grid { grid-template-columns: 1fr 1fr; }
     .main-nav { display: none; }
+    .hamburger { display: flex; }
+    .header-inner .btn-whatsapp { display: none; }
   }
   @media (max-width: 560px) {
     .footer-grid { grid-template-columns: 1fr; }
