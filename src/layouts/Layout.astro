@@ -58,6 +58,15 @@ const extraSchemas = pageSchema
     {extraSchemas.map(s => (
       <script type="application/ld+json" set:html={JSON.stringify(s)} />
     ))}
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NVSRJ51S2S"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-NVSRJ51S2S');
+    </script>
   </head>
   <body>
 
