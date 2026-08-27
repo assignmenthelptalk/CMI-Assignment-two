@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 311 Assignment Help | Managing a Project"
 description: "CMI Unit 311, Managing a Project, covers the first-line manager's role in planning and delivering a defined project — from identifying objectives and plannin..."
-canonical: "https://cmiassignmenthelp.uk.com/cmi-311-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/"
 headerImage: "/images/headers/cmi-311-assignment-help.webp"
 headerImageAlt: "CMI Unit 311 Assignment Help — Managing a Project"
 ---

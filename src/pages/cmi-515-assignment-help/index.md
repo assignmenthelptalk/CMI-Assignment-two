@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 515 Assignment Help | Creating and Delivering Operational Plans"
 description: "Balanced Scorecard, SMART Objectives, Resource Planning — Evaluate Depth — Management Report Format"
-canonical: "https://cmiassignmenthelp.uk.com/cmi-515-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/"
 headerImage: "/images/headers/cmi-515-assignment-help.webp"
 headerImageAlt: "CMI Unit 515 Assignment Help — Creating and Delivering Operational Plans"
 ---

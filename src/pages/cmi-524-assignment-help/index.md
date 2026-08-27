@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 524 Assignment Help | Partnership Working"
 description: "Huxham & Vangen (2005), NHS ICS Context, Partnership Governance — Evaluate Depth — Management Report Format"
-canonical: "https://cmiassignmenthelp.uk.com/cmi-524-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-524-assignment-help/"
 headerImage: "/images/headers/cmi-524-assignment-help.webp"
 headerImageAlt: "CMI Unit 524 Assignment Help — Partnership Working"
 ---

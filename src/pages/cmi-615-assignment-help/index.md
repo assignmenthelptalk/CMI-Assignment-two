@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 615 Assignment Help | Digital Transformation in Organisations"
 description: "CMI Unit 615, Digital Transformation in Organisations, covers digital strategy and transformation management at senior management level, applying Rogers' Dif..."
-canonical: "https://cmiassignmenthelp.uk.com/cmi-615-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-615-assignment-help/"
 headerImage: "/images/headers/cmi-615-assignment-help.webp"
 headerImageAlt: "CMI Unit 615 Assignment Help — Digital Transformation in Organisations"
 ---

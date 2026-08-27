@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 705 Assignment Help"
 description: "Strategic Leadership — Barney (1991) VRIO, Teece, Pisano and Shuen (1997) Dynamic Capabilities — Critically Analyse Depth — Director-Level Writers"
-canonical: "https://cmiassignmenthelp.uk.com/cmi-705-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/"
 headerImage: "/images/headers/cmi-705-assignment-help.webp"
 headerImageAlt: "CMI Unit 705 Assignment Help — Strategic Leadership"
 ---

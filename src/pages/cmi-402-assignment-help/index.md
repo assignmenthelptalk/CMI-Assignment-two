@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 402 Assignment Help | Managing and Developing Self"
 description: "CMI Unit 402, Managing and Developing Self, covers personal management effectiveness, self-awareness, and professional development planning at Level 4 Analys..."
-canonical: "https://cmiassignmenthelp.uk.com/cmi-402-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-402-assignment-help/"
 headerImage: "/images/headers/cmi-402-assignment-help.webp"
 headerImageAlt: "CMI Unit 402 Assignment Help — Managing and Developing Self"
 ---

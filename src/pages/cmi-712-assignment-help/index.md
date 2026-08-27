@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 712 Assignment Help | Strategic Communication"
 description: "CMI Unit 712, Strategic Communication, is the Level 7 unit that examines how strategic leaders construct, frame, and deliver communication at organisational ..."
-canonical: "https://cmiassignmenthelp.uk.com/cmi-712-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/"
 headerImage: "/images/headers/cmi-712-assignment-help.webp"
 headerImageAlt: "CMI Unit 712 Assignment Help — Strategic Communication"
 ---

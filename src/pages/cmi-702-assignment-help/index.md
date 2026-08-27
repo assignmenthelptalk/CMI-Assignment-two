@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 702 Assignment Help"
 description: "Leading and Developing People to Optimise Performance — Strategic Paper — Bass and Avolio (1994), Brown and Treviño (2003), Ciulla (2004) — Critically Analys..."
-canonical: "https://cmiassignmenthelp.uk.com/cmi-702-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/"
 headerImage: "/images/headers/cmi-702-assignment-help.webp"
 headerImageAlt: "CMI Unit 702 Assignment Help — Leading and Developing People to Optimise Performance"
 ---

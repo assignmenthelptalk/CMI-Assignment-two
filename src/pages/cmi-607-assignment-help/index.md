@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 607 Assignment Help | Project and Programme Management"
 description: "CMI Unit 607, Project and Programme Management, covers programme governance, benefits realisation, and portfolio management at senior management level, apply..."
-canonical: "https://cmiassignmenthelp.uk.com/cmi-607-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/"
 headerImage: "/images/headers/cmi-607-assignment-help.webp"
 headerImageAlt: "CMI Unit 607 Assignment Help — Project and Programme Management"
 ---

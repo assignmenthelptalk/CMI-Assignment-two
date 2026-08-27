@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 519 Assignment Help | Leading Innovation and Change"
 description: "Innovation Types, Kotter (1996), Edmondson (1999), De Bono (1985) — Evaluate Depth — Management Report Format"
-canonical: "https://cmiassignmenthelp.uk.com/cmi-519-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/"
 headerImage: "/images/headers/cmi-519-assignment-help.webp"
 headerImageAlt: "CMI Unit 519 Assignment Help — Leading Innovation and Change"
 ---

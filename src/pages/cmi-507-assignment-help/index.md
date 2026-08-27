@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 507 Assignment Help | Delivering Coaching and Mentoring"
 description: "GROW Model, Coaching vs Mentoring Distinction, Clutterbuck (2004) — Evaluate Depth — Management Report Format"
-canonical: "https://cmiassignmenthelp.uk.com/cmi-507-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/"
 headerImage: "/images/headers/cmi-507-assignment-help.webp"
 headerImageAlt: "CMI Unit 507 Assignment Help — Delivering Coaching and Mentoring"
 ---

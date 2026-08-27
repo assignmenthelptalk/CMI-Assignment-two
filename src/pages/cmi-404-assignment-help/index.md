@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 404 Assignment Help | Managing Change"
 description: "CMI Unit 404, Managing Change, covers change management theory and practice at Level 4 Analyse and Evaluate depth. Submitted as a structured essay, it applie..."
-canonical: "https://cmiassignmenthelp.uk.com/cmi-404-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-404-assignment-help/"
 headerImage: "/images/headers/cmi-404-assignment-help.webp"
 headerImageAlt: "CMI Unit 404 Assignment Help — Managing Change"
 ---

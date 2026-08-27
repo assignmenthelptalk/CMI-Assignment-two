@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 406 Assignment Help | Understanding Organisational Culture and Ethics"
 description: "CMI Unit 406, Understanding Organisational Culture and Ethics, covers the analysis of organisational culture and its relationship to management effectiveness..."
-canonical: "https://cmiassignmenthelp.uk.com/cmi-406-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-406-assignment-help/"
 headerImage: "/images/headers/cmi-406-assignment-help.webp"
 headerImageAlt: "CMI Unit 406 Assignment Help — Understanding Organisational Culture and Ethics"
 ---

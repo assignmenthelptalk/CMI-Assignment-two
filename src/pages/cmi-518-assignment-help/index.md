@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 518 Assignment Help | Developing Organisational Strategy"
 description: "Porter (1980), Ansoff (1957), Johnson Scholes Whittington SAF — Evaluate Depth — Management Report Format"
-canonical: "https://cmiassignmenthelp.uk.com/cmi-518-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-518-assignment-help/"
 headerImage: "/images/headers/cmi-518-assignment-help.webp"
 headerImageAlt: "CMI Unit 518 Assignment Help — Developing Organisational Strategy"
 ---

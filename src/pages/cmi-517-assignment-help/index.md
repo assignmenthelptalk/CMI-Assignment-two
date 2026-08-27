@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 517 Assignment Help | Understanding and Leading Organisational Change"
 description: "McKinsey 7-S, Schein (2010), Kotter & Schlesinger (1979) — Evaluate Depth — Management Report Format"
-canonical: "https://cmiassignmenthelp.uk.com/cmi-517-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/"
 headerImage: "/images/headers/cmi-517-assignment-help.webp"
 headerImageAlt: "CMI Unit 517 Assignment Help — Understanding and Leading Organisational Change"
 ---

@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 512 Assignment Help | Becoming an Effective Leader"
 description: "Kouzes & Posner (2017), Goleman (1998), George (2003) — Evaluate Depth — Management Report Format"
-canonical: "https://cmiassignmenthelp.uk.com/cmi-512-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/"
 headerImage: "/images/headers/cmi-512-assignment-help.webp"
 headerImageAlt: "CMI Unit 512 Assignment Help — Becoming an Effective Leader"
 ---

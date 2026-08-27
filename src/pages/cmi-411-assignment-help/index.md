@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 411 Assignment Help | Corporate Social Responsibility"
 description: "CMI Unit 411, Corporate Social Responsibility, covers the analysis and evaluation of an organisation's CSR responsibilities and practices at Level 4 Analyse ..."
-canonical: "https://cmiassignmenthelp.uk.com/cmi-411-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-411-assignment-help/"
 headerImage: "/images/headers/cmi-411-assignment-help.webp"
 headerImageAlt: "CMI Unit 411 Assignment Help — Corporate Social Responsibility"
 ---

@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 509 Assignment Help"
 description: "Managing Finance — Level 5 Management Report — Budget Variance Analysis — KPI Frameworks — For Non-Financial Managers"
-canonical: "https://cmiassignmenthelp.uk.com/cmi-509-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-509-assignment-help/"
 headerImage: "/images/headers/cmi-509-assignment-help.webp"
 headerImageAlt: "CMI Unit 509 Assignment Help — Managing Finance"
 ---

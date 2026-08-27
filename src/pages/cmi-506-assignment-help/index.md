@@ -2,7 +2,7 @@
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 506 Assignment Help | Managing Change"
 description: "Kotter (1996), Lewin (1951), ADKAR — Evaluate Depth — Management Report Format"
-canonical: "https://cmiassignmenthelp.uk.com/cmi-506-assignment-help/"
+canonical: "https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/"
 headerImage: "/images/headers/cmi-506-assignment-help.webp"
 headerImageAlt: "CMI Unit 506 Assignment Help — Managing Change"
 ---
