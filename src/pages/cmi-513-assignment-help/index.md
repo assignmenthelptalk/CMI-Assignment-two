@@ -131,10 +131,10 @@ Send your unit brief, the professional experience you want to reflect on, the pr
 
 ## Related CMI Level 5 Assignment Help
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, reflective and report formats
-- [CMI 525 Assignment Help](/cmi-525-assignment-help/), Using Reflective Practice, evaluating the reflective process itself (different from 513)
-- [CMI 512 Assignment Help](/cmi-512-assignment-help/), Becoming an Effective Leader, leadership self-evaluation using Kouzes & Posner and Goleman
-- [CMI Reflective Practice Guide](/guides/cmi-reflective-practice/), Gibbs and Kolb explained for CMI assignments
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, reflective and report formats
+- [CMI 525 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-525-assignment-help/), Using Reflective Practice, evaluating the reflective process itself (different from 513)
+- [CMI 512 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/), Becoming an Effective Leader, leadership self-evaluation using Kouzes & Posner and Goleman
+- [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), Gibbs and Kolb explained for CMI assignments
 
 The [CIPD's CPD guidance](https://www.cipd.org/uk/knowledge/factsheets/cpd-factsheet/) provides the professional development framework that underpins the reflective practice assessed in this CMI unit, alongside Kolb and Gibbs.
 

@@ -101,7 +101,7 @@ The [Financial Reporting Council](https://www.frc.org.uk/library/standards-codes
 
 ## Related CMI Assignment Help
 
-- [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg, Barney, Teece, the strategic context within which digital strategy is developed
-- [CMI 706 Assignment Help](/cmi-706-assignment-help/), Programme and Project Leadership: MSP benefits realisation, Flyvbjerg, governance of digital transformation programmes
-- [CMI 713 Assignment Help](/cmi-713-assignment-help/), Workforce Planning and Organisational Design: Gratton's technology force, Galbraith design, workforce implications of digital transformation
-- [CMI 709 Assignment Help](/cmi-709-assignment-help/), Leading Strategic Change: Weick sensemaking, Beer & Nohria, the change leadership dimension of digital transformation
+- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg, Barney, Teece, the strategic context within which digital strategy is developed
+- [CMI 706 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/), Programme and Project Leadership: MSP benefits realisation, Flyvbjerg, governance of digital transformation programmes
+- [CMI 713 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/), Workforce Planning and Organisational Design: Gratton's technology force, Galbraith design, workforce implications of digital transformation
+- [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Leading Strategic Change: Weick sensemaking, Beer & Nohria, the change leadership dimension of digital transformation

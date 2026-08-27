@@ -88,7 +88,7 @@ The [Chartered Institute of Procurement and Supply](https://www.cips.org/) is th
 
 ## Related CMI Assignment Help
 
-- [CMI 408 Assignment Help](/cmi-408-assignment-help/), Equality and Diversity (Level 4): Equality Act at Analyse depth, foundational comparison
-- [CMI 611 Assignment Help](/cmi-611-assignment-help/), Managing Corporate Social Responsibility: Social dimension of ESG including workforce diversity
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI 715 Assignment Help](/cmi-715-assignment-help/), Health, Wellbeing and Inclusion (Level 7): Marmot social gradient and structural inclusion at Critically Analyse depth
+- [CMI 408 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-408-assignment-help/), Equality and Diversity (Level 4): Equality Act at Analyse depth, foundational comparison
+- [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Managing Corporate Social Responsibility: Social dimension of ESG including workforce diversity
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Health, Wellbeing and Inclusion (Level 7): Marmot social gradient and structural inclusion at Critically Analyse depth

@@ -88,7 +88,7 @@ The distinction between activity targets (leading indicators: calls made, meetin
 
 ## Related CMI Assignment Help
 
-- [CMI 302 Assignment Help](/cmi-302-assignment-help/), Managing a Team to Achieve Results: SMART goals and performance monitoring applicable to sales teams
-- [CMI 303 Assignment Help](/cmi-303-assignment-help/), Managing Individuals: motivation theory including incentive structures for sales teams
-- [CMI 307 Assignment Help](/cmi-307-assignment-help/), Developing Knowledge, Skills and Abilities: sales coaching as a development method
-- [CMI Level 3 Assignment Help](/cmi-level-3-assignment-help/), Full Level 3 qualification guide
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results: SMART goals and performance monitoring applicable to sales teams
+- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals: motivation theory including incentive structures for sales teams
+- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing Knowledge, Skills and Abilities: sales coaching as a development method
+- [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

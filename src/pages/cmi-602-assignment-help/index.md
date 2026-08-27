@@ -86,7 +86,7 @@ The [Chartered Management Institute](https://www.managers.org.uk/knowledge-and-i
 
 ## Related CMI Assignment Help
 
-- [CMI 601 Assignment Help](/cmi-601-assignment-help/), Principles of Management and Leadership: distributed and situational leadership foundations
-- [CMI 603 Assignment Help](/cmi-603-assignment-help/), Leading Organisational Change: people development in change contexts
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI 702 Assignment Help](/cmi-702-assignment-help/), People Management (Level 7): strategic leadership development at Critically Analyse depth
+- [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Principles of Management and Leadership: distributed and situational leadership foundations
+- [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Leading Organisational Change: people development in change contexts
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), People Management (Level 7): strategic leadership development at Critically Analyse depth

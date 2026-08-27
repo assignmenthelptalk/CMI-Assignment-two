@@ -94,7 +94,7 @@ The [Harvard Business Review](https://hbr.org/topic/risk-management) publishes p
 
 ## Related CMI Assignment Help
 
-- [CMI 605 Assignment Help](/cmi-605-assignment-help/), Developing Organisational Strategy: strategic options evaluation with financial dimension
-- [CMI 607 Assignment Help](/cmi-607-assignment-help/), Project and Programme Management: financial management within programme governance
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI 707 Assignment Help](/cmi-707-assignment-help/), Strategic Financial Management (Level 7): Jensen & Meckling agency theory at Critically Analyse depth
+- [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Developing Organisational Strategy: strategic options evaluation with financial dimension
+- [CMI 607 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/), Project and Programme Management: financial management within programme governance
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI 707 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-707-assignment-help/), Strategic Financial Management (Level 7): Jensen & Meckling agency theory at Critically Analyse depth

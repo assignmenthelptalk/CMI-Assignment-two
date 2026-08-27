@@ -92,7 +92,7 @@ The [CIPD's leadership factsheet](https://www.cipd.org/uk/knowledge/factsheets/l
 
 ## Related CMI Assignment Help
 
-- [CMI 601 Assignment Help](/cmi-601-assignment-help/), Principles of Management and Leadership: leadership frameworks for change contexts
-- [CMI 604 Assignment Help](/cmi-604-assignment-help/), Developing Strategic Plans: strategic planning in change environments
-- [CMI 709 Assignment Help](/cmi-709-assignment-help/), Leading Strategic Change (Level 7): Beer & Nohria, Weick, Pettigrew at Critically Analyse depth
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Principles of Management and Leadership: leadership frameworks for change contexts
+- [CMI 604 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/), Developing Strategic Plans: strategic planning in change environments
+- [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Leading Strategic Change (Level 7): Beer & Nohria, Weick, Pettigrew at Critically Analyse depth
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide

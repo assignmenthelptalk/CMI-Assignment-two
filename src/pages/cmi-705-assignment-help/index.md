@@ -141,11 +141,11 @@ Send the unit brief, target grade, and deadline via WhatsApp. A fixed quote is r
 
 ## CMI Level 7 Unit 705 — Related Assignment Help
 
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse, FCMI membership
-- [CMI 701 Assignment Help](/cmi-701-assignment-help/), Personal development as a strategic leader, individual capability connects to Unit 705's organisational capability focus
-- [CMI 702 Assignment Help](/cmi-702-assignment-help/), Leading and developing people, leadership brand as organisational resource connects Units 702 and 705
-- [CMI 708 Assignment Help](/cmi-708-assignment-help/), Strategic innovation, Dynamic Capabilities applied to innovation and change
-- [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, all formats
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse, FCMI membership
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Personal development as a strategic leader, individual capability connects to Unit 705's organisational capability focus
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and developing people, leadership brand as organisational resource connects Units 702 and 705
+- [CMI 708 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/), Strategic innovation, Dynamic Capabilities applied to innovation and change
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, all formats
 
 The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) publishes strategic HRM research — including the Resource-Based View and Dynamic Capabilities evidence base — relevant to the Critically Analyse requirements of this CMI Level 7 unit.
 

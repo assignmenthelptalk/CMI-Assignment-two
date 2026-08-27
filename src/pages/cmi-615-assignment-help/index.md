@@ -82,7 +82,7 @@ The [CIPD's learning and development resources](https://www.cipd.org/uk/knowledg
 
 ## Related CMI Assignment Help
 
-- [CMI 603 Assignment Help](/cmi-603-assignment-help/), Leading Organisational Change: Kotter applied to digital transformation as a change programme
-- [CMI 607 Assignment Help](/cmi-607-assignment-help/), Project and Programme Management: governance of digital transformation programmes
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI 714 Assignment Help](/cmi-714-assignment-help/), Digital Transformation (Level 7): Westerman Digirati and Bharadwaj digital business strategy at Critically Analyse depth
+- [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Leading Organisational Change: Kotter applied to digital transformation as a change programme
+- [CMI 607 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/), Project and Programme Management: governance of digital transformation programmes
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI 714 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-714-assignment-help/), Digital Transformation (Level 7): Westerman Digirati and Bharadwaj digital business strategy at Critically Analyse depth

@@ -90,7 +90,7 @@ The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) is the UK's profession
 
 ## Related CMI Assignment Help
 
-- [CMI 604 Assignment Help](/cmi-604-assignment-help/), Developing Strategic Plans: Balanced Scorecard and OKRs for operationalising strategy
-- [CMI 606 Assignment Help](/cmi-606-assignment-help/), Financial Management for Senior Leaders: financial strategy and investment appraisal
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI 703 Assignment Help](/cmi-703-assignment-help/), Strategic Management (Level 7): Mintzberg, Barney, Porter at Critically Analyse depth
+- [CMI 604 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/), Developing Strategic Plans: Balanced Scorecard and OKRs for operationalising strategy
+- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Financial Management for Senior Leaders: financial strategy and investment appraisal
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Strategic Management (Level 7): Mintzberg, Barney, Porter at Critically Analyse depth

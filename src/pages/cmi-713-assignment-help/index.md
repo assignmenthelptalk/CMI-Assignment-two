@@ -99,7 +99,7 @@ The [Harvard Business Review](https://hbr.org/topic/knowledge-management) publis
 
 ## Related CMI Assignment Help
 
-- [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg, Barney, Teece, the strategic context within which organisational design choices are made
-- [CMI 715 Assignment Help](/cmi-715-assignment-help/), Strategic Approaches to Health, Wellbeing and Inclusion: Marmot, Seligman PERMA, NHS People Plan, the wellbeing dimension of workforce design
-- [CMI 716 Assignment Help](/cmi-716-assignment-help/), Leading and Developing Teams to Achieve Organisational Success: Hackman, Edmondson, team-level design below organisational design
-- [CMI 512 Assignment Help](/cmi-512-assignment-help/), Becoming an Effective Leader (Level 5): Kouzes & Posner, Goleman, the Level 5 leadership comparator
+- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg, Barney, Teece, the strategic context within which organisational design choices are made
+- [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Strategic Approaches to Health, Wellbeing and Inclusion: Marmot, Seligman PERMA, NHS People Plan, the wellbeing dimension of workforce design
+- [CMI 716 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/), Leading and Developing Teams to Achieve Organisational Success: Hackman, Edmondson, team-level design below organisational design
+- [CMI 512 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/), Becoming an Effective Leader (Level 5): Kouzes & Posner, Goleman, the Level 5 leadership comparator

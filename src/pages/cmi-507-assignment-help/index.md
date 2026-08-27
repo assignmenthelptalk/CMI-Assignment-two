@@ -106,10 +106,10 @@ Send your unit brief, coaching or mentoring scenario, target grade, and deadline
 
 ## Related CMI Level 5 Assignment Help
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format, Evaluate depth
-- [CMI 502 Assignment Help](/cmi-502-assignment-help/), Developing, Managing and Leading Individuals, individual development frameworks
-- [CMI 513 Assignment Help](/cmi-513-assignment-help/), Developing and Continuing Professional Practice, CPD and reflective account format
-- [CMI Assignment Tutoring](/cmi-assignment-tutoring/), Expert tutoring for CMI assignments across all levels
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format, Evaluate depth
+- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Developing, Managing and Leading Individuals, individual development frameworks
+- [CMI 513 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/), Developing and Continuing Professional Practice, CPD and reflective account format
+- [CMI Assignment Tutoring](https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/), Expert tutoring for CMI assignments across all levels
 
 The [Chartered Institute of Marketing](https://www.cim.co.uk/) is the UK's chartered body for marketing professionals and publishes the research standards that inform the marketing frameworks assessed in this CMI unit.
 

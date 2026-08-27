@@ -90,7 +90,7 @@ The [CIPD's organisational culture factsheet](https://www.cipd.org/uk/knowledge/
 
 ## Related CMI Assignment Help
 
-- [CMI 401 Assignment Help](/cmi-401-assignment-help/), Managerial and Leadership Qualities: Goleman EI connects to self-awareness in Unit 402
-- [CMI 403 Assignment Help](/cmi-403-assignment-help/), Leading and Managing a Team: team development as a context for applying self-development learning
-- [CMI Level 4 Assignment Help](/cmi-level-4-assignment-help/), Full Level 4 qualification guide
-- [CMI 513 Assignment Help](/cmi-513-assignment-help/), Reflective Practice (Level 5): Gibbs' cycle at Evaluate depth, the next level of reflective practice
+- [CMI 401 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-401-assignment-help/), Managerial and Leadership Qualities: Goleman EI connects to self-awareness in Unit 402
+- [CMI 403 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-403-assignment-help/), Leading and Managing a Team: team development as a context for applying self-development learning
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), Full Level 4 qualification guide
+- [CMI 513 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/), Reflective Practice (Level 5): Gibbs' cycle at Evaluate depth, the next level of reflective practice

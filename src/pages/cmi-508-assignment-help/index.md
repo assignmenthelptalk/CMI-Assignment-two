@@ -106,9 +106,9 @@ Send your unit brief, procurement scenario, target grade, and deadline via Whats
 
 ## Related CMI Level 5 Assignment Help
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
-- [CMI 509 Assignment Help](/cmi-509-assignment-help/), Financial Management for Managers, budget management and financial analysis
-- [CMI 515 Assignment Help](/cmi-515-assignment-help/), Creating and Delivering Operational Plans, resource planning connects to procurement planning
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
+- [CMI 509 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-509-assignment-help/), Financial Management for Managers, budget management and financial analysis
+- [CMI 515 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/), Creating and Delivering Operational Plans, resource planning connects to procurement planning
 
 The [Association for Project Management](https://www.apm.org.uk/) publishes the APM Body of Knowledge and professional standards that provide the project management framework underpinning this CMI unit's assessment criteria.
 

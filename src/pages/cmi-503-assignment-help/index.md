@@ -116,10 +116,10 @@ Send your Unit 503 brief, target grade (Pass, Merit, or Distinction), and deadli
 
 The remote management frameworks in Unit 503 connect to Unit 506 (managing equality in remote and hybrid settings), Unit 521 (implementing change in dispersed organisations), and the NHS community and district nursing management context covered in the NHS management guide.
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format, Evaluate command verb requirements
-- [CMI 502 Assignment Help](/cmi-502-assignment-help/), Team development and motivation in the general management context, the in-person counterpart to Unit 503
-- [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, submission-ready management reports
-- [NHS Management and CMI Qualifications](/guides/nhs-management-cmi-qualifications/), How CMI Level 5 applies to NHS Band 7+ and community team management
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format, Evaluate command verb requirements
+- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Team development and motivation in the general management context, the in-person counterpart to Unit 503
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, submission-ready management reports
+- [NHS Management and CMI Qualifications](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), How CMI Level 5 applies to NHS Band 7+ and community team management
 
 The [CIPD's leadership factsheet](https://www.cipd.org/uk/knowledge/factsheets/leadership-factsheet/) provides evidence-based analysis of leadership styles and management practice directly relevant to the Evaluate-depth requirements of this CMI unit.
 

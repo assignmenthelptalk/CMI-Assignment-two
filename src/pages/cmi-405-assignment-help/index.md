@@ -90,7 +90,7 @@ Media richness theory (Daft and Lengel, 1986) classifies communication channels 
 
 ## Related CMI Assignment Help
 
-- [CMI 401 Assignment Help](/cmi-401-assignment-help/), Managerial and Leadership Qualities: communication as a leadership behaviour
-- [CMI 404 Assignment Help](/cmi-404-assignment-help/), Managing Change: communication strategy during change
-- [CMI 412 Assignment Help](/cmi-412-assignment-help/), Developing and Leading Productive Meetings (Level 4 elective)
-- [CMI Level 4 Assignment Help](/cmi-level-4-assignment-help/), Full Level 4 qualification guide
+- [CMI 401 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-401-assignment-help/), Managerial and Leadership Qualities: communication as a leadership behaviour
+- [CMI 404 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-404-assignment-help/), Managing Change: communication strategy during change
+- [CMI 412 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-412-assignment-help/), Developing and Leading Productive Meetings (Level 4 elective)
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), Full Level 4 qualification guide

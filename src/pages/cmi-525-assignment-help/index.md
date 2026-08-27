@@ -143,10 +143,10 @@ Send your unit brief, the development experience you want to reflect on, target 
 
 ## Related CMI Level 5 Assignment Help
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, reflective and report formats
-- [CMI 513 Assignment Help](/cmi-513-assignment-help/), Developing and Continuing Professional Practice, reflective account evaluating professional practice (different from 525)
-- [CMI 512 Assignment Help](/cmi-512-assignment-help/), Becoming an Effective Leader, Goleman's self-awareness connects to Johari Window blind spot identification
-- [CMI Reflective Practice Guide](/guides/cmi-reflective-practice/), Gibbs and Kolb explained for CMI assignments
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, reflective and report formats
+- [CMI 513 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/), Developing and Continuing Professional Practice, reflective account evaluating professional practice (different from 525)
+- [CMI 512 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/), Becoming an Effective Leader, Goleman's self-awareness connects to Johari Window blind spot identification
+- [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), Gibbs and Kolb explained for CMI assignments
 
 The [Chartered Institute of Procurement and Supply](https://www.cips.org/) is the global professional body for procurement and provides the professional standards and research base underpinning this CMI procurement and supply unit.
 

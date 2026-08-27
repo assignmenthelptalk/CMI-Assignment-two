@@ -173,10 +173,10 @@ Yes. Send the unit brief, target grade (Pass, Merit, or Distinction), and deadli
 
 The financial management skills in Unit 509 connect to Unit 524 (Managing and Evaluating Operational Plans, KPI-based evaluation of operational performance) and Unit 516 (Managing Risk, financial risk as a component of operational risk management). For NHS students, the NHS financial management context connects to Unit 715 at Level 7 (Strategic Management in Health and Social Care).
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format, Evaluate command verb requirements
-- [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, all formats, submission-ready management reports
-- [NHS Management and CMI Qualifications](/guides/nhs-management-cmi-qualifications/), NHS Band 7+ budget management, CIP, NHS finance context for CMI Level 5
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Financial management at senior level, investment appraisal and strategic financial management
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format, Evaluate command verb requirements
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, all formats, submission-ready management reports
+- [NHS Management and CMI Qualifications](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), NHS Band 7+ budget management, CIP, NHS finance context for CMI Level 5
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Financial management at senior level, investment appraisal and strategic financial management
 
 The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) publishes research on resource planning, workforce management, and succession planning that supports the evidence-based analysis required in this CMI Level 5 unit.
 

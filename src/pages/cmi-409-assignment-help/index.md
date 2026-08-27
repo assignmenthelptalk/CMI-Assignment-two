@@ -114,7 +114,7 @@ The [Chartered Institute of Marketing](https://www.cim.co.uk/) publishes profess
 
 ## Related CMI Assignment Help
 
-- [CMI 310 Assignment Help](/cmi-310-assignment-help/), Managing a Budget (Level 3): budgeting at Describe depth, foundational comparison
-- [CMI 507 Assignment Help](/cmi-507-assignment-help/), Financial Management (Level 5): investment appraisal, capital budgeting at Evaluate/Justify depth
-- [CMI 407 Assignment Help](/cmi-407-assignment-help/), Conducting a Management Project: financial management within a project budget
-- [CMI Level 4 Assignment Help](/cmi-level-4-assignment-help/), Full Level 4 qualification guide
+- [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Managing a Budget (Level 3): budgeting at Describe depth, foundational comparison
+- [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Financial Management (Level 5): investment appraisal, capital budgeting at Evaluate/Justify depth
+- [CMI 407 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-407-assignment-help/), Conducting a Management Project: financial management within a project budget
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), Full Level 4 qualification guide

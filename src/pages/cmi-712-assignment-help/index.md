@@ -101,7 +101,7 @@ The [CIPD's communications factsheet](https://www.cipd.org/uk/knowledge/factshee
 
 ## Related CMI Assignment Help
 
-- [CMI 709 Assignment Help](/cmi-709-assignment-help/), Leading Strategic Change: Weick sensemaking, Beer & Nohria Theory E vs Theory O, the change communication context
-- [CMI 711 Assignment Help](/cmi-711-assignment-help/), Engaging Stakeholders and Building Relationships: Cialdini influence, Granovetter weak ties, stakeholder engagement as communication challenge
-- [CMI 713 Assignment Help](/cmi-713-assignment-help/), Workforce Planning and Organisational Design: Ulrich & Brockbank HR communication, Gratton future of work
-- [CMI 517 Assignment Help](/cmi-517-assignment-help/), Understanding and Leading Organisational Change (Level 5): Schein's culture model, Kotter & Schlesinger resistance management
+- [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Leading Strategic Change: Weick sensemaking, Beer & Nohria Theory E vs Theory O, the change communication context
+- [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Engaging Stakeholders and Building Relationships: Cialdini influence, Granovetter weak ties, stakeholder engagement as communication challenge
+- [CMI 713 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/), Workforce Planning and Organisational Design: Ulrich & Brockbank HR communication, Gratton future of work
+- [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Understanding and Leading Organisational Change (Level 5): Schein's culture model, Kotter & Schlesinger resistance management

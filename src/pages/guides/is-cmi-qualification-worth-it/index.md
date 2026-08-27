@@ -146,10 +146,10 @@ Send your unit brief, target grade, and deadline via WhatsApp. A quote is return
 
 ## CMI Assignment Help — Supporting Your Qualification Journey
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), Management and Leadership Diploma, management report format, ACMI pathway
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), Strategic Management and Leadership, strategic paper, Critically Analyse depth, FCMI pathway
-- [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, all formats
-- [CMI Qualification Levels Explained](/guides/cmi-qualification-levels-explained/), What each level covers, who studies it, and how they connect
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Management and Leadership Diploma, management report format, ACMI pathway
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Strategic Management and Leadership, strategic paper, Critically Analyse depth, FCMI pathway
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, all formats
+- [CMI Qualification Levels Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/), What each level covers, who studies it, and how they connect
 
 The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes salary and career progression evidence for qualified managers and leaders across all CMI membership levels.
 

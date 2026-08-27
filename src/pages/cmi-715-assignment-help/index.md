@@ -105,7 +105,7 @@ The [GOV.UK Cabinet Office](https://www.gov.uk/government/organisations/cabinet-
 
 ## Related CMI Assignment Help
 
-- [CMI 710 Assignment Help](/cmi-710-assignment-help/), Corporate Responsibility and Sustainability: Carroll's CSR pyramid, Freeman's stakeholder theory, social responsibility as the broader context for wellbeing and inclusion
-- [CMI 713 Assignment Help](/cmi-713-assignment-help/), Workforce Planning and Organisational Design: Galbraith Star Model, Gratton future of work, structural workforce design within which wellbeing and inclusion operate
-- [CMI 716 Assignment Help](/cmi-716-assignment-help/), Leading and Developing Teams: Edmondson psychological safety, team-level safety as the relational foundation for wellbeing
-- [CMI 521 Assignment Help](/cmi-521-assignment-help/), Managing Health, Safety and Welfare (Level 5): HSWA 1974, MHSWR 1999, HSE risk assessment, the Level 5 operational comparator
+- [CMI 710 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-710-assignment-help/), Corporate Responsibility and Sustainability: Carroll's CSR pyramid, Freeman's stakeholder theory, social responsibility as the broader context for wellbeing and inclusion
+- [CMI 713 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/), Workforce Planning and Organisational Design: Galbraith Star Model, Gratton future of work, structural workforce design within which wellbeing and inclusion operate
+- [CMI 716 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/), Leading and Developing Teams: Edmondson psychological safety, team-level safety as the relational foundation for wellbeing
+- [CMI 521 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-521-assignment-help/), Managing Health, Safety and Welfare (Level 5): HSWA 1974, MHSWR 1999, HSE risk assessment, the Level 5 operational comparator

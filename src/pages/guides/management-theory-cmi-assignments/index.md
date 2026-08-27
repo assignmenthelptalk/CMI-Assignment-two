@@ -219,12 +219,12 @@ Send your unit brief and the scenario you are working with via WhatsApp. A write
 
 ## CMI Unit Assignment Help — By Framework
 
-- [CMI 502 Assignment Help](/cmi-502-assignment-help/), Tuckman, Belbin, Herzberg, Maslow at Evaluate depth
-- [CMI 501 Assignment Help](/cmi-501-assignment-help/), Blake Mouton, Tannenbaum-Schmidt, Kotter at Evaluate depth
-- [CMI 702 Assignment Help](/cmi-702-assignment-help/), Bass and Avolio (1994) at Critically Analyse depth
-- [CMI 705 Assignment Help](/cmi-705-assignment-help/), Barney (1991) and Teece et al. (1997) at Critically Analyse depth
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format, Evaluate depth
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse depth
+- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Tuckman, Belbin, Herzberg, Maslow at Evaluate depth
+- [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Blake Mouton, Tannenbaum-Schmidt, Kotter at Evaluate depth
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Bass and Avolio (1994) at Critically Analyse depth
+- [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Barney (1991) and Teece et al. (1997) at Critically Analyse depth
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format, Evaluate depth
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse depth
 
 The [Harvard Business Review](https://hbr.org/topic/management) publishes peer-reviewed management research and practitioner case studies that represent the academic standard expected in CMI assignments at Level 5 and above.
 

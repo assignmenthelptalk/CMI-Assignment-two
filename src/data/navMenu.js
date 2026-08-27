@@ -1,7 +1,7 @@
 export const levels = [
   {
     num: 3,
-    slug: '/cmi-level-3-assignment-help/',
+    slug: 'https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/',
     label: 'Level 3',
     units: [
       { num: 301, title: 'Principles of Management and Leadership' },
@@ -20,7 +20,7 @@ export const levels = [
   },
   {
     num: 4,
-    slug: '/cmi-level-4-assignment-help/',
+    slug: 'https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/',
     label: 'Level 4',
     units: [
       { num: 401, title: 'Managerial and Leadership Qualities and Behaviours' },
@@ -38,7 +38,7 @@ export const levels = [
   },
   {
     num: 5,
-    slug: '/cmi-level-5-assignment-help/',
+    slug: 'https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/',
     label: 'Level 5',
     units: [
       { num: 501, title: 'Principles of Management and Leadership' },
@@ -70,7 +70,7 @@ export const levels = [
   },
   {
     num: 6,
-    slug: '/cmi-level-6-assignment-help/',
+    slug: 'https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/',
     label: 'Level 6',
     units: [
       { num: 601, title: 'Principles of Management and Leadership' },
@@ -93,7 +93,7 @@ export const levels = [
   },
   {
     num: 7,
-    slug: '/cmi-level-7-assignment-help/',
+    slug: 'https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/',
     label: 'Level 7',
     units: [
       { num: 701, title: 'Personal and Professional Development as a Strategic Leader' },
@@ -118,20 +118,20 @@ export const levels = [
 ];
 
 export const guides = [
-  { slug: '/guides/cmi-qualification-levels-explained/', title: 'CMI Qualification Levels Explained' },
-  { slug: '/guides/cmi-level-5-vs-level-7/', title: 'CMI Level 5 vs Level 7' },
-  { slug: '/guides/is-cmi-qualification-worth-it/', title: 'Is a CMI Qualification Worth It?' },
-  { slug: '/guides/cmi-command-verbs-explained/', title: 'CMI Command Verbs Explained' },
-  { slug: '/guides/cmi-assignment-structure/', title: 'CMI Assignment Structure Guide' },
-  { slug: '/guides/management-theory-cmi-assignments/', title: 'Management Theories for CMI Assignments' },
-  { slug: '/guides/harvard-referencing-cmi/', title: 'Harvard Referencing for CMI Assignments' },
-  { slug: '/guides/cmi-reflective-practice/', title: 'CMI Reflective Practice' },
-  { slug: '/guides/cmi-resubmission-guide/', title: 'CMI Assignment Referral Guide' },
-  { slug: '/guides/nhs-management-cmi-qualifications/', title: 'CMI Qualifications for NHS Managers' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/', title: 'CMI Qualification Levels Explained' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/', title: 'CMI Level 5 vs Level 7' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/', title: 'Is a CMI Qualification Worth It?' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/', title: 'CMI Command Verbs Explained' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/', title: 'CMI Assignment Structure Guide' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/', title: 'Management Theories for CMI Assignments' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/', title: 'Harvard Referencing for CMI Assignments' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/', title: 'CMI Reflective Practice' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/', title: 'CMI Assignment Referral Guide' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/', title: 'CMI Qualifications for NHS Managers' },
 ];
 
 export const services = [
-  { slug: '/cmi-assignment-writing-service/', title: 'CMI Assignment Writing Service' },
-  { slug: '/cmi-assignment-tutoring/', title: 'CMI Assignment Tutoring' },
-  { slug: '/cmi-coursework-help/', title: 'CMI Coursework Help' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/', title: 'CMI Assignment Writing Service' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/', title: 'CMI Assignment Tutoring' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/cmi-coursework-help/', title: 'CMI Coursework Help' },
 ];

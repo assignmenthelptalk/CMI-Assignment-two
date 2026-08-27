@@ -165,9 +165,9 @@ Yes. Send your original submission, the assessor's referral feedback, and the un
 
 ## CMI Assignment Support for Resubmissions
 
-- [CMI Assignment Tutoring](/cmi-assignment-tutoring/), Expert coaching on what Evaluate, Critically Evaluate, or Critically Analyse requires for your specific referred LO, the most targeted resubmission support
-- [CMI Assignment Writing Service](/cmi-assignment-writing-service/), Targeted rewriting of referred sections at the correct command verb depth, within your resubmission window
-- [CMI Command Verbs Explained](/guides/cmi-command-verbs-explained/), The most common root cause of CMI referrals, understand exactly what each command verb requires at each level
+- [CMI Assignment Tutoring](https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/), Expert coaching on what Evaluate, Critically Evaluate, or Critically Analyse requires for your specific referred LO, the most targeted resubmission support
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), Targeted rewriting of referred sections at the correct command verb depth, within your resubmission window
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), The most common root cause of CMI referrals, understand exactly what each command verb requires at each level
 
 The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes assessment guidance for its qualifications — including resubmission and referral procedures — that inform the process covered in this guide.
 

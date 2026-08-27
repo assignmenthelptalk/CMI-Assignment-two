@@ -96,7 +96,7 @@ The [Harvard Business Review](https://hbr.org/topic/technology) publishes resear
 
 ## Related CMI Assignment Help
 
-- [CMI 604 Assignment Help](/cmi-604-assignment-help/), Developing Strategic Plans: evidence-based strategic planning
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), Level 7 Strategic Management Research Paper: original management research at Critically Analyse depth
-- [CMI 703 Assignment Help](/cmi-703-assignment-help/), Strategic Management (Level 7): academic research integration in strategic analysis
+- [CMI 604 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/), Developing Strategic Plans: evidence-based strategic planning
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Level 7 Strategic Management Research Paper: original management research at Critically Analyse depth
+- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Strategic Management (Level 7): academic research integration in strategic analysis

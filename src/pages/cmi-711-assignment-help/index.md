@@ -103,7 +103,7 @@ The [Harvard Business Review](https://hbr.org/topic/negotiations) publishes stra
 
 ## Related CMI Assignment Help
 
-- [CMI 710 Assignment Help](/cmi-710-assignment-help/), Corporate Responsibility and Sustainability: Carroll's CSR pyramid, Freeman's stakeholder theory, the normative/instrumental debate that underpins Unit 711
-- [CMI 712 Assignment Help](/cmi-712-assignment-help/), Strategic Communication: Smythe engagement vs announcement, Goffman impression management
-- [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg, Barney, Teece, strategic context within which stakeholder relationships operate
-- [CMI 514 Assignment Help](/cmi-514-assignment-help/), Managing Projects (Level 5: Mendelow power-interest matrix at Evaluate depth, the Level 5 comparator)
+- [CMI 710 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-710-assignment-help/), Corporate Responsibility and Sustainability: Carroll's CSR pyramid, Freeman's stakeholder theory, the normative/instrumental debate that underpins Unit 711
+- [CMI 712 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/), Strategic Communication: Smythe engagement vs announcement, Goffman impression management
+- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg, Barney, Teece, strategic context within which stakeholder relationships operate
+- [CMI 514 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/), Managing Projects (Level 5: Mendelow power-interest matrix at Evaluate depth, the Level 5 comparator)

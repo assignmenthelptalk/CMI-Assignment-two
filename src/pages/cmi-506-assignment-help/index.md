@@ -127,10 +127,10 @@ Send your unit brief, change scenario, target grade, and deadline via WhatsApp. 
 
 ## Related CMI Level 5 Assignment Help
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
-- [CMI 501 Assignment Help](/cmi-501-assignment-help/), Management and Leadership, Kotter applied to leadership approaches
-- [CMI 517 Assignment Help](/cmi-517-assignment-help/), Understanding and Leading Organisational Change, leadership of change at organisational level
-- [CMI 519 Assignment Help](/cmi-519-assignment-help/), Leading Innovation and Change, innovation-driven change management
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
+- [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Management and Leadership, Kotter applied to leadership approaches
+- [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Understanding and Leading Organisational Change, leadership of change at organisational level
+- [CMI 519 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/), Leading Innovation and Change, innovation-driven change management
 
 The [Harvard Business Review](https://hbr.org/topic/strategy) publishes peer-reviewed strategic management research that provides the evidence base for the Evaluate and Justify depth required in this CMI strategy unit.
 

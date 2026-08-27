@@ -96,7 +96,7 @@ The [Equality and Human Rights Commission](https://www.equalityhumanrights.com/)
 
 ## Related CMI Assignment Help
 
-- [CMI 305 Assignment Help](/cmi-305-assignment-help/), Building Stakeholder Relationships: stakeholder mapping and communication planning applicable to project context
-- [CMI 310 Assignment Help](/cmi-310-assignment-help/), Managing a Budget: financial management of project budget
-- [CMI 302 Assignment Help](/cmi-302-assignment-help/), Managing a Team to Achieve Results: team management during project execution
-- [CMI Level 3 Assignment Help](/cmi-level-3-assignment-help/), Full Level 3 qualification guide
+- [CMI 305 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/), Building Stakeholder Relationships: stakeholder mapping and communication planning applicable to project context
+- [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Managing a Budget: financial management of project budget
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results: team management during project execution
+- [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

@@ -103,7 +103,7 @@ The [Chartered Institute of Marketing](https://www.cim.co.uk/) is the UK's chart
 
 ## Related CMI Assignment Help
 
-- [CMI 411 Assignment Help](/cmi-411-assignment-help/), Corporate Social Responsibility: ethical dimension of marketing and commercial strategy
-- [CMI 406 Assignment Help](/cmi-406-assignment-help/), Organisational Culture and Ethics: culture as the context for marketing decisions
-- [CMI Level 4 Assignment Help](/cmi-level-4-assignment-help/), Full Level 4 qualification guide
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), Level 5 strategy units extend marketing analysis to competitive positioning
+- [CMI 411 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-411-assignment-help/), Corporate Social Responsibility: ethical dimension of marketing and commercial strategy
+- [CMI 406 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-406-assignment-help/), Organisational Culture and Ethics: culture as the context for marketing decisions
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), Full Level 4 qualification guide
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Level 5 strategy units extend marketing analysis to competitive positioning

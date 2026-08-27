@@ -127,9 +127,9 @@ Send your unit brief, H&S scenario, target grade, and deadline via WhatsApp. A q
 
 ## Related CMI Level 5 Assignment Help
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
-- [CMI 510 Assignment Help](/cmi-510-assignment-help/), Managing Risk, risk management framework connects to H&S risk assessment
-- [CMI 502 Assignment Help](/cmi-502-assignment-help/), Developing, Managing and Leading Individuals, employee wellbeing in individual development context
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
+- [CMI 510 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/), Managing Risk, risk management framework connects to H&S risk assessment
+- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Developing, Managing and Leading Individuals, employee wellbeing in individual development context
 
 The [Chartered Institute of Marketing](https://www.cim.co.uk/) is the UK's chartered body for marketing professionals and provides evidence-based resources on customer and client relationship management assessed in this CMI unit.
 

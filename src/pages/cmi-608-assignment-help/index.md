@@ -86,7 +86,7 @@ The [CIPD's organisational culture factsheet](https://www.cipd.org/uk/knowledge/
 
 ## Related CMI Assignment Help
 
-- [CMI 606 Assignment Help](/cmi-606-assignment-help/), Financial Management: financial risk management in procurement contexts
-- [CMI 607 Assignment Help](/cmi-607-assignment-help/), Project and Programme Management: procurement within programme governance
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), Level 7 strategic management: supply chain strategy at Critically Analyse depth
+- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Financial Management: financial risk management in procurement contexts
+- [CMI 607 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/), Project and Programme Management: procurement within programme governance
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Level 7 strategic management: supply chain strategy at Critically Analyse depth

@@ -125,9 +125,9 @@ The [CIPD's CPD guidance](https://www.cipd.org/uk/knowledge/factsheets/cpd-facts
 
 ## Related CMI Assignment Support
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), Unit 513 (reflective account) is one of 25 Level 5 units, full Level 5 support across all units and the management report format
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), Unit 701 (Personal and Professional Development as a Strategic Leader) at Critically Analyse depth, strategic paper format, Argyris and Schön, Kolb and Goleman at primary source level
-- [CMI Assignment Tutoring](/cmi-assignment-tutoring/), Expert guidance for students writing their own reflective account, framework selection, structure planning, command verb coaching
-- [CMI Assignment Structure Guide](/guides/cmi-assignment-structure/), How every CMI assignment format is structured, section by section
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Unit 513 (reflective account) is one of 25 Level 5 units, full Level 5 support across all units and the management report format
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Unit 701 (Personal and Professional Development as a Strategic Leader) at Critically Analyse depth, strategic paper format, Argyris and Schön, Kolb and Goleman at primary source level
+- [CMI Assignment Tutoring](https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/), Expert guidance for students writing their own reflective account, framework selection, structure planning, command verb coaching
+- [CMI Assignment Structure Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/), How every CMI assignment format is structured, section by section
 
 [WhatsApp for CMI Reflective Practice Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

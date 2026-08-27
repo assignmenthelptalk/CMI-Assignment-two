@@ -97,7 +97,7 @@ The [Chartered Management Institute](https://www.managers.org.uk/) publishes ope
 
 ## Related CMI Assignment Help
 
-- [CMI 303 Assignment Help](/cmi-303-assignment-help/), Managing Individuals: motivation theory including development as a motivator (Herzberg)
-- [CMI 302 Assignment Help](/cmi-302-assignment-help/), Managing a Team to Achieve Results: team development in addition to individual development
-- [CMI 306 Assignment Help](/cmi-306-assignment-help/), Managing Equality, Diversity and Inclusion: equal access to development opportunities
-- [CMI Level 3 Assignment Help](/cmi-level-3-assignment-help/), Full Level 3 qualification guide
+- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals: motivation theory including development as a motivator (Herzberg)
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results: team development in addition to individual development
+- [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Managing Equality, Diversity and Inclusion: equal access to development opportunities
+- [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

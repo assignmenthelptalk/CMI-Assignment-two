@@ -82,7 +82,7 @@ The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) publishes research on 
 
 ## Related CMI Assignment Help
 
-- [CMI 604 Assignment Help](/cmi-604-assignment-help/), Developing Strategic Plans: strategic planning that programmes implement
-- [CMI 606 Assignment Help](/cmi-606-assignment-help/), Financial Management: investment appraisal for programme business cases
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI 706 Assignment Help](/cmi-706-assignment-help/), Programme Leadership (Level 7): MSP, Flyvbjerg at Critically Analyse depth
+- [CMI 604 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/), Developing Strategic Plans: strategic planning that programmes implement
+- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Financial Management: investment appraisal for programme business cases
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI 706 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/), Programme Leadership (Level 7): MSP, Flyvbjerg at Critically Analyse depth

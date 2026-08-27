@@ -105,7 +105,7 @@ The [Harvard Business Review](https://hbr.org/topic/leadership) publishes strate
 
 If you are studying CMI Unit 703, you may also need support with:
 
-- [CMI 709 Assignment Help](/cmi-709-assignment-help/), Leading Strategic Change: Critically Analysing Beer & Nohria's Theory E vs Theory O, Weick's sensemaking, and the programmatic vs emergent change debate
-- [CMI 710 Assignment Help](/cmi-710-assignment-help/), Corporate Responsibility and Sustainability: Carroll's CSR pyramid, Freeman's stakeholder theory, Elkington's triple bottom line
-- [CMI 707 Assignment Help](/cmi-707-assignment-help/), Finance for Strategic Leaders: Jensen & Meckling agency theory, Modigliani & Miller capital structure, shareholder vs stakeholder value debate
-- [CMI 702 Assignment Help](/cmi-702-assignment-help/), Organisational Culture: Schein's three-layer model and the leader's role in cultural transformation
+- [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Leading Strategic Change: Critically Analysing Beer & Nohria's Theory E vs Theory O, Weick's sensemaking, and the programmatic vs emergent change debate
+- [CMI 710 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-710-assignment-help/), Corporate Responsibility and Sustainability: Carroll's CSR pyramid, Freeman's stakeholder theory, Elkington's triple bottom line
+- [CMI 707 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-707-assignment-help/), Finance for Strategic Leaders: Jensen & Meckling agency theory, Modigliani & Miller capital structure, shareholder vs stakeholder value debate
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Organisational Culture: Schein's three-layer model and the leader's role in cultural transformation

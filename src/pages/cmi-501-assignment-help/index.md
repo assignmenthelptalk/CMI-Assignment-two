@@ -111,10 +111,10 @@ Unit 501 covers the principles of management and leadership, the theoretical fra
 
 Unit 501 is the management and leadership principles foundation for the Level 5 Diploma. The frameworks introduced here, Mintzberg's roles, Kotter's distinction, leadership styles, recur across Units 503, 505, and 512 in the same qualification.
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), Full overview of all 25 Level 5 units, management report format, and Evaluate/Justify command verb requirements
-- [CMI 502 Assignment Help](/cmi-502-assignment-help/), Team development and motivation theory, Tuckman, Belbin, Herzberg, Maslow, McClelland at Evaluate depth
-- [CMI Assignment Writing Service](/cmi-assignment-writing-service/), Complete, submission-ready CMI assignments across all levels and formats
-- [CMI Command Verbs Explained](/guides/cmi-command-verbs-explained/), What Evaluate requires at Level 5 and how it differs from Level 3 Describe and Level 6 Critically Evaluate
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Full overview of all 25 Level 5 units, management report format, and Evaluate/Justify command verb requirements
+- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Team development and motivation theory, Tuckman, Belbin, Herzberg, Maslow, McClelland at Evaluate depth
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), Complete, submission-ready CMI assignments across all levels and formats
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), What Evaluate requires at Level 5 and how it differs from Level 3 Describe and Level 6 Critically Evaluate
 
 The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes the management and leadership competency frameworks that define what Evaluate-depth application means in CMI Level 5 assignments.
 

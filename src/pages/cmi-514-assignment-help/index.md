@@ -111,10 +111,10 @@ Send your unit brief, project scenario, target grade, and deadline via WhatsApp.
 
 ## Related CMI Level 5 Assignment Help
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
-- [CMI 506 Assignment Help](/cmi-506-assignment-help/), Managing Change, change management within project contexts
-- [CMI 510 Assignment Help](/cmi-510-assignment-help/), Managing Risk, project risk management and risk registers
-- [CMI 515 Assignment Help](/cmi-515-assignment-help/), Creating and Delivering Operational Plans, operational planning distinct from project management
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
+- [CMI 506 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/), Managing Change, change management within project contexts
+- [CMI 510 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/), Managing Risk, project risk management and risk registers
+- [CMI 515 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/), Creating and Delivering Operational Plans, operational planning distinct from project management
 
 [ACAS](https://www.acas.org.uk/) provides authoritative guidance on workplace partnerships, joint working, and stakeholder relationships relevant to the applied analysis required in this CMI unit.
 

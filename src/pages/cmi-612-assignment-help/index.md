@@ -90,7 +90,7 @@ The [Association for Project Management](https://www.apm.org.uk/) publishes the 
 
 ## Related CMI Assignment Help
 
-- [CMI 601 Assignment Help](/cmi-601-assignment-help/), Principles of Management and Leadership: distributed leadership principles applicable to distributed teams
-- [CMI 602 Assignment Help](/cmi-602-assignment-help/), Leading and Developing People: development conversations in remote contexts
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), Level 7 strategic leadership: systems leadership across complex organisational boundaries
+- [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Principles of Management and Leadership: distributed leadership principles applicable to distributed teams
+- [CMI 602 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/), Leading and Developing People: development conversations in remote contexts
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Level 7 strategic leadership: systems leadership across complex organisational boundaries

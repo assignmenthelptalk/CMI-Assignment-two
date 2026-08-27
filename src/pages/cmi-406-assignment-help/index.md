@@ -98,7 +98,7 @@ The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) is the UK's profession
 
 ## Related CMI Assignment Help
 
-- [CMI 401 Assignment Help](/cmi-401-assignment-help/), Managerial and Leadership Qualities: leadership style and its relationship to culture
-- [CMI 404 Assignment Help](/cmi-404-assignment-help/), Managing Change: cultural change as the hardest form of organisational change
-- [CMI 411 Assignment Help](/cmi-411-assignment-help/), Corporate Social Responsibility: Carroll's pyramid at dedicated Unit 411 depth
-- [CMI Level 4 Assignment Help](/cmi-level-4-assignment-help/), Full Level 4 qualification guide
+- [CMI 401 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-401-assignment-help/), Managerial and Leadership Qualities: leadership style and its relationship to culture
+- [CMI 404 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-404-assignment-help/), Managing Change: cultural change as the hardest form of organisational change
+- [CMI 411 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-411-assignment-help/), Corporate Social Responsibility: Carroll's pyramid at dedicated Unit 411 depth
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), Full Level 4 qualification guide

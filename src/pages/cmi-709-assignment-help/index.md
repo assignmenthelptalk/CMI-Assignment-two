@@ -105,7 +105,7 @@ The [Chartered Management Institute](https://www.managers.org.uk/) publishes qua
 
 ## Related CMI Assignment Help
 
-- [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg deliberate vs emergent strategy, dynamic capabilities
-- [CMI 706 Assignment Help](/cmi-706-assignment-help/), Programme and Project Leadership: MSP benefits realisation, Flyvbjerg megaproject overrun
-- [CMI 712 Assignment Help](/cmi-712-assignment-help/), Strategic Communication: Smythe engagement vs announcement, Goffman impression management
-- [CMI 506 Assignment Help](/cmi-506-assignment-help/), Managing Change (Level 5 comparison: Kotter, Lewin, ADKAR at Evaluate depth)
+- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Developing and Implementing Strategy: Mintzberg deliberate vs emergent strategy, dynamic capabilities
+- [CMI 706 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/), Programme and Project Leadership: MSP benefits realisation, Flyvbjerg megaproject overrun
+- [CMI 712 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/), Strategic Communication: Smythe engagement vs announcement, Goffman impression management
+- [CMI 506 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/), Managing Change (Level 5 comparison: Kotter, Lewin, ADKAR at Evaluate depth)

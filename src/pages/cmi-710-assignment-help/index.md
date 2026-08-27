@@ -97,7 +97,7 @@ The [CIPD's coaching and mentoring factsheet](https://www.cipd.org/uk/knowledge/
 
 ## Related CMI Assignment Help
 
-- [CMI 703 Assignment Help](/cmi-703-assignment-help/), Developing and Implementing Strategy: Barney RBV, Teece dynamic capabilities, Porter competitive positioning
-- [CMI 711 Assignment Help](/cmi-711-assignment-help/), Engaging Stakeholders and Building Relationships: Mitchell, Agle & Wood salience model, Granovetter weak ties
-- [CMI 707 Assignment Help](/cmi-707-assignment-help/), Finance for Strategic Leaders: Jensen & Meckling agency theory, shareholder vs stakeholder value debate
-- [CMI 715 Assignment Help](/cmi-715-assignment-help/), Strategic Approaches to Health, Wellbeing and Inclusion: Marmot, Seligman PERMA, NHS People Plan
+- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Developing and Implementing Strategy: Barney RBV, Teece dynamic capabilities, Porter competitive positioning
+- [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Engaging Stakeholders and Building Relationships: Mitchell, Agle & Wood salience model, Granovetter weak ties
+- [CMI 707 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-707-assignment-help/), Finance for Strategic Leaders: Jensen & Meckling agency theory, shareholder vs stakeholder value debate
+- [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Strategic Approaches to Health, Wellbeing and Inclusion: Marmot, Seligman PERMA, NHS People Plan

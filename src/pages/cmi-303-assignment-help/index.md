@@ -99,7 +99,7 @@ The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) publishes research-bas
 
 ## Related CMI Assignment Help
 
-- [CMI 301 Assignment Help](/cmi-301-assignment-help/), Principles of Management and Leadership: Kotter, Mintzberg, leadership styles
-- [CMI 302 Assignment Help](/cmi-302-assignment-help/), Managing a Team to Achieve Results: Tuckman, Belbin, SMART goals
-- [CMI 307 Assignment Help](/cmi-307-assignment-help/), Developing Knowledge, Skills and Abilities: learning styles, training needs analysis
-- [CMI Level 3 Assignment Help](/cmi-level-3-assignment-help/), Full Level 3 qualification guide
+- [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership: Kotter, Mintzberg, leadership styles
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results: Tuckman, Belbin, SMART goals
+- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing Knowledge, Skills and Abilities: learning styles, training needs analysis
+- [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

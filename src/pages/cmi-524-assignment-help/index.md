@@ -122,9 +122,9 @@ Send your unit brief, partnership scenario, target grade, and deadline via Whats
 
 ## Related CMI Level 5 Assignment Help
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
-- [CMI 505 Assignment Help](/cmi-505-assignment-help/), Forming Successful Teams, team formation principles apply to partnership team development
-- [CMI 517 Assignment Help](/cmi-517-assignment-help/), Understanding and Leading Organisational Change, ICS transformation as change leadership context
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
+- [CMI 505 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-505-assignment-help/), Forming Successful Teams, team formation principles apply to partnership team development
+- [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Understanding and Leading Organisational Change, ICS transformation as change leadership context
 
 The [Information Commissioner's Office](https://ico.org.uk/) is the UK's data protection regulator and sets the GDPR and UK data protection framework that forms the legal basis for the information and data management content in this CMI unit.
 

@@ -94,7 +94,7 @@ The [Harvard Business Review](https://hbr.org/topic/innovation) publishes peer-r
 
 ## Related CMI Assignment Help
 
-- [CMI 311 Assignment Help](/cmi-311-assignment-help/), Managing a Project: budget management within a project context
-- [CMI 302 Assignment Help](/cmi-302-assignment-help/), Managing a Team to Achieve Results: performance targets including financial targets
-- [CMI 516 Assignment Help](/cmi-516-assignment-help/), Developing and Managing Budgets (Level 5): next-level budget management at Evaluate depth
-- [CMI Level 3 Assignment Help](/cmi-level-3-assignment-help/), Full Level 3 qualification guide
+- [CMI 311 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/), Managing a Project: budget management within a project context
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results: performance targets including financial targets
+- [CMI 516 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-516-assignment-help/), Developing and Managing Budgets (Level 5): next-level budget management at Evaluate depth
+- [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

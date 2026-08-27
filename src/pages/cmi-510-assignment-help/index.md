@@ -132,10 +132,10 @@ Send your unit brief, risk management scenario or organisational context, target
 
 ## Related CMI Level 5 Assignment Help
 
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
-- [CMI 514 Assignment Help](/cmi-514-assignment-help/), Managing Projects, project risk management and risk registers
-- [CMI 516 Assignment Help](/cmi-516-assignment-help/), Developing and Managing Budgets, financial risk and variance analysis
-- [CMI 521 Assignment Help](/cmi-521-assignment-help/), Managing Health, Safety and Welfare, H&S risk assessment within operational risk
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
+- [CMI 514 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/), Managing Projects, project risk management and risk registers
+- [CMI 516 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-516-assignment-help/), Developing and Managing Budgets, financial risk and variance analysis
+- [CMI 521 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-521-assignment-help/), Managing Health, Safety and Welfare, H&S risk assessment within operational risk
 
 The [Harvard Business Review](https://hbr.org/topic/change-management) publishes practitioner evidence and peer-reviewed research on organisational change that informs the Evaluate and Justify depth required in this CMI change management unit.
 

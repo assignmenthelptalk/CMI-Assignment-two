@@ -93,7 +93,7 @@ Most Unit 305 assessments do not require a formal separate communication plan do
 
 ## Related CMI Assignment Help
 
-- [CMI 304 Assignment Help](/cmi-304-assignment-help/), Principles of Communication in the Workplace: Shannon and Weaver, barriers to communication
-- [CMI 301 Assignment Help](/cmi-301-assignment-help/), Principles of Management and Leadership: management roles including Liaison role
-- [CMI 311 Assignment Help](/cmi-311-assignment-help/), Managing a Project: stakeholder communication within project context
-- [CMI Level 3 Assignment Help](/cmi-level-3-assignment-help/), Full Level 3 qualification guide
+- [CMI 304 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-304-assignment-help/), Principles of Communication in the Workplace: Shannon and Weaver, barriers to communication
+- [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership: management roles including Liaison role
+- [CMI 311 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/), Managing a Project: stakeholder communication within project context
+- [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

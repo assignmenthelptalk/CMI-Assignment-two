@@ -88,7 +88,7 @@ The [Chartered Management Institute](https://www.managers.org.uk/) publishes qua
 
 ## Related CMI Assignment Help
 
-- [CMI 606 Assignment Help](/cmi-606-assignment-help/), Financial Management: financial risk management within investment appraisal
-- [CMI 607 Assignment Help](/cmi-607-assignment-help/), Project and Programme Management: risk governance within programme management
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), Level 7 strategic management: strategic risk at Critically Analyse depth
+- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Financial Management: financial risk management within investment appraisal
+- [CMI 607 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/), Project and Programme Management: risk governance within programme management
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Level 7 strategic management: strategic risk at Critically Analyse depth

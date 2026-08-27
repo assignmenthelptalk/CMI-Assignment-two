@@ -101,7 +101,7 @@ Yes. Health data is special category data under UK GDPR and NHS organisations ar
 
 ## Related CMI Assignment Help
 
-- [CMI 306 Assignment Help](/cmi-306-assignment-help/), Managing Equality, Diversity and Inclusion: data protection in handling sensitive equality information
-- [CMI 310 Assignment Help](/cmi-310-assignment-help/), Managing a Budget: financial data management and reporting
-- [CMI 311 Assignment Help](/cmi-311-assignment-help/), Managing a Project: information management within a project context
-- [CMI Level 3 Assignment Help](/cmi-level-3-assignment-help/), Full Level 3 qualification guide
+- [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Managing Equality, Diversity and Inclusion: data protection in handling sensitive equality information
+- [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Managing a Budget: financial data management and reporting
+- [CMI 311 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/), Managing a Project: information management within a project context
+- [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

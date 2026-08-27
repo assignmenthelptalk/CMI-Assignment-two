@@ -109,7 +109,7 @@ The [CIPD's CPD resources](https://www.cipd.org/uk/knowledge/factsheets/cpd-fact
 
 ## Related CMI Assignment Help
 
-- [CMI 716 Assignment Help](/cmi-716-assignment-help/), Leading and Developing Teams: Hackman, Edmondson, team coaching as the bridge between individual and systemic coaching
-- [CMI 709 Assignment Help](/cmi-709-assignment-help/), Leading Strategic Change: Weick sensemaking, coaching as a sensemaking leadership tool
-- [CMI 713 Assignment Help](/cmi-713-assignment-help/), Workforce Planning and Organisational Design: Ulrich & Brockbank HR value, coaching culture as a strategic capability investment
-- [CMI 507 Assignment Help](/cmi-507-assignment-help/), Delivering Coaching and Mentoring (Level 5): GROW, Clutterbuck coaching vs mentoring at Evaluate depth, the Level 5 comparator
+- [CMI 716 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/), Leading and Developing Teams: Hackman, Edmondson, team coaching as the bridge between individual and systemic coaching
+- [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Leading Strategic Change: Weick sensemaking, coaching as a sensemaking leadership tool
+- [CMI 713 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/), Workforce Planning and Organisational Design: Ulrich & Brockbank HR value, coaching culture as a strategic capability investment
+- [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Delivering Coaching and Mentoring (Level 5): GROW, Clutterbuck coaching vs mentoring at Evaluate depth, the Level 5 comparator

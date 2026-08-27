@@ -87,7 +87,7 @@ The [Chartered Management Institute](https://www.managers.org.uk/) provides rese
 
 ## Related CMI Assignment Help
 
-- [CMI 401 Assignment Help](/cmi-401-assignment-help/), Managerial and Leadership Qualities: leadership style within team management
-- [CMI 402 Assignment Help](/cmi-402-assignment-help/), Managing and Developing Self: self-awareness as a team leadership competency
-- [CMI 404 Assignment Help](/cmi-404-assignment-help/), Managing Change: team dynamics during organisational change
-- [CMI Level 4 Assignment Help](/cmi-level-4-assignment-help/), Full Level 4 qualification guide
+- [CMI 401 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-401-assignment-help/), Managerial and Leadership Qualities: leadership style within team management
+- [CMI 402 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-402-assignment-help/), Managing and Developing Self: self-awareness as a team leadership competency
+- [CMI 404 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-404-assignment-help/), Managing Change: team dynamics during organisational change
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), Full Level 4 qualification guide

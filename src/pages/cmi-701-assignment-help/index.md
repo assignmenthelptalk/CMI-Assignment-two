@@ -131,10 +131,10 @@ Send the unit brief, target grade, and deadline via WhatsApp. A quote is returne
 
 The reflective practice and self-development frameworks in Unit 701 connect to Unit 702 (leading and developing others, the outward-facing development counterpart) and to Unit 705 (strategic leadership, leadership capability as an organisational resource).
 
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse command verb requirements
-- [CMI 702 Assignment Help](/cmi-702-assignment-help/), Leading and developing people, Bass and Avolio (1994), Brown and Treviño (2003), Ciulla (2004) at Critically Analyse depth
-- [CMI 705 Assignment Help](/cmi-705-assignment-help/), Strategic leadership, Barney (1991) VRIO, Teece et al. (1997) Dynamic Capabilities
-- [CMI Assignment Writing Service](/cmi-assignment-writing-service/), All levels, all units, all formats
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse command verb requirements
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and developing people, Bass and Avolio (1994), Brown and Treviño (2003), Ciulla (2004) at Critically Analyse depth
+- [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Strategic leadership, Barney (1991) VRIO, Teece et al. (1997) Dynamic Capabilities
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, all formats
 
 The [CIPD's continuing professional development guidance](https://www.cipd.org/uk/knowledge/factsheets/cpd-factsheet/) provides evidence on strategic personal development practice directly relevant to the Critically Analyse engagement required in this CMI Level 7 unit.
 

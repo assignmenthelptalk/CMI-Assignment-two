@@ -77,7 +77,7 @@ The CMI offers management and leadership qualifications at five levels on the Re
 
 **Time commitment**: Level 5 Diploma, 12–18 months part-time alongside full-time work.
 
-[CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/)
+[CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/)
 
 ## CMI Level 6 — Professional Management and Leadership
 
@@ -115,7 +115,7 @@ The CMI offers management and leadership qualifications at five levels on the Re
 
 **Time commitment**: Level 7 Diploma, 18–24 months part-time alongside full-time senior leadership roles.
 
-[CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/)
+[CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/)
 
 ## CMI Award, Certificate, or Diploma — What Is the Difference?
 
@@ -169,12 +169,12 @@ Yes. The service covers all levels, Level 3 through Level 7. Each level requires
 
 ## CMI Assignment Help by Level
 
-- [CMI Level 3 Assignment Help](/cmi-level-3-assignment-help/), First Line Management, essay format, Describe/Explain/Analyse depth
-- [CMI Level 4 Assignment Help](/cmi-level-4-assignment-help/), Management and Leadership, Analyse and Evaluate depth
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), Management and Leadership Diploma, management report format, Evaluate/Justify, ACMI
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/), Professional Management, Critically Evaluate depth, MCMI
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), Strategic Management and Leadership, Critically Analyse, strategic paper, FCMI
-- [CMI Level 5 vs Level 7](/guides/cmi-level-5-vs-level-7/)
+- [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), First Line Management, essay format, Describe/Explain/Analyse depth
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), Management and Leadership, Analyse and Evaluate depth
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Management and Leadership Diploma, management report format, Evaluate/Justify, ACMI
+- [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Professional Management, Critically Evaluate depth, MCMI
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Strategic Management and Leadership, Critically Analyse, strategic paper, FCMI
+- [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/)
 
 The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes the full qualifications framework — Awards, Certificates, and Diplomas from Level 3 to Level 8 — and the membership pathway from ACMI to FCMI.
 

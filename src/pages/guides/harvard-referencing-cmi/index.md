@@ -203,9 +203,9 @@ Send your draft or assignment brief via WhatsApp. Writers provide fully Harvard-
 
 ## Related CMI Assignment Support
 
-- [CMI Assignment Writing Service](/cmi-assignment-writing-service/), Fully referenced CMI assignments at all levels, Harvard format, ManagementDirect included at Level 5+, primary sources at Level 7
-- [CMI Level 5 Assignment Help](/cmi-level-5-assignment-help/), Management report format with correct source count and ManagementDirect citations
-- [CMI Level 7 Assignment Help](/cmi-level-7-assignment-help/), Strategic paper format with 15–20 peer-reviewed primary sources cited at origin
-- [CMI Report Writing Help](/cmi-report-writing-help/), Management report structure and referencing guidance for Levels 5 and 6
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), Fully referenced CMI assignments at all levels, Harvard format, ManagementDirect included at Level 5+, primary sources at Level 7
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Management report format with correct source count and ManagementDirect citations
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Strategic paper format with 15–20 peer-reviewed primary sources cited at origin
+- [CMI Report Writing Help](https://www.cmiassignmenthelp.uk.com/cmi-report-writing-help/), Management report structure and referencing guidance for Levels 5 and 6
 
 [WhatsApp for CMI Referencing Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
