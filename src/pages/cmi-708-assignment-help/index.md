@@ -130,7 +130,7 @@ Send the unit brief, target grade, and deadline via WhatsApp. A fixed quote is r
 
 ## CMI Level 7 Unit 708 — Related Assignment Help
 
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse depth, FCMI membership
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse depth
 - [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Strategic leadership, Teece et al.'s (1997) Dynamic Capabilities (sense/seize/reconfigure) directly connects to Unit 708's innovation management process
 - [CMI 704 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/), Governance, risk and ethics, Taleb's (2007) Black Swan theory addresses the limits of structured frameworks for managing the unexpected, connecting to Christensen's disruption argument
 - [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Personal development as a strategic leader, double-loop learning (Argyris and Schön, 1978) as a foundation for the questioning of governing assumptions that disruptive change requires

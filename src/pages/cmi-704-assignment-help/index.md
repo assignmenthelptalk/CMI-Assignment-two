@@ -156,7 +156,7 @@ Send the unit brief, target grade, and deadline via WhatsApp. A quote is returne
 
 ## CMI Level 7 Unit 704 — Related Assignment Help
 
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, primary source requirements, FCMI membership
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, primary source requirements
 - [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and developing people, ethical leadership connects to governance ethics
 - [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Strategic leadership, RBV and Dynamic Capabilities
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, strategic paper format

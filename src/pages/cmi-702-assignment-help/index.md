@@ -131,7 +131,7 @@ Send the unit brief, target grade (Pass, Merit, or Distinction), and deadline vi
 
 ## CMI Level 7 Unit 702 — Related Assignment Help
 
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse requirements, FCMI membership
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse requirements
 - [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Personal development as a strategic leader, the inward-facing counterpart to Unit 702
 - [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Strategic leadership, Barney (1991) RBV and Teece et al. (1997) Dynamic Capabilities
 - [NHS Management and CMI Qualifications](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), NHS Leadership Academy, transformational leadership in NHS context, Band 8+ and executive CMI pathways
