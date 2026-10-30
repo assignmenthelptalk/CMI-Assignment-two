@@ -108,7 +108,7 @@ Each CMI level sits at the RQF level of the same number. In general terms, RQF L
 
 **Entry**: centres can offer Level 7 from age 19.
 
-**Progression**: learners completing the Level 7 Diploma or Extended Diploma may be eligible for Chartered Manager (CMgr) with at least three years of management and leadership experience. CMI points to the Level 8 qualifications in Strategic Direction and Leadership as the next step.
+**Progression**: learners completing the Level 7 Diploma or Extended Diploma may be eligible for Chartered Manager (CMgr) with at least three years of management and leadership experience. CMI points to the Level 8 qualifications in Strategic Direction and Leadership as the next step. If you are weighing the cost and time, see [is CMI Level 7 worth it](https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/#is-cmi-level-7-worth-it).
 
 [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/)
 
@@ -142,6 +142,8 @@ A CMI qualification and a CMI membership grade are two different things. The qua
 - **MCMI (Member):** a degree-level management qualification plus 3 years' management experience, or 5 years' management experience without a qualification.
 - **FCMI (Fellow):** 10 years' management experience, at least 3 at a strategic level.
 - **CMgr (Chartered Manager):** the MCMI or FCMI criteria plus CMI's Chartered Manager Assessment, written as "CMgr MCMI" or "CMgr FCMI".
+
+People often search for an "MCMI qualification" or an "FCMI qualification", but MCMI and FCMI are membership grades rather than qualifications. The [MCMI qualification and FCMI qualification explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/) page sets out what each grade requires.
 
 Foundation Chartered Manager (fCMgr) and Chartered Manager (CMgr) are also linked to the qualifications at Levels 4 to 7, as described under each level above. The full criteria, fees and a comparison table are in [MCMI, FCMI and ACMI explained: CMI membership grades](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/).
 

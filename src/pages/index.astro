@@ -23,7 +23,7 @@ const faqSchema = {
       "name": "Which CMI levels and units do you cover?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "All five CMI qualification levels: Level 3 First Line Management (Units 301–321), Level 4 Management and Leadership (Units 4001–4009), Level 5 Management and Leadership Diploma (Units 501–526), Level 6 Professional Management and Leadership (Units 601–614), and Level 7 Strategic Management and Leadership (Units 701–716). That covers all 80+ CMI units across every Award, Certificate, and Diploma pathway."
+        "text": "All five CMI qualification levels: Level 3 Principles of Management and Leadership (Units 301–321), Level 4 Management and Leadership (Units 4001–4009), Level 5 Management and Leadership Diploma (Units 501–526), Level 6 Professional Management and Leadership (Units 601–614), and Level 7 Strategic Management and Leadership (Units 701–716). That covers all 80+ CMI units across every Award, Certificate, and Diploma pathway."
       }
     },
     {
@@ -55,7 +55,7 @@ const faqSchema = {
       "name": "Do you provide CMI assignment help for NHS managers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. NHS managers are one of the primary student profiles for CMI Level 5 (Band 7 and above) and CMI Level 7 (Band 8+ and NHS Executive roles). Writers assigned to NHS manager assignments hold relevant NHS management experience and are familiar with NHS workforce context, NHS leadership frameworks, and the CMI units most commonly studied by NHS professionals."
+        "text": "Yes. NHS managers study CMI qualifications at several levels, and the right level depends on the scope of your role rather than your pay band. Support covers NHS workforce context and leadership frameworks."
       }
     }
   ]
@@ -64,11 +64,11 @@ const faqSchema = {
 const levels = [
   {
     label: 'CMI Level 3',
-    title: 'First Line Management',
+    title: 'Principles of Management and Leadership',
     slug: 'https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/',
     units: 'Units 301–321',
-    format: 'Structured essay',
-    verbs: 'Identify, Describe, Explain',
+    format: '2,000–2,500 words guideline',
+    verbs: 'Explain, Identify, Outline',
     profile: 'Team leaders and supervisors',
     badge: null,
   },
@@ -77,8 +77,8 @@ const levels = [
     title: 'Management and Leadership',
     slug: 'https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/',
     units: 'Units 4001–4009',
-    format: 'Essay and management report',
-    verbs: 'Analyse, Evaluate',
+    format: '3,000 words guideline',
+    verbs: 'Describe, Discuss, Identify',
     profile: 'Junior and department managers',
     badge: null,
   },
@@ -87,19 +87,19 @@ const levels = [
     title: 'Management & Leadership Diploma',
     slug: 'https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/',
     units: 'Units 501–526',
-    format: 'Management report',
-    verbs: 'Evaluate, Justify',
-    profile: 'Middle managers and NHS Band 7+',
-    badge: 'Most Popular',
+    format: '3,000–5,000 words guideline',
+    verbs: 'Analyse, Examine, Evaluate',
+    profile: 'Managers accountable to a senior manager',
+    badge: null,
   },
   {
     label: 'CMI Level 6',
     title: 'Professional Management and Leadership',
     slug: 'https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/',
     units: 'Units 601–614',
-    format: 'Advanced management paper',
-    verbs: 'Critically Evaluate',
-    profile: 'Senior managers and directors',
+    format: '3,000–4,000 words guideline',
+    verbs: 'Critically appraise, Critically assess',
+    profile: 'Experienced managers',
     badge: null,
   },
   {
@@ -107,10 +107,10 @@ const levels = [
     title: 'Strategic Management and Leadership',
     slug: 'https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/',
     units: 'Units 701–716',
-    format: 'Strategic paper',
-    verbs: 'Critically Analyse, Justify',
-    profile: 'Directors and C-suite executives',
-    badge: 'Highest Level',
+    format: '3,500–4,500 words guideline',
+    verbs: 'Critically appraise and other Critically verbs',
+    profile: 'Senior managers and directors',
+    badge: null,
   },
 ];
 
@@ -118,7 +118,7 @@ const services = [
   {
     icon: '✍️',
     title: 'CMI Assignment Writing Service',
-    desc: 'Submission-ready assignment written to the correct command verb depth and CMI format (management report, essay, reflective account, or strategic paper), with full Harvard referencing.',
+    desc: 'Submission-ready assignment written to the correct command verb depth and the format your centre sets, with full Harvard referencing.',
   },
   {
     icon: '🎓',
@@ -163,7 +163,7 @@ const steps = [
         <p class="hero-sub">
           Expert CMI assignment writing, tutoring, and resubmission support for working
           professionals across all 80+ CMI units. Every document written to the correct
-          command verb depth: Pass, Merit, or Distinction standard.
+          command verb depth, so each criterion can be met.
         </p>
         <div class="hero-ctas">
           <a
@@ -246,7 +246,7 @@ const steps = [
         </div>
         <div class="guide-card">
           <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/" class="card-link">CMI Command Verbs Explained</a></h3>
-          <p>Every CMI command verb from Identify to Critically Analyse: what each requires, how they differ by level, and what Pass, Merit, and Distinction responses look like.</p>
+          <p>The CMI command verbs from Identify to Critically appraise: what each requires and how they differ by level. CMI grades Pass or Refer.</p>
         </div>
       </div>
     </div>
@@ -343,9 +343,9 @@ const steps = [
         <div class="cred-card">
           <h3 class="cred-title">Harvard Referencing to CMI Standards</h3>
           <p>
-            All assignments are referenced to CMI assessor standards: ManagementDirect as a primary source,
-            peer-reviewed journals at Levels 6 and 7, minimum source counts met at every level (6+ at L3,
-            10–12 at L5, 15–20 at L7).
+            All assignments use Harvard referencing with credible sources chosen to support each criterion,
+            including CMI's ManagementDirect where it is relevant. CMI sets no minimum number of sources,
+            so your centre's brief and referencing guidance apply.
           </p>
         </div>
       </div>
@@ -377,7 +377,7 @@ const steps = [
           <summary class="faq-q">Which CMI levels and units do you cover?</summary>
           <div class="faq-a">
             <p>
-              All five CMI qualification levels: Level 3 First Line Management
+              All five CMI qualification levels: Level 3 Principles of Management and Leadership
               (Units 301–321), Level 4 Management and Leadership (Units 4001–4009),
               Level 5 Management and Leadership Diploma (Units 501–526),
               Level 6 Professional Management and Leadership (Units 601–614),
@@ -430,10 +430,9 @@ const steps = [
           <summary class="faq-q">Do you provide CMI assignment help for NHS managers?</summary>
           <div class="faq-a">
             <p>
-              Yes. NHS managers are one of the primary student profiles for CMI Level 5 (Band 7 and above) and
-              CMI Level 7 (Band 8+ and NHS Executive roles). Writers assigned to NHS manager assignments hold
-              relevant NHS management experience and are familiar with NHS workforce context, NHS leadership
-              frameworks, and the CMI units most commonly studied by NHS professionals.
+              Yes. NHS managers study CMI qualifications at several levels, and the right level depends on the scope
+              of your role rather than your pay band. Support covers NHS workforce context and leadership
+              frameworks. See our <a href="https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/">guide to CMI qualifications for NHS managers</a>.
             </p>
           </div>
         </details>
