@@ -35,7 +35,7 @@ Keywords the syllabus lists for the unit: Legislative requirements, policy, stra
 - 2.3 **Evaluate** leadership styles which support practice improvement in relation to equality, diversity and inclusion
 - 2.4 **Assess** approaches for managing individuals and teams which lack commitment to equality, diversity and inclusion
 
-### Learning outcome 3: Know how to develop and implement plans which support equality, diversity and inclusion within an
+### Learning outcome 3: Know how to develop and implement plans which support equality, diversity and inclusion within an organisation
 
 - 3.1 **Assess** the process for developing a plan which supports equality, diversity and inclusion within an organisation
 - 3.2 **Analyse** the purpose and methods of gathering data and information to inform a plan

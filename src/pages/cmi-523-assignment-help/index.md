@@ -26,7 +26,7 @@ Keywords the syllabus lists for the unit: Product and service development, marke
 
 - 1.1 **Evaluate** the role of marketing to support the achievement of organisational objectives
 
-### Learning outcome 2: Understand the factors in the organisation's marketing environment which impact on the marketing of a
+### Learning outcome 2: Understand the factors in the organisation's marketing environment which impact on the marketing of a product or service
 
 - 2.1 **Evaluate** the influence of stakeholders on an organisation's approach to marketing a product or service
 - 2.2 **Examine** the impact of an organisation's strengths and weaknesses on the marketing of a product or service

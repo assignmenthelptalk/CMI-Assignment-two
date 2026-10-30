@@ -80,7 +80,6 @@ The indicative content for Unit 525 points to the following. They are examples, 
 
 CMI says all assessment criteria must be met, and that the following ways of assessing the unit are guidance only. Your centre chooses the format, so follow your own brief:
 
-- Approach the assessment in a number of ways. All assessment criteria must be covered. To enable this to be achieved effectively the unit has been written in the sequence in which personal reflection, review and planning is carried out. The following opportunities are recommendations for guidance purposes only:
 - The learner should draw upon your own experiences from their current work role (paid or voluntary). Reflective practice is not constrained by being in a particular role and can include planning for a future role
 - Present work based evidence (including personal development plans) accompanied by reports or reflective accounts to meet each of the assessment criteria
 
