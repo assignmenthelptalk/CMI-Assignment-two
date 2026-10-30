@@ -117,3 +117,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 716 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/), Strategic Approaches to Mental Health and Wellbeing (Level 7), a related topic: mental health and wellbeing at work

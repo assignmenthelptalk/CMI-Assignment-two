@@ -113,3 +113,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 523 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-523-assignment-help/), Principles of Marketing Products and Services (Level 5), also names Porter
 - [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Principles of Innovation (Level 5), a related topic: innovation
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), a related topic: entrepreneurship and marketing
+- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Developing and Leading Strategy (Level 6), a related topic: entrepreneurship and marketing

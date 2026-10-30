@@ -117,3 +117,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7), also names Greenleaf
 - [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Leading Strategic Change (Level 7), also names Greenleaf
 - [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Principles of Delivering Coaching and Mentoring (Level 5), a related topic: coaching and mentoring
+- [CMI 714 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-714-assignment-help/), Personal and Professional Development for Strategic Leaders (Level 7), a related topic: coaching skills for leaders
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7), a related topic: coaching skills for leaders
+- [CMI 508 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-508-assignment-help/), Principles of Developing a Skilled and Talented Workforce (Level 5), a related topic: coaching skills for leaders

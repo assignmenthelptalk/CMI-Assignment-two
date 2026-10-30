@@ -111,4 +111,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Supporting Teams and Individuals through Change (Level 3), also names Kotter and Lewin
 - [CMI 514 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/), Managing Change (Level 5), also names Kotter and Lewin
 - [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Leading Strategic Change (Level 7), also names Kotter and Lewin
+- [CMI 610 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-610-assignment-help/), Principles and Practices of Policy Development (Level 6), a related topic: policy development
+- [CMI 614 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/), Principles and Practices of Ethical Decision Making (Level 6), a related topic: ethical decision making
 - [CMI 707 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-707-assignment-help/), Organisational Design and Development (Level 7), a related topic: organisational design and culture

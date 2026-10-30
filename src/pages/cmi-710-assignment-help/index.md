@@ -114,3 +114,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 523 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-523-assignment-help/), Principles of Marketing Products and Services (Level 5), also names Porter and Ansoff
 - [CMI 522 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-522-assignment-help/), Managing the Customer Experience (Level 5), a related topic: marketing
+- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Developing and Leading Strategy (Level 6), a related topic: marketing

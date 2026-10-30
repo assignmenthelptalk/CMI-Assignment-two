@@ -110,3 +110,10 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Mintzberg
 - [CMI 523 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-523-assignment-help/), Principles of Marketing Products and Services (Level 5), also names Ansoff
+- [CMI 704 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/), Developing Organisational Strategy (Level 7), a related topic: developing and leading strategy
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7), a related topic: developing and leading strategy
+- [CMI 712 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/), Strategic Management Project (Level 7), a related topic: developing and leading strategy
+- [CMI 610 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-610-assignment-help/), Principles and Practices of Policy Development (Level 6), a related topic: policy development
+- [CMI 708 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/), Strategic Risk Management (Level 7), a related topic: strategic risk management
+- [CMI 710 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-710-assignment-help/), Marketing Strategy (Level 7), a related topic: marketing
+- [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Entrepreneurial Practice (Level 7), a related topic: entrepreneurship and marketing

@@ -114,4 +114,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Professional Management and Leadership Practice (Level 6), also names Kotter and Greenleaf
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names Kotter and Greenleaf
 - [CMI 526 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/), Principles of Leadership Practice (Level 5), a related topic: leadership practice
+- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Developing and Leading Strategy (Level 6), a related topic: developing and leading strategy
+- [CMI 614 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/), Principles and Practices of Ethical Decision Making (Level 6), a related topic: ethical decision making
 - [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Collaboration and Partnerships (Level 7), a related topic: collaboration and partnerships

@@ -114,5 +114,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Maslow
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Maslow
 - [CMI 524 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-524-assignment-help/), Conducting a Management Project (Level 5), a related topic: management projects
+- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Developing and Leading Strategy (Level 6), a related topic: developing and leading strategy
 - [CMI 604 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/), Strategic Programme and Project Management (Level 6), a related topic: strategic projects and research
 - [CMI 4005 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/), Management Report Writing (Level 4), a related topic: strategic projects and research
