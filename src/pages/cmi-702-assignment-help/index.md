@@ -1,141 +1,110 @@
 ---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 702 Assignment Help"
-description: "Leading and Developing People to Optimise Performance — Strategic Paper — Bass and Avolio (1994), Brown and Treviño (2003), Ciulla (2004) — Critically Analys..."
+description: "CMI Unit 702 assignment help (Level 7). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/"
 headerImage: "/images/headers/cmi-702-assignment-help.webp"
 headerImageAlt: "CMI Unit 702 Assignment Help — Leading and Developing People to Optimise Performance"
 ---
 
 # CMI Unit 702 Assignment Help
-**Leading and Developing People to Optimise Performance, Strategic Paper, Bass and Avolio (1994), Brown and Treviño (2003), Ciulla (2004), Critically Analyse Depth**
+**Leading and Developing People to Optimise Performance, CMI Level 7**
 
-CMI Unit 702 assignment help for Leading and Developing People to Optimise Performance, one of the most commonly submitted CMI Level 7 units, and the unit most directly relevant to NHS senior leaders, directors, and C-suite executives for whom transformational leadership is a central professional framework. The service covers strategic paper format at Critically Analyse depth, with primary sources engaged at origin: Bass and Avolio (1994), Brown and Treviño (2003), and Ciulla (2004). Writers hold the CMI Level 7 Diploma with director-level experience. This unit is part of [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), covering all 17 Level 7 units.
+Unit 702 covers leading and developing people to optimise performance: how leadership, culture and development affect results, how organisational design and HR policy shape the way people are led, how to promote engagement, mental health and wellbeing, and how to propose a leadership and development strategy. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
 
 [Get a Unit 702 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
-## What CMI Unit 702 Covers
+## What CMI Unit 702 covers
 
-CMI Unit 702, Leading and Developing People to Optimise Performance, is assessed in strategic paper format at Critically Analyse command verb depth. It sits at the intersection of two major theoretical fields: strategic leadership effectiveness and leadership ethics. The central academic question the unit requires engagement with is whether transformational leadership and ethical leadership are the same construct, compatible but distinct constructs, or constructs in theoretical tension.
+According to the CMI Level 7 syllabus (August 2026), Unit 702 is worth 10 credits, with 34 guided learning hours and 100 hours of total unit time. It has 2 learning outcomes and 5 assessment criteria, and every criterion has to be met for the unit to be passed.
 
-This is not the same question asked at Level 5 or Level 6. A Level 5 student applies Bass and Avolio's Four I's to a team management scenario and evaluates which is most applicable. A Level 7 student engages with what Bass and Avolio (1994) actually claimed, with Brown and Treviño's (2003) peer-reviewed evidence that ethical leadership is theoretically distinct from transformational leadership, and with Ciulla's (2004) philosophical argument that the distinction matters morally, producing an original synthesis on the relationship between the two constructs.
+Keywords the syllabus lists for the unit: Culture, performance, outcomes, people, teams, theory, approaches, sustainability, mental health, wellbeing, engagement, policy, strategies, success.
 
-### CMI Unit 702 Learning Outcomes
+## Learning outcomes and assessment criteria
 
-**Learning Outcome 1:** Understand strategic approaches to leading and developing people. This LO covers strategic leadership theory at primary source level, what transformational leadership claims to produce, what the evidence supports, and where the claims are contested.
+### Learning outcome 1: Understand the principles for leading and developing people
 
-**Learning Outcome 2:** Understand how to develop strategic leadership capability in organisations. This LO covers organisational leadership development at strategic level, how organisations build and sustain leadership capability as an organisational resource (connecting to Ulrich's leadership brand concept).
+- 1.1 **Discuss** the influence of leadership, culture and people development on performance
+- 1.2 **Appraise** the impact of organisational development and design on performance
+- 1.3 **Critically appraise** how human resource policy and strategy informs the way people are led and developed
+- 1.4 **Explore** strategies to promote engagement, mental health and wellbeing as an enabler of performance
 
-**Learning Outcome 3:** Understand the ethical dimensions of strategic leadership. This LO is the ethics domain, requiring direct engagement with Brown and Treviño (2003) and Ciulla (2004) at source.
+### Learning outcome 2: Understand leadership and development strategy
 
-## Transformational Leadership — Bass and Avolio (1994) at Critically Analyse Depth
+- 2.1 **Propose** a leadership and development strategy which values people whilst optimising organisational success
 
-Bass and Avolio's *Improving Organizational Effectiveness through Transformational Leadership* (1994) defines the Full Range Leadership Model, a spectrum from laissez-faire leadership (passive avoidance) through transactional leadership (contingent reward, management by exception) to transformational leadership (the Four I's):
+## What the command verbs ask for in this unit
 
-**Idealised Influence:** The transformational leader acts as a role model who inspires trust, admiration, loyalty, and respect in followers. Followers identify with and seek to emulate the leader. Bass and Avolio (1994) distinguish between attributed idealised influence (followers' perception of the leader as admirable) and behavioural idealised influence (the leader's observable ethics and values-consistent behaviour).
+The first word of each criterion tells you the depth required. The verbs used in Unit 702 are:
 
-**Inspirational Motivation:** The leader articulates a compelling vision, communicates high expectations, and uses symbols and emotional appeals to focus team effort. Followers are motivated to exceed their own expected performance.
+- **Discuss** (1.1): give a detailed account that includes a range of views, including contrasting perspectives.
+- **Appraise** (1.2): assess the worth, quality or performance of something and form an opinion.
+- **Critically appraise** (1.3): use a systematic process to find the strengths and weaknesses of information and judge how useful and valid it is.
+- **Explore** (1.4): go through the topic thoroughly, looking at all the areas that affect it.
+- **Propose** (2.1): put forward a proposal supported by a clear rationale suited to the context.
 
-**Intellectual Stimulation:** The leader encourages followers to question assumptions, reframe problems, and approach challenges from new perspectives. Followers are stimulated to think independently and creatively.
+These are plain-English readings of the verbs. Your centre's assessment brief and its assessor have the final say on what counts as a pass.
 
-**Individualised Consideration:** The leader acts as a coach and mentor, attending to each follower's individual developmental needs, recognising individual differences, and providing development opportunities.
+## Models and sources the indicative content suggests
 
-### The Critically Analyse Engagement with Bass and Avolio (1994)
+The indicative content for Unit 702 points to the following. They are examples, not a required list, but they show what the criteria expect you to draw on:
 
-At Critically Analyse depth, the student does not apply the Four I's to a leadership scenario, they engage with what Bass and Avolio (1994) claimed and what subsequent research has confirmed or contested.
+- Gentile, Value-driven Leadership (2014)
+- Goleman, Leadership Styles (1995)
+- Goffee and Jones, Authentic Leadership (2011)
+- Bass and Riggio, Transformational Leadership (2006)
+- Hofstede, Cross Cultural Leadership (1991)
+- Rousseau, Psychological Contract (1989)
+- Handy, Gods of Management (1978)
+- Quinn and Rohrbaugh, Competing Values Framework (1983)
+- Senge, Learning Organisations (1980)
+- Beardwell and Thompson, Human Resource Management (2017)
+- Taylor review of modern working practices (2017)
 
-**The cultural transferability question**: Bass and Avolio's (1994) research was conducted primarily in Western military and business contexts. Subsequent cross-cultural research (Yukl, 1999; Den Hartog et al., 1999) has found that while some components of transformational leadership (particularly articulating a vision) appear cross-culturally consistent, other components, particularly the charismatic elements of Idealised Influence, vary significantly in their effectiveness across cultural contexts where individualistic leadership is less culturally expected.
+## How to approach a Unit 702 assignment
 
-**The conceptual overlap question**: Idealised Influence and Inspirational Motivation overlap considerably in their definitions, both involve the leader inspiring followers through personal characteristics and vision articulation. Bass and Avolio's (1994) factor analysis distinguished them empirically, but the conceptual distinction has been questioned. If the Four I's are not empirically distinct, the model's explanatory precision is limited.
+- The unit builds from analysis in LO1 to a proposal in LO2. Keep a running thread, for example one organisation and one performance problem, so the strategy in AC2.1 grows out of the evidence in AC1.1 to AC1.4.
+- AC1.3 is a critical appraisal of HR policy and strategy. Choose policies the indicative content names, such as learning and development, talent management, coaching, mentoring or reward, and judge how they shape how people are led.
+- AC2.1 asks you to propose a strategy that values people while optimising organisational success. Show how you balance the two, not just that you can describe both.
 
-**The ethics question**: Bass and Avolio (1994) distinguish transformational from pseudo-transformational leadership, claiming that genuine transformational leaders are ethically motivated, whereas pseudo-transformational leaders use transformational techniques for self-serving ends. This distinction is theoretically important but difficult to operationalise: how does an organisation or follower distinguish transformational from pseudo-transformational leaders before the consequences become apparent? This is where Brown and Treviño's (2003) contribution becomes essential.
+## Where Unit 702 assignments go wrong
 
-## Ethical Leadership — Brown and Treviño (2003) and Ciulla (2004)
+- Discussing leadership styles in AC1.1 without linking them to performance or culture.
+- Describing wellbeing initiatives in AC1.4 as a list. "Explore" asks you to look at strategies in some depth and consider their value as an enabler of performance.
+- Presenting a strategy in AC2.1 with no success measures or link to organisational objectives.
 
-### Brown and Treviño (2003) — Ethical Leadership as a Distinct Construct
+## How CMI suggests Unit 702 can be assessed
 
-Brown and Treviño (2003), 'Is values-based leadership ethical leadership?', argue that ethical leadership is theoretically distinct from transformational leadership. Their two-pillar model defines ethical leaders as:
+CMI says all assessment criteria must be met, and that the following ways of assessing the unit are guidance only. Your centre chooses the format, so follow your own brief:
 
-**Moral persons:** honest, caring, and principled individuals who make decisions based on fair and ethical principles. This is the character component.
+- Write a report on principles for leading and developing people
+- Write a proposal on strategies to enable and optimise performance
+- Produce a reflective account on their leadership practice to evidence their ability to meet each of the assessment criteria
 
-**Moral managers:** leaders who use their authority, visibility, and communication to actively promote ethical conduct in others. They set ethical standards, model ethical behaviour visibly, and use reward and discipline systems to enforce ethical norms. This is the influence component.
+CMI Level 7 qualifications are graded Pass or Refer. The guideline word count for this unit is 4,500 words, with a 10% allowance above or below, so plan your sections around that.
 
-Brown and Treviño's (2003) key contribution is that Pillar 2 (moral manager) is what distinguishes ethical leadership from simply being a good person in a leadership position. A leader can be a moral person, honest, caring, principled, without actively using their leadership position to create an ethical climate in the organisation. Ethical leadership requires both pillars.
+## CMI Unit 702 FAQ
 
-The theoretical implication: transformational leaders may score high on the moral person pillar (idealised influence involves modelling valued behaviour) but may not score high on the moral manager pillar unless they explicitly use their leadership position to promote ethical standards, communicate ethical expectations, and respond to ethical violations. The two constructs overlap but are not identical.
+**How is Unit 702 different from Unit 716?**
 
-### Ciulla (2004) — The Philosophical Critique
+Unit 716 is wholly about mental health and wellbeing and organisational performance. Unit 702 includes engagement, mental health and wellbeing as one strand (AC1.4) within a wider unit on leading and developing people.
 
-Joanne Ciulla's 'Ethics, the Heart of Leadership' (*Ethics, the Heart of Leadership*, 2004) presents the philosophical challenge that is at the core of the Unit 702 Critically Analyse requirement:
+**Is there a reflective element in Unit 702?**
 
-The "good leader" problem: what do we mean when we call a leader "good"? Ciulla (2004) argues that "good" must encompass both senses, the leader is good *at* leading (technically competent, effective at producing results) AND morally good (acts ethically, respects the dignity and autonomy of followers). A technically excellent leader who achieves results through manipulation or deception is not a "good" leader in the full sense, they are a bad person who happens to lead effectively.
+CMI's recommendations for assessment include a reflective account of the learner's leadership practice as one option. Your centre's brief sets the exact task.
 
-The challenge to transformational leadership: Bass and Avolio's (1994) Four I's are primarily effectiveness constructs, they describe how transformational leaders produce high performance and commitment beyond expectations. Idealised Influence, as a technique of inspiring trust and identification, can be used by leaders who are not morally good, charismatic manipulation is empirically indistinguishable from genuine Idealised Influence at the follower perception level. Ciulla (2004) argues that transformational leadership theory cannot resolve this problem from within its own framework, effectiveness and ethics must be treated as genuinely distinct dimensions.
+**What does Unit 702 assignment help from us include?**
 
-## CMI Unit 702 — Pass, Merit, and Distinction
-
-**Pass:** Transformational leadership (Bass and Avolio, 1994) and ethical leadership (Brown and Treviño, 2003; Ciulla, 2004) applied to a strategic leadership context. Primary sources cited. Strategic paper format with executive summary and strategic leadership development recommendations.
-
-**Merit:** Transformational and ethical leadership compared as theoretical constructs. The two-pillar model (Brown and Treviño, 2003) distinguished from transformational leadership's Four I's (Bass and Avolio, 1994). Ciulla's (2004) philosophical challenge named and its implications for the student's strategic leadership context identified. Limitations of each framework named.
-
-**Distinction:** Engages with Bass and Avolio (1994) at source, specifically with the pseudo-transformational vs transformational distinction and its operationalisation problem. Engages with Brown and Treviño (2003) at source, the moral person/moral manager distinction and its evidence base. Engages with Ciulla (2004) at source, the "good leader" philosophical argument and its challenge to effectiveness-centred leadership theory. Produces an original synthesis: a theoretically grounded position on the relationship between transformational and ethical leadership, not a balance of the three positions, but the student's own conclusion about what the evidence collectively implies. The conclusion must be derivable from having engaged with the three primary sources, not pre-stated in any of them. For NHS senior leaders: the synthesis may address the implications for NHS leadership development programmes that use transformational leadership as the primary framework, do they adequately address the moral manager pillar (Brown and Treviño, 2003)?
+A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
 
 [WhatsApp for Unit 702 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
-## Strategic Paper Format for CMI Unit 702
+## Related CMI Level 7 units
 
-**Executive Summary (200–250 words):** Summarises the theoretical debate between transformational and ethical leadership, the critical analytical findings, and the strategic leadership development recommendations.
-
-**Introduction:** Establishes the theoretical positioning: the unit engages with the academic debate on whether transformational leadership is inherently ethical. Names the primary sources and the specific debate the paper addresses.
-
-**Critical Analytical Sections**:
-- Section 1: Transformational leadership, Bass and Avolio (1994) at Critically Analyse depth
-- Section 2: Ethical leadership, Brown and Treviño (2003) and Ciulla (2004) at Critically Analyse depth
-- Section 3: The transformational/ethical leadership relationship, the academic debate and its implications
-
-**Strategic Leadership Development Recommendations:** Not SMART tasks. Strategic-level commitments addressing how the organisation builds ethical leadership capability at strategic level, connecting the theoretical analysis to the specific strategic leadership context.
-
-**Conclusion (Original Synthesis):** The student's theoretically grounded position on the transformational/ethical leadership relationship, derived from engaging with the primary sources.
-
-**Reference List:** 15–20 peer-reviewed sources. Bass and Avolio (1994), Brown and Treviño (2003), Ciulla (2004) at origin.
-
-## CMI Unit 702 for NHS Senior Leaders
-
-NHS senior leaders, Band 8+, Associate Directors, Deputy Directors, and Directors, studying Unit 702 have direct professional relevance to the transformational/ethical leadership debate. The NHS Leadership Academy's model draws explicitly on Bass and Avolio's transformational leadership framework. Unit 702 requires NHS students to go beyond NHS Leadership Academy materials and engage with the primary academic literature.
-
-Specifically: does the NHS Leadership Academy's application of transformational leadership adequately incorporate the moral manager pillar identified by Brown and Treviño (2003)? NHS leaders who are moral persons, honest, caring, principled, but who do not actively use their authority to create ethical organisational climates (responding to boundary violations, communicating ethics standards, modelling ethical behaviour visibly) may score high on transformational leadership assessments without meeting Brown and Treviño's (2003) ethical leadership standard.
-
-This is the Unit 702 Distinction-level observation for NHS senior leaders, and it requires engaging with Brown and Treviño (2003) at source, not through a textbook summary.
-
-## CMI Unit 702 Assignment Help — Common Questions
-
-**What primary sources are required for CMI Unit 702?**
-
-Bass, B.M. and Avolio, B.J. (1994) *Improving Organizational Effectiveness through Transformational Leadership*, Sage; Brown, M.E. and Treviño, L.K. (2003) 'Is values-based leadership ethical leadership?' in S.W. Gilliland et al. (eds) *Emerging Perspectives on Values in Organizations*, Information Age Publishing; Ciulla, J.B. (2004) 'Ethics, the heart of leadership' in J.B. Ciulla (ed.) *Ethics, the Heart of Leadership*, 2nd edn., Praeger. All three must be cited at origin, not summarised through textbooks.
-
-**What is the difference between transformational and ethical leadership in CMI Unit 702?**
-
-Transformational leadership (Bass and Avolio, 1994) is primarily an effectiveness construct, the Four I's describe how transformational leaders produce performance beyond expectations through vision, inspiration, intellectual challenge, and individual development. Ethical leadership (Brown and Treviño, 2003) requires two pillars: being a moral person AND being a moral manager, actively using leadership authority to promote ethical conduct in others. A transformational leader may be a moral person without being a moral manager. Ciulla (2004) argues that the distinction matters philosophically: leadership that produces results through techniques that could equally serve self-interested or manipulative purposes is not "good" leadership in the full sense, regardless of its effectiveness.
-
-**What does Critically Analyse mean in CMI Unit 702?**
-
-Critically Analyse for Unit 702 requires engaging with the academic debate between transformational and ethical leadership as theoretical constructs, not applying transformational leadership to a scenario. The student must engage with Bass and Avolio (1994) at source (what they claimed about the relationship between transformational leadership and ethics), with Brown and Treviño (2003) at source (their evidence that ethical leadership is theoretically distinct), and with Ciulla (2004) at source (the philosophical argument that effectiveness and ethics are genuinely different dimensions). The conclusion must be an original synthesis, a theoretically grounded position on the relationship between the two constructs, not a balanced summary.
-
-**How is Unit 702 relevant to NHS senior leaders?**
-
-NHS senior leadership development is largely built on Bass and Avolio's transformational leadership framework. Unit 702 requires NHS students to critically engage with that framework at primary source level and examine whether it adequately addresses the ethical leadership requirements identified by Brown and Treviño (2003) and the philosophical challenge of Ciulla (2004). The NHS context provides direct relevance, the Morgan Review, NHS culture investigations, and Francis Report all identify ethical leadership failures at senior level that transformational leadership theory, on its own, may not fully explain.
-
-**How do I get CMI Unit 702 help?**
-
-Send the unit brief, target grade (Pass, Merit, or Distinction), and deadline via WhatsApp. A fixed quote is returned within 2 hours. A writer holding the CMI Level 7 Diploma with director-level strategic leadership experience, and direct knowledge of Bass and Avolio (1994), Brown and Treviño (2003), and Ciulla (2004) at primary source level, is assigned.
-
-## CMI Level 7 Unit 702 — Related Assignment Help
-
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse requirements
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), all 16 Level 7 units
 - [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7)
-- [NHS Management and CMI Qualifications](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), NHS Leadership Academy, transformational leadership in NHS context, Band 8+ and executive CMI pathways
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, strategic paper format
-
-The [Financial Reporting Council](https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/) publishes the UK Corporate Governance Code and ethical leadership standards that provide the governance framework for the Critically Analyse engagement required in this CMI Level 7 unit.
-
-[WhatsApp for CMI Unit 702 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+- [CMI 714 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-714-assignment-help/), Personal and Professional Development for Strategic Leaders (Level 7)
+- [CMI 716 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/), Strategic Approaches to Mental Health and Wellbeing (Level 7)
+- [CMI 612 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/), Coaching Skills for Leaders (Level 6)
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels

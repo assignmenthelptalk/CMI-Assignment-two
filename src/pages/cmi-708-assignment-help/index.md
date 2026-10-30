@@ -1,140 +1,104 @@
 ---
 layout: ../../layouts/UnitPage.astro
 title: "CMI Unit 708 Assignment Help | Strategic Risk Management"
-description: "CMI Unit 708, Strategic Risk Management: Level 7 assignment help from UK-based CMI-qualified writers. Fixed quote in 2 hours on WhatsApp."
+description: "CMI Unit 708 assignment help (Level 7): Strategic Risk Management. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/"
 headerImage: "/images/headers/cmi-708-assignment-help.webp"
 headerImageAlt: "CMI Unit 708 Assignment Help — Strategic Risk Management"
 ---
 
-# CMI Unit 708 Assignment Help | Strategic Risk Management
+# CMI Unit 708 Assignment Help
 **Strategic Risk Management, CMI Level 7**
 
-CMI Unit 708 assignment help for Strategic Approaches to Innovation and Change, the strategic innovation unit of the CMI Level 7 Diploma. The service covers strategic paper format at Critically Analyse depth, with the central academic debate engaged at primary source level: Christensen's (1997) disruptive innovation theory versus Tidd and Bessant's (2018) manageable innovation conditions framework. Writers hold the CMI Level 7 Diploma with director-level innovation, strategy, and digital transformation experience. This unit is part of [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), covering all 17 Level 7 units.
+Unit 708 is about strategic risk management: the scope of strategic risk in an organisational context, strategies for managing it, the leadership skills it needs, and how to propose a Risk Management Framework that supports strategic objectives. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
 
 [Get a Unit 708 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
-## What CMI Unit 708 Covers
+## What CMI Unit 708 covers
 
-CMI Unit 708, Strategic Approaches to Innovation and Change, is the strategic innovation unit of the Level 7 Diploma. It asks the foundational question of strategic innovation management: can disruptive innovation be managed by incumbent organisations, or does the structural logic of disruption make incumbent response inherently limited?
+According to the CMI Level 7 syllabus (August 2026), Unit 708 is worth 8 credits, with 24 guided learning hours and 80 hours of total unit time. It has 2 learning outcomes and 4 assessment criteria, and every criterion has to be met for the unit to be passed.
 
-This is not the change management question asked at Level 5. A Level 5 student applies Kotter's 8-step model to a digital transformation initiative and evaluates which steps were most effectively executed. A Level 7 Unit 708 student engages with Christensen (1997) at primary source level to understand why incumbent organisations fail at disruptive innovation even when the strategic threat is correctly identified, and engages with Tidd and Bessant (2018) at primary source level to examine whether organisational conditions (ambidexterity, open innovation) can overcome the structural limitations Christensen identifies. The conclusion must be an original synthesis, not a balanced description of both frameworks.
+Keywords the syllabus lists for the unit: Risk, scope, meaning, context, purpose, governance, strategies, approaches, prioritisation, escalation, mitigation, avoidance, transfer, leadership, success.
 
-### CMI Unit 708 Learning Outcomes
+## Learning outcomes and assessment criteria
 
-**Learning Outcome 1:** Understand strategic approaches to innovation. This LO covers innovation theory at strategic level: Christensen's (1997) sustaining vs disruptive innovation distinction, Tidd and Bessant's (2018) four-type innovation typology, and Tushman and Anderson's (1986) evidence on how technological discontinuities advantage different types of competitors.
+### Learning outcome 1: Understand strategies for managing risk
 
-**Learning Outcome 2:** Understand strategic approaches to organisational change. This LO covers how organisations lead discontinuous change at executive level, connecting Tidd and Bessant's (2018) innovation management process to Tushman and Anderson's (1986) evidence on competence-enhancing vs competence-destroying change.
+- 1.1 **Critically appraise** strategic risk within an organisational context
+- 1.2 **Critically assess** strategies for managing risk in an organisational context
 
-**Learning Outcome 3:** Understand how to lead innovation and change at strategic level. This LO covers what strategic leaders must do differently when facing disruptive or discontinuous change, connecting the academic debate to specific leadership and governance responses.
+### Learning outcome 2: Know how to develop risk management strategies
 
-## Christensen (1997) — Disruptive Innovation at Critically Analyse Depth
+- 2.1 **Critically appraise** the leadership skills for strategic risk management
+- 2.2 **Propose** a Risk Management Framework to deliver strategic objectives
 
-Clayton Christensen's *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* (Harvard Business School Press, 1997) presents the foundational theory of disruptive innovation. Christensen (1997) distinguishes two types of innovation:
+## What the command verbs ask for in this unit
 
-**Sustaining innovations** improve existing products along the performance dimensions that mainstream customers already value. Hard disk manufacturers producing higher-capacity drives; car manufacturers producing more fuel-efficient engines; NHS trusts improving waiting time performance on established care pathways. Sustaining innovations make existing customers happier. Incumbent firms are structurally advantaged in sustaining innovation, they have the customer relationships, capital, and technical knowledge to invest in improvements that their best customers will pay for.
+The first word of each criterion tells you the depth required. The verbs used in Unit 708 are:
 
-**Disruptive innovations** initially perform worse than mainstream products on the dimensions that current customers value. They enter at the low end of the market, or in entirely new markets, serving customers who are either over-served by existing products (and would prefer something simpler and cheaper) or who are not currently served at all. Early disruptive innovations are dismissed by incumbent firms because they do not satisfy the needs of their best, most profitable customers. Over time, disruptive innovations improve along the dimensions incumbents value, and at that point, the incumbent is typically too slow to respond.
+- **Critically appraise** (1.1, 2.1): use a systematic process to find the strengths and weaknesses of information and judge how useful and valid it is.
+- **Critically assess** (1.2): give a reasoned judgement on the arguments made by others and on the evidence behind them, checking the validity of your sources.
+- **Propose** (2.2): put forward a proposal supported by a clear rationale suited to the context.
 
-### The Innovator's Dilemma — Why Christensen's Evidence Challenges Management Practice
+These are plain-English readings of the verbs. Your centre's assessment brief and its assessor have the final say on what counts as a pass.
 
-Christensen's (1997) central and counterintuitive claim is that the same management practices that produce excellence in sustaining innovation contexts cause incumbent failure in disruptive innovation contexts. Listening to your best customers tells you to invest in improving what they already value, not in the low-end product that will eventually displace you. Rational resource allocation sends investment toward high-margin products for established markets, not toward the lower-margin disruptive entrant. Good management causes disruption failure.
+## Models and sources the indicative content suggests
 
-At Critically Analyse depth, the student engages with Christensen (1997) at source and with what subsequent research has confirmed or contested:
+The indicative content for Unit 708 points to the following. They are examples, not a required list, but they show what the criteria expect you to draw on:
 
-**The predictive vs explanatory critique**: King and Tucci (2002) and Danneels (2004) question whether Christensen's disruption theory is predictive or only explanatory in retrospect. If disruption can only be identified after the disruptive entrant has succeeded, the theory provides a compelling historical narrative but limited strategic guidance for incumbent leaders seeking to identify disruptive threats before they materialise. Christensen (1997) anticipated this critique but the mechanism for prospectively identifying disruptive vs sustaining innovation remains contested.
+- Risk register process: prioritisation, escalation, mitigation, avoidance and transfer
+- Ringland, Scenario Planning (1990)
+- Ackoff, Rittel and Webber, Messy Wicked Problems (1990)
+- Rittel and Webber, Tame Problems (2000)
+- Ulrich, Systematic Boundary Critique (1996, 2000)
+- Lindstone, Multi Perspectives Analysis (1993)
+- Gentile, Value-driven Leadership (2014)
+- Mendonca and Kanungo, Ethical Leadership (2007)
 
-**The definitional flexibility critique**: Danneels (2004) argues that the definition of disruptive innovation has been applied so broadly in subsequent research and management practice that almost any innovation can be categorised as disruptive in retrospect. If the theory cannot be falsified because its central concept is always applicable in hindsight, its analytical value is limited.
+## How to approach a Unit 708 assignment
 
-**The organisational response question**: Christensen (1997) recommends creating separate organisational units, spin-off ventures, to develop disruptive innovations outside the incumbent's resource allocation processes and customer relationships. This is the point where Tidd and Bessant's (2018) ambidexterity evidence directly engages with Christensen's prescription.
+- Three of the four criteria use "critically appraise" or "critically assess", so build a clear argument in each rather than describing risk categories. The indicative content lists reputational, technological, financial and other risks.
+- AC2.2 is the build task. A Risk Management Framework should identify strategic risk, link it to strategic objectives, set governance (roles, responsibilities, accountabilities) and show how risks are monitored.
+- AC2.1 is about leadership skills for managing strategic risk. Appraise the competences, such as managing complexity and remote management, against what your framework in AC2.2 needs.
 
-## Tidd and Bessant (2018) — Innovation Typology and Manageable Conditions
+## Where Unit 708 assignments go wrong
 
-Joe Tidd and John Bessant's *Managing Innovation: Integrating Technological, Market and Organizational Change* (6th edition, Wiley, 2018) provides both a typology of innovation and an organisational framework for managing discontinuous change. Where Christensen (1997) focuses on why incumbent firms fail, Tidd and Bessant (2018) focus on the organisational conditions that enable firms, incumbents and entrants alike, to manage innovation successfully.
+- Describing operational risks in AC1.1 rather than strategic risk, which is the unit's focus.
+- Listing risk responses in AC1.2 without assessing which suit which kind of risk.
+- Proposing a framework in AC2.2 that is a generic template, not tied to the organisation's strategic objectives.
 
-### The Four Innovation Types
+## How CMI suggests Unit 708 can be assessed
 
-**Incremental innovation:** doing what we do better. Continuous improvement to existing products, processes, or services within established trajectories. NHS service improvement cycles, manufacturing efficiency programmes, software update cycles.
+CMI says all assessment criteria must be met, and that the following ways of assessing the unit are guidance only. Your centre chooses the format, so follow your own brief:
 
-**Radical innovation:** doing something different. Significant new product or service categories that represent a step change from existing offerings. Not merely improved performance on existing dimensions but a genuinely new value proposition.
+- Write a report on the strategies for managing risk
+- Write an account on how to develop and lead strategic risk management
+- Produce a reflective account on their leadership practice to evidence their ability to meet each of the assessment criteria
 
-**Architectural innovation:** reconfiguring how existing components connect. The individual components may not change significantly, but the way they are combined and related to each other is fundamentally restructured. The NHS move from hospital-centric to community-based integrated care architectures is an architectural innovation.
+CMI Level 7 qualifications are graded Pass or Refer. The guideline word count for this unit is 4,500 words, with a 10% allowance above or below, so plan your sections around that.
 
-**Discontinuous innovation:** doing something completely different. Innovation that creates entirely new markets, displaces existing technologies, or renders previous capabilities obsolete. This is the category Christensen's disruptive innovation primarily describes.
+## CMI Unit 708 FAQ
 
-### The Innovation Management Process
+**What kind of organisation should I use for Unit 708?**
 
-Tidd and Bessant (2018) propose a four-stage innovation management process:
+Any organisation where you can analyse strategic risk and show how a framework would work. The unit covers public, private and third sector contexts.
 
-**Search:** Scanning internal and external environments for innovation signals: emerging technologies, changing customer needs, regulatory shifts, competitor activity, academic research. Effective search is systematic and broad, not limited to the signals that confirm existing strategic assumptions.
+**Is a risk register enough for AC2.2?**
 
-**Select:** Deciding which innovation opportunities to pursue, given resource constraints and strategic priorities. Selection processes that are too closely tied to current customer relationships and business model assumptions will systematically filter out disruptive innovation opportunities, this is the mechanism Christensen (1997) identified, viewed from the organisational design perspective.
+A register is one tool. The criterion asks for a Risk Management Framework, which also covers identification, governance, the relationship to strategic objectives and how it will be applied.
 
-**Implement:** Executing the innovation: developing the capability, building the product or service, managing the change process within the organisation and with external stakeholders.
+**What does Unit 708 assignment help from us include?**
 
-**Capture:** Extracting value from the innovation through intellectual property protection, speed to market, complementary assets, or position in value networks.
-
-Tidd and Bessant's (2018) key argument connecting to Christensen: organisations that fail at discontinuous innovation typically fail at the Search and Select stages, not at implementation. They search in familiar places and select based on familiar criteria, systematically missing the signals of disruptive change until the incumbent response window has closed.
-
-**Organisational ambidexterity:** drawing on O'Reilly and Tushman's (2004) research, refers to the organisational capacity to simultaneously exploit current capabilities (incremental innovation, sustaining performance) and explore new ones (radical and discontinuous innovation). Tidd and Bessant (2018) treat ambidexterity as the key organisational capability for managing discontinuous change: it is the mechanism by which incumbent firms can pursue disruptive innovation without destroying the business model that sustains them.
-
-## Tushman and Anderson (1986) — Technological Discontinuities
-
-Michael Tushman and Philip Anderson's 'Technological discontinuities and organizational environments' (*Administrative Science Quarterly*, 31(3), pp. 439–465, 1986) provides empirical evidence that connects Christensen's disruption theory to a broader pattern of technology discontinuity and incumbent response.
-
-Tushman and Anderson (1986) distinguish:
-
-**Competence-enhancing discontinuities:** technological changes that build on and improve the existing knowledge and capabilities of established firms. Incumbent firms are advantaged: their accumulated expertise, established processes, and existing capabilities become more valuable, not less. Incumbent firms typically outperform new entrants in competence-enhancing discontinuity contexts.
-
-**Competence-destroying discontinuities:** technological changes that render the prior knowledge and capabilities of established firms obsolete or irrelevant. New entrants, unencumbered by the prior knowledge structures that the incumbent must unlearn, typically outperform incumbents in competence-destroying discontinuity contexts.
-
-The connection to Christensen (1997): disruptive innovations are typically competence-destroying for incumbent firms. The capabilities that made the incumbent excellent, deep knowledge of existing customer needs, optimised processes for existing technology, established relationships within existing value networks, become liabilities rather than assets when the discontinuity is competence-destroying.
-
-At Critically Analyse depth, the Tushman and Anderson (1986) evidence adds precision to Christensen's narrative: incumbent failure at disruptive innovation is not primarily a management decision problem (failing to notice or respond to the threat) but a capability destruction problem (the very competences that made the incumbent excellent are the competences the new technology renders obsolete). This reframing has important implications for strategic leadership response, if the problem is capability destruction rather than strategic blindness, the appropriate response is capability building, not process improvement.
-
-## CMI Unit 708 — Pass, Merit, and Distinction
-
-**Pass:** Christensen (1997) and Tidd and Bessant (2018) applied to a strategic innovation and change context. Both cited as primary sources. Tushman and Anderson (1986) introduced. Strategic paper format with executive summary and strategic leadership recommendations on managing innovation.
-
-**Merit:** Christensen (1997) and Tidd and Bessant (2018) compared as frameworks, do they offer compatible or competing accounts of how to manage disruptive change? Tushman and Anderson's (1986) competence-enhancing vs competence-destroying distinction applied to the same scenario. Limitations of each framework named.
-
-**Distinction:** The Distinction-level response for Unit 708 engages all three primary sources at origin and produces an original synthesis on the central debate.
-
-**The Level 5 vs Level 7 comparison**: a Level 6 student is asked to evaluate how a telecommunications firm should manage the transition from physical retail to digital channels. The Level 6 response applies Kotter's 8-step change management model and evaluates which steps were effectively executed. The Level 7 Unit 708 response instead asks: why did the firm's rational investment in its existing physical retail excellence cause it to underinvest in digital channel development? It engages with Christensen (1997) at source to show that the firm's resource allocation processes, rationally directing investment toward high-margin physical retail improvements for existing customers, systematically filtered out the digital channel innovation that would ultimately displace it. It engages with Tidd and Bessant (2018) to examine whether ambidexterity, building a separate digital channel operation while maintaining physical retail performance, was a viable organisational response. It engages with Tushman and Anderson (1986) to assess whether the digital transition was competence-destroying for the firm (rendering existing retail knowledge obsolete) and what that implies about whether incumbent response was structurally limited.
-
-**The original synthesis**: under what organisational conditions does ambidexterity (Tidd and Bessant, 2018) enable a successful incumbent response to disruption, and under what conditions does Christensen's (1997) structural disruption logic predict that ambidexterity will not be sufficient? The student takes a theoretically grounded position, not a balance of both arguments, but a conclusion about the boundary conditions of each framework derived from engaging with both at primary source level.
+A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
 
 [WhatsApp for Unit 708 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
-## CMI Unit 708 Assignment Help — Common Questions
+## Related CMI Level 7 units
 
-**What is the difference between sustaining and disruptive innovation in CMI Unit 708?**
-
-Christensen (1997) defines sustaining innovations as improvements to existing products along the performance dimensions that current mainstream customers already value, incumbents are structurally advantaged in sustaining innovation because their resource allocation processes, customer relationships, and technical capabilities are aligned to deliver improvements that their best customers will reward. Disruptive innovations initially perform worse on those established dimensions but better on dimensions that overlooked or non-consuming segments value, lower cost, simpler, more convenient. Because disruptive entrants initially serve customers the incumbent does not prioritise, rational incumbent resource allocation processes direct investment away from the disruptive innovation until it is too late to respond. This is the innovator's dilemma: good management, rationally practised, causes failure in disruptive contexts.
-
-**What is competence-destroying innovation in CMI Unit 708?**
-
-Tushman and Anderson (1986) distinguish competence-enhancing technological discontinuities, which build on incumbents' existing knowledge and advantage established firms, from competence-destroying discontinuities, which render incumbents' prior knowledge and capabilities obsolete. In competence-destroying contexts, new entrants outperform incumbents because they are not burdened by the need to unlearn the capabilities the old technology required. The relevance to Unit 708: Christensen's disruptive innovations are typically competence-destroying for incumbents. This means that incumbent failure at disruptive innovation is not primarily a strategic blindness problem, it is a capability destruction problem. The incumbent's excellence in the previous technological regime is the liability, not an asset, when facing competence-destroying disruption.
-
-**What does Critically Analyse mean in CMI Unit 708?**
-
-Critically Analyse for Unit 708 requires engaging with the academic debate between Christensen (1997), who argues that incumbent failure at disruptive innovation is structurally inevitable given rational management practice, and Tidd and Bessant (2018), who argue that organisational ambidexterity and open innovation enable incumbents to manage discontinuous innovation successfully. The student must engage with both at primary source level, name the limitations of each framework (Christensen's predictive limitations; ambidexterity's organisational difficulty), and produce an original synthesis: a theoretically grounded position on the boundary conditions of incumbent disruption response. This is not a descriptive summary of disruption theory, it is an engagement with the academic debate about whether disruption can be managed.
-
-**How is CMI Unit 708 different from CMI Level 5 change management?**
-
-A Level 5 student applies Kotter or Lewin to operational change management, evaluating how a change process was implemented and which elements were most effective. A Level 7 Unit 708 student engages with the academic debate on strategic innovation management at primary source level: why do incumbent organisations fail at disruptive innovation even when the strategic threat is identified (Christensen, 1997)? Under what organisational conditions can ambidexterity enable successful discontinuous innovation (Tidd and Bessant, 2018)? What does the evidence on competence-destroying discontinuities (Tushman and Anderson, 1986) imply for how strategic leaders should build the capabilities required to respond to disruptive change? The shift is from applying operational change models to engaging with the strategic and theoretical question of whether disruption can be managed.
-
-**How do I get CMI Unit 708 help?**
-
-Send the unit brief, target grade, and deadline via WhatsApp. A fixed quote is returned within 2 hours. A writer holding the CMI Level 7 Diploma with director-level innovation strategy and digital transformation experience, with direct knowledge of Christensen (1997), Tidd and Bessant (2018), and Tushman and Anderson (1986) at primary source level, is assigned.
-
-## CMI Level 7 Unit 708 — Related Assignment Help
-
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse depth
-- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7)
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), all 16 Level 7 units
 - [CMI 704 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/), Developing Organisational Strategy (Level 7)
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, all formats
-
-The [Harvard Business Review](https://hbr.org/topic/innovation) publishes Christensen's disruptive innovation research and strategic change evidence at the postgraduate depth required for Critically Analyse engagement in this CMI Level 7 unit.
-
-[WhatsApp for CMI Unit 708 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+- [CMI 706 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/), Finance for Strategic Leaders (Level 7)
+- [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Strategic Management of Data and Information (Level 7)
+- [CMI 614 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/), Principles and Practices of Ethical Decision Making (Level 6)
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
