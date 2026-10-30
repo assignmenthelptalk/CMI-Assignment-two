@@ -117,3 +117,23 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names Kotter, Lewin and Greenleaf
 - [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Supporting Teams and Individuals through Change (Level 3), also names Kotter and Lewin
 - [CMI 514 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/), Managing Change (Level 5), also names Kotter and Lewin
+
+## Other CMI Level 7 units
+
+The other units under [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/):
+
+- [CMI 701: Strategic Leadership](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/)
+- [CMI 702: Leading and Developing People to Optimise Performance](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/)
+- [CMI 703: Collaboration and Partnerships](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/)
+- [CMI 704: Developing Organisational Strategy](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/)
+- [CMI 706: Finance for Strategic Leaders](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/)
+- [CMI 707: Organisational Design and Development](https://www.cmiassignmenthelp.uk.com/cmi-707-assignment-help/)
+- [CMI 708: Strategic Risk Management](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/)
+- [CMI 709: Strategic Management of Data and Information](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/)
+- [CMI 710: Marketing Strategy](https://www.cmiassignmenthelp.uk.com/cmi-710-assignment-help/)
+- [CMI 711: Entrepreneurial Practice](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/)
+- [CMI 712: Strategic Management Project](https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/)
+- [CMI 713: Applied Research for Strategic Leaders](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/)
+- [CMI 714: Personal and Professional Development for Strategic Leaders](https://www.cmiassignmenthelp.uk.com/cmi-714-assignment-help/)
+- [CMI 715: Strategic Approaches to Equality and Inclusion](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/)
+- [CMI 716: Strategic Approaches to Mental Health and Wellbeing](https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/)

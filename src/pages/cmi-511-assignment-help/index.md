@@ -108,3 +108,33 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4007 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/), Managing Interviews (Level 4), a related topic: recruitment, selection and retention
 - [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3), a related topic: recruitment, selection and retention
 - [CMI 504 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-504-assignment-help/), Managing Performance (Level 5), a related topic: recruitment, selection and retention
+
+## Other CMI Level 5 units
+
+The other units under [CMI Level 5 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/):
+
+- [CMI 501: Principles of Management and Leadership in an Organisational Context](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/)
+- [CMI 502: Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/)
+- [CMI 503: Principles of Managing and Leading Individuals and Teams to Achieve Success](https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/)
+- [CMI 504: Managing Performance](https://www.cmiassignmenthelp.uk.com/cmi-504-assignment-help/)
+- [CMI 505: Forming Successful Teams](https://www.cmiassignmenthelp.uk.com/cmi-505-assignment-help/)
+- [CMI 506: Managing Equality, Diversity and Inclusion](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/)
+- [CMI 507: Principles of Delivering Coaching and Mentoring](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/)
+- [CMI 508: Principles of Developing a Skilled and Talented Workforce](https://www.cmiassignmenthelp.uk.com/cmi-508-assignment-help/)
+- [CMI 509: Managing Stakeholder Relationships](https://www.cmiassignmenthelp.uk.com/cmi-509-assignment-help/)
+- [CMI 510: Managing Conflict](https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/)
+- [CMI 512: Workforce Planning](https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/)
+- [CMI 513: Managing Projects to Achieve Results](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/)
+- [CMI 514: Managing Change](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/)
+- [CMI 515: Creating and Delivering Operational Plans](https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/)
+- [CMI 516: Planning, Procuring and Managing Resources](https://www.cmiassignmenthelp.uk.com/cmi-516-assignment-help/)
+- [CMI 517: Principles of Innovation](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/)
+- [CMI 518: Risk Management](https://www.cmiassignmenthelp.uk.com/cmi-518-assignment-help/)
+- [CMI 519: Managing Quality and Continuous Improvement](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/)
+- [CMI 520: Managing Finance](https://www.cmiassignmenthelp.uk.com/cmi-520-assignment-help/)
+- [CMI 521: Using Data and Information for Decision Making](https://www.cmiassignmenthelp.uk.com/cmi-521-assignment-help/)
+- [CMI 522: Managing the Customer Experience](https://www.cmiassignmenthelp.uk.com/cmi-522-assignment-help/)
+- [CMI 523: Principles of Marketing Products and Services](https://www.cmiassignmenthelp.uk.com/cmi-523-assignment-help/)
+- [CMI 524: Conducting a Management Project](https://www.cmiassignmenthelp.uk.com/cmi-524-assignment-help/)
+- [CMI 525: Using Reflective Practice to Inform Personal and Professional Development](https://www.cmiassignmenthelp.uk.com/cmi-525-assignment-help/)
+- [CMI 526: Principles of Leadership Practice](https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/)

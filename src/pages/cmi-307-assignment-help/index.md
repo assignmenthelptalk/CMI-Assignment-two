@@ -119,3 +119,28 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Principles of Delivering Coaching and Mentoring (Level 5), a related topic: developing knowledge, skills and abilities
 - [CMI 308 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/), Managing Volunteers (Level 3), a related topic: managing and developing volunteers
 - [CMI 313 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/), Developing and Sharing Good Practice (Level 3), a related topic: developing and sharing good practice
+
+## Other CMI Level 3 units
+
+The other units under [CMI Level 3 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/):
+
+- [CMI 301: Principles of Management and Leadership](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/)
+- [CMI 302: Managing a Team to Achieve Results](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/)
+- [CMI 303: Managing Individuals to be Effective in their Role](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/)
+- [CMI 304: Principles of Communication in the Workplace](https://www.cmiassignmenthelp.uk.com/cmi-304-assignment-help/)
+- [CMI 305: Building Stakeholder Relationships using Effective Communication](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/)
+- [CMI 306: Principles of Equality, Diversity and Inclusive Working Practice](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/)
+- [CMI 308: Managing Volunteers](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/)
+- [CMI 309: Responding to Conflict in the Workplace](https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/)
+- [CMI 310: Supporting Teams and Individuals through Change](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/)
+- [CMI 311: Contributing to the Delivery of a Project](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/)
+- [CMI 312: Managing Daily Activities to Achieve Results](https://www.cmiassignmenthelp.uk.com/cmi-312-assignment-help/)
+- [CMI 313: Developing and Sharing Good Practice](https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/)
+- [CMI 314: Managing Budgets and Resources](https://www.cmiassignmenthelp.uk.com/cmi-314-assignment-help/)
+- [CMI 315: Principles of Health and Safety in a Work Setting](https://www.cmiassignmenthelp.uk.com/cmi-315-assignment-help/)
+- [CMI 316: Monitoring Quality to Improve Outcomes](https://www.cmiassignmenthelp.uk.com/cmi-316-assignment-help/)
+- [CMI 317: Supporting the Delivery of Customer Service](https://www.cmiassignmenthelp.uk.com/cmi-317-assignment-help/)
+- [CMI 318: Managing Data and Information](https://www.cmiassignmenthelp.uk.com/cmi-318-assignment-help/)
+- [CMI 319: Managing Meetings](https://www.cmiassignmenthelp.uk.com/cmi-319-assignment-help/)
+- [CMI 320: Presenting for Success](https://www.cmiassignmenthelp.uk.com/cmi-320-assignment-help/)
+- [CMI 321: Managing Own Personal and Professional Development](https://www.cmiassignmenthelp.uk.com/cmi-321-assignment-help/)
