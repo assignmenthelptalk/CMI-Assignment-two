@@ -78,27 +78,16 @@ const extraSchemas = pageSchema
 
         <nav class="main-nav" aria-label="Main navigation">
           <ul class="nav-list">
-            {levels.map((level) => (
-              <li class="nav-item has-dropdown">
-                <button class="nav-toggle" aria-expanded="false" aria-haspopup="true">
-                  {level.label} <span class="caret" aria-hidden="true">▾</span>
-                </button>
-                <div class="dropdown mega" role="menu">
-                  <a href={level.slug} class="mega-view-all" role="menuitem">
-                    View {level.label} Overview →
-                  </a>
-                  <ul class="mega-cols">
-                    {level.units.map((u) => (
-                      <li>
-                        <a href={`https://www.cmiassignmenthelp.uk.com/cmi-${u.num}-assignment-help/`} role="menuitem">
-                          Unit {u.num}: {u.title}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              </li>
-            ))}
+            <li class="nav-item has-dropdown">
+              <button class="nav-toggle" aria-expanded="false" aria-haspopup="true">
+                Levels <span class="caret" aria-hidden="true">▾</span>
+              </button>
+              <ul class="dropdown" role="menu">
+                {levels.map((level) => (
+                  <li><a href={level.slug} role="menuitem">CMI {level.label} assignment help</a></li>
+                ))}
+              </ul>
+            </li>
             <li class="nav-item has-dropdown">
               <button class="nav-toggle" aria-expanded="false" aria-haspopup="true">
                 Guides <span class="caret" aria-hidden="true">▾</span>
@@ -148,43 +137,7 @@ const extraSchemas = pageSchema
     <div class="mobile-nav-backdrop"></div>
     <nav id="mobile-nav" class="mobile-nav" aria-label="Mobile navigation">
       <button class="mobile-nav-close" aria-label="Close menu">✕</button>
-      <ul class="mobile-nav-list">
-        {levels.map((level) => (
-          <li>
-            <details>
-              <summary>{level.label}</summary>
-              <a href={level.slug} class="mobile-view-all">View {level.label} Overview →</a>
-              <ul>
-                {level.units.map((u) => (
-                  <li>
-                    <a href={`https://www.cmiassignmenthelp.uk.com/cmi-${u.num}-assignment-help/`}>Unit {u.num}: {u.title}</a>
-                  </li>
-                ))}
-              </ul>
-            </details>
-          </li>
-        ))}
-        <li>
-          <details>
-            <summary>Guides</summary>
-            <ul>
-              {guides.map((g) => (
-                <li><a href={g.slug}>{g.title}</a></li>
-              ))}
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>Services</summary>
-            <ul>
-              {services.map((s) => (
-                <li><a href={s.slug}>{s.title}</a></li>
-              ))}
-            </ul>
-          </details>
-        </li>
-      </ul>
+      <ul class="mobile-nav-list" id="mobile-nav-list"></ul>
       <a
         href={whatsappUrl}
         class="btn btn-whatsapp mobile-whatsapp"
@@ -298,7 +251,34 @@ const extraSchemas = pageSchema
       const backdrop = document.querySelector<HTMLElement>('.mobile-nav-backdrop');
       const closeBtn = document.querySelector<HTMLButtonElement>('.mobile-nav-close');
 
+      // The drawer is empty in the HTML so crawlers see one set of nav links; build it from the desktop nav.
+      function buildMobileNav() {
+        const list = document.getElementById('mobile-nav-list');
+        if (!list || list.childElementCount > 0) return;
+        document.querySelectorAll('.main-nav .nav-item.has-dropdown').forEach((item) => {
+          const label = item.querySelector('.nav-toggle')?.firstChild?.textContent?.trim();
+          if (!label) return;
+          const details = document.createElement('details');
+          const summary = document.createElement('summary');
+          summary.textContent = label;
+          const sub = document.createElement('ul');
+          item.querySelectorAll('.dropdown a').forEach((a) => {
+            const li = document.createElement('li');
+            const link = document.createElement('a');
+            link.href = a.getAttribute('href') ?? '';
+            link.textContent = a.textContent?.trim() ?? '';
+            li.appendChild(link);
+            sub.appendChild(li);
+          });
+          details.append(summary, sub);
+          const li = document.createElement('li');
+          li.appendChild(details);
+          list.appendChild(li);
+        });
+      }
+
       function openMobileNav() {
+        buildMobileNav();
         mobileNav?.classList.add('open');
         backdrop?.classList.add('open');
         hamburger?.setAttribute('aria-expanded', 'true');
