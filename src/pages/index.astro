@@ -150,6 +150,7 @@ const steps = [
   description="Expert CMI assignment help for working professionals studying Chartered Management Institute qualifications at Levels 3, 4, 5, 6, and 7. UK-based CMI-qualified writers. All 80+ units covered. WhatsApp order in minutes."
   canonical={siteUrl + '/'}
   pageSchema={faqSchema}
+  compactFooter
 >
 
   <!-- ═══════════════════════════════════════════════
@@ -233,33 +234,6 @@ const steps = [
             <span class="level-link" aria-hidden="true">View {lvl.label} units →</span>
           </div>
         ))}
-      </div>
-      <h3 class="start-here-title">Start here: CMI guides</h3>
-      <div class="guides-grid">
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/" class="card-link">CMI Qualification Levels Explained</a></h3>
-          <p>What each CMI level from 3 to 7 covers, who studies it, the guideline word counts and command verbs, and how the pathway connects.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/" class="card-link">Is a CMI Qualification Worth It?</a></h3>
-          <p>Cost, time and what the evidence does and does not show, CMI vs ILM vs MBA, and who benefits most, including Level 7.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/" class="card-link">CMI Command Verbs Explained</a></h3>
-          <p>The CMI command verbs from Identify to Critically appraise: what each requires and how they differ by level. CMI grades Pass or Refer.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/" class="card-link">CMI Membership Grades: ACMI, MCMI and FCMI</a></h3>
-          <p>ACMI, MCMI and FCMI are membership grades, not qualifications. How each is earned and how Chartered Manager fits in.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/" class="card-link">CMI Level 5 vs Level 7</a></h3>
-          <p>How the verbs, scope and word counts change between Level 5 and Level 7, and which level suits your role.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/" class="card-link">CMI Qualifications for NHS Managers</a></h3>
-          <p>Choosing a CMI level by the scope of your role rather than your pay band.</p>
-        </div>
       </div>
     </div>
   </section>
@@ -643,10 +617,9 @@ const steps = [
   .level-qual { font-size: .85rem; color: var(--text-muted); margin: -.6rem 0 1rem; line-height: 1.35; }
   .level-title { margin-bottom: 1rem; }
   .level-unit-note { margin-top: 1.5rem; font-size: .95rem; color: var(--text-muted); }
-  .start-here-title { margin: 2rem 0 1rem; font-size: 1.15rem; color: var(--navy); }
 
   /* Whole card stays clickable, but the anchor text is only the card title */
-  .level-card, .service-card, .guide-card { position: relative; }
+  .level-card, .service-card { position: relative; }
   .card-link { color: inherit; text-decoration: none; }
   .card-link::after { content: ''; position: absolute; inset: 0; }
   .card-link:focus-visible { outline: none; }
@@ -777,36 +750,6 @@ const steps = [
   .faq-a a { color: var(--blue-light); font-weight: 500; }
 
   /* ── Guides ── */
-  .guides-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1.25rem;
-  }
-  .guide-card {
-    display: block;
-    padding: 1.5rem;
-    background: #fff;
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    text-decoration: none;
-    color: var(--text);
-    transition: border-color .15s, box-shadow .15s, transform .1s;
-    box-shadow: var(--shadow);
-  }
-  .guide-card:hover {
-    border-color: var(--blue);
-    box-shadow: 0 6px 20px rgba(30,77,140,.15);
-    transform: translateY(-2px);
-    text-decoration: none;
-    color: var(--text);
-  }
-  .guide-card h3 {
-    font-size: .975rem;
-    font-weight: 700;
-    color: var(--navy);
-    margin-bottom: .5rem;
-  }
-  .guide-card p { font-size: .875rem; color: var(--text-muted); line-height: 1.55; }
 
   /* ── Final CTA ── */
   .cta-section {

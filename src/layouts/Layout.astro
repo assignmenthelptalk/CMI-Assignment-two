@@ -7,9 +7,10 @@ interface Props {
   description: string;
   canonical?: string;
   pageSchema?: object | object[];
+  compactFooter?: boolean;
 }
 
-const { title, description, canonical, pageSchema } = Astro.props;
+const { title, description, canonical, pageSchema, compactFooter = false } = Astro.props;
 
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
 const whatsappUrl = 'https://wa.me/447916696894';
@@ -179,43 +180,64 @@ const extraSchemas = pageSchema
     <SocialShareSidebar pageUrl={canonicalHref} pageTitle={title} />
 
     <footer class="site-footer">
-      <div class="container footer-grid">
-        <div class="footer-col">
-          <p class="footer-brand"><a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a></p>
-          <p class="footer-desc">
-            UK-based CMI writers supporting working professionals across all levels 3 to 7.
-            CMI assignment help, writing service, and tutoring for every CMI qualification pathway.
-          </p>
-          <a
-            href={whatsappUrl}
-            class="btn btn-whatsapp footer-cta"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            WhatsApp Us Now
-          </a>
-        </div>
+      {compactFooter ? (
+        <div class="container footer-grid footer-grid--compact">
+          <div class="footer-col">
+            <p class="footer-brand"><a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a></p>
+            <p class="footer-desc">
+              UK-based CMI writers supporting working professionals across all levels 3 to 7.
+            </p>
+          </div>
 
-        <div class="footer-col">
-          <h3 class="footer-heading">CMI Levels</h3>
-          <ul class="footer-links">
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/">CMI Level 3 Assignment Help</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/">CMI Level 4 Assignment Help</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/">CMI Level 5 Assignment Help</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/">CMI Level 6 Assignment Help</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/">CMI Level 7 Assignment Help</a></li>
-          </ul>
+          <div class="footer-col">
+            <h3 class="footer-heading">Quick links</h3>
+            <ul class="footer-links">
+              <li><a href="https://www.cmiassignmenthelp.uk.com/#how-cmi-assignment-help-works">How it works</a></li>
+              <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/">CMI Assignment Tutoring</a></li>
+              <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-help-online/">CMI Assignment Help Online</a></li>
+            </ul>
+            {/* TODO (owner): add privacy, terms and academic-integrity links here once those pages exist. */}
+          </div>
         </div>
+      ) : (
+        <div class="container footer-grid">
+          <div class="footer-col">
+            <p class="footer-brand"><a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a></p>
+            <p class="footer-desc">
+              UK-based CMI writers supporting working professionals across all levels 3 to 7.
+              CMI assignment help, writing service, and tutoring for every CMI qualification pathway.
+            </p>
+            <a
+              href={whatsappUrl}
+              class="btn btn-whatsapp footer-cta"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              WhatsApp Us Now
+            </a>
+          </div>
 
-        <div class="footer-col">
-          <h3 class="footer-heading">Guides</h3>
-          <ul class="footer-links">
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/">CMI Qualification Levels Explained</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/">Is a CMI Qualification Worth It?</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/">CMI Command Verbs Explained</a></li>
-          </ul>
+          <div class="footer-col">
+            <h3 class="footer-heading">CMI Levels</h3>
+            <ul class="footer-links">
+              <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/">CMI Level 3 Assignment Help</a></li>
+              <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/">CMI Level 4 Assignment Help</a></li>
+              <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/">CMI Level 5 Assignment Help</a></li>
+              <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/">CMI Level 6 Assignment Help</a></li>
+              <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/">CMI Level 7 Assignment Help</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col">
+            <h3 class="footer-heading">Guides</h3>
+            <ul class="footer-links">
+              <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/">CMI Qualification Levels Explained</a></li>
+              <li><a href="https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/">Is a CMI Qualification Worth It?</a></li>
+              <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/">CMI Command Verbs Explained</a></li>
+            </ul>
+          </div>
         </div>
-      </div>
+      )}
 
       <div class="footer-bottom">
         <div class="container">
@@ -611,6 +633,7 @@ const extraSchemas = pageSchema
     gap: 2rem;
     padding-bottom: 2rem;
   }
+  .footer-grid--compact { grid-template-columns: 2fr 1fr; }
   .footer-brand {
     font-size: 1.1rem;
     font-weight: 700;
