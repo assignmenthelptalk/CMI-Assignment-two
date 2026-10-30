@@ -118,25 +118,21 @@ const services = [
   {
     icon: '✍️',
     title: 'CMI Assignment Writing Service',
-    slug: 'https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/',
     desc: 'Submission-ready assignment written to the correct command verb depth and CMI format (management report, essay, reflective account, or strategic paper), with full Harvard referencing.',
   },
   {
     icon: '🎓',
     title: 'CMI Assignment Tutoring',
-    slug: 'https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/',
     desc: 'Expert guidance for students who write their own assignment. Covers structure planning, command verb application, Learning Outcome alignment, and resubmission coaching after a Referral.',
   },
   {
     icon: '📋',
     title: 'CMI Coursework Help',
-    slug: 'https://www.cmiassignmenthelp.uk.com/cmi-coursework-help/',
     desc: 'Sustained support across multiple units throughout a full CMI Diploma. Consistent academic framing and command verb depth maintained across the entire qualification.',
   },
   {
     icon: '🔄',
     title: 'CMI Resubmission Support',
-    slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/',
     desc: 'Referral recovery: identifying unmet Learning Outcomes from assessor feedback, restructuring the response, and meeting the required command verb depth for the resubmission.',
   },
 ];
@@ -238,9 +234,6 @@ const steps = [
           </div>
         ))}
       </div>
-      <p class="level-unit-note">
-        Most searched unit: <a href="https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/">CMI Unit 501 assignment help</a> (Principles of Management and Leadership).
-      </p>
       <h3 class="start-here-title">Start here: the most-read CMI guides</h3>
       <div class="guides-grid">
         <div class="guide-card">
@@ -267,25 +260,19 @@ const steps = [
       <h2 class="section-title" id="cmi-assignment-support-services">CMI Assignment Support Services</h2>
       <p class="section-lead">
         Four distinct service types to match the support you need, whether you require a complete written assignment,
-        expert guidance on your own draft, or structured help across a full CMI Diploma.
+        expert guidance on your own draft, or structured help across a full CMI Diploma. Everything is delivered
+        remotely: see how <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-help-online/">CMI assignment help online</a> works, with
+        every service option in one place.
       </p>
       <div class="services-grid">
         {services.map(svc => (
-          <div class="service-card">
+          <div class="service-card service-card-static">
             <span class="svc-icon" aria-hidden="true">{svc.icon}</span>
-            <h3 class="svc-title"><a href={svc.slug} class="card-link">{svc.title}</a></h3>
+            <h3 class="svc-title">{svc.title}</h3>
             <p class="svc-desc">{svc.desc}</p>
-            <span class="svc-link" aria-hidden="true">Learn more →</span>
           </div>
         ))}
       </div>
-      <p class="section-lead">
-        More ways we can help: <a href="https://www.cmiassignmenthelp.uk.com/cmi-essay-writing-help/">CMI essay writing help</a>,
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-answers/">CMI assignment answers</a>,
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-homework-help/">CMI homework help</a>,
-        <a href="https://www.cmiassignmenthelp.uk.com/cheap-cmi-assignment-help/">cheap CMI assignment help</a>, and
-        <a href="https://www.cmiassignmenthelp.uk.com/pay-someone-to-do-my-cmi-assignment/">pay someone to do my CMI assignment</a>.
-      </p>
     </div>
   </section>
 
@@ -406,7 +393,7 @@ const steps = [
             <p>
               Message us on WhatsApp with your unit number, qualification level, assignment brief, and deadline.
               We respond with a fixed quote within 2 hours and assign a CMI-qualified writer matched to your level
-              and unit subject. See <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-help-online/">CMI assignment help online</a> for full
+              and unit subject. See the CMI assignment help online page for full
               process details.
             </p>
           </div>
@@ -451,49 +438,6 @@ const steps = [
           </div>
         </details>
 
-      </div>
-    </div>
-  </section>
-
-  <!-- ═══════════════════════════════════════════════
-       SUPPLEMENTARY — micro context, outer node links
-  ══════════════════════════════════════════════════ -->
-  <section class="section section-alt">
-    <div class="container">
-      <h2 class="section-title" id="cmi-assignment-guides-and-resources">CMI Assignment Guides and Resources</h2>
-      <p class="section-lead">
-        Practical guides for CMI students: command verbs, assignment structure, Harvard referencing, and
-        qualification pathway comparisons.
-      </p>
-      <div class="guides-grid">
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/" class="card-link">CMI Assignment Structure Guide</a></h3>
-          <p>Section-by-section structure for every CMI format (management report, structured essay, and reflective account), with word count distribution guidance.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/" class="card-link">NHS Management and CMI Qualifications</a></h3>
-          <p>How CMI Level 5 and Level 7 fit into NHS leadership development: Band alignment, funded programmes, and the most common CMI units studied by NHS managers.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/cmi-report-writing-help/" class="card-link">CMI Report Writing Help</a></h3>
-          <p>Specialist support for the management report format across Levels 5 and 6: executive summary, analysis sections, and SMART recommendations.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-examples/" class="card-link">CMI Assignment Examples</a></h3>
-          <p>Structured examples across Levels 3–7 showing correct format, command verb depth, and what Merit and Distinction responses demonstrate.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/" class="card-link">Management Theory for CMI Assignments</a></h3>
-          <p>The frameworks that CMI units draw on at each level, and how to apply them to your own workplace scenario.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/" class="card-link">Harvard Referencing for CMI</a></h3>
-          <p>How to reference sources correctly in CMI assignments, with the source expectations for each level.</p>
-        </div>
-        <div class="guide-card">
-          <h3><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/" class="card-link">CMI Reflective Practice Guide</a></h3>
-          <p>Writing reflective accounts for CMI units, with Gibbs and Kolb applied at Evaluate and Critically Analyse depth.</p>
-        </div>
       </div>
     </div>
   </section>
@@ -722,6 +666,7 @@ const steps = [
     text-decoration: none;
     color: var(--text);
   }
+  .service-card-static:hover { border-color: var(--border); box-shadow: var(--shadow); transform: none; }
   .svc-icon { font-size: 2rem; margin-bottom: .75rem; }
   .svc-title {
     font-size: 1.05rem;

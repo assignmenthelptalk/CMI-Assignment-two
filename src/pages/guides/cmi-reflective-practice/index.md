@@ -139,4 +139,13 @@ Unit-level support for the units most relevant to this guide:
 - [CMI Unit 525 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-525-assignment-help/): Using Reflective Practice for CPD (Level 5)
 - [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Personal and Professional Development as a Strategic Leader (Level 7)
 
+## Related CMI Guides
+
+More guides that connect to this topic:
+
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/)
+- [CMI Assignment Structure Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/)
+- [CMI Assignment Referral and Resubmission Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/)
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/)
+
 [WhatsApp for CMI Reflective Practice Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

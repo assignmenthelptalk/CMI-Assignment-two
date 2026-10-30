@@ -188,4 +188,13 @@ Unit-level support for the units most relevant to this guide:
 - [CMI Unit 601 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/): Principles of Management and Leadership (Level 6)
 - [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Personal and Professional Development as a Strategic Leader (Level 7)
 
+## Related CMI Guides
+
+More guides that connect to this topic:
+
+- [CMI Membership: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/)
+- [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/)
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/)
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/)
+
 [WhatsApp for CMI Assignment Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

@@ -216,4 +216,13 @@ Unit-level support for the units most relevant to this guide:
 - [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Personal and Professional Development as a Strategic Leader (Level 7)
 - [CMI Unit 705 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/): Strategic Leadership (Level 7)
 
+## Related CMI Guides
+
+More guides that connect to this topic:
+
+- [CMI Assignment Structure Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/)
+- [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/)
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/)
+- [CMI Assignment Referral and Resubmission Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/)
+
 [WhatsApp for CMI Referencing Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)

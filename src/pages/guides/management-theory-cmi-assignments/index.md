@@ -238,4 +238,13 @@ Unit-level support for the units most relevant to this guide:
 - [CMI Unit 603 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/): Leading Organisational Change (Level 6)
 - [CMI Unit 708 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/): Strategic Approaches to Innovation and Change (Level 7)
 
+## Related CMI Guides
+
+More guides that connect to this topic:
+
+- [CMI Qualification Levels Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/)
+- [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/)
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/)
+- [CMI Assignment Structure Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/)
+
 [WhatsApp for CMI Assignment Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
