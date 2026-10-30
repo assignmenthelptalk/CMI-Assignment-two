@@ -228,4 +228,14 @@ Send your unit brief and the scenario you are working with via WhatsApp. A write
 
 The [Harvard Business Review](https://hbr.org/topic/management) publishes peer-reviewed management research and practitioner case studies that represent the academic standard expected in CMI assignments at Level 5 and above.
 
+## Related CMI Unit Pages
+
+Unit-level support for the units most relevant to this guide:
+
+- [CMI Unit 303 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/): Managing Individuals to be Effective in their Roles (Level 3)
+- [CMI Unit 401 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-401-assignment-help/): Managerial and Leadership Qualities and Behaviours (Level 4)
+- [CMI Unit 506 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/): Managing Change (Level 5)
+- [CMI Unit 603 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/): Leading Organisational Change (Level 6)
+- [CMI Unit 708 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/): Strategic Approaches to Innovation and Change (Level 7)
+
 [WhatsApp for CMI Assignment Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
