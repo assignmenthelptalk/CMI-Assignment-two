@@ -105,3 +105,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 512 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/), Workforce Planning (Level 5), a related topic: interviewing and selection
+- [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4), a related topic: interviewing and selection
+- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3), a related topic: interviewing and selection

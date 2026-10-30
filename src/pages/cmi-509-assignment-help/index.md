@@ -109,3 +109,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Blake and Mouton
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Blake and Mouton
+- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Collaboration and Partnerships (Level 7), a related topic: collaboration and partnerships

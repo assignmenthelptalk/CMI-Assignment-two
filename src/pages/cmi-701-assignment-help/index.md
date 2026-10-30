@@ -113,3 +113,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Belbin and Mintzberg
 - [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Professional Management and Leadership Practice (Level 6), also names Kotter and Greenleaf
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names Kotter and Greenleaf
+- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Collaboration and Partnerships (Level 7), a related topic: collaboration and partnerships

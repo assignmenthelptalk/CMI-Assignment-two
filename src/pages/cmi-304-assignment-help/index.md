@@ -114,3 +114,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 317 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-317-assignment-help/), Supporting the Delivery of Customer Service (Level 3), a related topic: customer service

@@ -107,3 +107,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 509 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-509-assignment-help/), Managing Stakeholder Relationships (Level 5), a related topic: collaboration and partnerships
+- [CMI 4002 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/), Managing Stakeholders' Expectations (Level 4), a related topic: collaboration and partnerships
+- [CMI 305 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/), Building Stakeholder Relationships using Effective Communication (Level 3), a related topic: collaboration and partnerships

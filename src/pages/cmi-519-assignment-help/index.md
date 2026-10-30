@@ -125,3 +125,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names the Balanced Scorecard
 - [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6), also names the Balanced Scorecard
+- [CMI 313 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/), Developing and Sharing Good Practice (Level 3), a related topic: developing and sharing good practice

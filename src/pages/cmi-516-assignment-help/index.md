@@ -112,3 +112,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 607 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/), Procurement, Purchasing and Contracting (Level 6), a related topic: procurement and resources

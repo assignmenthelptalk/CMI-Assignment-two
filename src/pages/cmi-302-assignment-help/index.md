@@ -134,3 +134,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Belbin, Maslow and Adair
 - [CMI 4004 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/), Understanding Team Dynamics (Level 4), also names Tuckman, Belbin and Tannenbaum and Schmidt
 - [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names Tuckman, Belbin and Tannenbaum and Schmidt
+- [CMI 308 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/), Managing Volunteers (Level 3), a related topic: managing and developing volunteers

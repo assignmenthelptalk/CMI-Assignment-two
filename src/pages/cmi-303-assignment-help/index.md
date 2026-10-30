@@ -119,3 +119,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 308 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/), Managing Volunteers (Level 3), a related topic: managing and developing volunteers
+- [CMI 4007 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/), Managing Interviews (Level 4), a related topic: interviewing and selection
+- [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4), a related topic: staff review and inspection

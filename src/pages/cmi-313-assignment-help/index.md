@@ -120,3 +120,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing the Knowledge, Skills and Abilities of Individuals and Teams (Level 3), a related topic: developing and sharing good practice
+- [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6), a related topic: developing and sharing good practice
+- [CMI 519 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/), Managing Quality and Continuous Improvement (Level 5), a related topic: developing and sharing good practice

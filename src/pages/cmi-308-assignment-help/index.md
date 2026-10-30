@@ -123,3 +123,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing the Knowledge, Skills and Abilities of Individuals and Teams (Level 3), a related topic: managing and developing volunteers
+- [CMI 508 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-508-assignment-help/), Principles of Developing a Skilled and Talented Workforce (Level 5), a related topic: managing and developing volunteers
