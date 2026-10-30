@@ -115,3 +115,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names Tuckman and Belbin
 - [CMI 503 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/), Principles of Managing and Leading Individuals and Teams to Achieve Success (Level 5), a related topic: managing and leading individuals and teams
 - [CMI 505 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-505-assignment-help/), Forming Successful Teams (Level 5), a related topic: forming successful teams
+- [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4), a related topic: staff review and inspection

@@ -107,3 +107,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 4007 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/), Managing Interviews (Level 4), a related topic: recruitment, selection and retention
 - [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3), a related topic: recruitment, selection and retention
+- [CMI 504 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-504-assignment-help/), Managing Performance (Level 5), a related topic: recruitment, selection and retention

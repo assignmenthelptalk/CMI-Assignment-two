@@ -116,3 +116,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 312 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-312-assignment-help/), Managing Daily Activities to Achieve Results (Level 3), a related topic: managing daily activities and plans
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), a related topic: managing meetings

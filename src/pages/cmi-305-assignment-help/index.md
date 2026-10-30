@@ -123,5 +123,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 309 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/), Responding to Conflict in the Workplace (Level 3), a related topic: responding to conflict
 - [CMI 317 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-317-assignment-help/), Supporting the Delivery of Customer Service (Level 3), a related topic: customer service
 - [CMI 320 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-320-assignment-help/), Presenting for Success (Level 3), a related topic: presenting and communicating
+- [CMI 509 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-509-assignment-help/), Managing Stakeholder Relationships (Level 5), a related topic: managing stakeholder relationships
 - [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Collaboration and Partnerships (Level 7), a related topic: collaboration and partnerships
 - [CMI 4002 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/), Managing Stakeholders' Expectations (Level 4), a related topic: managing stakeholder expectations

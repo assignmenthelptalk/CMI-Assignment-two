@@ -106,4 +106,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4), a related topic: managing performance
 - [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7), a related topic: managing performance
 - [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3), a related topic: managing performance
+- [CMI 511 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-511-assignment-help/), Principles of Recruiting, Selecting and Retaining Talent (Level 5), a related topic: recruitment, selection and retention
 - [CMI 716 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/), Strategic Approaches to Mental Health and Wellbeing (Level 7), a related topic: mental health and wellbeing at work
