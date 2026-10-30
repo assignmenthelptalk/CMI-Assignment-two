@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
+import UnitList from '../../components/UnitList.astro';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
@@ -36,10 +37,10 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      "name": "Which CMI Level 6 units are most commonly selected for a Diploma?",
+      "name": "Which CMI Level 6 units are available?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For the CMI Level 6 Diploma in Professional Management and Leadership, the most commonly selected units are Unit 601 (Personal and Professional Development as a Senior Leader), Unit 602 (Senior Leadership), Unit 603 (Leading Organisational Change), and Unit 604 (Strategic Risk Management). These four units are directly relevant to the daily responsibilities of senior managers and department heads and are commonly set as the core units by training providers delivering employer-funded Level 6 Diploma programmes. Unit 608 (Leading Innovation and Change) is also frequently selected."
+        "text": "CMI lists 14 units at Level 6, numbered 601 to 614, from 601 Professional Management and Leadership Practice to 614 Principles and Practices of Ethical Decision Making. The units you study depend on the Award, Certificate or Diploma you are taking and your training provider's rules of combination."
       }
     },
     {
@@ -53,29 +54,11 @@ const faqSchema = {
   ]
 };
 
-const units = [
-  { num: "601", title: "Personal and Professional Development as a Senior Leader", desc: "Examines strategic self-awareness, leadership identity at senior level, and CPD planning appropriate to the responsibilities of a department head or director. Frequently core unit in Level 6 Diploma programmes.", popular: true },
-  { num: "602", title: "Senior Leadership", desc: "Covers senior leadership theory, leadership models at strategic scale, stakeholder influence, and the behaviours that distinguish effective senior leadership from operational management. Consistently high-demand Diploma unit.", popular: true },
-  { num: "603", title: "Leading Organisational Change", desc: "Examines change management theory and practice at organisational scale, leading complex change, managing resistance, and sustaining change outcomes in senior management roles.", popular: true },
-  { num: "604", title: "Strategic Risk Management", desc: "Covers risk identification, assessment, and management frameworks at senior management level, including enterprise risk, reputational risk, and board-level risk governance.", popular: true },
-  { num: "605", title: "Talent Management", desc: "Examines talent identification, development, retention, and succession planning from a senior management perspective, with a focus on strategic workforce capability." },
-  { num: "606", title: "Resource Management", desc: "Covers strategic resource planning (human, financial, and physical resources) at departmental and organisational scale, with emphasis on senior management decision-making." },
-  { num: "607", title: "Finance for Senior Leaders", desc: "Addresses financial management and reporting at senior leadership level, interpreting financial data, budget accountability, and financial decision-making for non-finance directors." },
-  { num: "608", title: "Leading Innovation and Change", desc: "Examines innovation management and strategic change leadership, building innovation culture, managing ambiguity, and leading transformational change in complex organisations.", popular: true },
-  { num: "609", title: "Leading Quality Management", desc: "Covers quality management frameworks and continuous improvement at senior leadership level, including quality culture, performance measurement, and senior accountability for quality outcomes." },
-  { num: "610", title: "Senior Leader as Coach and Mentor", desc: "Addresses coaching and mentoring at a senior level: coaching culture, mentoring programme design, and the senior leader's role in developing leadership capability throughout the organisation." },
-  { num: "611", title: "Negotiations for Senior Leaders", desc: "Covers negotiation theory and practice at senior management and executive scale: strategic negotiations, stakeholder negotiation, and senior leadership negotiation behaviours." },
-  { num: "612", title: "Communications in Senior Leadership", desc: "Examines strategic communication at senior level, communicating vision, managing complex stakeholder communication, and leading through influence and narrative." },
-  { num: "613", title: "Data and Knowledge Management", desc: "Covers data governance, knowledge management, and evidence-based decision-making at senior leadership level, including organisational intelligence and data ethics." },
-  { num: "614", title: "Ethics and Corporate Social Responsibility", desc: "Examines ethical leadership, corporate social responsibility frameworks, ESG considerations, and the senior leader's accountability for ethical organisational practice." },
-  { num: "615", title: "Senior Leadership in the Public Sector", desc: "Specifically addresses senior leadership in public sector contexts (NHS, local government, education, and regulatory bodies), including public sector governance and accountability frameworks." },
-  { num: "616", title: "Leading Governance", desc: "Covers governance frameworks, board accountability, corporate governance standards, and the senior leader's role in ensuring organisational compliance and governance integrity." },
-];
 ---
 
 <Layout
-  title="CMI Level 6 Assignment Help | Professional Management and Leadership | All 16 Units"
-  description="Expert CMI Level 6 Professional Management and Leadership assignment help. All 16 units (601–616) covered. Critically Evaluate command verb, 12–15 Harvard sources including peer-reviewed journals. Senior manager and director student profile. UK-based CMI writers."
+  title="CMI Level 6 Assignment Help | All 14 Units (601–614)"
+  description="CMI Level 6 assignment help for all 14 units (601–614). Critically Evaluate depth, 12–15 sources. UK-based CMI writers, quote in 2 hours."
   canonical={siteUrl + '/cmi-level-6-assignment-help/'}
   pageSchema={faqSchema}
 >
@@ -86,14 +69,14 @@ const units = [
       <p class="eyebrow">CMI Level 6 — Professional Management and Leadership</p>
       <h1>CMI Level 6 Assignment Help | Professional Management and Leadership</h1>
       <p class="hero-sub">
-        Expert assignment help for all 16 CMI Level 6 Professional Management and Leadership units (601–616).
+        Expert assignment help for all 14 CMI Level 6 Professional Management and Leadership units (601–614).
         Critically Evaluate command verb, advanced management paper format, 12–15 Harvard sources including
         peer-reviewed journals. Senior manager and department head student profile. UK-based CMI-qualified writers.
       </p>
       <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
         Get CMI Level 6 Assignment Help
       </a>
-      <p class="hero-note">Fixed quote within 2 hours &bull; All 16 units (601–616) &bull; Critically Evaluate standard</p>
+      <p class="hero-note">Fixed quote within 2 hours &bull; All 14 units (601–614) &bull; Critically Evaluate standard</p>
     </div>
   </section>
 
@@ -117,7 +100,7 @@ const units = [
         CMI Level 6 in Professional Management and Leadership is the Chartered Management Institute's
         qualification for senior managers, department heads, and directors. It is available as an
         <strong>Award</strong>, <strong>Certificate</strong>, or <strong>Diploma</strong>. The Diploma is
-        the most commonly completed pathway and requires a minimum of six units from the 16 available (601–616).
+        the most commonly completed pathway and requires a minimum of six units from the 14 available (601–614).
        This level is part of <a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a>, which covers every CMI qualification from Level 3 to Level 7.</p>
       <p>
         The Level 6 qualification sits at <strong>RQF Level 6</strong>, equivalent to final-year undergraduate
@@ -152,31 +135,21 @@ const units = [
         </div>
         <div class="qual-block">
           <h3>Units Available</h3>
-          <p>16 units in total (601–616). The Diploma typically requires 6 units. Units 601, 602, 603, and 604 are the most commonly selected core units.</p>
+          <p>14 units in total (601–614). The Diploma typically requires 6 units. Your training provider sets which units make up your pathway.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- All 16 Units -->
+  <!-- All 14 Units -->
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title" id="all-16-cmi-level-6-units">All 16 CMI Level 6 Units — Assignment Help by Unit</h2>
+      <h2 class="section-title" id="all-14-cmi-level-6-units">All 14 CMI Level 6 Units — Assignment Help by Unit</h2>
       <p class="section-lead">
         Assignment help is available for every CMI Level 6 unit. Send your unit number and brief via WhatsApp
         to receive a quote and be matched with a Level 6 qualified senior manager writer.
       </p>
-      <div class="units-grid">
-        {units.map(u => (
-          <div class={`unit-card ${u.popular ? 'unit-popular' : ''}`}>
-            {u.popular && <span class="popular-tag">High Demand</span>}
-            <p class="unit-num">Unit {u.num}</p>
-            <h3 class="unit-title">{u.title}</h3>
-            <p class="unit-desc">{u.desc}</p>
-            <p class="unit-cta"><a href={`https://www.cmiassignmenthelp.uk.com/cmi-${u.num}-assignment-help/`} class="card-link">CMI Unit {u.num} assignment help</a> &rarr;</p>
-          </div>
-        ))}
-      </div>
+      <UnitList level={6} />
     </div>
   </section>
 
@@ -246,7 +219,7 @@ const units = [
           <li><strong>Reach a justified conclusion</strong> that is defensible against the alternatives considered, explaining why the conclusion holds even when the limitations and competing positions are accounted for</li>
         </ol>
       </div>
-      <h3 class="sub-h3">Worked Example — Unit 603: Leading Organisational Change</h3>
+      <h3 class="sub-h3">Worked Example — Evaluating a Change Initiative</h3>
       <div class="example-grid">
         <div class="example-card example-l5">
           <p class="example-label">Level 5 Evaluate Response</p>
@@ -280,7 +253,7 @@ const units = [
   <section class="section">
     <div class="container narrow">
       <h2 class="section-title" id="what-a-distinction-looks-like-at-cmi-level-6">What a Distinction Looks Like at CMI Level 6</h2>
-      <p>Using Unit 602, Senior Leadership, as a worked example:</p>
+      <p>Using an assignment on senior leadership as a worked example:</p>
       <div class="grade-grid">
         <div class="grade-card">
           <h3>Merit</h3>
@@ -404,14 +377,12 @@ const units = [
           </div>
         </details>
         <details class="faq-item">
-          <summary class="faq-q">Which CMI Level 6 units are most commonly selected for a Diploma?</summary>
+          <summary class="faq-q">Which CMI Level 6 units are available?</summary>
           <div class="faq-a">
-            <p>The most commonly selected Level 6 Diploma units are Unit 601 (Personal and Professional
-            Development as a Senior Leader), Unit 602 (Senior Leadership), Unit 603 (Leading Organisational
-            Change), and Unit 604 (Strategic Risk Management). These four are directly relevant to the daily
-            responsibilities of senior managers and department heads, and are commonly set as core units by
-            training providers on employer-funded Level 6 programmes. Unit 608 (Leading Innovation and Change)
-            is also frequently selected.</p>
+            <p>CMI lists 14 units at Level 6, numbered 601 to 614, from 601 Professional Management and Leadership
+            Practice to 614 Principles and Practices of Ethical Decision Making. Which ones you study depends on
+            whether you are taking the Award, Certificate or Diploma and on your training provider's rules of
+            combination.</p>
           </div>
         </details>
         <details class="faq-item">

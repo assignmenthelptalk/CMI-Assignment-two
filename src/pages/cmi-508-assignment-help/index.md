@@ -1,14 +1,14 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 508 Assignment Help | Procurement and Contracting"
-description: "Kraljic (1983), Supplier Relationship Management, Contract Types — Evaluate Depth — Management Report Format"
+title: "CMI Unit 508 Assignment Help"
+description: "CMI Unit 508 assignment help for Level 5: Principles of Developing a Skilled and Talented Workforce. UK-based CMI-qualified writers, fixed quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-508-assignment-help/"
 headerImage: "/images/headers/cmi-508-assignment-help.webp"
-headerImageAlt: "CMI Unit 508 Assignment Help — Procurement and Contracting"
+headerImageAlt: "CMI Unit 508 Assignment Help — Principles of Developing a Skilled and Talented Workforce"
 ---
 
-# CMI Unit 508 Assignment Help | Procurement and Contracting
-**Kraljic (1983), Supplier Relationship Management, Contract Types, Evaluate Depth, Management Report Format**
+# CMI Unit 508 Assignment Help | Principles of Developing a Skilled and Talented Workforce
+**Principles of Developing a Skilled and Talented Workforce, CMI Level 5**
 
 CMI Unit 508 assignment help for Procurement and Contracting, the supply chain and contract management unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with Kraljic's (1983) purchasing portfolio matrix applied to supplier categorisation, supplier relationship management levels evaluated against supply risk, and contract type selection assessed against risk allocation principles. This unit is part of [CMI Level 5 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), covering all 25 Level 5 units.
 
@@ -107,8 +107,8 @@ Send your unit brief, procurement scenario, target grade, and deadline via Whats
 ## Related CMI Level 5 Assignment Help
 
 - [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format
-- [CMI 509 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-509-assignment-help/), Financial Management for Managers, budget management and financial analysis
-- [CMI 515 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/), Creating and Delivering Operational Plans, resource planning connects to procurement planning
+- [CMI 520 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-520-assignment-help/), Managing Finance (Level 5)
+- [CMI 515 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/), Creating and Delivering Operational Plans (Level 5)
 
 The [Association for Project Management](https://www.apm.org.uk/) publishes the APM Body of Knowledge and professional standards that provide the project management framework underpinning this CMI unit's assessment criteria.
 

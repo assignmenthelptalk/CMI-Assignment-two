@@ -31,7 +31,7 @@ The CMI offers management and leadership qualifications at five levels on the Re
 
 **Who studies Level 3**: Team leaders, supervisors, aspiring managers, and front-line staff moving into their first management role. Level 3 is designed for people who are new to management responsibility or who are preparing to step into a supervisory position.
 
-**What Level 3 covers**: Units 301–312 cover the foundations of first line management, understanding leadership and management approaches, motivating and supporting team members, communicating effectively, managing workload and priorities, and understanding the management context within an organisation.
+**What Level 3 covers**: Units 301–321 cover the foundations of first line management, understanding leadership and management approaches, motivating and supporting team members, communicating effectively, managing workload and priorities, and understanding the management context within an organisation.
 
 **Assignment format**: Structured essay. No management report format at this level. Word counts typically 1,500–2,500 words per unit.
 
@@ -47,7 +47,7 @@ The CMI offers management and leadership qualifications at five levels on the Re
 
 **Who studies Level 4**: Junior managers and newly appointed managers who have moved from a supervisory to a management role. Level 4 is for professionals managing people, budgets, or projects at a junior management level and who want a formal qualification to underpin their management practice.
 
-**What Level 4 covers**: Units 401–411 cover management and leadership approaches, planning and implementing operational change, managing stakeholder relationships, managing equality and diversity, and developing management capability.
+**What Level 4 covers**: Units 4001–4009 cover management and leadership approaches, planning and implementing operational change, managing stakeholder relationships, managing equality and diversity, and developing management capability.
 
 **Assignment format**: Structured essay, with some units introducing hybrid essay-report elements. Management report format begins to appear at Level 4 but is not the dominant format, that transition occurs at Level 5.
 
@@ -63,7 +63,7 @@ The CMI offers management and leadership qualifications at five levels on the Re
 
 **Who studies Level 5**: Middle managers, departmental leads, project managers, and professionals seeking formal recognition of their management competence. Level 5 is the most widely studied CMI level in the UK, it is the target level for NHS Band 7 managers, public sector departmental managers, and commercial team and department leaders.
 
-**What Level 5 covers**: Units 501–525, all 25 units span leadership theory, team management, performance management, resource management, financial management, change management, project management, equality and diversity, and professional development. A Level 5 Diploma typically requires 4–6 units from this range.
+**What Level 5 covers**: Units 501–526, all 26 units span leadership theory, team management, performance management, resource management, financial management, change management, project management, equality and diversity, and professional development. A Level 5 Diploma typically requires 4–6 units from this range.
 
 **Assignment format**: Management report, a 9-component formal document including title page, executive summary (150–200 words, written last), table of contents, introduction, analysis sections, SMART recommendations (minimum 3), conclusion, reference list, and appendices. This is a significant format shift from the Level 4 essay.
 
@@ -83,7 +83,7 @@ The CMI offers management and leadership qualifications at five levels on the Re
 
 **Who studies Level 6**: Senior managers, department heads, heads of service, and programme directors. Level 6 is for professionals with significant management experience who are operating at or preparing for senior management level, typically responsible for strategy within a function or department.
 
-**What Level 6 covers**: Units 601–616 span strategic planning within a management context, leading organisational change, managing corporate responsibility and governance, developing individual and organisational capability, and professional management practice. Level 6 sits at the boundary between operational management (Level 5) and strategic leadership (Level 7).
+**What Level 6 covers**: Units 601–614 span strategic planning within a management context, leading organisational change, managing corporate responsibility and governance, developing individual and organisational capability, and professional management practice. Level 6 sits at the boundary between operational management (Level 5) and strategic leadership (Level 7).
 
 **Assignment format**: Management report, the same 9-component structure as Level 5, but with greater strategic scope and depth of analysis. The analytical content is significantly more demanding than Level 5.
 
@@ -101,7 +101,7 @@ The CMI offers management and leadership qualifications at five levels on the Re
 
 **Who studies Level 7**: Directors, C-suite executives, NHS Band 8c and above, Executive Directors, and senior professionals operating at strategic leadership level. Level 7 is the highest CMI qualification and is assessed at Master's degree standard (Level 7 RQF).
 
-**What Level 7 covers**: Units 701–717 span personal development as a strategic leader, leading and developing people at strategic level, strategic planning and implementation, governance, risk and ethics, strategic leadership (RBV, Dynamic Capabilities), strategic finance, entrepreneurship and innovation, leading strategic change, global strategy, and digital transformation.
+**What Level 7 covers**: Units 701–716 span personal development as a strategic leader, leading and developing people at strategic level, strategic planning and implementation, governance, risk and ethics, strategic leadership (RBV, Dynamic Capabilities), strategic finance, entrepreneurship and innovation, leading strategic change, global strategy, and digital transformation.
 
 **Assignment format**: Strategic paper, a distinct format from the management report used at Levels 5 and 6. The strategic paper has a longer executive summary (200–250 words), an introduction that establishes theoretical positioning, critical analytical sections that engage with academic debate, strategic (not SMART) recommendations, and a conclusion that is an original synthesis, not a summary of findings. There are no SMART recommendations in a strategic paper.
 
@@ -183,10 +183,10 @@ The [Chartered Management Institute](https://www.managers.org.uk/qualifications/
 Unit-level support for the units most relevant to this guide:
 
 - [CMI Unit 301 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/): Principles of Management and Leadership (Level 3)
-- [CMI Unit 401 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-401-assignment-help/): Managerial and Leadership Qualities and Behaviours (Level 4)
-- [CMI Unit 501 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/): Principles of Management and Leadership (Level 5)
-- [CMI Unit 601 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/): Principles of Management and Leadership (Level 6)
-- [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Personal and Professional Development as a Strategic Leader (Level 7)
+- [CMI Unit 4001 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/): Managerial Styles and Behaviours (Level 4)
+- [CMI Unit 501 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/): Principles of Management and Leadership in an Organisational Context (Level 5)
+- [CMI Unit 601 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/): Professional Management and Leadership Practice (Level 6)
+- [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Strategic Leadership (Level 7)
 
 ## Related CMI Guides
 

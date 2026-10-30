@@ -1,0 +1,144 @@
+{
+  "redirects": [
+    {
+      "source": "/cmi-402-assignment-help/",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-402-assignment-help",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-404-assignment-help/",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-404-assignment-help",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-405-assignment-help/",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-405-assignment-help",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-407-assignment-help/",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-407-assignment-help",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-409-assignment-help/",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-409-assignment-help",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-410-assignment-help/",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-410-assignment-help",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-411-assignment-help/",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-411-assignment-help",
+      "destination": "/cmi-level-4-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-615-assignment-help/",
+      "destination": "/cmi-level-6-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-615-assignment-help",
+      "destination": "/cmi-level-6-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-616-assignment-help/",
+      "destination": "/cmi-level-6-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-616-assignment-help",
+      "destination": "/cmi-level-6-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-717-assignment-help/",
+      "destination": "/cmi-level-7-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-717-assignment-help",
+      "destination": "/cmi-level-7-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-401-assignment-help/",
+      "destination": "/cmi-4001-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-401-assignment-help",
+      "destination": "/cmi-4001-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-403-assignment-help/",
+      "destination": "/cmi-4004-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-403-assignment-help",
+      "destination": "/cmi-4004-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-406-assignment-help/",
+      "destination": "/cmi-4003-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-406-assignment-help",
+      "destination": "/cmi-4003-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-408-assignment-help/",
+      "destination": "/cmi-4008-assignment-help/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-408-assignment-help",
+      "destination": "/cmi-4008-assignment-help/",
+      "permanent": true
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 306 Assignment Help | Managing Equality, Diversity and Inclusion"
-description: "CMI Unit 306, Managing Equality, Diversity and Inclusion, covers the legislative framework governing equality in the workplace and the first-line manager's r..."
+title: "CMI Unit 306 Assignment Help"
+description: "CMI Unit 306 assignment help (Level 3). UK-based CMI-qualified writers, fixed quote in 2 hours on WhatsApp."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/"
 headerImage: "/images/headers/cmi-306-assignment-help.webp"
-headerImageAlt: "CMI Unit 306 Assignment Help — Managing Equality, Diversity and Inclusion"
+headerImageAlt: "CMI Unit 306 Assignment Help — Principles of Equality, Diversity and Inclusive Working Practice"
 ---
 
-# CMI Unit 306 Assignment Help | Managing Equality, Diversity and Inclusion
+# CMI Unit 306 Assignment Help | Principles of Equality, Diversity and Inclusive Working Practice
 
 CMI Unit 306, Managing Equality, Diversity and Inclusion, covers the legislative framework governing equality in the workplace and the first-line manager's role in creating and maintaining an inclusive team environment. Submitted as a structured essay at Describe and Explain command verb depth, it requires accurate knowledge of the Equality Act 2010, an understanding of the nine protected characteristics, the distinction between direct and indirect discrimination, and the practical inclusive management behaviours that support a diverse team. Team leaders and supervisors across all sectors study this unit, and NHS and public sector students find it directly relevant to WRES and WDES obligations. If you need support with Unit 306, message us on WhatsApp for a same-day quote. This unit is part of [CMI Level 3 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), covering all 12 Level 3 units.
 
@@ -97,7 +97,7 @@ The [Chartered Institute of Marketing](https://www.cim.co.uk/) is the UK's chart
 
 ## Related CMI Assignment Help
 
-- [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership: inclusive leadership behaviours
-- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals: individual performance management without discrimination
-- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing Knowledge, Skills and Abilities: equal access to development opportunities
+- [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3)
+- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3)
+- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing the Knowledge, Skills and Abilities of Individuals and Teams (Level 3)
 - [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

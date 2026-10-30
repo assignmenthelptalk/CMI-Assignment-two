@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
+import UnitList from '../../components/UnitList.astro';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
@@ -10,7 +11,7 @@ const serviceSchema = {
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "CMI Level 5 Assignment Help",
-  "description": "Expert CMI Level 5 Management and Leadership Diploma assignment help. All 25 units (501–525) covered including CMI 501, 502, 503, and 504. Management report format, Evaluate and Justify command verbs, 10–12 Harvard sources. UK-based CMI writers with NHS management experience.",
+  "description": "Expert CMI Level 5 Management and Leadership Diploma assignment help. All 26 units (501–526) covered. Management report format, Evaluate and Justify command verbs, 10–12 Harvard sources. UK-based CMI writers with NHS management experience.",
   "provider": {
     "@type": "Organization",
     "name": "CMI Assignment Help UK",
@@ -30,7 +31,7 @@ const faqSchema = {
       "name": "What is the word count for a CMI Level 5 management report?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "CMI Level 5 management reports are typically 3,000–5,000 words per unit. This word count covers the full management report structure: executive summary (150–200 words, not included in the main word count at most centres), introduction, main analysis sections, recommendations, and conclusion. The reference list and appendices are also excluded from the word count at most centres. The word count specified in your unit brief from your awarding centre is definitive and takes precedence over any general guidance. Unit 502 (Developing, Managing and Leading Individuals and Teams) and Unit 512 (Managing Change) commonly see briefs toward the 4,000–5,000 word end of the range due to the breadth of Learning Outcomes involved."
+        "text": "CMI Level 5 management reports are typically 3,000–5,000 words per unit. This word count covers the full management report structure: executive summary (150–200 words, not included in the main word count at most centres), introduction, main analysis sections, recommendations, and conclusion. The reference list and appendices are also excluded from the word count at most centres. The word count specified in your unit brief from your awarding centre is definitive and takes precedence over any general guidance."
       }
     },
     {
@@ -43,10 +44,10 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      "name": "Which CMI Level 5 units are most commonly selected for the Diploma?",
+      "name": "Which CMI Level 5 units are available?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The five most commonly selected CMI Level 5 units across all Diploma pathways are Unit 501 (Managing Stakeholder Relationships), Unit 502 (Developing, Managing and Leading Individuals and Teams to Achieve Success), Unit 503 (Principles of Management and Leadership in an Organisational Context), Unit 504 (Managing Equality, Diversity and Inclusion), and Unit 509 (Managing Finance). Unit 502 is the single most commonly submitted Level 5 unit across all sectors. For NHS managers, Unit 505 (Principles of Management and Leadership in Health and Social Care) is also frequently selected. The CMI Level 5 Diploma requires a minimum of six units, so most students select from these high-demand units as the core of their programme."
+        "text": "CMI lists 26 units at Level 5, numbered 501 to 526, from 501 Principles of Management and Leadership in an Organisational Context to 526 Principles of Leadership Practice. The units you study depend on the Award, Certificate or Diploma you are taking and your training provider's rules of combination."
       }
     },
     {
@@ -54,7 +55,7 @@ const faqSchema = {
       "name": "How many Harvard sources are needed for a CMI Level 5 assignment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The minimum Harvard referencing requirement for a CMI Level 5 management report is 10–12 sources. Merit and Distinction responses typically cite 12 or more sources with deliberate diversity: CMI ManagementDirect is a required primary source at Level 5; academic texts (Tuckman, Herzberg, Kotter, Lewin) provide theoretical grounding; peer-reviewed journal articles demonstrate research engagement; and government or sector publications add contextual authority for units such as Unit 504 (equality legislation) or Unit 505 (NHS and Health and Social Care context). All sources must appear in the text as in-text citations and in a complete reference list formatted to Harvard standard."
+        "text": "The minimum Harvard referencing requirement for a CMI Level 5 management report is 10–12 sources. Merit and Distinction responses typically cite 12 or more sources with deliberate diversity: CMI ManagementDirect is a required primary source at Level 5; academic texts (Tuckman, Herzberg, Kotter, Lewin) provide theoretical grounding; peer-reviewed journal articles demonstrate research engagement; and government or sector publications add contextual authority for units such as Unit 506 (Managing Equality, Diversity and Inclusion) or Unit 518 (Risk Management). All sources must appear in the text as in-text citations and in a complete reference list formatted to Harvard standard."
       }
     },
     {
@@ -67,10 +68,10 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      "name": "Do you help with CMI 502 assignment specifically?",
+      "name": "Do you help with a specific CMI Level 5 unit?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Unit 502 (Developing, Managing and Leading Individuals and Teams to Achieve Success) is the most commonly submitted CMI Level 5 unit and one we handle with a high degree of frequency. The unit requires Evaluate and Justify command verb depth and typically draws on Tuckman's Team Development Stages, Belbin's Team Roles, Herzberg's Two-Factor Theory, Maslow's Hierarchy of Needs, and McClelland's Acquired Needs Theory. A Distinction-standard Unit 502 management report evaluates competing motivational frameworks against each other, names the limitations of each model (for example, Tuckman's assumption of sequential development does not reflect matrix or virtual team structures), and derives SMART recommendations explicitly from the evaluation. Message us on WhatsApp with your Unit 502 brief and deadline for a fixed quote."
+        "text": "Yes. We cover all 26 Level 5 units, from 501 to 526. Each unit needs Evaluate and Justify depth, a management report structure and SMART recommendations derived from the evaluation. Message us on WhatsApp with your unit number, brief and deadline for a fixed quote."
       }
     }
   ]
@@ -78,8 +79,8 @@ const faqSchema = {
 ---
 
 <Layout
-  title="CMI Level 5 Assignment Help | Management and Leadership Diploma | All 25 Units"
-  description="Expert CMI Level 5 Management and Leadership Diploma assignment help. All 25 units (501–525) covered. Management report format, Evaluate and Justify command verbs, 10–12 Harvard sources. NHS Band 7+ experience. UK-based CMI writers."
+  title="CMI Level 5 Assignment Help | All 26 Units (501–526)"
+  description="CMI Level 5 assignment help for all 26 units (501–526). Management reports, Evaluate and Justify. UK-based CMI writers, quote in 2 hours."
   canonical={siteUrl + '/cmi-level-5-assignment-help/'}
   pageSchema={[serviceSchema, faqSchema]}
 >
@@ -93,7 +94,7 @@ const faqSchema = {
         <p class="hero-eyebrow">UK-Based CMI Writers — Level 5 Diploma Specialists — NHS Band 7+ Experience</p>
         <h1 class="hero-h1">CMI Level 5 Assignment Help | Management and Leadership Diploma</h1>
         <p class="hero-sub">
-          The UK's most widely studied CMI qualification. All 25 units (501–525) covered.
+          The UK's most widely studied CMI qualification. All 26 units (501–526) covered.
           Management report format, Evaluate and Justify command verbs, SMART recommendations,
           10–12 Harvard sources. Written by UK-based CMI-qualified practitioners including
           writers with direct NHS management experience. Fixed quote in 2 hours.
@@ -112,7 +113,7 @@ const faqSchema = {
           </a>
         </div>
         <p class="hero-note">
-          Fixed quote in 2 hours &bull; All 25 CMI Level 5 units &bull; NHS Band 7+ writers available
+          Fixed quote in 2 hours &bull; All 26 CMI Level 5 units &bull; NHS Band 7+ writers available
         </p>
       </div>
       <div class="hero-badge-wrap" aria-hidden="true">
@@ -184,10 +185,9 @@ const faqSchema = {
       </p>
 
       <p>
-        The Level 5 qualification encompasses 25 units, 501 through 525, covering the full range
-        of middle management responsibilities: people development, organisational leadership, equality
-        and inclusion, financial management, project management, change management, and sector-specific
-        contexts including health and social care and the public sector. Assessment is entirely
+        The Level 5 qualification encompasses 26 units, 501 through 526, covering the full range
+        of middle management responsibilities: leading individuals and teams, performance, equality and
+        inclusion, stakeholders, projects, change, risk, quality, finance, and data-led decision making. Assessment is entirely
         assignment-based, with no examinations. The primary format at Level 5 is the management
         report. The qualification sits at RQF Level 5, the equivalent of second-year undergraduate
         academic standard.
@@ -202,419 +202,22 @@ const faqSchema = {
   </section>
 
   <!-- ═══════════════════════════════════════
-       S3 — ALL 25 UNITS
+       S3 — ALL 26 UNITS
   ════════════════════════════════════════ -->
   <section class="section section-alt">
     <div class="container content-wrap">
-      <h2 class="section-title" id="all-25-cmi-level-5-units">All 25 CMI Level 5 Units — Assignment Help by Unit</h2>
+      <h2 class="section-title" id="all-26-cmi-level-5-units">All 26 CMI Level 5 Units — Assignment Help by Unit</h2>
       <p class="section-lead">
         Full unit-by-unit coverage across the CMI Level 5 Management and Leadership Diploma.
-        Units 501, 502, 503, 504, and 509 carry the highest demand.
       </p>
 
       <p>
-        The CMI Level 5 programme spans 25 units (501–525). The Diploma requires a minimum of six
-        units. Most employer-sponsored programmes build the Diploma around the five highest-demand
-        units (501, 502, 503, 504, and 509) and supplement with units relevant to the student's
-        sector or role. Unit 505 is the primary unit for students in NHS and health and social care
-        contexts. Commercial organisations frequently include Units 507, 519, and 520 in their
-        Diploma pathway.
+        CMI lists 26 units at Level 5, numbered 501 to 526. Where a unit has its own page, its tile links to it,
+        and assignment help is available for every unit: send your unit number and brief via WhatsApp. Which units
+        make up your Award, Certificate or Diploma depends on your training provider's rules of combination.
       </p>
 
-      <div class="unit-list">
-
-        <div class="unit-item unit-item--priority">
-          <span class="unit-number">501</span>
-          <div class="unit-body">
-            <h3 class="unit-title">
-              Managing Stakeholder Relationships
-              <span class="unit-badge">High Demand</span>
-            </h3>
-            <p class="unit-desc">
-              Requires students to identify, classify, and evaluate stakeholder engagement strategies
-              at operational and department level. Learning Outcomes cover stakeholder mapping using
-              the Mendelow Power-Interest Matrix, communication planning, and conflict of interest
-              management. Command verbs: Evaluate and Analyse. This unit is a standard Diploma
-              inclusion across NHS, public sector, and commercial contexts.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/" class="card-link">CMI Unit 501 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item unit-item--priority">
-          <span class="unit-number">502</span>
-          <div class="unit-body">
-            <h3 class="unit-title">
-              Developing, Managing and Leading Individuals and Teams to Achieve Success
-              <span class="unit-badge">Most Submitted</span>
-            </h3>
-            <p class="unit-desc">
-              The most commonly submitted CMI Level 5 unit across all sectors. Covers team
-              development stages, individual motivation, performance management, and leadership
-              approaches applied to the student's actual team. Requires Evaluate and Justify depth
-              and draws on Tuckman's Team Development Stages, Belbin's Team Roles, Herzberg's
-              Two-Factor Theory, Maslow's Hierarchy of Needs, and McClelland's Acquired Needs
-              Theory. A Distinction response evaluates competing motivational frameworks against
-              each other and justifies SMART recommendations.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/" class="card-link">CMI Unit 502 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item unit-item--priority">
-          <span class="unit-number">503</span>
-          <div class="unit-body">
-            <h3 class="unit-title">
-              Principles of Management and Leadership in an Organisational Context
-              <span class="unit-badge">High Demand</span>
-            </h3>
-            <p class="unit-desc">
-              Examines leadership theories, management functions, and organisational structure and
-              culture from a middle management perspective. Requires students to critically evaluate
-              leadership models applied to their own organisation. Primary frameworks: Bass and
-              Avolio Transformational Leadership, Fiedler Contingency Model, and Mintzberg's
-              Managerial Roles. Command verbs: Evaluate and Critically Evaluate, making this
-              unit a Merit/Distinction differentiator.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/" class="card-link">CMI Unit 503 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item unit-item--priority">
-          <span class="unit-number">504</span>
-          <div class="unit-body">
-            <h3 class="unit-title">
-              Managing Equality, Diversity and Inclusion
-              <span class="unit-badge">High Demand</span>
-            </h3>
-            <p class="unit-desc">
-              Covers UK equality legislation, workplace diversity frameworks, unconscious bias,
-              and inclusion strategy at department and organisational level. Requires application
-              of the Equality Act 2010 to the student's workplace context and evaluation of the
-              manager's role in embedding inclusive practice. Particularly relevant in NHS contexts
-              where CQC regulatory standards and Workforce Race Equality Standards (WRES) create
-              sector-specific framing for the Learning Outcomes.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-504-assignment-help/" class="card-link">CMI Unit 504 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">505</span>
-          <div class="unit-body">
-            <h3 class="unit-title">
-              Principles of Management and Leadership in Health and Social Care
-              <span class="unit-badge unit-badge--nhs">NHS Pathway</span>
-            </h3>
-            <p class="unit-desc">
-              The NHS and Health and Social Care sector-specific alternative to Unit 503. Applies
-              management and leadership theory within the context of health and social care
-              organisations, referencing NHS frameworks, CQC requirements, and multi-disciplinary
-              team structures. Primarily selected by NHS Band 7+ managers and social care service
-              managers. Command verbs mirror those of Unit 503: Evaluate and Critically Evaluate.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-505-assignment-help/" class="card-link">CMI Unit 505 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">506</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Developing and Leading Strategy</h3>
-            <p class="unit-desc">
-              Examines strategic planning processes at department and organisational level,
-              including environmental analysis, strategic options appraisal, and implementation
-              planning. Students evaluate strategic frameworks such as PESTLE, SWOT, and Ansoff's
-              Growth Matrix applied to their organisation's strategic context. Command verb: Evaluate.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/" class="card-link">CMI Unit 506 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">507</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Principles of Marketing Products and Services</h3>
-            <p class="unit-desc">
-              Covers marketing planning, product and service positioning, the marketing mix, and
-              the relationship between marketing strategy and operational delivery. Students analyse
-              marketing decision-making within their organisational context, evaluating the
-              effectiveness of marketing approaches and their resource implications.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/" class="card-link">CMI Unit 507 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">508</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Procurement and Contract Management</h3>
-            <p class="unit-desc">
-              Addresses procurement strategy, supplier evaluation, contract negotiation, and
-              performance management at department level. Students evaluate the risks and benefits
-              of different procurement approaches and examine the manager's role in supplier
-              relationship management and contract compliance within regulatory frameworks.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-508-assignment-help/" class="card-link">CMI Unit 508 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item unit-item--priority">
-          <span class="unit-number">509</span>
-          <div class="unit-body">
-            <h3 class="unit-title">
-              Managing Finance
-              <span class="unit-badge">High Demand</span>
-            </h3>
-            <p class="unit-desc">
-              Covers budget lifecycle management, variance analysis, financial performance
-              monitoring, and resource allocation decisions at department level. Students evaluate
-              financial management approaches against operational and strategic objectives using
-              KPI frameworks and variance analysis tools. Command verbs: Evaluate, Analyse, and
-              Justify. Consistently one of the five most commonly selected units in employer-funded
-              Diploma programmes.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-509-assignment-help/" class="card-link">CMI Unit 509 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">510</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Managing Projects</h3>
-            <p class="unit-desc">
-              Covers project management methodologies, planning tools (Gantt, critical path,
-              risk register), stakeholder management within a project context, and project
-              evaluation. Students develop a structured project plan and evaluate their
-              organisation's approach to project governance. Command verb: Develop a Plan
-              appears alongside Evaluate.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/" class="card-link">CMI Unit 510 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">511</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Managing Remote Working</h3>
-            <p class="unit-desc">
-              Examines the management of remote and hybrid teams, covering communication
-              approaches, performance management without physical oversight, team cohesion
-              strategies, and the wellbeing considerations specific to remote working environments.
-              Students evaluate the effectiveness of remote working policies and their own
-              management approach in a distributed context.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-511-assignment-help/" class="card-link">CMI Unit 511 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">512</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Managing Change</h3>
-            <p class="unit-desc">
-              Covers change management models, resistance to change, stakeholder communication
-              during change, and the manager's role in leading teams through organisational
-              transition. Students evaluate competing change frameworks, most commonly Kotter's
-              8-Step Model against Lewin's Change Curve, and apply them to a specific change
-              scenario from their workplace. A Distinction response identifies where each
-              framework's assumptions limit its applicability.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/" class="card-link">CMI Unit 512 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">513</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Managing Data and Information</h3>
-            <p class="unit-desc">
-              Examines data governance, information security, GDPR compliance, and the manager's
-              role in maintaining data integrity within their team and department. Students evaluate
-              organisational approaches to data management and assess the risks of poor data
-              governance at operational level.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/" class="card-link">CMI Unit 513 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">514</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Employee Engagement</h3>
-            <p class="unit-desc">
-              Covers the drivers of employee engagement, measurement approaches (pulse surveys,
-              eNPS, engagement indices), and the manager's role in building and sustaining
-              engagement within their team. Students evaluate engagement theory against their
-              workplace context and justify recommendations for improving engagement outcomes
-              using named frameworks.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/" class="card-link">CMI Unit 514 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">515</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Creating and Delivering Operational Plans</h3>
-            <p class="unit-desc">
-              Requires students to develop a structured operational plan for their department or
-              team, covering objectives, resource requirements, KPIs, risk management, and
-              monitoring frameworks. The primary command verb is Develop a Plan, requiring
-              SMART deliverables, resource justification, and evaluation of plan viability
-              against organisational constraints.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/" class="card-link">CMI Unit 515 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">516</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Corporate Social Responsibility</h3>
-            <p class="unit-desc">
-              Examines CSR frameworks, sustainability strategy, ethical governance, and the
-              manager's role in embedding social responsibility within operational practice.
-              Students evaluate their organisation's approach to CSR against established
-              frameworks such as Carroll's Pyramid of Corporate Social Responsibility and
-              assess the commercial and reputational implications of CSR decisions.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-516-assignment-help/" class="card-link">CMI Unit 516 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">517</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Principles of Coaching and Mentoring</h3>
-            <p class="unit-desc">
-              Covers coaching models (GROW, OSCAR), mentoring frameworks, and the distinction
-              between coaching, mentoring, and training as development interventions. Students
-              evaluate the application of coaching and mentoring approaches to their own
-              management practice and justify the selection of specific interventions for
-              individual team members.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/" class="card-link">CMI Unit 517 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">518</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Principles of Marketing</h3>
-            <p class="unit-desc">
-              Covers foundational marketing theory (market segmentation, buyer behaviour,
-              brand positioning, and the marketing mix) from a management rather than a
-              specialist marketing perspective. Students evaluate marketing principles against
-              their organisational context and assess the alignment between marketing strategy
-              and operational delivery.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-518-assignment-help/" class="card-link">CMI Unit 518 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">519</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Managing Sales</h3>
-            <p class="unit-desc">
-              Examines sales management at team level: pipeline management, KPI frameworks,
-              sales forecasting, performance management, and the relationship between sales
-              process and commercial outcomes. Students evaluate their organisation's sales
-              management approach and justify improvements based on named sales management theory.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/" class="card-link">CMI Unit 519 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">520</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Managing Customer Relationships</h3>
-            <p class="unit-desc">
-              Covers CRM strategy, customer segmentation, service recovery, retention frameworks,
-              and the measurement of relationship quality. Students evaluate their organisation's
-              customer relationship management approach, assessing the alignment between CRM
-              practice and commercial or service delivery objectives.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-520-assignment-help/" class="card-link">CMI Unit 520 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">521</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Developing Performance Management Frameworks</h3>
-            <p class="unit-desc">
-              Requires students to develop and evaluate a performance management framework for
-              their team or department, covering objective setting, appraisal processes,
-              feedback mechanisms, and the relationship between individual performance and
-              organisational outcomes. SMART objective design is a central Learning Outcome.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-521-assignment-help/" class="card-link">CMI Unit 521 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">522</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Building Resilience</h3>
-            <p class="unit-desc">
-              Examines personal and organisational resilience, covering resilience theory,
-              stress response frameworks, the manager's role in supporting team resilience,
-              and the relationship between resilience, wellbeing, and sustained performance.
-              Students evaluate resilience-building approaches and justify interventions
-              appropriate to their team's profile and operational context.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-522-assignment-help/" class="card-link">CMI Unit 522 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">523</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Mental Health and Wellbeing in Organisations</h3>
-            <p class="unit-desc">
-              Covers the manager's role in supporting mental health and wellbeing at work,
-              including UK legislative duties, early intervention approaches, stigma reduction,
-              and the relationship between wellbeing and organisational performance. Students
-              evaluate organisational wellbeing strategy and justify recommendations for
-              strengthening the manager's role within it.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-523-assignment-help/" class="card-link">CMI Unit 523 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">524</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Leadership in the Public Sector</h3>
-            <p class="unit-desc">
-              Applies leadership theory specifically to the public sector context, examining
-              accountability frameworks, value-for-money requirements, political environment
-              sensitivity, and public sector workforce characteristics. Particularly relevant
-              for local authority managers, NHS leaders, and civil service managers. Evaluates
-              leadership approaches suited to public sector constraints and demands.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-524-assignment-help/" class="card-link">CMI Unit 524 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-        <div class="unit-item">
-          <span class="unit-number">525</span>
-          <div class="unit-body">
-            <h3 class="unit-title">Principles of Volunteering and Volunteer Management</h3>
-            <p class="unit-desc">
-              Covers the management of volunteer workforces: recruitment, retention, motivation,
-              performance management without financial incentive, and the governance frameworks
-              specific to volunteer organisations. Primarily selected by managers in the charity,
-              not-for-profit, and third sector who manage or oversee volunteer programmes.
-            </p>
-            <p class="unit-cta"><a href="https://www.cmiassignmenthelp.uk.com/cmi-525-assignment-help/" class="card-link">CMI Unit 525 assignment help</a> &rarr;</p>
-          </div>
-        </div>
-
-      </div>
+      <UnitList level={5} />
     </div>
   </section>
 
@@ -814,8 +417,7 @@ const faqSchema = {
             or approach applies, and reaches a concluded position. The conclusion is mandatory. An
             evaluation that examines but does not judge does not meet the verb requirement. Evaluate
             is the most common Level 5 command verb. It appears in the Learning Outcomes of
-            virtually every Level 5 unit and is the primary verb in Units 501, 502, 504, 509,
-            510, and 512.
+            virtually every Level 5 unit.
           </p>
         </div>
 
@@ -827,7 +429,7 @@ const faqSchema = {
             frequently in the Recommendations section, where each recommendation must be justified
             by reference to the analysis. A recommendation without a chain of evidential reasoning
             connecting it to the analysis does not meet the Justify standard. Justify also appears
-            in the main analysis sections of units such as Unit 502 and Unit 509.
+            in the main analysis sections as well.
           </p>
         </div>
 
@@ -849,8 +451,8 @@ const faqSchema = {
           <p>
             Construct a detailed, structured, and actionable plan with SMART deliverables,
             defined resources, identified risks, and a monitoring framework. Develop a Plan appears
-            in units with operational or strategic planning scope, Units 510, 515, and 521
-            in particular. A plan that states objectives without specifying how they are measured,
+            in units with operational or strategic planning scope, such as Unit 515 (Creating and
+            Delivering Operational Plans). A plan that states objectives without specifying how they are measured,
             achieved, resourced, or timed does not meet SMART standards and represents a verb
             compliance failure.
           </p>
@@ -860,7 +462,7 @@ const faqSchema = {
 
       <div class="worked-example">
         <h3 class="we-title">
-          Worked Example — Unit 502: Evaluate the Impact of the Work Environment on Team Performance
+          Worked Example — Evaluate the Impact of the Work Environment on Team Performance
         </h3>
         <div class="we-grid">
           <div class="we-col we-col--pass">
@@ -943,7 +545,7 @@ const faqSchema = {
           <ul class="gc-list">
             <li>Competing theoretical frameworks evaluated against each other, not applied in sequence, but tested against each other to assess which better explains the student's specific context</li>
             <li>Theory limitations explicitly named and engaged with: for example, "Tuckman's model assumes sequential team development. This assumption does not hold for matrix teams or teams that regularly reform around new projects"</li>
-            <li>Kotter vs Lewin for Unit 512 (Change): Kotter's 8-Step Model is evaluated against Lewin's Change Curve, not both applied separately, but assessed against each other in the context of the specific change scenario, with a justified conclusion about which better explains the observed resistance and transition dynamics</li>
+            <li>Kotter vs Lewin for Unit 514 (Managing Change): Kotter's 8-Step Model is evaluated against Lewin's Change Curve, not both applied separately, but assessed against each other in the context of the specific change scenario, with a justified conclusion about which better explains the observed resistance and transition dynamics</li>
             <li>Recommendations explicitly derived from the evaluation: each SMART recommendation is traceable to a specific analytical finding, with the theoretical basis stated</li>
             <li>Executive summary accurately synthesises the full report, findings and recommendations stated precisely; a reader of the executive summary alone has the complete analytical picture</li>
             <li>12+ sources with deliberate diversity; no source padding; every citation earns its place in the analysis</li>
@@ -953,9 +555,9 @@ const faqSchema = {
       </div>
 
       <div class="worked-example" style="margin-top: 2rem;">
-        <h3 class="we-title">Unit 512 — Distinction Differentiator: Kotter vs Lewin on Change</h3>
+        <h3 class="we-title">Unit 514 — Distinction Differentiator: Kotter vs Lewin on Change</h3>
         <p style="font-size:.9rem; color:var(--text-muted); line-height:1.65; margin-bottom:1rem;">
-          A Merit response to Unit 512 applies Kotter's 8-Step Model to the student's change
+          A Merit response to Unit 514 applies Kotter's 8-Step Model to the student's change
           scenario, working through the steps and assessing how well they map to what occurred.
           It also applies Lewin's Change Curve (Unfreeze-Change-Refreeze) to the same scenario.
           Both are applied accurately. Both are cited correctly. SMART recommendations follow.
@@ -981,159 +583,13 @@ const faqSchema = {
   </section>
 
   <!-- ═══════════════════════════════════════
-       S7 — PRIORITY UNITS
+       S7 — UNIT CTA
   ════════════════════════════════════════ -->
-  <section class="section section-alt">
-    <div class="container content-wrap">
-      <h2 class="section-title" id="priority-cmi-level-5-units">Priority CMI Level 5 Units — 501, 502, 503, 504, and 509</h2>
-      <p class="section-lead">
-        The five most commonly submitted Level 5 units, with subject focus, key Learning Outcomes,
-        primary command verbs, and the theoretical frameworks required for Merit and Distinction grades.
-      </p>
-
-      <div class="priority-units">
-
-        <div class="pu-card">
-          <div class="pu-header">
-            <span class="pu-num">CMI 501</span>
-            <h3 class="pu-title">Managing Stakeholder Relationships</h3>
-          </div>
-          <div class="pu-body">
-            <p>
-              Unit 501 requires students to evaluate stakeholder identification, classification,
-              and engagement strategies within their organisational context. Key Learning Outcomes
-              cover stakeholder mapping, the relationship between stakeholder power and communication
-              strategy, and the management of stakeholder conflict. The primary command verbs are
-              Evaluate and Analyse.
-            </p>
-            <p>
-              <strong>Primary frameworks:</strong> Mendelow's Power-Interest Matrix (classifying
-              stakeholders by power and interest to determine engagement priority) and Freeman's
-              Stakeholder Theory (the ethical and commercial case for stakeholder management as
-              a management function rather than a political exercise). A Distinction response
-              evaluates the limitations of Mendelow's matrix. It provides a snapshot classification
-              rather than a dynamic model, and power-interest positions shift as projects evolve.
-            </p>
-          </div>
-        </div>
-
-        <div class="pu-card pu-card--featured">
-          <div class="pu-header">
-            <span class="pu-num">CMI 502</span>
-            <h3 class="pu-title">Developing, Managing and Leading Individuals and Teams to Achieve Success</h3>
-            <span class="pu-tag">Most Commonly Submitted Level 5 Unit</span>
-          </div>
-          <div class="pu-body">
-            <p>
-              Unit 502 is the most commonly submitted CMI Level 5 unit across all sectors and
-              employer types. It covers team development, individual motivation, performance
-              management, and leadership approaches applied directly to the student's actual team.
-              The command verbs are Evaluate and Justify.
-            </p>
-            <p>
-              <strong>Primary frameworks:</strong> Tuckman's Team Development Stages
-              (Forming-Storming-Norming-Performing-Adjourning), Belbin's Team Roles (nine roles,
-              their contributions and allowable weaknesses), Herzberg's Two-Factor Theory
-              (motivators vs hygiene factors), Maslow's Hierarchy of Needs (progression through
-              physiological, safety, belonging, esteem, and self-actualisation needs), and
-              McClelland's Acquired Needs Theory (need for achievement, affiliation, and power
-              as learned motivational drivers). A Distinction Unit 502 report evaluates these
-              frameworks against each other in the student's team context, names the limitation
-              of Tuckman's sequential assumption for matrix or virtual teams, and justifies
-              SMART recommendations for each identified performance or development gap.
-            </p>
-          </div>
-        </div>
-
-        <div class="pu-card">
-          <div class="pu-header">
-            <span class="pu-num">CMI 503</span>
-            <h3 class="pu-title">Principles of Management and Leadership in an Organisational Context</h3>
-          </div>
-          <div class="pu-body">
-            <p>
-              Unit 503 requires students to evaluate leadership theories and management principles
-              in the context of their own organisation: its structure, culture, and strategic
-              objectives. Key Learning Outcomes include evaluating the relationship between
-              leadership style, organisational culture, and performance, and assessing the
-              student's own management approach against named leadership models. Command verbs:
-              Evaluate and Critically Evaluate.
-            </p>
-            <p>
-              <strong>Primary frameworks:</strong> Bass and Avolio's Transformational Leadership
-              Theory (four components: idealised influence, inspirational motivation, intellectual
-              stimulation, individualised consideration), Fiedler's Contingency Model (leadership
-              effectiveness determined by the match between style and situational control), and
-              Mintzberg's Managerial Roles (ten roles grouped across interpersonal, informational,
-              and decisional categories). The presence of Critically Evaluate in the Learning
-              Outcomes means Distinction requires naming framework limitations, for example,
-              Fiedler's assumption that leadership style is fixed rather than adaptive.
-            </p>
-          </div>
-        </div>
-
-        <div class="pu-card">
-          <div class="pu-header">
-            <span class="pu-num">CMI 504</span>
-            <h3 class="pu-title">Managing Equality, Diversity and Inclusion</h3>
-          </div>
-          <div class="pu-body">
-            <p>
-              Unit 504 covers the manager's legal duties and operational responsibilities in
-              relation to equality, diversity, and inclusion. Key Learning Outcomes include
-              evaluating the legislative framework that governs equality at work, assessing the
-              manager's role in embedding inclusive practice, and justifying recommendations for
-              improving diversity outcomes within the student's team or department. Command verbs:
-              Evaluate and Justify.
-            </p>
-            <p>
-              <strong>Primary frameworks:</strong> The Equality Act 2010 (nine protected
-              characteristics, employer duties, direct and indirect discrimination), diversity
-              dimensions models (visible and non-visible diversity dimensions), and unconscious
-              bias frameworks. In NHS contexts, CQC Well-Led standards and Workforce Race
-              Equality Standards (WRES) provide additional legislative and regulatory framing
-              that strengthens the contextual anchoring of the analysis and demonstrates
-              sector-specific knowledge at Distinction level.
-            </p>
-          </div>
-        </div>
-
-        <div class="pu-card">
-          <div class="pu-header">
-            <span class="pu-num">CMI 509</span>
-            <h3 class="pu-title">Managing Finance</h3>
-          </div>
-          <div class="pu-body">
-            <p>
-              Unit 509 examines the manager's financial management responsibilities at department
-              level, covering budget setting, variance analysis, financial performance monitoring,
-              and the justification of resource allocation decisions. The unit requires students
-              to evaluate their organisation's financial management approach and justify
-              recommendations for improving financial control or resource efficiency. Command verbs:
-              Evaluate, Analyse, and Justify.
-            </p>
-            <p>
-              <strong>Primary frameworks:</strong> Variance analysis (favourable vs adverse
-              variances and their management implications), budget lifecycle management (setting,
-              monitoring, forecasting, and year-end reporting), and KPI framework design
-              (financial KPIs aligned to department objectives). Unit 509 is one of the few
-              Level 5 units where quantitative data (budget figures, variance calculations,
-              KPI performance tables) is expected as supporting evidence in the appendices.
-              A Distinction response justifies recommendations with specific reference to
-              identified variances and their root cause analysis.
-            </p>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- CTA after priority units -->
+  <!-- CTA after the unit list -->
   <section class="mid-cta">
     <div class="container mid-cta-inner">
       <p class="mid-cta-text">
-        Need help with Unit 502, 503, or another Level 5 unit? Message us on WhatsApp with
+        Need help with a Level 5 unit? Message us on WhatsApp with
         your unit number and deadline, fixed quote in 2 hours.
       </p>
       <a
@@ -1169,33 +625,12 @@ const faqSchema = {
       </p>
 
       <p>
-        The most commonly selected CMI Level 5 units for NHS managers are:
+        No Level 5 unit is written only for the NHS. NHS managers take the same units as everyone else and set the
+        assignment in their own trust. The units whose subject matter sits closest to Band 7 practice are
+        Unit 505 (Forming Successful Teams), Unit 506 (Managing Equality, Diversity and Inclusion), Unit 509
+        (Managing Stakeholder Relationships) and Unit 518 (Risk Management), which can be contextualised against
+        CQC Well-Led standards, WRES requirements and NHS leadership frameworks.
       </p>
-
-      <ul class="nhs-units">
-        <li>
-          <strong>Unit 502</strong> (Developing, Managing and Leading Individuals and Teams):
-          applies directly to clinical team leadership in multi-disciplinary, shift-based environments
-          where Tuckman's sequential model must be evaluated against the reality of rotating team membership.
-        </li>
-        <li>
-          <strong>Unit 503</strong> (Principles of Management and Leadership in an Organisational Context):
-          applied to NHS trust structures, NHS leadership frameworks (NHS Leadership Model), and
-          the specific accountability relationships between Band 7 managers and clinical directors.
-        </li>
-        <li>
-          <strong>Unit 504</strong> (Managing Equality, Diversity and Inclusion): contextualised
-          against CQC Well-Led domain standards, WRES requirements, and NHS Equality, Diversity
-          and Inclusion (EDI) improvement plans, adding regulatory authority to the analysis
-          that demonstrates sector-specific command.
-        </li>
-        <li>
-          <strong>Unit 505</strong> (Principles of Management and Leadership in Health and Social
-          Care): the NHS-specific unit that replaces Unit 503 on many NHS trust CMI programmes.
-          Applies management and leadership theory within NHS governance, patient safety, and
-          CQC inspection frameworks.
-        </li>
-      </ul>
 
       <p>
         Writers assigned to NHS manager assignments hold direct NHS management experience. They
@@ -1263,7 +698,7 @@ const faqSchema = {
           <span class="step-num" aria-hidden="true">01</span>
           <h3 class="step-title">Send Your Brief on WhatsApp</h3>
           <p class="step-text">
-            Message us with your unit number (e.g., Unit 502 or Unit 512), your submission
+            Message us with your unit number (e.g., Unit 502 or Unit 514), your submission
             deadline, and your assignment brief, including the exact Learning Outcome questions
             your centre has issued. If your centre has provided an assignment template or
             format guidance document, include that too. The more specific the brief you send,
@@ -1330,9 +765,7 @@ const faqSchema = {
               sections, recommendations, and conclusion. The reference list and appendices are also
               excluded from the word count at most centres. The word count specified in your unit
               brief from your awarding centre is definitive and takes precedence over any general
-              guidance. Unit 502 (Developing, Managing and Leading Individuals and Teams) and
-              Unit 512 (Managing Change) commonly see briefs toward the 4,000–5,000 word end of
-              the range due to the breadth of Learning Outcomes involved.
+              guidance.
             </p>
           </div>
         </details>
@@ -1356,18 +789,13 @@ const faqSchema = {
         </details>
 
         <details class="faq-item">
-          <summary class="faq-q">Which CMI Level 5 units are most commonly selected for the Diploma?</summary>
+          <summary class="faq-q">Which CMI Level 5 units are available?</summary>
           <div class="faq-a">
             <p>
-              The five most commonly selected CMI Level 5 units across all Diploma pathways are
-              Unit 501 (Managing Stakeholder Relationships), Unit 502 (Developing, Managing and
-              Leading Individuals and Teams to Achieve Success), Unit 503 (Principles of Management
-              and Leadership in an Organisational Context), Unit 504 (Managing Equality, Diversity
-              and Inclusion), and Unit 509 (Managing Finance). Unit 502 is the single most commonly
-              submitted Level 5 unit across all sectors. For NHS managers, Unit 505 (Principles of
-              Management and Leadership in Health and Social Care) is also frequently selected.
-              The CMI Level 5 Diploma requires a minimum of six units, so most students select
-              from these high-demand units as the core of their programme.
+              CMI lists 26 units at Level 5, numbered 501 to 526, from 501 Principles of Management and
+              Leadership in an Organisational Context to 526 Principles of Leadership Practice. Which ones
+              you study depends on whether you are taking the Award, Certificate or Diploma and on your
+              training provider's rules of combination.
             </p>
           </div>
         </details>
@@ -1381,8 +809,8 @@ const faqSchema = {
               with deliberate diversity: CMI ManagementDirect is a required primary source at
               Level 5; academic texts (Tuckman, Herzberg, Kotter, Lewin) provide theoretical
               grounding; peer-reviewed journal articles demonstrate research engagement; and
-              government or sector publications add contextual authority for units such as Unit 504
-              (equality legislation) or Unit 505 (NHS and Health and Social Care context). All
+              government or sector publications add contextual authority for units such as Unit 506
+              (Managing Equality, Diversity and Inclusion) or Unit 518 (Risk Management). All
               sources must appear in the text as in-text citations and in a complete reference list
               formatted to Harvard standard.
             </p>
@@ -1409,20 +837,12 @@ const faqSchema = {
         </details>
 
         <details class="faq-item">
-          <summary class="faq-q">Do you help with CMI 502 assignment specifically?</summary>
+          <summary class="faq-q">Do you help with a specific CMI Level 5 unit?</summary>
           <div class="faq-a">
             <p>
-              Yes. Unit 502 (Developing, Managing and Leading Individuals and Teams to Achieve
-              Success) is the most commonly submitted CMI Level 5 unit and one we handle with
-              a high degree of frequency. The unit requires Evaluate and Justify command verb depth
-              and typically draws on Tuckman's Team Development Stages, Belbin's Team Roles,
-              Herzberg's Two-Factor Theory, Maslow's Hierarchy of Needs, and McClelland's Acquired
-              Needs Theory. A Distinction-standard Unit 502 management report evaluates competing
-              motivational frameworks against each other, names the limitations of each model,
-              for example, Tuckman's assumption of sequential development does not reflect matrix
-              or virtual team structures, and derives SMART recommendations explicitly from the
-              evaluation. Message us on WhatsApp with your Unit 502 brief and deadline for a
-              fixed quote.
+              Yes. We cover all 26 Level 5 units, from 501 to 526. Each unit needs Evaluate and Justify
+              depth, a management report structure and SMART recommendations derived from the evaluation.
+              Message us on WhatsApp with your unit number, brief and deadline for a fixed quote.
             </p>
           </div>
         </details>
@@ -1443,7 +863,7 @@ const faqSchema = {
       <div class="supp-grid">
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/" class="supp-card">
           <h3>CMI Assignment Writing Service</h3>
-          <p>Complete management report writing for all 25 CMI Level 5 units: Evaluate and Justify depth, SMART recommendations, 10–12 Harvard sources, correctly structured executive summary.</p>
+          <p>Complete management report writing for all 26 CMI Level 5 units: Evaluate and Justify depth, SMART recommendations, 10–12 Harvard sources, correctly structured executive summary.</p>
         </a>
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/" class="supp-card">
           <h3>CMI Assignment Tutoring</h3>
@@ -1471,7 +891,7 @@ const faqSchema = {
         </a>
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/" class="supp-card">
           <h3>CMI Level 4 Assignment Help</h3>
-          <p>The Level 4 Management and Leadership qualification: all 11 units (401–411), essay and management report formats, Analyse and Evaluate command verbs.</p>
+          <p>The Level 4 Management and Leadership qualification: all 9 units (4001–4009), essay and management report formats, Analyse and Evaluate command verbs.</p>
         </a>
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-report-writing-help/" class="supp-card">
           <h3>CMI Report Writing Help</h3>
@@ -1488,7 +908,7 @@ const faqSchema = {
     <div class="container cta-inner">
       <h2 class="cta-h2">Get Your CMI Level 5 Management Report Today</h2>
       <p class="cta-sub">
-        Message us on WhatsApp with your unit number, 501 through 525, and your deadline.
+        Message us on WhatsApp with your unit number, 501 through 526, and your deadline.
         UK-based CMI Level 5 qualified writers, including NHS Band 7+ management specialists.
         Fixed quote in 2 hours.
       </p>

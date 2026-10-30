@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
+import UnitList from '../../components/UnitList.astro';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
@@ -44,85 +45,29 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      "name": "Which CMI Level 7 units are most commonly selected for the Diploma?",
+      "name": "Which CMI Level 7 units are available?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The most commonly selected CMI Level 7 Diploma units are Unit 701 (Personal and Professional Development as a Strategic Leader), Unit 702 (Ethical Organisational Leadership), Unit 704 (Strategic Risk and Resilience), Unit 705 (Strategic Management of Resources), and Unit 708 (Innovation and Change Management at a Strategic Level). These five are consistently high-demand across employer-funded Level 7 programmes. Unit 701 is almost always included as it addresses personal leadership development at strategic level. Unit 702 has increased significantly in demand due to ESG and governance requirements at director level. Unit 715 (Strategic Leadership in the Public Sector) is the most selected unit among NHS and public sector Level 7 students."
+        "text": "CMI lists 16 units at Level 7, numbered 701 to 716, from 701 Strategic Leadership to 716 Strategic Approaches to Mental Health and Wellbeing. Six Level 6 units (607, 608, 609, 610, 612 and 614) can also count towards the Level 7 qualification. The units you study depend on the Award, Certificate or Diploma you are taking and your training provider's rules of combination."
       }
     },
     {
       "@type": "Question",
-      "name": "Do you provide CMI 702 assignment help specifically?",
+      "name": "Do you provide help for a specific CMI Level 7 unit?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. CMI Unit 702 (Ethical Organisational Leadership) assignment help is one of our most requested Level 7 services. Unit 702 requires Critically Analyse and Justify at strategic depth, engaging with the academic literature on ethical leadership (Bass and Avolio, Brown and Treviño, Ciulla), corporate governance frameworks, and moral decision-making theory. Writers assigned to Unit 702 have expertise in ethical leadership research and experience producing strategic papers at postgraduate academic standard. Message us on WhatsApp with your Unit 702 brief and deadline to receive a quote within 2 hours."
+        "text": "Yes. We cover all 16 Level 7 units, from 701 Strategic Leadership to 716 Strategic Approaches to Mental Health and Wellbeing. Message us on WhatsApp with your unit number, brief and deadline to receive a quote within 2 hours."
       }
     }
   ]
 };
 
-const priorityUnits = [
-  {
-    num: "701",
-    title: "Personal and Professional Development as a Strategic Leader",
-    focus: "Strategic self-awareness, leadership identity, and CPD planning at director level. Typically the most personal unit in the Diploma, uses reflective academic format alongside critical analysis.",
-    verbs: "Critically Analyse, Evaluate",
-    frameworks: "Kolb Experiential Learning Cycle, Gibbs Reflective Cycle at strategic depth, Goleman Emotional Intelligence, leadership identity development frameworks"
-  },
-  {
-    num: "702",
-    title: "Ethical Organisational Leadership",
-    focus: "Ethical leadership theory, corporate governance, stakeholder ethics, and moral decision-making frameworks at strategic level. ESG and governance accountability for directors.",
-    verbs: "Critically Analyse, Justify",
-    frameworks: "Bass and Avolio Transformational Leadership, Brown and Treviño Ethical Leadership (2006), Ciulla Ethics and Leadership (2004), Carroll CSR Pyramid"
-  },
-  {
-    num: "704",
-    title: "Strategic Risk and Resilience",
-    focus: "Enterprise risk management at board level, resilience frameworks, strategic risk culture, and governance. Critical for directors in regulated or complex operating environments.",
-    verbs: "Critically Analyse, Develop a Strategy",
-    frameworks: "ISO 31000 Risk Management, COSO ERM Framework, Black Swan theory (Taleb), Organisational Resilience (McManus)"
-  },
-  {
-    num: "705",
-    title: "Strategic Management of Resources",
-    focus: "Strategic HRM, resource allocation at organisational level, capability development, and talent pipeline management from a director-level perspective.",
-    verbs: "Critically Analyse, Justify",
-    frameworks: "Resource-Based View (Barney, 1991), Dynamic Capabilities (Teece, Pisano and Shuen, 1997), Strategic HRM (Ulrich HR Business Partner model)"
-  },
-  {
-    num: "708",
-    title: "Innovation and Change Management at a Strategic Level",
-    focus: "Disruptive and incremental innovation, strategic change management, innovation culture, and the ambidextrous organisation. Highest-demand Level 7 innovation unit.",
-    verbs: "Critically Analyse, Develop and Implement a Strategy",
-    frameworks: "Christensen Disruptive Innovation (1997), Tidd and Bessant Managing Innovation (2018), Kotter 8-Step (evaluated critically at strategic scope), Tushman and O'Reilly Ambidextrous Organisation (1996)"
-  }
-];
 
-const allUnits = [
-  { num: "701", title: "Personal and Professional Development as a Strategic Leader", priority: true },
-  { num: "702", title: "Ethical Organisational Leadership", priority: true },
-  { num: "703", title: "Strategic Leadership and the Management of Change" },
-  { num: "704", title: "Strategic Risk and Resilience", priority: true },
-  { num: "705", title: "Strategic Management of Resources", priority: true },
-  { num: "706", title: "Strategic Finance" },
-  { num: "707", title: "Strategic Marketing" },
-  { num: "708", title: "Innovation and Change Management at a Strategic Level", priority: true },
-  { num: "709", title: "Leading Quality and Developing a Quality Culture" },
-  { num: "710", title: "Coaching and Mentoring at a Strategic Level" },
-  { num: "711", title: "Strategic Negotiations" },
-  { num: "712", title: "Strategic Communications" },
-  { num: "713", title: "Knowledge Management for Strategic Leaders" },
-  { num: "714", title: "Corporate Ethics and Social Responsibility" },
-  { num: "715", title: "Strategic Leadership in the Public Sector" },
-  { num: "716", title: "Strategic Governance" },
-  { num: "717", title: "Advancing Professional Development at a Strategic Level" },
-];
 ---
 
 <Layout
-  title="CMI Level 7 Assignment Help | Strategic Management and Leadership | All 17 Units"
-  description="Expert CMI Level 7 Strategic Management and Leadership assignment help. All 17 units (701–717) including CMI 701, 702, and 704. Strategic paper format, Critically Analyse at Master's depth, 15–20 peer-reviewed sources. Director-level UK writers."
+  title="CMI Level 7 Assignment Help | All 16 Units (701–716)"
+  description="CMI Level 7 assignment help for all 16 units (701–716). Strategic papers, Critically Analyse at Master's depth. UK-based CMI writers."
   canonical={siteUrl + '/cmi-level-7-assignment-help/'}
   pageSchema={faqSchema}
 >
@@ -133,7 +78,7 @@ const allUnits = [
       <p class="eyebrow">CMI Level 7 — Strategic Management and Leadership</p>
       <h1>CMI Level 7 Assignment Help | Strategic Management and Leadership</h1>
       <p class="hero-sub">
-        Expert assignment help for all 17 CMI Level 7 Strategic Management and Leadership units (701–717).
+        Expert assignment help for all 16 CMI Level 7 Strategic Management and Leadership units (701–716).
         Critically Analyse at Master's-equivalent depth. Strategic paper format. 15–20 peer-reviewed sources.
         Director-level and NHS Band 8+ qualified writers. WhatsApp order in minutes.
       </p>
@@ -141,7 +86,7 @@ const allUnits = [
         Get CMI Level 7 Assignment Help
       </a>
       <p class="hero-note">
-        Fixed quote within 2 hours &bull; All 17 units (701–717) &bull; Postgraduate academic standard
+        Fixed quote within 2 hours &bull; All 16 units (701–716) &bull; Postgraduate academic standard
       </p>
     </div>
   </section>
@@ -178,7 +123,7 @@ const allUnits = [
         readiness programmes.
       </p>
       <p>
-        The Level 7 Diploma covers 17 units (701–717) and is a degree-level qualification that can support an <strong>MCMI (Member)</strong> application.
+        The Level 7 Diploma covers 16 units (701–716) and is a degree-level qualification that can support an <strong>MCMI (Member)</strong> application.
         CMI's highest grade, <strong>FCMI (Fellow)</strong>, is based on 10 years' management experience,
         at least 3 at strategic level. For a detailed academic and career
         comparison, see the <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/">CMI Level 5 vs Level 7 guide</a>.
@@ -198,30 +143,21 @@ const allUnits = [
         </div>
         <div class="qual-block">
           <h3>Units Available</h3>
-          <p>17 units in total (701–717). The Diploma typically requires 6 units. Units 701, 702, 704, 705, and 708 are consistently the most selected across employer programmes.</p>
+          <p>16 units in total (701–716). The Diploma typically requires 6 units. Your training provider sets which units make up your pathway.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- All 17 Units -->
+  <!-- All 16 Units -->
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title" id="all-17-cmi-level-7-units">All 17 CMI Level 7 Units — Assignment Help by Unit</h2>
+      <h2 class="section-title" id="all-16-cmi-level-7-units">All 16 CMI Level 7 Units — Assignment Help by Unit</h2>
       <p class="section-lead">
         Assignment help is available for every CMI Level 7 unit. Message us on WhatsApp with your unit
         number and brief to receive a quote within 2 hours.
       </p>
-      <div class="units-grid">
-        {allUnits.map(u => (
-          <div class={`unit-card ${u.priority ? 'unit-priority' : ''}`}>
-            {u.priority && <span class="priority-tag">High Demand</span>}
-            <p class="unit-num">Unit {u.num}</p>
-            <p class="unit-title">{u.title}</p>
-            <p class="unit-cta"><a href={`https://www.cmiassignmenthelp.uk.com/cmi-${u.num}-assignment-help/`} class="card-link">CMI Unit {u.num} assignment help</a> &rarr;</p>
-          </div>
-        ))}
-      </div>
+      <UnitList level={7} />
     </div>
   </section>
 
@@ -317,7 +253,7 @@ const allUnits = [
           landscape as a whole</em>. The analytical ambition is larger.</p>
         </div>
       </div>
-      <h3 class="sub-h3">Worked Example — Unit 708: Innovation and Change Management at a Strategic Level</h3>
+      <h3 class="sub-h3">Worked Example — Strategic Innovation and Change</h3>
       <div class="example-grid">
         <div class="example-card example-l6">
           <p class="example-label">Level 6 Critically Evaluate Response</p>
@@ -364,7 +300,7 @@ const allUnits = [
   <section class="section">
     <div class="container narrow">
       <h2 class="section-title" id="what-a-distinction-looks-like-at-cmi-level-7">What a Distinction Looks Like at CMI Level 7</h2>
-      <p>Using Unit 702, Ethical Organisational Leadership, as a worked example:</p>
+      <p>Using an assignment on ethical organisational leadership as a worked example:</p>
       <div class="grade-grid">
         <div class="grade-card">
           <h3>Merit</h3>
@@ -396,39 +332,6 @@ const allUnits = [
   </section>
 
   <!-- Priority Units -->
-  <section class="section section-alt">
-    <div class="container">
-      <h2 class="section-title" id="priority-cmi-level-7-units">Priority CMI Level 7 Units — 701, 702, 704, 705, and 708</h2>
-      <p class="section-lead">The five highest-demand Level 7 units with subject focus, command verbs, and key theoretical frameworks.</p>
-      <div class="priority-grid">
-        {priorityUnits.map(u => (
-          <div class="priority-card">
-            <div class="priority-header">
-              <span class="priority-num">Unit {u.num}</span>
-              <h3 class="priority-title">{u.title}</h3>
-            </div>
-            <p class="priority-focus">{u.focus}</p>
-            <div class="priority-meta">
-              <div class="meta-row">
-                <span class="meta-label">Command Verbs</span>
-                <span class="meta-val">{u.verbs}</span>
-              </div>
-              <div class="meta-row">
-                <span class="meta-label">Key Frameworks</span>
-                <span class="meta-val">{u.frameworks}</span>
-              </div>
-            </div>
-          </div>
-        ))}
-      </div>
-      <div class="mid-cta">
-        <a href={whatsappUrl} class="btn btn-whatsapp" target="_blank" rel="noopener noreferrer">
-          WhatsApp Us Your Unit Number
-        </a>
-      </div>
-    </div>
-  </section>
-
   <!-- NHS Section -->
   <section class="section">
     <div class="container narrow">
@@ -446,10 +349,10 @@ const allUnits = [
         leadership.
       </p>
       <p>
-        <strong>Unit 715 (Strategic Leadership in the Public Sector)</strong> is the NHS and public
-        sector-specific optional unit, covering public sector governance, NHS accountability frameworks,
-        statutory duties, and the particular leadership challenges of managing within public service
-        constraints. It is the most commonly selected Level 7 unit among NHS students.
+        No Level 7 unit is written only for the NHS. NHS senior leaders take the same units as everyone else
+        and bring their trust's governance, workforce and service context into the assignment scenario. Unit 715,
+        Strategic Approaches to Equality and Inclusion, and Unit 716, Strategic Approaches to Mental Health and
+        Wellbeing, are the units whose subject matter sits closest to NHS workforce priorities.
       </p>
       <p>
         Writers assigned to NHS Level 7 assignments have experience at NHS Band 8+ or Board level and
@@ -533,7 +436,7 @@ const allUnits = [
         <details class="faq-item">
           <summary class="faq-q">What is the word count for a CMI Level 7 strategic paper?</summary>
           <div class="faq-a">
-            <p>The standard range is 5,000–6,500 words per unit. Some reflective units (such as Unit 701)
+            <p>The standard range is 5,000–6,500 words per unit. Some reflective units (such as Unit 714)
             specify a shorter range of 3,500–4,500 words. The word count applies to the body of the
             strategic paper. The executive summary (200–250 words), reference list, and appendices
             are excluded. Always check your specific unit brief as training providers may set variations
@@ -572,23 +475,20 @@ const allUnits = [
           </div>
         </details>
         <details class="faq-item">
-          <summary class="faq-q">Which CMI Level 7 units are most commonly selected for the Diploma?</summary>
+          <summary class="faq-q">Which CMI Level 7 units are available?</summary>
           <div class="faq-a">
-            <p>The most commonly selected are Unit 701 (Personal and Professional Development as a
-            Strategic Leader), Unit 702 (Ethical Organisational Leadership), Unit 704 (Strategic Risk
-            and Resilience), Unit 705 (Strategic Management of Resources), and Unit 708 (Innovation and
-            Change Management at a Strategic Level). Unit 715 (Strategic Leadership in the Public Sector)
-            is the most selected unit among NHS students.</p>
+            <p>CMI lists 16 units at Level 7, numbered 701 to 716, from 701 Strategic Leadership to 716 Strategic
+            Approaches to Mental Health and Wellbeing. Six Level 6 units (607, 608, 609, 610, 612 and 614) can also
+            count towards the Level 7 qualification. Which ones you study depends on whether you are taking the
+            Award, Certificate or Diploma and on your training provider's rules of combination.</p>
           </div>
         </details>
         <details class="faq-item">
-          <summary class="faq-q">Do you provide CMI 702 assignment help specifically?</summary>
+          <summary class="faq-q">Do you provide help for a specific CMI Level 7 unit?</summary>
           <div class="faq-a">
-            <p>Yes. Unit 702 (Ethical Organisational Leadership) is one of our most requested Level 7
-            services. Writers assigned to Unit 702 have expertise in ethical leadership research
-            (Bass and Avolio, Brown and Treviño, Ciulla) and experience producing strategic papers
-            at postgraduate academic standard. Message us on WhatsApp with your Unit 702 brief and
-            deadline to receive a quote within 2 hours.</p>
+            <p>Yes. We cover all 16 Level 7 units, from 701 Strategic Leadership to 716 Strategic Approaches to
+            Mental Health and Wellbeing. Message us on WhatsApp with your unit number, brief and deadline to
+            receive a quote within 2 hours.</p>
           </div>
         </details>
       </div>

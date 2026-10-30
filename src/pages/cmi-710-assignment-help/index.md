@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 710 Assignment Help | Corporate Responsibility and Sustainability"
-description: "CMI Unit 710, Corporate Responsibility and Sustainability, is the Level 7 unit that requires directors and senior leaders to Critically Analyse the theoretic..."
+title: "CMI Unit 710 Assignment Help | Marketing Strategy"
+description: "CMI Unit 710, Marketing Strategy: Level 7 assignment help from UK-based CMI-qualified writers. Fixed quote in 2 hours on WhatsApp."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-710-assignment-help/"
 headerImage: "/images/headers/cmi-710-assignment-help.webp"
-headerImageAlt: "CMI Unit 710 Assignment Help — Corporate Responsibility and Sustainability"
+headerImageAlt: "CMI Unit 710 Assignment Help — Marketing Strategy"
 ---
 
-# CMI Unit 710 Assignment Help | Corporate Responsibility and Sustainability
+# CMI Unit 710 Assignment Help | Marketing Strategy
 
 CMI Unit 710, Corporate Responsibility and Sustainability, is the Level 7 unit that requires directors and senior leaders to Critically Analyse the theoretical foundations of corporate social responsibility, Carroll's pyramid, Freeman's stakeholder theory, Elkington's triple bottom line, and Porter and Kramer's Creating Shared Value. The academic debate at the heart of this unit is whether CSR is an ethical obligation that constrains business strategy, or a strategic instrument that firms deploy in their own interests, and whether Porter and Kramer's CSV framework genuinely advances beyond CSR or simply repackages it with commercial framing. Strategic leaders in NHS, public sector, and commercial contexts all study this unit, but the application contexts differ significantly. If you need expert support with Unit 710, message us on WhatsApp for a same-day consultation. This unit is part of [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), covering all 17 Level 7 units.
 
@@ -97,7 +97,7 @@ The [CIPD's coaching and mentoring factsheet](https://www.cipd.org/uk/knowledge/
 
 ## Related CMI Assignment Help
 
-- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Developing and Implementing Strategy: Barney RBV, Teece dynamic capabilities, Porter competitive positioning
-- [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Engaging Stakeholders and Building Relationships: Mitchell, Agle & Wood salience model, Granovetter weak ties
-- [CMI 707 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-707-assignment-help/), Finance for Strategic Leaders: Jensen & Meckling agency theory, shareholder vs stakeholder value debate
-- [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Strategic Approaches to Health, Wellbeing and Inclusion: Marmot, Seligman PERMA, NHS People Plan
+- [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Collaboration and Partnerships (Level 7)
+- [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Entrepreneurial Practice (Level 7)
+- [CMI 706 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/), Finance for Strategic Leaders (Level 7)
+- [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Strategic Approaches to Equality and Inclusion (Level 7)

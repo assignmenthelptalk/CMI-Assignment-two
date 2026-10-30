@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 311 Assignment Help | Managing a Project"
-description: "CMI Unit 311, Managing a Project, covers the first-line manager's role in planning and delivering a defined project — from identifying objectives and plannin..."
+title: "CMI Unit 311 Assignment Help"
+description: "CMI Unit 311, Contributing to the Delivery of a Project: Level 3 assignment help from UK-based CMI-qualified writers. Fixed quote in 2 hours on WhatsApp."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/"
 headerImage: "/images/headers/cmi-311-assignment-help.webp"
-headerImageAlt: "CMI Unit 311 Assignment Help — Managing a Project"
+headerImageAlt: "CMI Unit 311 Assignment Help — Contributing to the Delivery of a Project"
 ---
 
-# CMI Unit 311 Assignment Help | Managing a Project
+# CMI Unit 311 Assignment Help | Contributing to the Delivery of a Project
 
 CMI Unit 311, Managing a Project, covers the first-line manager's role in planning and delivering a defined project, from identifying objectives and planning the work through to monitoring progress, managing risks, and reporting on outcomes. Submitted as a structured essay at Describe and Explain command verb depth, it applies project lifecycle frameworks, basic project planning tools (Gantt chart, stakeholder communication), and risk management at a level appropriate for small-to-medium operational projects. Team leaders and supervisors who have been given responsibility for a defined piece of project work, a team move, a system implementation, a process improvement, a service launch, find this unit directly applicable. If you need support with Unit 311, message us on WhatsApp for a same-day quote. This unit is part of [CMI Level 3 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), covering all 12 Level 3 units.
 
@@ -96,7 +96,7 @@ The [Equality and Human Rights Commission](https://www.equalityhumanrights.com/)
 
 ## Related CMI Assignment Help
 
-- [CMI 305 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/), Building Stakeholder Relationships: stakeholder mapping and communication planning applicable to project context
-- [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Managing a Budget: financial management of project budget
-- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results: team management during project execution
+- [CMI 305 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/), Building Stakeholder Relationships using Effective Communication (Level 3)
+- [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Supporting Teams and Individuals through Change (Level 3)
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3)
 - [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

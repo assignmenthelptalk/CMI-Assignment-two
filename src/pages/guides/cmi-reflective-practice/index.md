@@ -17,9 +17,9 @@ Reflective practice is the deliberate process of thinking critically about a pro
 
 CMI reflective accounts appear most commonly at:
 
-**Level 5, Unit 513 (Developing and Continuing Professional Practice):** a management report or structured reflective account applying a recognised reflective framework (Gibbs or Kolb) to a professional development experience, evaluated against CPD principles.
+**Level 5, Unit 525 (Using Reflective Practice to Inform Personal and Professional Development):** a management report or structured reflective account applying a recognised reflective framework (Gibbs or Kolb) to a professional development experience, evaluated against CPD principles.
 
-**Level 7, Unit 701 (Personal and Professional Development as a Strategic Leader):** a strategic paper applying reflective frameworks at Critically Analyse depth, requiring engagement with the theoretical debate about what constitutes effective development at strategic leadership level.
+**Level 7, Unit 714 (Personal and Professional Development for Strategic Leaders):** a strategic paper applying reflective frameworks at Critically Analyse depth, requiring engagement with the theoretical debate about what constitutes effective development at strategic leadership level.
 
 The same event described in a CPD log and described in a CMI reflective account are two different documents. A CPD log is informal and developmental, its purpose is personal growth. A CMI reflective account is an assessed academic document. It must demonstrate the correct command verb depth, cite theoretical frameworks by author and year, align to explicit Learning Outcomes, and reach transferable development conclusions that go beyond narrative description.
 
@@ -59,7 +59,7 @@ David Kolb's Experiential Learning Cycle, published in *Experiential Learning: E
 
 Gibbs' model is more structured and stages-explicit. It works well when the student needs a clear framework to organise their reflection and is writing their first formal reflective account.
 
-Kolb's model is more theoretically powerful as a conceptual lens, particularly at Level 7 (Unit 701), where the student must critically engage with the reflective frameworks themselves. Kolb (1984) can be applied to the question: how do strategic leaders learn from experience, and what are the conditions that enable Abstract Conceptualisation rather than remaining at Reflective Observation?
+Kolb's model is more theoretically powerful as a conceptual lens, particularly at Level 7 (Unit 714), where the student must critically engage with the reflective frameworks themselves. Kolb (1984) can be applied to the question: how do strategic leaders learn from experience, and what are the conditions that enable Abstract Conceptualisation rather than remaining at Reflective Observation?
 
 At Critically Analyse depth for Level 7, the student does not merely apply Kolb's cycle to an experience, they engage with what Kolb (1984) claimed and where the evidence for it is limited (descriptive rather than prescriptive; the associated learning styles inventory has low test-retest reliability). This is distinct from a Level 5 application.
 
@@ -67,7 +67,7 @@ At Critically Analyse depth for Level 7, the student does not merely apply Kolb'
 
 **Step 1, Choose your scenario**: Select a real management or leadership experience from your professional context. The scenario should be substantial enough to support analytical depth, a routine meeting does not provide sufficient material; a change implementation, team performance challenge, or significant development conversation does.
 
-**Step 2, Choose your framework**: Gibbs (1988) for Level 5 Unit 513 reflective accounts; Kolb (1984) or Gibbs with Argyris and Schön (1978) double-loop framing for Level 7 Unit 701.
+**Step 2, Choose your framework**: Gibbs (1988) for Level 5 Unit 525 reflective accounts; Kolb (1984) or Gibbs with Argyris and Schön (1978) double-loop framing for Level 7 Unit 714.
 
 **Step 3, Structure your document using framework stages as sections**: Each Gibbs stage becomes a headed section. This ensures the assessor can clearly see the framework applied and the progression from description through to analysis and action.
 
@@ -97,13 +97,13 @@ Students who write their CMI reflective account as a CPD diary entry almost alwa
 
 **Level 5, Evaluate**: You must assess the strengths and weaknesses of what happened and WHY they arose. "This approach was effective in the short term because it addressed the team's immediate safety concerns (Maslow, 1943) by reinstating clarity about roles and responsibilities. However, it failed to address the underlying motivation deficit identified by Herzberg (1959), the lack of growth opportunities and recognition, which means the performance improvement is likely to be temporary." This is Evaluate, you are judging the situation with theoretical backing and reaching a conclusion about why.
 
-**Level 7, Critically Analyse**: You are not just applying frameworks, you are interrogating them. Argyris and Schön (1978) distinguish single-loop learning (correcting errors within existing governing variables) from double-loop learning (questioning the governing variables themselves). A Critically Analyse reflective account for Unit 701 asks: does my reflection operate at single-loop or double-loop depth? If I revised my briefing technique (single loop) without questioning whether the performance management framework I was operating within was producing the right outcomes (double loop), my learning remains operationally useful but strategically limited.
+**Level 7, Critically Analyse**: You are not just applying frameworks, you are interrogating them. Argyris and Schön (1978) distinguish single-loop learning (correcting errors within existing governing variables) from double-loop learning (questioning the governing variables themselves). A Critically Analyse reflective account for Unit 714 asks: does my reflection operate at single-loop or double-loop depth? If I revised my briefing technique (single loop) without questioning whether the performance management framework I was operating within was producing the right outcomes (double loop), my learning remains operationally useful but strategically limited.
 
 ## CMI Reflective Practice — Common Questions
 
 **Which model, Gibbs or Kolb, should I use for my CMI assignment?**
 
-For Level 5 Unit 513, Gibbs (1988) is the more commonly appropriate choice, its staged structure provides a clear framework for a formal reflective account and is explicitly referenced in many unit briefs. For Level 7 Unit 701, Kolb (1984) is valuable as a theoretical lens, particularly combined with Argyris and Schön (1978). Check your unit brief, some awarding centres specify which framework to use.
+For Level 5 Unit 525, Gibbs (1988) is the more commonly appropriate choice, its staged structure provides a clear framework for a formal reflective account and is explicitly referenced in many unit briefs. For Level 7 Unit 714, Kolb (1984) is valuable as a theoretical lens, particularly combined with Argyris and Schön (1978). Check your unit brief, some awarding centres specify which framework to use.
 
 **Can I use first person in a CMI assignment?**
 
@@ -111,7 +111,7 @@ Yes, reflective accounts are the one CMI format where first-person writing is no
 
 **How long should a CMI reflective account be?**
 
-Level 5 Unit 513 reflective accounts are typically 1,500–3,000 words. Level 7 Unit 701 strategic papers are typically 3,000–5,000 words. Word count guidance is in your unit brief, follow it, as going significantly over or under can affect the assessment.
+Level 5 Unit 525 reflective accounts are typically 1,500–3,000 words. Level 7 Unit 714 strategic papers are typically 3,000–5,000 words. Word count guidance is in your unit brief, follow it, as going significantly over or under can affect the assessment.
 
 **What is the difference between a CMI reflective account and a management report?**
 
@@ -125,8 +125,8 @@ The [CIPD's CPD guidance](https://www.cipd.org/uk/knowledge/factsheets/cpd-facts
 
 ## Related CMI Assignment Support
 
-- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Unit 513 (reflective account) is one of 25 Level 5 units, full Level 5 support across all units and the management report format
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Unit 701 (Personal and Professional Development as a Strategic Leader) at Critically Analyse depth, strategic paper format, Argyris and Schön, Kolb and Goleman at primary source level
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Unit 525 (reflective account) is one of 26 Level 5 units, full Level 5 support across all units and the management report format
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Unit 714 (Personal and Professional Development for Strategic Leaders) at Critically Analyse depth, strategic paper format, Argyris and Schön, Kolb and Goleman at primary source level
 - [CMI Assignment Tutoring](https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/), Expert guidance for students writing their own reflective account, framework selection, structure planning, command verb coaching
 - [CMI Assignment Structure Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/), How every CMI assignment format is structured, section by section
 
@@ -134,10 +134,8 @@ The [CIPD's CPD guidance](https://www.cipd.org/uk/knowledge/factsheets/cpd-facts
 
 Unit-level support for the units most relevant to this guide:
 
-- [CMI Unit 402 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-402-assignment-help/): Managing and Developing Self (Level 4)
-- [CMI Unit 513 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/): Developing and Continuing Professional Practice (Level 5)
-- [CMI Unit 525 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-525-assignment-help/): Using Reflective Practice for CPD (Level 5)
-- [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Personal and Professional Development as a Strategic Leader (Level 7)
+- [CMI Unit 714 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-714-assignment-help/): Personal and Professional Development for Strategic Leaders (Level 7)
+- [CMI Unit 525 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-525-assignment-help/): Using Reflective Practice to Inform Personal and Professional Development (Level 5)
 
 ## Related CMI Guides
 

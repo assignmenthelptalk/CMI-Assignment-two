@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 712 Assignment Help | Strategic Communication"
-description: "CMI Unit 712, Strategic Communication, is the Level 7 unit that examines how strategic leaders construct, frame, and deliver communication at organisational ..."
+title: "CMI Unit 712 Assignment Help | Strategic Management Project"
+description: "CMI Unit 712, Strategic Management Project: Level 7 assignment help from UK-based CMI-qualified writers. Fixed quote in 2 hours on WhatsApp."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/"
 headerImage: "/images/headers/cmi-712-assignment-help.webp"
-headerImageAlt: "CMI Unit 712 Assignment Help — Strategic Communication"
+headerImageAlt: "CMI Unit 712 Assignment Help — Strategic Management Project"
 ---
 
-# CMI Unit 712 Assignment Help | Strategic Communication
+# CMI Unit 712 Assignment Help | Strategic Management Project
 
 CMI Unit 712, Strategic Communication, is the Level 7 unit that examines how strategic leaders construct, frame, and deliver communication at organisational and system level, and why communication so consistently fails to produce the intended strategic effect. Written as a strategic paper at Critically Analyse depth, it requires engagement with Smythe's CEO communication framework, Cornelissen's integrated corporate communication model, Aristotle's rhetoric, and Goffman's dramaturgical analysis. The central debate is whether strategic communication is a message-management exercise (control) or a meaning-creation process (engagement). NHS directors, transformation leads, and board-level executives find this unit connects directly to the most persistent leadership frustration, communicating strategic change to clinical and non-clinical staff and encountering compliance without commitment. If you need expert support with Unit 712, message us on WhatsApp. This unit is part of [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), covering all 17 Level 7 units.
 
@@ -101,7 +101,7 @@ The [CIPD's communications factsheet](https://www.cipd.org/uk/knowledge/factshee
 
 ## Related CMI Assignment Help
 
-- [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Leading Strategic Change: Weick sensemaking, Beer & Nohria Theory E vs Theory O, the change communication context
-- [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Engaging Stakeholders and Building Relationships: Cialdini influence, Granovetter weak ties, stakeholder engagement as communication challenge
-- [CMI 713 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/), Workforce Planning and Organisational Design: Ulrich & Brockbank HR communication, Gratton future of work
-- [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Understanding and Leading Organisational Change (Level 5): Schein's culture model, Kotter & Schlesinger resistance management
+- [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Leading Strategic Change (Level 7)
+- [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Entrepreneurial Practice (Level 7)
+- [CMI 713 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/), Applied Research for Strategic Leaders (Level 7)
+- [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Principles of Innovation (Level 5)

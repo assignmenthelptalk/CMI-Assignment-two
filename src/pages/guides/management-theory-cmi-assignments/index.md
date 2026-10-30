@@ -35,8 +35,6 @@ Blake and Mouton's Managerial Grid plots leadership style on two axes: concern f
 - **Middle-of-the-Road Management (5,5)**: moderate concern for both
 - **Team Management (9,9)**: high concern for both, the model's ideal style
 
-**Units where it appears**: Unit 303 (Principles of Leadership Practice), Unit 401 (Management and Leadership Approaches).
-
 **At Analyse depth (Level 4)**: Apply the grid to your management context. Identify which style your practice most reflects and analyse why, what situational factors, team characteristics, or organisational pressures have shaped your position on the grid?
 
 **Limitation (for Distinction at Level 4)**: The grid assumes Team Management (9,9) is universally optimal, but situational leadership theory (Hersey and Blanchard, 1969) argues that the appropriate style depends on follower readiness, different contexts require different positions on the grid.
@@ -48,8 +46,6 @@ Tannenbaum and Schmidt's Leadership Continuum describes a spectrum of leadership
 **Tells → Sells → Tests → Consults → Joins → Delegates → Abdicates**
 
 At the autocratic end, the manager makes decisions and announces them. At the democratic end, the manager permits the team to function within defined limits.
-
-**Units where it appears**: Unit 303, Unit 401, Unit 501.
 
 **At Analyse depth (Level 4)**: Explain which point on the continuum was most appropriate to your management context and why, what factors (team experience, task urgency, individual capability) influenced the appropriate position?
 
@@ -65,8 +61,6 @@ Bruce Tuckman's Team Development Model proposes that teams progress through pred
 
 *Note*: Adjourning was added by Tuckman and Jensen in 1977, the original 1965 paper (*Psychological Bulletin*, 63(6)) described only four stages. Cite as Tuckman (1965, 1977) when referencing the five-stage model.
 
-**Units where it appears**: Unit 502 (Developing, Managing and Leading Individuals).
-
 **At Evaluate depth (Level 5)**: Evaluate how effectively the team progressed through stages. Identify which stage the team is currently in, with evidence. Assess what management interventions supported or impeded progression. Reach a conclusion about what the team needs next.
 
 **Limitation (for Distinction at Level 5)**: Tuckman's model assumes linear progression, that teams move sequentially from Forming to Performing. In practice, teams frequently regress to earlier stages when membership changes, tasks change, or organisational pressure disrupts established norms. A team that has reached Performing may return to Storming when a key member joins or leaves.
@@ -81,8 +75,6 @@ Meredith Belbin's Team Role model identifies nine roles in three categories:
 
 **Thinking roles**: Plant (generates creative ideas), Monitor-Evaluator (analyses options critically), Specialist (provides expertise in a specific domain)
 
-**Units where it appears**: Unit 502.
-
 **At Evaluate depth (Level 5)**: Evaluate which roles are present and absent in the team. Assess the impact of role gaps on team performance. Reach a conclusion about which missing roles most limit current team effectiveness.
 
 **Limitation (for Distinction at Level 5)**: Belbin roles are identified through self-report questionnaires, which are subject to social desirability bias, team members may report preferred roles rather than actual behaviour. individuals can adopt different roles in different contexts, making stable role assignment less reliable than the model implies.
@@ -95,8 +87,6 @@ Frederick Herzberg's Two-Factor Theory distinguishes between hygiene factors (wh
 
 **Motivators** (6): Achievement, recognition, the work itself, responsibility, advancement, growth
 
-**Units where it appears**: Unit 502, Unit 504.
-
 **At Evaluate depth (Level 5)**: Evaluate whether the management interventions in the scenario address hygiene factors or motivators. Reach a conclusion about whether addressing hygiene issues alone is sufficient to produce sustained motivation improvement.
 
 **Limitation (for Distinction at Level 5)**: Herzberg's original research was conducted with engineers and accountants in the 1950s United States. The two-factor model has been challenged on cultural applicability, what constitutes a hygiene factor or motivator varies across cultural and professional contexts. In NHS or public sector contexts, factors such as purpose and patient or community impact may constitute motivators not fully captured in Herzberg's original six.
@@ -104,8 +94,6 @@ Frederick Herzberg's Two-Factor Theory distinguishes between hygiene factors (wh
 ### Maslow (1943) — Hierarchy of Needs
 
 Abraham Maslow's Hierarchy of Needs proposes five levels of human motivation arranged hierarchically, from physiological needs (food, safety, shelter) through safety, love and belonging, esteem, to self-actualisation at the apex.
-
-**Units where it appears**: Units 502, 504, 506.
 
 **At Evaluate depth (Level 5)**: Evaluate which need level the management context most requires to be addressed and why. Assess whether organisational conditions currently meet lower-level needs (thereby enabling focus on higher-level motivators) or whether unmet safety or belonging needs are limiting performance.
 
@@ -124,8 +112,6 @@ John Kotter's *Leading Change* (Harvard Business School Press, 1996) proposes ei
 7. Sustain acceleration
 8. Institute change
 
-**Units where it appears**: Units 501, 503, 506, 508.
-
 **At Evaluate depth (Level 5)**: Evaluate how effectively each step was applied in the change scenario. Identify which steps were most and least effectively executed, with evidence. Reach a conclusion about what the change process most needed.
 
 **Limitation (for Distinction at Level 5)**: Kotter's model is sequential and implies that change follows a managed linear process. Critics, including Kotter himself in later work, acknowledge that change in complex organisations is more iterative and emergent than the eight-step sequence suggests. The model also focuses on leadership-driven change and underweights middle management and front-line engagement in change adoption.
@@ -142,8 +128,6 @@ Robert Kaplan and David Norton's Balanced Scorecard provides a performance measu
 
 **Learning and Growth**: employee capability development, information systems, organisational alignment
 
-**Units where it appears**: Unit 509 (Financial Management for Managers), Unit 506.
-
 **At Evaluate depth (Level 5)**: Evaluate whether the organisation's performance management approach addresses all four perspectives or is over-reliant on financial metrics. Assess what is lost when non-financial perspectives are under-measured.
 
 **Limitation (for Distinction at Level 5)**: In public sector and NHS contexts, the Financial and Customer perspectives require translation, "customer" becomes "patient" or "service user," and financial performance is constrained by block contracts and tariff rather than market pricing. The Balanced Scorecard's private-sector framing does not directly transfer to NHS performance management without adaptation.
@@ -158,15 +142,11 @@ Michael Beer and Nitin Nohria's (2000) framework distinguishes two theories of o
 
 **Theory O** (Organisational Capability): change driven by building organisational capabilities, culture, and employee commitment through bottom-up participation and long-term development. Slow, soft, capability-focused.
 
-**Units where it appears**: Unit 603 (Leading Organisational Change and Development).
-
 **At Critically Evaluate depth (Level 6)**: Evaluate the assumption that Theory E and Theory O approaches are compatible within a single change programme. Beer and Nohria (2000) argue they can be sequenced or integrated, but critically evaluate what happens when financial pressure (Theory E) conflicts with capability-building timelines (Theory O). Identify the conditions under which each is appropriate.
 
 ### Porter (1980) — Five Forces
 
 Michael Porter's Five Forces framework analyses industry competitive dynamics across five factors: threat of new entrants, bargaining power of suppliers, bargaining power of buyers, threat of substitutes, and intensity of competitive rivalry.
-
-**Units where it appears**: Unit 603, Unit 612 (Developing Organisational Strategy).
 
 **At Critically Evaluate depth (Level 6)**: Evaluate the framework's assumptions. Porter's model assumes a stable, bounded industry structure where competitive forces can be mapped with reasonable precision. Critically evaluate its applicability to industries undergoing rapid digital disruption, where platform economics fundamentally alter buyer power, threat of substitution, and industry boundary definition simultaneously.
 
@@ -174,11 +154,11 @@ Michael Porter's Five Forces framework analyses industry competitive dynamics ac
 
 At Level 7, frameworks must be engaged at primary source level, not through textbook summaries. Three frameworks receive full treatment in the dedicated unit pages.
 
-**Bass and Avolio (1994), Full Range Leadership Model** (Unit 702): Four I's of transformational leadership engaged at source. Central Critically Analyse debate: is transformational leadership inherently ethical? Requires engagement with Brown and Treviño (2003) and Ciulla (2004). [→ See CMI Unit 702 assignment help]
+**Bass and Avolio (1994), Full Range Leadership Model**: Four I's of transformational leadership engaged at source. Central Critically Analyse debate: is transformational leadership inherently ethical? Requires engagement with Brown and Treviño (2003) and Ciulla (2004). [→ See CMI Unit 702 assignment help]
 
-**Barney (1991) VRIO and Teece et al. (1997) Dynamic Capabilities** (Unit 705): The RBV vs Dynamic Capabilities debate. Barney (1991) in *Journal of Management* 17(1) vs Teece, Pisano and Shuen (1997) in *Strategic Management Journal* 18(7). Central Critically Analyse debate: static resource advantage vs dynamic reconfiguration ability. [→ See CMI Unit 705 assignment help]
+**Barney (1991) VRIO and Teece et al. (1997) Dynamic Capabilities**: The RBV vs Dynamic Capabilities debate. Barney (1991) in *Journal of Management* 17(1) vs Teece, Pisano and Shuen (1997) in *Strategic Management Journal* 18(7). Central Critically Analyse debate: static resource advantage vs dynamic reconfiguration ability. [→ See CMI Unit 705 assignment help]
 
-**Christensen (1997) and Tidd and Bessant (2018)** (Unit 708): Disruptive innovation theory vs manageable innovation conditions. Central debate: can disruption be managed or does structural logic defeat incumbents? Tushman and Anderson (1986) competence-destroying discontinuity adds empirical depth. [→ See CMI Unit 708 assignment help]
+**Christensen (1997) and Tidd and Bessant (2018)**: Disruptive innovation theory vs manageable innovation conditions. Central debate: can disruption be managed or does structural logic defeat incumbents? Tushman and Anderson (1986) competence-destroying discontinuity adds empirical depth. [→ See CMI Unit 708 assignment help]
 
 ## How to Include Framework Limitations for CMI Distinction
 
@@ -195,7 +175,7 @@ This three-part structure transforms a generic observation into an Evaluate or C
 
 **Which management theory should I use for CMI Unit 502?**
 
-Unit 502 (Developing, Managing and Leading Individuals) most commonly draws on Tuckman (1965, 1977) for team development, Belbin (1981) for team roles, and Herzberg (1959) or Maslow (1943) for motivation. Most Unit 502 assignments use two or three of these frameworks. The command verb is Evaluate, apply each framework to your specific team context and reach a supported conclusion about what the team needs.
+Unit 502 (Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success) most commonly draws on Tuckman (1965, 1977) for team development, Belbin (1981) for team roles, and Herzberg (1959) or Maslow (1943) for motivation. Most Unit 502 assignments use two or three of these frameworks. The command verb is Evaluate, apply each framework to your specific team context and reach a supported conclusion about what the team needs.
 
 **Do I need to include limitations of frameworks in my CMI assignment?**
 
@@ -207,7 +187,7 @@ Applying a theory means using it as an analytical lens, "According to Tuckman (1
 
 **Can I use the same framework across multiple CMI units?**
 
-Yes, but application must be different for each unit. Kotter (1996) applied in Unit 506 (Managing Change) will analyse a different scenario and reach different conclusions than Kotter (1996) applied in Unit 503 (Managing Individual Development). The framework is the same; the analytical content must be unit-specific.
+Yes, but application must be different for each unit. Kotter (1996) applied in Unit 514 (Managing Change) will analyse a different scenario and reach different conclusions than Kotter (1996) applied in Unit 502 (Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success). The framework is the same; the analytical content must be unit-specific.
 
 **How do I cite management theories in a CMI assignment?**
 
@@ -219,12 +199,12 @@ Send your unit brief and the scenario you are working with via WhatsApp. A write
 
 ## CMI Unit Assignment Help — By Framework
 
-- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Tuckman, Belbin, Herzberg, Maslow at Evaluate depth
-- [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Blake Mouton, Tannenbaum-Schmidt, Kotter at Evaluate depth
-- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Bass and Avolio (1994) at Critically Analyse depth
-- [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Barney (1991) and Teece et al. (1997) at Critically Analyse depth
-- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 25 Level 5 units, management report format, Evaluate depth
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse depth
+- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5)
+- [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Principles of Management and Leadership in an Organisational Context (Level 5)
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7)
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7)
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 26 Level 5 units, management report format, Evaluate depth
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 16 Level 7 units, strategic paper format, Critically Analyse depth
 
 The [Harvard Business Review](https://hbr.org/topic/management) publishes peer-reviewed management research and practitioner case studies that represent the academic standard expected in CMI assignments at Level 5 and above.
 
@@ -232,11 +212,11 @@ The [Harvard Business Review](https://hbr.org/topic/management) publishes peer-r
 
 Unit-level support for the units most relevant to this guide:
 
-- [CMI Unit 303 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/): Managing Individuals to be Effective in their Roles (Level 3)
-- [CMI Unit 401 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-401-assignment-help/): Managerial and Leadership Qualities and Behaviours (Level 4)
-- [CMI Unit 506 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/): Managing Change (Level 5)
-- [CMI Unit 603 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/): Leading Organisational Change (Level 6)
-- [CMI Unit 708 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/): Strategic Approaches to Innovation and Change (Level 7)
+- [CMI Unit 303 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/): Managing Individuals to be Effective in their Role (Level 3)
+- [CMI Unit 4001 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/): Managerial Styles and Behaviours (Level 4)
+- [CMI Unit 514 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/): Managing Change (Level 5)
+- [CMI Unit 603 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/): Organisational Culture (Level 6)
+- [CMI Unit 708 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/): Strategic Risk Management (Level 7)
 
 ## Related CMI Guides
 

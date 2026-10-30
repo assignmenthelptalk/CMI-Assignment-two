@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 307 Assignment Help | Developing the Knowledge, Skills and Abilities of Individuals and Teams"
-description: "CMI Unit 307, Developing the Knowledge, Skills and Abilities of Individuals and Teams, covers the first-line manager's responsibility for identifying develop..."
+title: "CMI Unit 307 Assignment Help"
+description: "CMI Unit 307 assignment help (Level 3). UK-based CMI-qualified writers, fixed quote in 2 hours on WhatsApp."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/"
 headerImage: "/images/headers/cmi-307-assignment-help.webp"
 headerImageAlt: "CMI Unit 307 Assignment Help — Developing the Knowledge, Skills and Abilities of Individuals and Teams"
@@ -97,7 +97,7 @@ The [Chartered Management Institute](https://www.managers.org.uk/) publishes ope
 
 ## Related CMI Assignment Help
 
-- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals: motivation theory including development as a motivator (Herzberg)
-- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results: team development in addition to individual development
-- [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Managing Equality, Diversity and Inclusion: equal access to development opportunities
+- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3)
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3)
+- [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Principles of Equality, Diversity and Inclusive Working Practice (Level 3)
 - [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

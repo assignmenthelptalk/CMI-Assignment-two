@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
+import UnitList from '../../components/UnitList.astro';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
@@ -10,7 +11,7 @@ const serviceSchema = {
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "CMI Level 3 Assignment Help",
-  "description": "Expert CMI Level 3 First Line Management assignment help. All 12 units (301–312) covered. Structured essay format, Identify/Describe/Explain command verbs, 5–8 Harvard sources. UK-based CMI writers.",
+  "description": "Expert CMI Level 3 First Line Management assignment help. All 21 units (301–321) covered. Structured essay format, Identify/Describe/Explain command verbs, 5–8 Harvard sources. UK-based CMI writers.",
   "provider": {
     "@type": "Organization",
     "name": "CMI Assignment Help UK",
@@ -26,32 +27,18 @@ const faqSchema = {
   "@type": "FAQPage",
   "mainEntity": [
     { "@type": "Question", "name": "What is the word count for a CMI Level 3 assignment?", "acceptedAnswer": { "@type": "Answer", "text": "CMI Level 3 assignments are typically 1,500 to 2,500 words per unit. The exact figure is set by your training provider's assignment brief. Word count usually excludes the reference list and any appendices." } },
-    { "@type": "Question", "name": "Which CMI Level 3 units are most commonly selected?", "acceptedAnswer": { "@type": "Answer", "text": "Units 301 (Principles of Management and Leadership), 302 (Managing a Team to Achieve Results), and 303 (Managing Individuals to be Effective in their Roles) form the core of most Level 3 Diploma pathways, alongside 304 and 306 for communication and equality-focused roles." } },
+    { "@type": "Question", "name": "Which CMI Level 3 units are available?", "acceptedAnswer": { "@type": "Answer", "text": "CMI lists 21 units at Level 3, numbered 301 to 321, from 301 Principles of Management and Leadership to 321 Managing Own Personal and Professional Development. The units you study depend on the Award, Certificate or Diploma you are taking and the rules of combination your training provider follows." } },
     { "@type": "Question", "name": "Do CMI Level 3 assignments use management report or essay format?", "acceptedAnswer": { "@type": "Answer", "text": "Structured essay format. The management report format used at Level 5 and above does not apply at Level 3. A Level 3 essay has an introduction, body paragraphs following a point-evidence-evaluation-link structure, and a conclusion, no executive summary or recommendations section." } },
     { "@type": "Question", "name": "How many sources are needed for a CMI Level 3 assignment?", "acceptedAnswer": { "@type": "Answer", "text": "A minimum of 5 to 8 Harvard-referenced sources per unit, including CMI ManagementDirect content alongside academic texts, with every source cited in-text and listed in a complete Harvard-format reference list." } },
     { "@type": "Question", "name": "Can I get help with a CMI Level 3 resubmission after a Referral?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Send your original submission, the assessor feedback, and your unit brief via WhatsApp. Resubmission support identifies exactly which Learning Outcomes were marked as not met and what must change in the rewrite." } }
   ]
 };
 
-const units = [
-  { num: '301', title: 'Principles of Management and Leadership', desc: 'Foundational leadership theory and the distinction between management and leadership functions. The most commonly selected Level 3 unit.', priority: true },
-  { num: '302', title: 'Managing a Team to Achieve Results', desc: 'Team development, goal-setting, and performance monitoring. Frequently uses Tuckman’s stages of team development.', priority: true },
-  { num: '303', title: 'Managing Individuals to be Effective in their Roles', desc: 'Individual performance management, motivation theory, and one-to-one management practice. Maslow’s Hierarchy of Needs is a common framework.', priority: true },
-  { num: '304', title: 'Principles of Communication in the Workplace', desc: 'Communication models, barriers to effective communication, and communication planning at team level.' },
-  { num: '305', title: 'Building Stakeholder Relationships Using Effective Communication', desc: 'Stakeholder identification and communication strategy tailored to different stakeholder groups.' },
-  { num: '306', title: 'Managing Equality, Diversity and Inclusion', desc: 'Foundational equality legislation and the first-line manager’s role in embedding inclusive practice.' },
-  { num: '307', title: 'Developing the Knowledge, Skills and Abilities of Individuals and Teams', desc: 'Training needs analysis and development planning for direct reports.' },
-  { num: '308', title: 'Managing Volunteers', desc: 'The distinct challenges of managing an unpaid workforce, relevant to charity and community sector students.' },
-  { num: '309', title: 'Introduction to Sales Management', desc: 'Foundational sales team management, relevant to commercial and retail sector students.' },
-  { num: '310', title: 'Managing a Budget', desc: 'Budget monitoring and variance reporting at team level.' },
-  { num: '311', title: 'Managing a Project', desc: 'Basic project planning tools and the first-line manager’s role in project delivery.' },
-  { num: '312', title: 'Managing Data and Information', desc: 'Data handling, GDPR awareness, and information management at team level.' },
-];
 ---
 
 <Layout
-  title="CMI Level 3 Assignment Help | First Line Management | All 12 Units"
-  description="Expert CMI Level 3 assignment help for the First Line Management qualification. All 12 units (301–312) covered. Structured essay format, Describe and Explain command verbs, 5–8 Harvard sources. UK-based CMI writers."
+  title="CMI Level 3 Assignment Help | All 21 Units (301–321)"
+  description="CMI Level 3 assignment help for all 21 units (301–321). Structured essays, Describe and Explain verbs. UK-based CMI writers, quote in 2 hours."
   canonical={siteUrl + '/cmi-level-3-assignment-help/'}
   pageSchema={[serviceSchema, faqSchema]}
 >
@@ -61,14 +48,14 @@ const units = [
       <p class="eyebrow">UK-Based CMI Writers &bull; First Line Management Specialists</p>
       <h1>CMI Level 3 Assignment Help | First Line Management</h1>
       <p class="hero-sub">
-        All 12 units (301–312) covered. Structured essay format, Identify, Describe, and Explain
+        All 21 units (301–321) covered. Structured essay format, Identify, Describe, and Explain
         command verbs, 5–8 Harvard sources. Written for team leaders, supervisors, and first-line
         managers by UK-based CMI-qualified writers. Fixed quote in 2 hours.
       </p>
       <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
         Get CMI Level 3 Assignment Help
       </a>
-      <p class="hero-note">Fixed quote in 2 hours &bull; All 12 Level 3 units &bull; Award, Certificate, and Diploma</p>
+      <p class="hero-note">Fixed quote in 2 hours &bull; All 21 Level 3 units &bull; Award, Certificate, and Diploma</p>
     </div>
   </section>
 
@@ -96,7 +83,7 @@ const units = [
       <p>
         The qualification is built for team leaders, supervisors, and first-line managers,
         professionals responsible for the day-to-day management of a team but not yet operating at
-        departmental or strategic scope. Twelve units are available, numbered 301 to 312, covering
+        departmental or strategic scope. 21 units are available, numbered 301 to 321, covering
         foundational first-line management responsibilities: leadership principles, team performance,
         individual development, communication, stakeholder relationships, equality and inclusion,
         budgets, projects, and data.
@@ -111,26 +98,12 @@ const units = [
 
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title" id="all-12-units">All 12 CMI Level 3 Units — Assignment Help by Unit</h2>
+      <h2 class="section-title" id="all-21-units">All 21 CMI Level 3 Units — Assignment Help by Unit</h2>
       <p class="section-lead">
-        Units 301, 302, and 303 form the core of most Diploma pathways: the fundamental leadership,
-        team, and individual management competencies expected of every first-line manager.
+        CMI lists 21 units at Level 3, numbered 301 to 321. Where a unit has its own page, its tile links to it,
+        and assignment help is available for every unit: send your unit number and brief via WhatsApp.
       </p>
-      <div class="unit-list">
-        {units.map(u => (
-          <div class={`unit-item ${u.priority ? 'unit-item--priority' : ''}`}>
-            <div class="unit-number">{u.num}</div>
-            <div class="unit-body">
-              <h3 class="unit-title">
-                {u.title}
-                {u.priority && <span class="unit-badge">Core Unit</span>}
-              </h3>
-              <p class="unit-desc">{u.desc}</p>
-              <p class="unit-cta"><a href={`https://www.cmiassignmenthelp.uk.com/cmi-${u.num}-assignment-help/`} class="card-link">CMI Unit {u.num} assignment help</a> &rarr;</p>
-            </div>
-          </div>
-        ))}
-      </div>
+      <UnitList level={3} />
     </div>
   </section>
 
@@ -237,7 +210,7 @@ const units = [
       <h2 class="section-title" id="level-3-faq">CMI Level 3 Assignment Help — Frequently Asked Questions</h2>
       <div class="faq-list">
         <details class="faq-item"><summary class="faq-q">What is the word count for a CMI Level 3 assignment?</summary><div class="faq-a"><p>Typically 1,500 to 2,500 words per unit. The exact figure is set by your training provider's assignment brief. Word count usually excludes the reference list and appendices.</p></div></details>
-        <details class="faq-item"><summary class="faq-q">Which CMI Level 3 units are most commonly selected?</summary><div class="faq-a"><p>Units 301, 302, and 303 form the core of most Level 3 Diploma pathways, alongside 304 and 306 for students in communication- or equality-focused roles.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Which CMI Level 3 units are available?</summary><div class="faq-a"><p>CMI lists 21 units at Level 3, numbered 301 to 321, from 301 Principles of Management and Leadership to 321 Managing Own Personal and Professional Development. Which ones you study depends on whether you are taking the Award, Certificate or Diploma and on your training provider's rules of combination.</p></div></details>
         <details class="faq-item"><summary class="faq-q">Do CMI Level 3 assignments use management report or essay format?</summary><div class="faq-a"><p>Structured essay format. The management report format used at Level 5 and above does not apply at Level 3. The essay has an introduction, body paragraphs, and a conclusion, with no executive summary or recommendations section.</p></div></details>
         <details class="faq-item"><summary class="faq-q">How many sources are needed for a CMI Level 3 assignment?</summary><div class="faq-a"><p>A minimum of 5 to 8 Harvard-referenced sources per unit, including CMI ManagementDirect content alongside academic texts, with every source cited in-text and in the reference list.</p></div></details>
         <details class="faq-item"><summary class="faq-q">Can I get help with a CMI Level 3 resubmission after a Referral?</summary><div class="faq-a"><p>Yes. Send your original submission, the assessor feedback, and your unit brief via WhatsApp. Resubmission support identifies exactly which Learning Outcomes were unmet and what must change in the rewrite.</p></div></details>
@@ -249,7 +222,7 @@ const units = [
     <div class="container">
       <h2 class="section-title">Related CMI Assignment Services</h2>
       <div class="supp-grid">
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/" class="supp-card"><h3>CMI Assignment Writing Service</h3><p>Full delivery for all 12 Level 3 units and every other CMI level.</p></a>
+        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/" class="supp-card"><h3>CMI Assignment Writing Service</h3><p>Full delivery for all 21 Level 3 units and every other CMI level.</p></a>
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/" class="supp-card"><h3>CMI Level 4 Assignment Help</h3><p>The natural progression from Level 3, Analyse and Evaluate depth.</p></a>
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/" class="supp-card"><h3>CMI Assignment Tutoring</h3><p>For Level 3 students who want to write their own essay with expert guidance.</p></a>
         <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/" class="supp-card"><h3>CMI Command Verbs Explained</h3><p>Every verb in the CMI hierarchy, including Identify, Describe, and Explain at Level 3.</p></a>
@@ -260,7 +233,7 @@ const units = [
   <section class="cta-section">
     <div class="container cta-inner">
       <h2>WhatsApp Us Your Unit Number</h2>
-      <p>Message us with your unit number, deadline, and brief. Fixed quote in 2 hours. UK-based CMI writers for all 12 Level 3 units.</p>
+      <p>Message us with your unit number, deadline, and brief. Fixed quote in 2 hours. UK-based CMI writers for all 21 Level 3 units.</p>
       <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
         Get CMI Level 3 Assignment Help
       </a>

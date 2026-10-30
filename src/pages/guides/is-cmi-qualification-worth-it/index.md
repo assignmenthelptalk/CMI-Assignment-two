@@ -169,10 +169,10 @@ The [Chartered Management Institute](https://www.managers.org.uk/qualifications/
 
 Unit-level support for the units most relevant to this guide:
 
-- [CMI Unit 501 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/): Principles of Management and Leadership (Level 5)
-- [CMI Unit 502 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/): Developing, Managing and Leading Individuals and Teams (Level 5)
-- [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Personal and Professional Development as a Strategic Leader (Level 7)
-- [CMI Unit 703 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/): Developing and Implementing Strategy (Level 7)
+- [CMI Unit 501 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/): Principles of Management and Leadership in an Organisational Context (Level 5)
+- [CMI Unit 502 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/): Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5)
+- [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Strategic Leadership (Level 7)
+- [CMI Unit 703 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/): Collaboration and Partnerships (Level 7)
 
 ## Related CMI Guides
 

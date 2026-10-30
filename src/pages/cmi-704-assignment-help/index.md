@@ -1,14 +1,14 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 704 Assignment Help"
-description: "Governance, Risk and Ethics — Strategic Paper — ISO 31000, COSO ERM, Taleb (2007), Carroll (1991) — Critically Analyse Depth"
+title: "CMI Unit 704 Assignment Help | Developing Organisational Strategy"
+description: "CMI Unit 704, Developing Organisational Strategy: Level 7 assignment help from UK-based CMI-qualified writers. Fixed quote in 2 hours on WhatsApp."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/"
 headerImage: "/images/headers/cmi-704-assignment-help.webp"
-headerImageAlt: "CMI Unit 704 Assignment Help — Governance, Risk and Ethics"
+headerImageAlt: "CMI Unit 704 Assignment Help — Developing Organisational Strategy"
 ---
 
 # CMI Unit 704 Assignment Help
-**Governance, Risk and Ethics, Strategic Paper, ISO 31000, COSO ERM, Taleb (2007), Carroll (1991), Critically Analyse Depth**
+**Developing Organisational Strategy, CMI Level 7**
 
 CMI Unit 704 assignment help for Governance, Risk and Ethics, the governance and strategic risk unit of the CMI Level 7 Strategic Management and Leadership Diploma. The service covers all three content domains at Critically Analyse depth: corporate governance (UK Corporate Governance Code, stewardship vs agency theory), strategic risk management (ISO 31000:2018, COSO ERM 2017, Taleb's Black Swan critique), and organisational ethics (Carroll, 1991; Kohlberg). Writers hold CMI Level 7 qualifications with director-level governance and risk experience. This unit is part of [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), covering all 17 Level 7 units.
 
@@ -157,8 +157,8 @@ Send the unit brief, target grade, and deadline via WhatsApp. A quote is returne
 ## CMI Level 7 Unit 704 — Related Assignment Help
 
 - [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, primary source requirements
-- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and developing people, ethical leadership connects to governance ethics
-- [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Strategic leadership, RBV and Dynamic Capabilities
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7)
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7)
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, strategic paper format
 
 [GOV.UK's risk management guidance](https://www.gov.uk/guidance/risk-assessment-a-brief-guide-to-controlling-risks-in-the-workplace) and the ISO 31000 framework provide the regulatory and professional context for the strategic risk analysis required at CMI Level 7 Critically Analyse depth.

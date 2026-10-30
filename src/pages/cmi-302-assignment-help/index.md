@@ -95,7 +95,7 @@ Not every team experiences all four stages in the linear order Tuckman describes
 
 ## Related CMI Assignment Help
 
-- [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership: Kotter, Mintzberg, Tannenbaum-Schmidt
-- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals: Maslow, Herzberg, individual performance management
-- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing Knowledge, Skills and Abilities: training needs analysis, learning styles
+- [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3)
+- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3)
+- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing the Knowledge, Skills and Abilities of Individuals and Teams (Level 3)
 - [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

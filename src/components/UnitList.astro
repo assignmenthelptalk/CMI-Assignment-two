@@ -1,0 +1,68 @@
+---
+// Renders a level hub's unit list from the official CMI unit data. A unit links to its page only
+// when that page exists, so the hub never points at a unit page that has not been built.
+import { officialUnits } from '../data/cmiUnitsOfficial.js';
+
+interface Props { level: 3 | 4 | 5 | 6 | 7 }
+const { level } = Astro.props;
+
+const BASE = 'https://www.cmiassignmenthelp.uk.com';
+const pageFiles = Object.keys(import.meta.glob('../pages/cmi-*-assignment-help/index.md'));
+const existing = new Set(pageFiles.map((f) => (f.match(/cmi-(\d+)-assignment-help/) || [])[1]));
+
+// Own-level units only: Level 4 codes are 4001-4009, the others are 3xx/5xx/6xx/7xx.
+const ownLevel = (code: string) => (level === 4 ? /^400\d$/.test(code) : code.length === 3 && code[0] === String(level));
+const units = officialUnits[level].filter(([code]) => ownLevel(code));
+---
+<div class="unit-tiles">
+  {units.map(([code, title]) => (
+    <div class:list={['unit-tile', { 'unit-tile--plain': !existing.has(code) }]}>
+      <span class="unit-code">{code}</span>
+      <div class="unit-tile-body">
+        <h3 class="unit-tile-title">{title}</h3>
+        {existing.has(code) && (
+          <p class="unit-tile-cta">
+            <a href={`${BASE}/cmi-${code}-assignment-help/`} class="tile-link">CMI Unit {code} assignment help</a> &rarr;
+          </p>
+        )}
+      </div>
+    </div>
+  ))}
+</div>
+
+<style>
+  .unit-tiles {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+  .unit-tile {
+    position: relative;
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    padding: 1rem 1.1rem;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    transition: border-color .15s, box-shadow .15s;
+  }
+  .unit-tile:hover { border-color: var(--blue); box-shadow: 0 4px 12px rgba(0,0,0,.12); }
+  .unit-tile--plain:hover { border-color: var(--border); box-shadow: var(--shadow); }
+  .unit-code {
+    flex: none;
+    min-width: 3rem;
+    text-align: center;
+    font-size: 1.15rem;
+    font-weight: 800;
+    color: var(--blue);
+    line-height: 1.3;
+  }
+  .unit-tile-title { font-size: .975rem; font-weight: 700; color: var(--navy); line-height: 1.35; margin: 0 0 .35rem; }
+  .unit-tile-cta { font-size: .8rem; font-weight: 600; color: var(--blue-light); margin: 0; }
+  .tile-link { color: inherit; text-decoration: none; }
+  .tile-link::after { content: ''; position: absolute; inset: 0; }
+  .tile-link:focus-visible { outline: none; }
+  .tile-link:focus-visible::after { outline: 2px solid var(--blue); outline-offset: 2px; border-radius: 8px; }
+</style>

@@ -1,14 +1,14 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 705 Assignment Help"
-description: "Strategic Leadership — Barney (1991) VRIO, Teece, Pisano and Shuen (1997) Dynamic Capabilities — Critically Analyse Depth — Director-Level Writers"
+title: "CMI Unit 705 Assignment Help | Leading Strategic Change"
+description: "CMI Unit 705, Leading Strategic Change: Level 7 assignment help from UK-based CMI-qualified writers. Fixed quote in 2 hours on WhatsApp."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/"
 headerImage: "/images/headers/cmi-705-assignment-help.webp"
-headerImageAlt: "CMI Unit 705 Assignment Help — Strategic Leadership"
+headerImageAlt: "CMI Unit 705 Assignment Help — Leading Strategic Change"
 ---
 
 # CMI Unit 705 Assignment Help
-**Strategic Leadership, Barney (1991) VRIO, Teece, Pisano and Shuen (1997) Dynamic Capabilities, Critically Analyse Depth, Director-Level Writers**
+**Leading Strategic Change, CMI Level 7**
 
 CMI Unit 705 assignment help for Strategic Leadership, the core strategic leadership theory unit of the CMI Level 7 Diploma. The service covers strategic paper format at Critically Analyse depth, with the central academic debate engaged at primary source level: Barney's (1991) Resource-Based View and VRIO framework versus Teece, Pisano and Shuen's (1997) Dynamic Capabilities framework. Writers hold the CMI Level 7 Diploma with director-level strategic leadership experience. This unit is part of [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), covering all 17 Level 7 units.
 
@@ -142,9 +142,9 @@ Send the unit brief, target grade, and deadline via WhatsApp. A fixed quote is r
 ## CMI Level 7 Unit 705 — Related Assignment Help
 
 - [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse
-- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Personal development as a strategic leader, individual capability connects to Unit 705's organisational capability focus
-- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and developing people, leadership brand as organisational resource connects Units 702 and 705
-- [CMI 708 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/), Strategic innovation, Dynamic Capabilities applied to innovation and change
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7)
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7)
+- [CMI 708 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/), Strategic Risk Management (Level 7)
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, all formats
 
 The [CIPD](https://www.cipd.org/uk/knowledge/factsheets/) publishes strategic HRM research — including the Resource-Based View and Dynamic Capabilities evidence base — relevant to the Critically Analyse requirements of this CMI Level 7 unit.

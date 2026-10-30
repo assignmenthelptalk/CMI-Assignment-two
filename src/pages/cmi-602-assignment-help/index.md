@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 602 Assignment Help | Leading and Developing People"
-description: "CMI Unit 602, Leading and Developing People, covers senior leadership applied to professional development and organisational capability building at Level 6 C..."
+title: "CMI Unit 602 Assignment Help"
+description: "CMI Unit 602 assignment help for Level 6: Developing, Managing and Leading Individuals and Teams. UK-based CMI-qualified writers, fixed quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/"
 headerImage: "/images/headers/cmi-602-assignment-help.webp"
-headerImageAlt: "CMI Unit 602 Assignment Help — Leading and Developing People"
+headerImageAlt: "CMI Unit 602 Assignment Help — Developing, Managing and Leading Individuals and Teams"
 ---
 
-# CMI Unit 602 Assignment Help | Leading and Developing People
+# CMI Unit 602 Assignment Help | Developing, Managing and Leading Individuals and Teams
 
 CMI Unit 602, Leading and Developing People, covers senior leadership applied to professional development and organisational capability building at Level 6 Critically Evaluate depth. Submitted as an advanced management paper, it applies Bass and Avolio's Transformational Leadership model, Spillane's Distributed Leadership, and situational leadership to the challenges of leading and developing professional teams at senior management level. Senior managers who are responsible for the development of a leadership pipeline, the capability of a professional team, or the performance of a senior team structure find this unit directly applicable to their strategic people leadership responsibilities. If you need support with Unit 602, message us on WhatsApp for a same-day quote. This unit is part of [CMI Level 6 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), covering all 16 Level 6 units.
 
@@ -86,7 +86,7 @@ The [Chartered Management Institute](https://www.managers.org.uk/knowledge-and-i
 
 ## Related CMI Assignment Help
 
-- [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Principles of Management and Leadership: distributed and situational leadership foundations
-- [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Leading Organisational Change: people development in change contexts
+- [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Professional Management and Leadership Practice (Level 6)
+- [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Organisational Culture (Level 6)
 - [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
-- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), People Management (Level 7): strategic leadership development at Critically Analyse depth
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7)

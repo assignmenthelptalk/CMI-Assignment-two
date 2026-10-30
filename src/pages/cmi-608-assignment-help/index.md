@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 608 Assignment Help | Procurement and Contract Management"
-description: "CMI Unit 608, Procurement and Contract Management, covers strategic procurement and contract governance at senior management level at Level 6 Critically Eval..."
+title: "CMI Unit 608 Assignment Help"
+description: "CMI Unit 608 assignment help for Level 6: Strategic Corporate Social Responsibility and Sustainability. UK-based CMI-qualified writers, fixed quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-608-assignment-help/"
 headerImage: "/images/headers/cmi-608-assignment-help.webp"
-headerImageAlt: "CMI Unit 608 Assignment Help — Procurement and Contract Management"
+headerImageAlt: "CMI Unit 608 Assignment Help — Strategic Corporate Social Responsibility and Sustainability"
 ---
 
-# CMI Unit 608 Assignment Help | Procurement and Contract Management
+# CMI Unit 608 Assignment Help | Strategic Corporate Social Responsibility and Sustainability
 
 CMI Unit 608, Procurement and Contract Management, covers strategic procurement and contract governance at senior management level at Level 6 Critically Evaluate depth. Submitted as an advanced management paper, it applies supplier relationship management frameworks, contract governance models, and procurement risk management approaches, Critically Evaluating their assumptions in dynamic supply chain and public sector procurement environments. Senior managers responsible for major contract decisions, procurement strategy, or supply chain governance in NHS, local authority, or commercial contexts find this unit directly applicable to their procurement accountability. If you need support with Unit 608, message us on WhatsApp for a same-day quote. This unit is part of [CMI Level 6 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), covering all 16 Level 6 units.
 
@@ -86,7 +86,7 @@ The [CIPD's organisational culture factsheet](https://www.cipd.org/uk/knowledge/
 
 ## Related CMI Assignment Help
 
-- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Financial Management: financial risk management in procurement contexts
-- [CMI 607 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/), Project and Programme Management: procurement within programme governance
+- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Developing and Leading Strategy (Level 6)
+- [CMI 604 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/), Strategic Programme and Project Management (Level 6)
 - [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Full Level 6 qualification guide
 - [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Level 7 strategic management: supply chain strategy at Critically Analyse depth

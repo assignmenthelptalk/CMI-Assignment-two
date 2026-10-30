@@ -83,7 +83,7 @@ The [Association for Project Management](https://www.apm.org.uk/), the UK's char
 
 ## Related CMI Assignment Help
 
-- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals: Maslow and Herzberg motivation theory that underpins volunteer motivation
-- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results: Tuckman's stages applicable to volunteer teams
-- [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Managing Equality, Diversity and Inclusion: inclusive volunteer recruitment and management
+- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3)
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3)
+- [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Principles of Equality, Diversity and Inclusive Working Practice (Level 3)
 - [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide

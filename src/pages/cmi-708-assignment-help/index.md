@@ -1,14 +1,14 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 708 Assignment Help | Strategic Approaches to Innovation and Change"
-description: "Christensen (1997), Tidd and Bessant (2018), Tushman and Anderson (1986) — Critically Analyse Depth — Director-Level Writers"
+title: "CMI Unit 708 Assignment Help | Strategic Risk Management"
+description: "CMI Unit 708, Strategic Risk Management: Level 7 assignment help from UK-based CMI-qualified writers. Fixed quote in 2 hours on WhatsApp."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/"
 headerImage: "/images/headers/cmi-708-assignment-help.webp"
-headerImageAlt: "CMI Unit 708 Assignment Help — Strategic Approaches to Innovation and Change"
+headerImageAlt: "CMI Unit 708 Assignment Help — Strategic Risk Management"
 ---
 
-# CMI Unit 708 Assignment Help | Strategic Approaches to Innovation and Change
-**Christensen (1997), Tidd and Bessant (2018), Tushman and Anderson (1986), Critically Analyse Depth, Director-Level Writers**
+# CMI Unit 708 Assignment Help | Strategic Risk Management
+**Strategic Risk Management, CMI Level 7**
 
 CMI Unit 708 assignment help for Strategic Approaches to Innovation and Change, the strategic innovation unit of the CMI Level 7 Diploma. The service covers strategic paper format at Critically Analyse depth, with the central academic debate engaged at primary source level: Christensen's (1997) disruptive innovation theory versus Tidd and Bessant's (2018) manageable innovation conditions framework. Writers hold the CMI Level 7 Diploma with director-level innovation, strategy, and digital transformation experience. This unit is part of [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), covering all 17 Level 7 units.
 
@@ -131,9 +131,8 @@ Send the unit brief, target grade, and deadline via WhatsApp. A fixed quote is r
 ## CMI Level 7 Unit 708 — Related Assignment Help
 
 - [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 17 Level 7 units, strategic paper format, Critically Analyse depth
-- [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Strategic leadership, Teece et al.'s (1997) Dynamic Capabilities (sense/seize/reconfigure) directly connects to Unit 708's innovation management process
-- [CMI 704 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/), Governance, risk and ethics, Taleb's (2007) Black Swan theory addresses the limits of structured frameworks for managing the unexpected, connecting to Christensen's disruption argument
-- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Personal development as a strategic leader, double-loop learning (Argyris and Schön, 1978) as a foundation for the questioning of governing assumptions that disruptive change requires
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7)
+- [CMI 704 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/), Developing Organisational Strategy (Level 7)
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, all formats
 
 The [Harvard Business Review](https://hbr.org/topic/innovation) publishes Christensen's disruptive innovation research and strategic change evidence at the postgraduate depth required for Critically Analyse engagement in this CMI Level 7 unit.

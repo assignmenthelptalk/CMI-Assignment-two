@@ -212,9 +212,8 @@ Send your draft or assignment brief via WhatsApp. Writers provide fully Harvard-
 
 Unit-level support for the units most relevant to this guide:
 
-- [CMI Unit 501 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/): Principles of Management and Leadership (Level 5)
-- [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Personal and Professional Development as a Strategic Leader (Level 7)
-- [CMI Unit 705 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/): Strategic Leadership (Level 7)
+- [CMI Unit 501 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/): Principles of Management and Leadership in an Organisational Context (Level 5)
+- [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Strategic Leadership (Level 7)
 
 ## Related CMI Guides
 

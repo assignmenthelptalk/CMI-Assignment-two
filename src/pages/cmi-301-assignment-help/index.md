@@ -87,7 +87,7 @@ The [Chartered Management Institute](https://www.managers.org.uk/qualifications/
 
 ## Related CMI Assignment Help
 
-- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results: Tuckman, Belbin, SMART goal-setting
-- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals: Maslow, Herzberg, one-to-one management
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3)
+- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3)
 - [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), Full Level 3 qualification guide with all 12 units
 - [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), Next level: Analyse and Evaluate depth
