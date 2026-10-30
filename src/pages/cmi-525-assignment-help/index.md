@@ -115,5 +115,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Belbin and Goleman, which this unit's indicative content names
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI Membership Grades: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/), how each membership grade is earned
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Belbin
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Belbin

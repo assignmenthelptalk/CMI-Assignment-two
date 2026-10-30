@@ -111,6 +111,9 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Adair, Greenleaf, Goleman and Schein, which this unit's indicative content names
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/), how the verbs, scope and word counts change between the two levels
+- [CMI Qualifications for NHS Managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), choosing a CMI level by the scope of your role
+- [CMI Membership Grades: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/), how each membership grade is earned
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Adair
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Adair
 - [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Principles of Delivering Coaching and Mentoring (Level 5), a related topic: coaching and mentoring

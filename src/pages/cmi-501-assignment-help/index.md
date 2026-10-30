@@ -128,6 +128,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Blake and Mouton, Tannenbaum and Schmidt, Adair and Hersey and Blanchard, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/), how the verbs, scope and word counts change between the two levels
+- [CMI Membership Grades: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/), how each membership grade is earned
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Blake and Mouton, Tannenbaum and Schmidt and Adair
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Tannenbaum and Schmidt and Adair
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Blake and Mouton and Adair

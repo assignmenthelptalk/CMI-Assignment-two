@@ -120,6 +120,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Kotter, Lewin, ADKAR and Hersey and Blanchard, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI Qualifications for NHS Managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), choosing a CMI level by the scope of your role
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names Kotter, Lewin and ADKAR
 - [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Supporting Teams and Individuals through Change (Level 3), also names Kotter and Lewin
 - [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Organisational Culture (Level 6), also names Kotter and Lewin

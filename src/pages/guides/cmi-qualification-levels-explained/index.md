@@ -181,6 +181,7 @@ Yes. The service covers Level 3 to Level 7. Each level has different command ver
 - [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), Professional Management and Leadership Practice, units 601 to 614
 - [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Strategic Management and Leadership Practice, units 701 to 716
 - [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/)
+- [CMI Qualifications for NHS Managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/)
 - [CMI Membership Grades: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/)
 
 The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes the full qualifications framework, including the Level 8 qualifications, and its [membership grades](https://www.managers.org.uk/membership/join-cmi/become-a-member/).

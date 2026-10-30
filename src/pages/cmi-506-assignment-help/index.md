@@ -124,6 +124,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Blake and Mouton, Goleman and Bass, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI Qualifications for NHS Managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), choosing a CMI level by the scope of your role
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Blake and Mouton
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Blake and Mouton
 - [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Principles of Equality, Diversity and Inclusive Working Practice (Level 3), a related topic: equality, diversity and inclusion

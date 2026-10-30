@@ -106,6 +106,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Porter, Mintzberg, Schein and Bass, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/), how the verbs, scope and word counts change between the two levels
+- [CMI Qualifications for NHS Managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), choosing a CMI level by the scope of your role
 - [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Entrepreneurial Practice (Level 7), also names Porter and Mintzberg
 - [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Developing and Leading Strategy (Level 6), a related topic: developing and leading strategy
 - [CMI 706 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/), Finance for Strategic Leaders (Level 7), a related topic: finance and budgets
