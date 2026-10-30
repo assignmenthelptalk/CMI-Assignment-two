@@ -1,201 +1,173 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "Management Theories for CMI Assignments | Which Frameworks to Use and How to Apply Them"
-description: "Knowing the theory is not the same as knowing how to apply it in a CMI assignment. A student who can describe Tuckman's five stages but does not evaluate the..."
+title: "Management Theories for CMI Assignments | Frameworks Guide"
+description: "Which management frameworks CMI's syllabuses name, in which units, and how to apply and critique them to the command verb of each assessment criterion."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/"
 headerImage: "/images/headers/management-theory-cmi-assignments.webp"
 headerImageAlt: "Management Theories for CMI Assignments — which frameworks to use and how to apply them"
 ---
 
-# Management Theories for CMI Assignments | Which Frameworks to Use and How to Apply Them
+# Management Theories for CMI Assignments | Frameworks Guide
 
-Knowing the theory is not the same as knowing how to apply it in a CMI assignment. A student who can describe Tuckman's five stages but does not evaluate their application to their team's specific context will receive a Pass at Level 5. A student who applies Kotter's eight steps but does not name the model's limitations will not receive Distinction. This guide maps the management frameworks used across CMI Levels 3 to 7, shows which units use them, and explains what the correct application looks like at each command verb depth.
+Knowing a theory is not the same as using it in an assignment. A learner who can describe Tuckman's stages but does not judge how well they fit their own team has described the model rather than met a criterion that asks them to analyse or evaluate. This guide shows which frameworks CMI's syllabuses actually name, in which units, and how to use and question them at the depth each command verb asks for.
 
-## How Management Frameworks Are Assessed in CMI Assignments
+## How Frameworks Are Assessed
 
-The command verb determines what you do with the framework, not just which framework you use. Using the right theory at the wrong depth is the most common cause of CMI referrals and the most reliable way to distinguish a Pass from a Merit or Distinction.
+The command verb decides what you do with a framework, not just which framework you pick. CMI defines its verbs in Annex 1 of each syllabus, and the mix changes sharply by level:
 
-| CMI Level | Command Verbs | What This Means for Frameworks |
-|-----------|--------------|-------------------------------|
-| Level 3 | Describe, Explain, Identify | Name the framework and explain what it says |
-| Level 4 | Analyse, Discuss | Apply the framework to a management context and explain why it fits |
-| Level 5 | Evaluate, Justify | Assess the framework's strengths and weaknesses in the specific context; reach a conclusion |
-| Level 6 | Critically Evaluate | Apply competing frameworks, examine assumptions, identify limitations, justify a conclusion |
-| Level 7 | Critically Analyse | Engage with the academic debate at primary source level; produce an original synthesis |
+| CMI level | Most common verbs in the criteria | What it means for frameworks |
+|-----------|----------------------------------|------------------------------|
+| Level 3 (257 criteria) | Explain 112, Identify 38, Outline 33, Discuss 27 | Name the framework and explain what it says |
+| Level 4 (85 criteria) | Describe 16, Discuss 12, Identify 11, Explain 10 | Describe and discuss, with some Analyse and Evaluate |
+| Level 5 (248 criteria) | Analyse 66, Examine 51, Evaluate 48 | Use the framework on your own situation, weigh it, reach a conclusion |
+| Level 6 (75 criteria) | Critically appraise 12, Critically assess 9, Discuss 8 | Question and test the framework, and argue a position |
+| Level 7 (80 criteria) | 37 begin with Critically; Critically appraise 18 | Question the evidence at organisation-wide scope, then recommend |
 
-## CMI Level 3 and Level 4 — Key Frameworks
+Our [command verbs guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/) gives CMI's definitions in full. Assessment is Pass/Refer and all criteria must be met, so the aim is to meet each criterion at its verb, not to win marks for extra theory.
 
-### Blake and Mouton (1964) — Managerial Grid
+## Which Frameworks the Syllabuses Name
 
-Blake and Mouton's Managerial Grid plots leadership style on two axes: concern for people (1–9) and concern for production (1–9), producing five named leadership styles:
+Each unit's indicative content lists models using "may include but is not limited to" wording, so you can use others if you justify them. The table below lists frameworks named in the syllabuses we reviewed, grouped by topic, with the units that name them. Units change when CMI updates a syllabus, so check your own unit's current specification.
 
-- **Impoverished Management (1,1)**: minimal concern for both people and production
-- **Country Club Management (1,9)**: high concern for people, low concern for production
-- **Authority-Compliance Management (9,1)**: high concern for production, low for people
-- **Middle-of-the-Road Management (5,5)**: moderate concern for both
-- **Team Management (9,9)**: high concern for both, the model's ideal style
+| Topic | Frameworks named | Units |
+|-------|------------------|-------|
+| Team development | Tuckman (1965) | 302, 4004, 502, 505, 602 |
+| Team roles | Belbin (1981) | 302, 4001, 4004, 502, 505, 525, 602, 701 |
+| Motivation | Maslow (1943), Herzberg, Vroom | Maslow: 302, 4001, 4006, 601, 712. Herzberg: 4001, 4006. Vroom: 4001, 502, 503, 505, 521, 524 |
+| Leadership style | Blake and Mouton, Tannenbaum and Schmidt, Hersey and Blanchard, Adair | Blake and Mouton: 301, 4001, 501, 502, 503, 509, 526. Tannenbaum and Schmidt: 301, 302, 4004, 501, 502, 503, 526. Hersey and Blanchard: 301, 302, 4004, 501, 514, 526 and several Level 6 and 7 units |
+| Transformational and emotional leadership | Bass and Riggio (dated 2005 in Unit 506 and 2006 in Unit 702), Goleman (1995) | Bass: 506, 526 and many Level 6 and 7 units, including 702. Goleman: named across Levels 3 to 7 |
+| Change | Lewin, Kotter, ADKAR | Lewin: 301, 302, 310, 514, 603, 605, 705. Kotter: 310, 514, 526, 601, 603, 605, 701, 705. ADKAR: 514, 605 |
+| Performance | Balanced Scorecard (Kaplan and Norton, 1992) | 502, 503, 507, 519, 605, 611 |
+| Strategy and environment | Porter, Ansoff, Mintzberg | Porter: 523 (value chain), 602, 704, 710, 711. Ansoff: 523, 606, 710. Mintzberg: 4001, 606, 614, 701, 704, 711 |
+| Innovation and capabilities | Teece, Pisano and Shuen (1997), Christensen (1997) | Teece: 611. Christensen: 605, 606 |
+| Culture | Schein, Hofstede | Schein: 4003, 501, 526, 602, 603, 608 and several Level 7 units. Hofstede: 4003, 4004, 501, 526 and several Level 6 and 7 units |
+| Reflection | Gibbs, Kolb, Johns | 525, 714 and others, see our [reflective practice guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/) |
 
-**At Analyse depth (Level 4)**: Apply the grid to your management context. Identify which style your practice most reflects and analyse why, what situational factors, team characteristics, or organisational pressures have shaped your position on the grid?
+Two notes on the table. First, it records what the syllabuses name, not what every centre expects. Second, some commonly cited names do not appear in the syllabuses we reviewed, such as Barney's VRIO and Beer and Nohria. You can still use them where they help you meet a criterion.
 
-**Limitation (for Distinction at Level 4)**: The grid assumes Team Management (9,9) is universally optimal, but situational leadership theory (Hersey and Blanchard, 1969) argues that the appropriate style depends on follower readiness, different contexts require different positions on the grid.
+## Using Frameworks at Levels 3 and 4
 
-### Tannenbaum and Schmidt (1973) — Leadership Continuum
+### Blake and Mouton (1964), Managerial Grid
 
-Tannenbaum and Schmidt's Leadership Continuum describes a spectrum of leadership behaviour from autocratic to democratic across seven points:
+The grid plots leadership on concern for people and concern for production, giving five named styles: Impoverished (1,1), Country Club (1,9), Authority-Compliance (9,1), Middle-of-the-Road (5,5) and Team Management (9,9).
 
-**Tells → Sells → Tests → Consults → Joins → Delegates → Abdicates**
+**Using it**: identify which style your practice most reflects, and what factors shaped that, such as team characteristics or pressures. At Level 4 this supports Discuss and Analyse criteria.
 
-At the autocratic end, the manager makes decisions and announces them. At the democratic end, the manager permits the team to function within defined limits.
+**A limitation to raise**: the grid treats Team Management (9,9) as the ideal, while situational approaches such as Hersey and Blanchard (1969) argue the best style depends on follower readiness.
 
-**At Analyse depth (Level 4)**: Explain which point on the continuum was most appropriate to your management context and why, what factors (team experience, task urgency, individual capability) influenced the appropriate position?
+### Tannenbaum and Schmidt, Leadership Continuum
 
-**Limitation (for Distinction at Level 4)**: The model treats decision-making style as a choice point but does not fully account for how team members' expectations about participation differ by culture, professional background, or prior experience with the manager.
+The continuum describes leadership behaviour from autocratic to democratic, from the manager making and announcing the decision at one end to the team working within defined limits at the other.
 
-## CMI Level 5 — Key Frameworks
+**Using it**: say which point suited your context and why, such as team experience, urgency and individual capability.
 
-### Tuckman (1965, 1977) — Team Development Model
+**A limitation to raise**: it presents decision style as a choice but says little about how team expectations of participation differ by culture, profession or past experience of the manager.
 
-Bruce Tuckman's Team Development Model proposes that teams progress through predictable stages:
+## Using Frameworks at Level 5
 
-**Forming** → **Storming** → **Norming** → **Performing** → **Adjourning**
+At Level 5 the verbs are Analyse, Examine and Evaluate. Apply the framework to your own scenario and say what it shows, then weigh how well it explains the situation.
 
-*Note*: Adjourning was added by Tuckman and Jensen in 1977, the original 1965 paper (*Psychological Bulletin*, 63(6)) described only four stages. Cite as Tuckman (1965, 1977) when referencing the five-stage model.
+### Tuckman (1965, 1977), Team Development
 
-**At Evaluate depth (Level 5)**: Evaluate how effectively the team progressed through stages. Identify which stage the team is currently in, with evidence. Assess what management interventions supported or impeded progression. Reach a conclusion about what the team needs next.
+Tuckman's 1965 paper (*Psychological Bulletin*, 63(6)) described four stages: forming, storming, norming and performing. Adjourning was added by Tuckman and Jensen in 1977, so cite both years if you use the five-stage version.
 
-**Limitation (for Distinction at Level 5)**: Tuckman's model assumes linear progression, that teams move sequentially from Forming to Performing. In practice, teams frequently regress to earlier stages when membership changes, tasks change, or organisational pressure disrupts established norms. A team that has reached Performing may return to Storming when a key member joins or leaves.
+**Using it**: say which stage the team is in, with evidence, which management actions helped or held it back, and what the team needs next.
 
-### Belbin (1981) — Team Roles
+**A limitation to raise**: the model implies a linear sequence, but teams often return to earlier stages when members, tasks or pressures change. Wheelan's (1994) integrated model of group development is one source that treats development as less linear.
 
-Meredith Belbin's Team Role model identifies nine roles in three categories:
+### Belbin (1981), Team Roles
 
-**Action roles**: Shaper (drives the team forward), Implementer (turns decisions into actions), Completer-Finisher (ensures quality and attention to detail)
+Belbin's roles are grouped as action (Shaper, Implementer, Completer-Finisher), social (Coordinator, Teamworker, Resource Investigator) and thinking (Plant, Monitor-Evaluator, Specialist). The ninth role, Specialist, was added after the original model.
 
-**Social roles**: Coordinator (facilitates team decision-making), Teamworker (supports team cohesion), Resource Investigator (sources external opportunities and contacts)
+**Using it**: say which roles are present and missing, what the gaps cost the team, and which missing role matters most.
 
-**Thinking roles**: Plant (generates creative ideas), Monitor-Evaluator (analyses options critically), Specialist (provides expertise in a specific domain)
+**A limitation to raise**: roles are usually identified by self-report questionnaire, which can reflect preferred rather than actual behaviour, and individuals may take on different roles in different settings.
 
-**At Evaluate depth (Level 5)**: Evaluate which roles are present and absent in the team. Assess the impact of role gaps on team performance. Reach a conclusion about which missing roles most limit current team effectiveness.
+### Herzberg (1959), Two-Factor Theory
 
-**Limitation (for Distinction at Level 5)**: Belbin roles are identified through self-report questionnaires, which are subject to social desirability bias, team members may report preferred roles rather than actual behaviour. individuals can adopt different roles in different contexts, making stable role assignment less reliable than the model implies.
+Herzberg separated hygiene factors, whose absence causes dissatisfaction, from motivators, whose presence produces satisfaction. Hygiene factors include policy, supervision, pay, relationships, conditions and security. Motivators include achievement, recognition, the work itself, responsibility, advancement and growth.
 
-### Herzberg (1959) — Two-Factor Theory
+**Using it**: say whether a management action addressed hygiene factors or motivators, and whether fixing hygiene alone is enough to sustain motivation.
 
-Frederick Herzberg's Two-Factor Theory distinguishes between hygiene factors (whose absence causes dissatisfaction but whose presence does not produce motivation) and motivators (whose presence actively produces satisfaction and motivation):
+**A limitation to raise**: the original research was with engineers and accountants in the United States in the 1950s, and what counts as a hygiene factor or motivator varies across cultures and occupations. In public service roles, purpose and impact on service users may act as motivators that the original list does not capture.
 
-**Hygiene factors** (6): Company policy, supervision, salary, interpersonal relations, working conditions, job security
+### Maslow (1943), Hierarchy of Needs
 
-**Motivators** (6): Achievement, recognition, the work itself, responsibility, advancement, growth
+Maslow proposed five levels of need: physiological, safety, love and belonging, esteem and self-actualisation.
 
-**At Evaluate depth (Level 5)**: Evaluate whether the management interventions in the scenario address hygiene factors or motivators. Reach a conclusion about whether addressing hygiene issues alone is sufficient to produce sustained motivation improvement.
+**Using it**: say which level of need your context most needs to address, and whether lower-level needs are currently met.
 
-**Limitation (for Distinction at Level 5)**: Herzberg's original research was conducted with engineers and accountants in the 1950s United States. The two-factor model has been challenged on cultural applicability, what constitutes a hygiene factor or motivator varies across cultural and professional contexts. In NHS or public sector contexts, factors such as purpose and patient or community impact may constitute motivators not fully captured in Herzberg's original six.
+**A limitation to raise**: evidence for a fixed order is weak, and higher needs can be present alongside unmet lower ones. Alderfer's (1969) ERG theory offers a more flexible three-category alternative, and Alderfer is named in Unit 4006.
 
-### Maslow (1943) — Hierarchy of Needs
+### Kotter (1996), Eight-Step Change Model
 
-Abraham Maslow's Hierarchy of Needs proposes five levels of human motivation arranged hierarchically, from physiological needs (food, safety, shelter) through safety, love and belonging, esteem, to self-actualisation at the apex.
+Kotter's *Leading Change* (1996) proposes eight steps: create urgency, build a guiding coalition, form a vision, communicate it, enable broad-based action, generate short-term wins, sustain acceleration and institute change. Unit 514 (Managing Change) names Lewin's three-step model, Kotter's eight steps and ADKAR, among others.
 
-**At Evaluate depth (Level 5)**: Evaluate which need level the management context most requires to be addressed and why. Assess whether organisational conditions currently meet lower-level needs (thereby enabling focus on higher-level motivators) or whether unmet safety or belonging needs are limiting performance.
+**Using it**: say which steps were applied well or poorly in your change, with evidence, and what the change most needed. A response that only describes Kotter and Lewin does not meet an Evaluate criterion. One that weighs them against each other for the same change, and says which explains more, does.
 
-**Limitation (for Distinction at Level 5)**: Empirical evidence for the fixed hierarchy is weak, people do not reliably progress through need levels in sequence, and higher-level needs can be present alongside unmet lower-level needs. Alderfer's (1969) ERG theory (Existence, Relatedness, Growth) offers a more flexible alternative by collapsing the hierarchy into three categories without fixed sequencing.
+**A limitation to raise**: the sequence implies change follows a managed, linear path, while many changes are more iterative, and the model leans toward leadership-driven change over front-line engagement.
 
-### Kotter (1996) — 8-Step Change Model
+### Kaplan and Norton (1992), Balanced Scorecard
 
-John Kotter's *Leading Change* (Harvard Business School Press, 1996) proposes eight steps for successful organisational change:
+The Balanced Scorecard measures performance across four perspectives: financial, customer, internal business processes, and learning and growth.
 
-1. Create urgency
-2. Build a guiding coalition
-3. Form a strategic vision
-4. Communicate the vision
-5. Enable broad-based action
-6. Generate short-term wins
-7. Sustain acceleration
-8. Institute change
+**Using it**: say whether your performance management covers all four or relies too much on financial measures, and what is lost when non-financial areas go unmeasured.
 
-**At Evaluate depth (Level 5)**: Evaluate how effectively each step was applied in the change scenario. Identify which steps were most and least effectively executed, with evidence. Reach a conclusion about what the change process most needed.
+**A limitation to raise**: its private-sector framing needs translating for public and not-for-profit settings, where "customer" may mean service user and financial performance is shaped by funding arrangements rather than market pricing.
 
-**Limitation (for Distinction at Level 5)**: Kotter's model is sequential and implies that change follows a managed linear process. Critics, including Kotter himself in later work, acknowledge that change in complex organisations is more iterative and emergent than the eight-step sequence suggests. The model also focuses on leadership-driven change and underweights middle management and front-line engagement in change adoption.
+## Using Frameworks at Levels 6 and 7
 
-### Kaplan and Norton (1992) — Balanced Scorecard
+At Level 6 the Critically verbs lead (Critically appraise 12, Critically assess 9), and at Level 7, 37 of the 80 criteria begin with Critically. Applying a framework and weighing it is not enough. You question what it assumes and test it against evidence and alternatives, then take a position. CMI defines Critically verbs in Annex 1, and we cover them in the [command verbs guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/).
 
-Robert Kaplan and David Norton's Balanced Scorecard provides a performance measurement framework across four perspectives:
+Examples of what the syllabuses name:
 
-**Financial**: revenue, profitability, cost management
+- **Level 6, change and innovation**: Unit 605 (Innovation and Change) names Kotter, Lewin, ADKAR and Christensen (1997). Unit 611 (Knowledge Management) names Teece, Pisano and Shuen (1997) on dynamic capabilities and the Balanced Scorecard.
+- **Level 6, teams and culture**: Unit 602 names Tuckman, Belbin and Porter, and Unit 603 (Organisational Culture) names Kotter, Lewin and Schein.
+- **Level 7, leadership**: Unit 702 names Bass and Riggio on transformational leadership, with Hofstede and Schein on culture. Unit 701 names Belbin, Kotter, Mintzberg and Senge.
+- **Level 7, strategy and change**: Unit 704 names Porter and Mintzberg, Unit 705 names Kotter (2014), Lewin and Hersey and Blanchard, and Unit 710 names Porter and Ansoff.
 
-**Customer**: satisfaction, retention, acquisition, market share
+**A worked example of testing a framework**: Porter's Five Forces analyses industry competition through the threat of new entrants, the power of suppliers and buyers, the threat of substitutes and rivalry. It assumes an industry with reasonably stable boundaries. A critical answer would ask how well it holds where digital platforms blur industry boundaries and shift buyer power and substitution at the same time, and what that means for the strategy under discussion.
 
-**Internal Business Processes**: efficiency, quality, innovation in operational delivery
+**Another**: Beer and Nohria (2000) separate Theory E (change for economic value, top-down and fast) from Theory O (change to build organisational capability, participative and slow). A critical answer would examine what happens when financial pressure for E conflicts with the time capability building needs. They are not named in the syllabuses, but they are a legitimate choice if they help you meet a criterion.
 
-**Learning and Growth**: employee capability development, information systems, organisational alignment
+At Level 7, reading the original work rather than a textbook summary is generally stronger practice because you can see what the author claimed and tested. This is our advice, not a CMI rule.
 
-**At Evaluate depth (Level 5)**: Evaluate whether the organisation's performance management approach addresses all four perspectives or is over-reliant on financial metrics. Assess what is lost when non-financial perspectives are under-measured.
+## How to Include Framework Limitations
 
-**Limitation (for Distinction at Level 5)**: In public sector and NHS contexts, the Financial and Customer perspectives require translation, "customer" becomes "patient" or "service user," and financial performance is constrained by block contracts and tariff rather than market pricing. The Balanced Scorecard's private-sector framing does not directly transfer to NHS performance management without adaptation.
-
-## CMI Level 6 — Key Frameworks
-
-### Beer and Nohria (2000) — Theory E and Theory O
-
-Michael Beer and Nitin Nohria's (2000) framework distinguishes two theories of organisational change:
-
-**Theory E** (Economic Value): change driven by shareholder value creation through structural reorganisation, downsizing, financial incentives, and top-down leadership. Fast, hard, financially focused.
-
-**Theory O** (Organisational Capability): change driven by building organisational capabilities, culture, and employee commitment through bottom-up participation and long-term development. Slow, soft, capability-focused.
-
-**At Critically Evaluate depth (Level 6)**: Evaluate the assumption that Theory E and Theory O approaches are compatible within a single change programme. Beer and Nohria (2000) argue they can be sequenced or integrated, but critically evaluate what happens when financial pressure (Theory E) conflicts with capability-building timelines (Theory O). Identify the conditions under which each is appropriate.
-
-### Porter (1980) — Five Forces
-
-Michael Porter's Five Forces framework analyses industry competitive dynamics across five factors: threat of new entrants, bargaining power of suppliers, bargaining power of buyers, threat of substitutes, and intensity of competitive rivalry.
-
-**At Critically Evaluate depth (Level 6)**: Evaluate the framework's assumptions. Porter's model assumes a stable, bounded industry structure where competitive forces can be mapped with reasonable precision. Critically evaluate its applicability to industries undergoing rapid digital disruption, where platform economics fundamentally alter buyer power, threat of substitution, and industry boundary definition simultaneously.
-
-## CMI Level 7 — Key Frameworks
-
-At Level 7, frameworks must be engaged at primary source level, not through textbook summaries. Three frameworks receive full treatment in the dedicated unit pages.
-
-**Bass and Avolio (1994), Full Range Leadership Model**: Four I's of transformational leadership engaged at source. Central Critically Analyse debate: is transformational leadership inherently ethical? Requires engagement with Brown and Treviño (2003) and Ciulla (2004). [→ See CMI Unit 702 assignment help]
-
-**Barney (1991) VRIO and Teece et al. (1997) Dynamic Capabilities**: The RBV vs Dynamic Capabilities debate. Barney (1991) in *Journal of Management* 17(1) vs Teece, Pisano and Shuen (1997) in *Strategic Management Journal* 18(7). Central Critically Analyse debate: static resource advantage vs dynamic reconfiguration ability. [→ See CMI Unit 705 assignment help]
-
-**Christensen (1997) and Tidd and Bessant (2018)**: Disruptive innovation theory vs manageable innovation conditions. Central debate: can disruption be managed or does structural logic defeat incumbents? Tushman and Anderson (1986) competence-destroying discontinuity adds empirical depth. [→ See CMI Unit 708 assignment help]
-
-## How to Include Framework Limitations for CMI Distinction
-
-Naming a limitation is not enough. "Tuckman's model has limitations" does not earn Distinction. "Tuckman's model assumes linear stage progression, but Wheelan's (1994) Integrated Model of Group Development provides empirical evidence that teams regress to earlier stages under membership change, a pattern directly relevant to the team restructuring context under analysis" earns Distinction.
+Naming a limitation is not enough on its own. "Tuckman's model has limitations" says little. "Tuckman's model assumes linear stage progression, but Wheelan's (1994) work on group development suggests teams can move back to earlier stages when membership changes, which is what happened in the restructuring under analysis" says a lot more.
 
 The pattern:
-1. **Name the limitation specifically:** not generically
-2. **Provide a credible source** for the critique where possible
-3. **Connect the limitation to your specific context:** why does this limitation matter in this particular scenario?
+1. **Name the limitation specifically**, not generically.
+2. **Support it with a source** where you can.
+3. **Connect it to your scenario**: why does this limitation matter here?
 
-This three-part structure transforms a generic observation into an Evaluate or Critically Evaluate move.
+This is how a description becomes an Evaluate or Critically appraise answer.
 
 ## Management Theory for CMI Assignments — Common Questions
 
-**Which management theory should I use for CMI Unit 502?**
+**Which management theory should I use for Unit 502?**
 
-Unit 502 (Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success) most commonly draws on Tuckman (1965, 1977) for team development, Belbin (1981) for team roles, and Herzberg (1959) or Maslow (1943) for motivation. Most Unit 502 assignments use two or three of these frameworks. The command verb is Evaluate, apply each framework to your specific team context and reach a supported conclusion about what the team needs.
+Unit 502 (Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success) names Tuckman, Belbin, Blake and Mouton, Tannenbaum and Schmidt, Vroom, the Balanced Scorecard and Goleman in its indicative content, among others. Choose the ones that help you answer each criterion for your own team. Its criteria use verbs such as Evaluate, Analyse, Discuss, Assess, Examine and Develop, so apply each framework to your team and reach a supported conclusion. You do not need to use all of them.
 
-**Do I need to include limitations of frameworks in my CMI assignment?**
+**Do I need to include framework limitations?**
 
-At Level 5, naming limitations is what moves a response from Pass to Merit or Distinction. At Level 6, limitations are assessed against the Critically Evaluate standard, you must examine the underlying assumptions of the framework, not just note that "all models have limitations." At Level 7, the limitation is the primary analytical content, you are engaging with the academic debate about whether the framework's claims are theoretically and empirically supported.
+Where a criterion asks you to evaluate or critically appraise, yes, because weighing strengths and weaknesses is what the verb means. Where it asks you to explain or describe, a limitation is not needed. At Levels 6 and 7 the Critically verbs ask you to question and test the framework's assumptions, not just note that "all models have limitations".
 
 **What is the difference between applying a theory and critically evaluating it?**
 
-Applying a theory means using it as an analytical lens, "According to Tuckman (1965), the team is in the Storming stage." Critically evaluating it means assessing the theory's claims, "Tuckman's model predicts linear progression, but the evidence from this team's response to leadership change is more consistent with the regression pattern Wheelan (1994) identifies, suggesting the model's sequential structure is an idealised rather than empirically strong account of team development."
+Applying uses the theory as a lens: "According to Tuckman (1965), the team is in the storming stage." Critically evaluating tests it: "Tuckman's model predicts a linear sequence, but this team's response to the change in leadership fits the regression Wheelan (1994) describes, so the model's sequence looks idealised for this case."
 
-**Can I use the same framework across multiple CMI units?**
+**Can I use the same framework in more than one unit?**
 
-Yes, but application must be different for each unit. Kotter (1996) applied in Unit 514 (Managing Change) will analyse a different scenario and reach different conclusions than Kotter (1996) applied in Unit 502 (Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success). The framework is the same; the analytical content must be unit-specific.
+Yes, but each application must answer that unit's criteria with that unit's scenario. Kotter in Unit 514 (Managing Change) and Kotter in a leadership unit should reach different conclusions about different material.
 
-**How do I cite management theories in a CMI assignment?**
+**How do I cite management theories?**
 
-Every theory must be cited by author and year in-text and in the bibliography. Tuckman (1965), not "the team development model." Kotter (1996), not "Kotter's 8 steps." At Level 7, the primary source must be cited: Barney, J. (1991) 'Firm resources and sustained competitive advantage', *Journal of Management*, 17(1), pp. 99–120, not a textbook that summarises Barney's work.
+Cite by author and year in the text and give full details in the reference list. Cite the source you actually read. See our [Harvard referencing guide](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/).
 
-**I need help applying management theory to my CMI assignment, what do I do?**
+**I need help applying management theory to my assignment. What do I do?**
 
-Send your unit brief and the scenario you are working with via WhatsApp. A writer or tutor matched to your level is assigned. Quote returned within 2 hours.
+Send your unit brief and the scenario you are using via WhatsApp. A quote is returned within 2 hours, and support is matched to your level and unit.
 
 ## CMI Unit Assignment Help — By Framework
 
@@ -203,26 +175,27 @@ Send your unit brief and the scenario you are working with via WhatsApp. A write
 - [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Principles of Management and Leadership in an Organisational Context (Level 5)
 - [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7)
 - [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7)
-- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), All 26 Level 5 units, management report format, Evaluate depth
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), All 16 Level 7 units, strategic paper format, Critically Analyse depth
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), all 26 Level 5 units
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), all 16 Level 7 units
 
-The [Harvard Business Review](https://hbr.org/topic/management) publishes peer-reviewed management research and practitioner case studies that represent the academic standard expected in CMI assignments at Level 5 and above.
+The [Harvard Business Review](https://hbr.org/topic/management) publishes management research and practitioner articles that can be useful sources.
 
 ## Related CMI Unit Pages
 
 Unit-level support for the units most relevant to this guide:
 
-- [CMI Unit 303 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/): Managing Individuals to be Effective in their Role (Level 3)
+- [CMI Unit 302 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/): Managing a Team to Achieve Results (Level 3)
 - [CMI Unit 4001 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/): Managerial Styles and Behaviours (Level 4)
 - [CMI Unit 514 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/): Managing Change (Level 5)
 - [CMI Unit 603 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/): Organisational Culture (Level 6)
-- [CMI Unit 708 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/): Strategic Risk Management (Level 7)
+- [CMI Unit 705 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/): Leading Strategic Change (Level 7)
 
 ## Related CMI Guides
 
 More guides that connect to this topic:
 
 - [CMI Qualification Levels Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/)
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/)
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/)
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/)
 - [CMI Assignment Structure Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/)

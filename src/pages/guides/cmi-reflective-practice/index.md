@@ -1,134 +1,134 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "CMI Reflective Practice | How to Use Gibbs and Kolb in Your CMI Assignment"
-description: "CMI reflective practice is one of the most misunderstood areas of the qualification. Students who have strong professional experience often write detailed de..."
+title: "CMI Reflective Practice | Gibbs, Kolb and Johns Guide"
+description: "How to write CMI reflective work: which units assess reflection, the models CMI names (Gibbs, Kolb, Johns), what the criteria ask for, and a step-by-step method."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/"
 headerImage: "/images/headers/cmi-reflective-practice.webp"
 headerImageAlt: "CMI Reflective Practice — how to use Gibbs and Kolb in your CMI assignment"
 ---
 
-# CMI Reflective Practice | How to Use Gibbs and Kolb in Your CMI Assignment
+# CMI Reflective Practice | Gibbs, Kolb and Johns Guide
 
-CMI reflective practice is one of the most misunderstood areas of the qualification. Students who have strong professional experience often write detailed descriptions of what happened, and receive a Pass where they expected a Merit. The problem is almost always the same: confusing a personal account of an event with an academically structured reflective analysis. This guide explains how to use Gibbs' Reflective Cycle and Kolb's Experiential Learning Cycle correctly in a CMI reflective account, what command verb depth means in this format, and what separates a Distinction-level reflection from a narrative description.
+Reflective work is one of the places where learners with strong professional experience lose time. The usual problem is writing a detailed account of what happened, when the criterion asks for evaluation, analysis and a development plan. This guide explains which CMI units assess reflection, which models the syllabuses name, what the criteria ask for at Levels 5 and 7, and how to build a reflective piece that meets them. Reflective work is also a place where your own experience is the evidence, so it has to be your own: CMI requires a Declaration of Authenticity, and support here should help you think and structure, not replace your experience.
 
-## What Is CMI Reflective Practice?
+## What Is Reflective Practice in a CMI Qualification?
 
-Reflective practice is the deliberate process of thinking critically about a professional experience in order to improve future practice. In a CMI qualification, it appears as a specific assessed assignment format, the reflective account, which requires a structured, academically referenced analysis of a management or leadership experience, not a personal journal entry.
+Reflective practice is the deliberate process of thinking critically about your own experience in order to improve future practice. CMI does not prescribe a single "reflective account" format. Your centre sets the format within CMI's recommendations, and the units where reflection is assessed describe what the work must show through their criteria.
 
-CMI reflective accounts appear most commonly at:
+The two units where reflection is the main subject are:
 
-**Level 5, Unit 525 (Using Reflective Practice to Inform Personal and Professional Development):** a management report or structured reflective account applying a recognised reflective framework (Gibbs or Kolb) to a professional development experience, evaluated against CPD principles.
+**Level 5, Unit 525 (Using Reflective Practice to Inform Personal and Professional Development)**. Its criteria are:
+- 1.1 Analyse the importance of continuous personal and professional development in achieving organisational objectives
+- 1.2 Evaluate the use of reflective practice in personal and professional development
+- 1.3 Evaluate approaches to reflective practice
+- 2.1 Evaluate own performance in the workplace using principles of reflection
+- 2.2 Reflect on own working style and its impact on others in the workplace
+- 2.3 Analyse development needs for current and future roles
+- 2.4 Examine development opportunities to meet short, medium and long term objectives
+- 2.5 Create a personal development plan with measurable objectives
 
-**Level 7, Unit 714 (Personal and Professional Development for Strategic Leaders):** a strategic paper applying reflective frameworks at Critically Analyse depth, requiring engagement with the theoretical debate about what constitutes effective development at strategic leadership level.
+**Level 7, Unit 714 (Personal and Professional Development for Strategic Leaders)**. Its criteria use Critically verbs throughout:
+- 1.1 Critically reflect on the interrelationship between the skillset and mindset to develop as a strategic leader
+- 1.2 Critically examine the personal values and behaviours required for strategic leadership practice
+- 1.3 Critically appraise how engagement with personal and professional development impacts on strategic leadership
+- 2.1 Critically reflect on personal, interpersonal and professional competencies to lead strategically
+- 2.2 Produce a personal and professional development plan to improve strategic leadership
 
-The same event described in a CPD log and described in a CMI reflective account are two different documents. A CPD log is informal and developmental, its purpose is personal growth. A CMI reflective account is an assessed academic document. It must demonstrate the correct command verb depth, cite theoretical frameworks by author and year, align to explicit Learning Outcomes, and reach transferable development conclusions that go beyond narrative description.
+Reflection also appears inside other units, for example "Critically reflect" criteria at Level 6 (such as Unit 612, Coaching Skills for Leaders, which asks you to critically reflect on your own ability to coach) and in Unit 712 (Strategic Management Project) at Level 7. Check the criteria of your own unit.
+
+A CPD log and an assessed reflection are different documents. A CPD log is informal and developmental. An assessed piece has to meet the criteria: it uses the command verb of each criterion, supports points with theory and evidence, and ends in a plan. Your centre and brief set the format, so follow them.
 
 [Get CMI Reflective Account Help on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
-## Gibbs (1988) — The Reflective Cycle for CMI Assignments
+## The Models CMI Names
 
-Graham Gibbs' Reflective Cycle, published in *Learning by Doing: A Guide to Teaching and Learning Methods* (Oxford Polytechnic, 1988), provides the most widely used framework for CMI reflective accounts, particularly at Level 5. Gibbs' model is structured and staged, which makes it well-suited to students writing reflective accounts for the first time under academic conditions.
+The syllabuses give indicative content using "may include but is not limited to" wording, so you can use other models if you can justify them. The reflective approaches they name are:
 
-The six stages applied to CMI assignment writing:
+- **Unit 525**: Model of Structured Reflection (Johns, 1994), Reflective Cycle (Gibbs), Learning Cycle (Kolb, 1984), and for self-awareness, Emotional Intelligence (Goleman, 1995) and mental toughness (Lyons, 2015). Team Roles (Belbin, 1981) are named under working style.
+- **Unit 714**: Model of Structured Reflection (Johns, 1995; 2006), Reflective cycle (Gibbs, 1988), Experiential Cycle (Kolb, 1984), the What? So What? Now What? questions (Borton, 1970; Driscoll), and reflection before, in and on action (Schön, 1983). It also names the SOAR model (Kumar, 2008) for formative self-audit and asks you to evaluate yourself against competency frameworks such as the CMI Professional Standard.
 
-**Stage 1, Description** (What happened?): A concise account of the situation, who was involved, what the context was, what took place. This section should be brief (200–300 words) and factual. Common error at this stage: writing the whole assignment here. Description provides the context for analysis; it is not the analysis.
+Cite whichever you use by author and year, and give the year of the edition you actually read.
 
-**Stage 2, Feelings** (What were you thinking and feeling?): Your emotional and cognitive response during and immediately after the event. CMI assessors are not looking for extensive emotional disclosure, they are looking for honest self-awareness about your initial reaction, assumptions, and judgements. First-person academic language applies: "My initial assessment of the situation was..." rather than "I was really worried."
+## Gibbs' Reflective Cycle
 
-**Stage 3, Evaluation** (What was good and bad about the experience?): This is the first analytical stage. Identify what worked and what did not, with reasons. At Level 5, this is where frameworks enter, what does Tuckman's model tell you about what happened with the team? What does Herzberg's two-factor theory tell you about the motivation issue you identified?
+Graham Gibbs' reflective cycle (*Learning by Doing*, 1988) has six stages. It is staged and explicit, which makes it easy to organise a first formal piece of reflection.
 
-**Stage 4, Analysis** (What sense can you make of it?): The deepest analytical section. Draw on theoretical frameworks to explain why events unfolded as they did. Apply concepts at Evaluate depth, not just identify the theory, but judge its explanatory power in this situation. At Level 5 Merit and Distinction, this section must include limitations: the framework explains X but does not fully account for Y.
+1. **Description**: what happened? Keep it brief and factual. Description sets the context for analysis. It is not the analysis.
+2. **Feelings**: what were you thinking and feeling? Honest self-awareness about your reaction, assumptions and judgements, in measured language such as "My initial assessment was..."
+3. **Evaluation**: what was good and bad about the experience? Identify what worked and what did not, with reasons.
+4. **Analysis**: what sense can you make of it? Draw on theory to explain why events unfolded as they did, and judge how well the theory explains this situation, including where it does not.
+5. **Conclusion**: what else could you have done? Use your analysis to generate concrete alternatives and say which would likely have worked better.
+6. **Action plan**: what would you do next time? Your development commitment arising from the reflection.
 
-**Stage 5, Conclusion** (What else could you have done?): Based on your analysis, what alternative approaches were available? Which would have produced a better outcome? This section requires you to apply your theoretical analysis to generate concrete alternative actions, not abstract suggestions.
+Using the stages as headings makes it easy for an assessor to see the model applied. It also helps to add a short link from each stage back to the criterion it supports.
 
-**Stage 6, Action Plan** (What would you do next time?): Your personal development commitment arising from the reflection. At Level 5, this should include at least one SMART development action linked to the analytical findings. At Level 7, this becomes a strategic development commitment rather than a task-level action plan.
+## Kolb's Experiential Learning Cycle
 
-## Kolb (1984) — Experiential Learning Cycle
+David Kolb's cycle (*Experiential Learning*, 1984) proposes four stages of learning that repeat:
 
-David Kolb's Experiential Learning Cycle, published in *Experiential Learning: Experience as the Source of Learning and Development* (Prentice Hall, 1984), proposes that learning occurs through a continuous four-stage cycle.
+1. **Concrete experience**: a specific event you encountered directly.
+2. **Reflective observation**: reviewing the experience, what happened, what you and others did.
+3. **Abstract conceptualisation**: drawing general conclusions and forming new understanding, where theory enters.
+4. **Active experimentation**: testing the new understanding in practice, which produces a new concrete experience.
 
-**Stage 1, Concrete Experience**: a specific event or situation encountered directly.
+### Choosing Between Models
 
-**Stage 2, Reflective Observation**: reviewing and reflecting on the experience, what happened, what was observed, what others did.
+Gibbs gives a clear structure for writing. Kolb is more useful as a way of thinking about how learning happens, and Johns' model gives structured prompts about your own thinking, values and actions. At Level 7, where criteria ask you to critically reflect and critically appraise, it is stronger to do more than apply a cycle. Question what the model assumes and where its evidence is limited. Kolb's model, for example, has been criticised for thin empirical support and for the reliability of its associated Learning Style Inventory, so a critical reader would expect you to say where it explains your experience and where it does not. Check current sources for the criticisms you use.
 
-**Stage 3, Abstract Conceptualisation**: drawing generalisable conclusions and forming new understandings. This is where theoretical frameworks enter, applying Kolb, the student forms a conceptual model from the experience.
+## How to Write the Reflective Piece, Step by Step
 
-**Stage 4, Active Experimentation**: testing the new understanding in practice, which generates a new concrete experience.
+**Step 1: Read the criteria and your brief.** List each criterion and its command verb. They decide what the document must do.
 
-### When to Use Kolb Instead of Gibbs
+**Step 2: Choose a scenario with enough in it.** A routine meeting rarely gives enough to analyse. A change you led, a team performance issue, a difficult conversation or a significant development decision usually does. It should be real and your own.
 
-Gibbs' model is more structured and stages-explicit. It works well when the student needs a clear framework to organise their reflection and is writing their first formal reflective account.
+**Step 3: Choose a model.** Use one named in your unit's indicative content or justify another. Pick the one whose stages help you answer the criteria.
 
-Kolb's model is more theoretically powerful as a conceptual lens, particularly at Level 7 (Unit 714), where the student must critically engage with the reflective frameworks themselves. Kolb (1984) can be applied to the question: how do strategic leaders learn from experience, and what are the conditions that enable Abstract Conceptualisation rather than remaining at Reflective Observation?
+**Step 4: Use the stages as your structure.** Use the model's stages as headings so the assessor can see where each part of the criterion is answered.
 
-At Critically Analyse depth for Level 7, the student does not merely apply Kolb's cycle to an experience, they engage with what Kolb (1984) claimed and where the evidence for it is limited (descriptive rather than prescriptive; the associated learning styles inventory has low test-retest reliability). This is distinct from a Level 5 application.
+**Step 5: Bring in theory and evidence in the analysis.** Name frameworks by author and year, apply them to your situation, and say how well they explain it. For example: "According to Tuckman (1965), the behaviour during the restructure is consistent with the storming stage, where team members challenge roles and the leader's authority."
 
-## How to Write a CMI Reflective Account — Step by Step
+**Step 6: Make the plan measurable.** Unit 525 asks for a plan "with measurable objectives". Unit 714's indicative content describes a time-bound, measurable plan with aims, objectives, success criteria, development activities and the reasons for choosing them, timescales, and review points. Link each action back to a finding in your analysis.
 
-**Step 1, Choose your scenario**: Select a real management or leadership experience from your professional context. The scenario should be substantial enough to support analytical depth, a routine meeting does not provide sufficient material; a change implementation, team performance challenge, or significant development conversation does.
+**Step 7: Check every criterion is visibly answered.** Assessment is Pass/Refer and all criteria must be met. If a criterion is not visible in the submission, the assessor cannot credit it.
 
-**Step 2, Choose your framework**: Gibbs (1988) for Level 5 Unit 525 reflective accounts; Kolb (1984) or Gibbs with Argyris and Schön (1978) double-loop framing for Level 7 Unit 714.
+## Command Verbs in Reflective Work
 
-**Step 3, Structure your document using framework stages as sections**: Each Gibbs stage becomes a headed section. This ensures the assessor can clearly see the framework applied and the progression from description through to analysis and action.
+**Level 5, Evaluate** (Unit 525 criteria 1.2, 1.3 and 2.1): weigh strengths and weaknesses and reach a conclusion. CMI defines Evaluate as considering strengths and weaknesses, arguments for and against, then judging the evidence and making a valid conclusion or reasoned judgement. An example: "This approach worked in the short term because it clarified roles under pressure. It did not address the underlying lack of recognition, so the improvement is likely to be temporary (Herzberg, 1959)." You are judging with theoretical support and giving a reason.
 
-**Step 4, Apply theory within the analysis sections**: In Stages 3 and 4, name specific theoretical frameworks with author and year, apply them to the scenario, and state their explanatory value and limitations. "According to Tuckman (1965), the behaviour observed during the team restructuring is consistent with the Storming stage, characterised by interpersonal conflict as team members challenge the leader's authority and each other's roles."
+**Level 5, Reflect, Analyse and Examine** (2.2, 2.3 and 2.4): for Reflect, say what your working style is and how it affected others, with an example. For Analyse, break your development needs down and examine each. For Examine, look closely at the opportunities available and what each would involve.
 
-**Step 5, Write the Action Plan with development specificity**: The Action Plan is not aspirational. At Level 5 it should contain at least one SMART development action connected to the analytical finding. At Level 7 it should contain a strategic development commitment addressing what the analysis implies for the student's development as a strategic leader.
+**Level 7, Critically reflect and Critically examine** (Unit 714): go beyond describing yourself. Question your assumptions, test your values and behaviours against a standard such as the CMI Professional Standard or an organisational framework, and say what the evidence shows. A model such as single-loop and double-loop learning (Argyris and Schön, 1978) can help you ask whether you corrected an action or questioned the thinking behind it. It is not named in Unit 714, so treat it as your own choice to justify.
 
-**Step 6, Check Learning Outcome alignment**: Read the Learning Outcomes for the unit and confirm each one is addressed explicitly somewhere in the document. Assessors mark against LOs, if a LO is not visibly addressed, it is not awarded.
+## Reflective Practice — Common Questions
 
-## CPD Reflection vs CMI Reflective Account — What Is the Difference?
+**Which model should I use, Gibbs, Kolb or Johns?**
 
-This distinction resolves the most common cause of CMI Level 5 referrals.
+Check your unit brief first, since some centres specify one. Unit 525 and Unit 714 both name Gibbs, Kolb and Johns, so any is defensible. Gibbs gives the clearest structure for a first piece. Pick the model that helps you answer the criteria.
 
-**A CPD reflection** is informal, personal, and developmental. Its purpose is to prompt you to think about your professional practice. It can be conversational in tone, does not require citations, and has no assessed standard.
+**Can I write in the first person?**
 
-**A CMI reflective account** is a formal academic document that:
-- Must be written in structured first-person academic language ("My evaluation of the situation indicated..." not "I felt...")
-- Must apply at least one named theoretical framework with full citation (author, year, publication)
-- Must demonstrate the correct command verb depth for the level (Evaluate at L5, Critically Analyse at L7)
-- Must address each Learning Outcome explicitly
-- Must reach transferable conclusions and a forward-looking development plan
-- Must include a reference list with all cited sources in Harvard format
+Reflective work about your own experience is normally written in the first person, but check your brief and centre. Keep the language measured and professional: "My assessment of the situation was..." rather than casual phrasing.
 
-Students who write their CMI reflective account as a CPD diary entry almost always receive a referral at Level 5 and below Merit at Level 7. The difference is not content knowledge, it is academic structure and command verb execution.
+**How long should it be?**
 
-## Command Verb Depth in CMI Reflective Accounts
+Your brief sets the word count. CMI's guidelines for Level 5 units run from 3,000 to 5,000 words, and Unit 714 at Level 7 has a guideline of 4,000, in each case with a 10% allowance. Appendices should be kept to a minimum.
 
-**Level 5, Evaluate**: You must assess the strengths and weaknesses of what happened and WHY they arose. "This approach was effective in the short term because it addressed the team's immediate safety concerns (Maslow, 1943) by reinstating clarity about roles and responsibilities. However, it failed to address the underlying motivation deficit identified by Herzberg (1959), the lack of growth opportunities and recognition, which means the performance improvement is likely to be temporary." This is Evaluate, you are judging the situation with theoretical backing and reaching a conclusion about why.
+**What is the difference between a reflective piece and a report?**
 
-**Level 7, Critically Analyse**: You are not just applying frameworks, you are interrogating them. Argyris and Schön (1978) distinguish single-loop learning (correcting errors within existing governing variables) from double-loop learning (questioning the governing variables themselves). A Critically Analyse reflective account for Unit 714 asks: does my reflection operate at single-loop or double-loop depth? If I revised my briefing technique (single loop) without questioning whether the performance management framework I was operating within was producing the right outcomes (double loop), my learning remains operationally useful but strategically limited.
+A report usually analyses an organisational situation or question, often in impersonal language. A reflective piece analyses your own experience and learning, in the first person, and ends in a development plan. Which you need depends on your unit's criteria and brief.
 
-## CMI Reflective Practice — Common Questions
+**How do I get help with a reflective piece?**
 
-**Which model, Gibbs or Kolb, should I use for my CMI assignment?**
+Send your unit brief and the scenario you plan to use via WhatsApp. We can talk through structure, model choice and what each criterion needs. The experience and the evidence must be your own.
 
-For Level 5 Unit 525, Gibbs (1988) is the more commonly appropriate choice, its staged structure provides a clear framework for a formal reflective account and is explicitly referenced in many unit briefs. For Level 7 Unit 714, Kolb (1984) is valuable as a theoretical lens, particularly combined with Argyris and Schön (1978). Check your unit brief, some awarding centres specify which framework to use.
-
-**Can I use first person in a CMI assignment?**
-
-Yes, reflective accounts are the one CMI format where first-person writing is not only permitted but required. Academic first-person language applies: "My analysis of the situation indicated..." and "The approach I adopted was consistent with..." rather than informal conversational phrasing. All other CMI formats (management report, strategic paper) use third person or impersonal academic voice.
-
-**How long should a CMI reflective account be?**
-
-Level 5 Unit 525 reflective accounts are typically 1,500–3,000 words. Level 7 Unit 714 strategic papers are typically 3,000–5,000 words. Word count guidance is in your unit brief, follow it, as going significantly over or under can affect the assessment.
-
-**What is the difference between a CMI reflective account and a management report?**
-
-A management report (the primary format at Levels 5 and 6) is written in third-person academic voice, has a formal 9-component structure (title page, executive summary, table of contents, introduction, analysis sections, SMART recommendations, conclusion, reference list, appendices), and analyses an organisational management challenge. A reflective account is written in first person, is structured around a reflective framework (Gibbs or Kolb), and analyses the student's own professional learning from a specific experience.
-
-**How do I get help with my CMI reflective account?**
-
-Send your unit brief, the scenario you are planning to reflect on, and your target grade via WhatsApp. A quote is returned within 2 hours. A writer or tutor with CMI Level 5 or Level 7 qualification, experienced in Gibbs and Kolb application at the correct command verb depth, is assigned.
-
-The [CIPD's CPD guidance](https://www.cipd.org/uk/knowledge/factsheets/cpd-factsheet/) provides the professional development evidence base that complements the Gibbs and Kolb frameworks covered in this guide to CMI reflective practice.
+The [CIPD's CPD guidance](https://www.cipd.org/uk/knowledge/factsheets/cpd-factsheet/) provides further background on continuing professional development that complements the models in this guide.
 
 ## Related CMI Assignment Support
 
-- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Unit 525 (reflective account) is one of 26 Level 5 units, full Level 5 support across all units and the management report format
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Unit 714 (Personal and Professional Development for Strategic Leaders) at Critically Analyse depth, strategic paper format, Argyris and Schön, Kolb and Goleman at primary source level
-- [CMI Assignment Tutoring](https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/), Expert guidance for students writing their own reflective account, framework selection, structure planning, command verb coaching
-- [CMI Assignment Structure Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/), How every CMI assignment format is structured, section by section
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Unit 525 is one of the 26 Level 5 units
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Unit 714 (Personal and Professional Development for Strategic Leaders)
+- [CMI Assignment Tutoring](https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/), guidance for learners writing their own reflective piece
+- [CMI Assignment Structure Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/), reports, accounts and reflective writing
 
 ## Related CMI Unit Pages
 
@@ -143,6 +143,7 @@ More guides that connect to this topic:
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/)
 - [CMI Assignment Structure Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/)
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/)
 - [CMI Assignment Referral and Resubmission Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/)
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/)
 
