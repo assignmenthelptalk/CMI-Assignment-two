@@ -112,3 +112,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Vroom
 - [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names Vroom
 - [CMI 318 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-318-assignment-help/), Managing Data and Information (Level 3), a related topic: managing data and information
+- [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Strategic Management of Data and Information (Level 7), a related topic: using data for decisions
+- [CMI 713 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/), Applied Research for Strategic Leaders (Level 7), a related topic: using data for decisions
+- [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6), a related topic: using data for decisions

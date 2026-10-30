@@ -119,3 +119,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4007 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/), Managing Interviews (Level 4), a related topic: interviewing and selection
 - [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3), a related topic: staff review and inspection
 - [CMI 316 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-316-assignment-help/), Monitoring Quality to Improve Outcomes (Level 3), a related topic: staff review and inspection
+- [CMI 519 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/), Managing Quality and Continuous Improvement (Level 5), a related topic: staff review and inspection

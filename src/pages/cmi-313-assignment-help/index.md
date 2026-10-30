@@ -123,3 +123,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing the Knowledge, Skills and Abilities of Individuals and Teams (Level 3), a related topic: developing and sharing good practice
 - [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6), a related topic: developing and sharing good practice
 - [CMI 519 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/), Managing Quality and Continuous Improvement (Level 5), a related topic: developing and sharing good practice
+- [CMI 609 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-609-assignment-help/), Leading Quality Management (Level 6), a related topic: developing and sharing good practice

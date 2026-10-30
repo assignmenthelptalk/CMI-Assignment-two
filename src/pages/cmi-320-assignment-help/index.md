@@ -123,4 +123,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 305 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/), Building Stakeholder Relationships using Effective Communication (Level 3), a related topic: presenting and communicating
+- [CMI 4006 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/), Management and Leadership Influencing Skills (Level 4), a related topic: presenting and communicating
 - [CMI 4005 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/), Management Report Writing (Level 4), a related topic: report writing

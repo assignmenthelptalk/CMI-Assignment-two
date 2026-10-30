@@ -105,3 +105,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Porter and Ansoff, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 710 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-710-assignment-help/), Marketing Strategy (Level 7), also names Porter and Ansoff
+- [CMI 317 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-317-assignment-help/), Supporting the Delivery of Customer Service (Level 3), a related topic: customer service

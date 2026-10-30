@@ -119,3 +119,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 503 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/), Principles of Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names the Balanced Scorecard
 - [CMI 313 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/), Developing and Sharing Good Practice (Level 3), a related topic: developing and sharing good practice
 - [CMI 318 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-318-assignment-help/), Managing Data and Information (Level 3), a related topic: managing data and information
+- [CMI 521 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-521-assignment-help/), Using Data and Information for Decision Making (Level 5), a related topic: using data for decisions

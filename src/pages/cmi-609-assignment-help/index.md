@@ -112,3 +112,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Lewin
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Lewin
+- [CMI 313 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/), Developing and Sharing Good Practice (Level 3), a related topic: developing and sharing good practice
+- [CMI 519 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/), Managing Quality and Continuous Improvement (Level 5), a related topic: quality and continuous improvement

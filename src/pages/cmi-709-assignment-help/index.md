@@ -105,3 +105,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 318 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-318-assignment-help/), Managing Data and Information (Level 3), a related topic: managing data and information
+- [CMI 521 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-521-assignment-help/), Using Data and Information for Decision Making (Level 5), a related topic: using data for decisions

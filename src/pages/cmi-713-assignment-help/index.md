@@ -110,5 +110,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 521 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-521-assignment-help/), Using Data and Information for Decision Making (Level 5), a related topic: using data for decisions
 - [CMI 524 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-524-assignment-help/), Conducting a Management Project (Level 5), a related topic: management projects
 - [CMI 4005 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/), Management Report Writing (Level 4), a related topic: report writing

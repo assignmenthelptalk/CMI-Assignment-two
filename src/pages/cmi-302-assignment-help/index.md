@@ -135,3 +135,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4004 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/), Understanding Team Dynamics (Level 4), also names Tuckman, Belbin and Tannenbaum and Schmidt
 - [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names Tuckman, Belbin and Tannenbaum and Schmidt
 - [CMI 308 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/), Managing Volunteers (Level 3), a related topic: managing and developing volunteers
+- [CMI 505 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-505-assignment-help/), Forming Successful Teams (Level 5), a related topic: forming successful teams

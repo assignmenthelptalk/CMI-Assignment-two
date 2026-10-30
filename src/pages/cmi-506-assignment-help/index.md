@@ -127,5 +127,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Blake and Mouton
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Blake and Mouton
 - [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Principles of Equality, Diversity and Inclusive Working Practice (Level 3), a related topic: equality, diversity and inclusion
+- [CMI 511 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-511-assignment-help/), Principles of Recruiting, Selecting and Retaining Talent (Level 5), a related topic: recruitment, selection and retention
 - [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Strategic Approaches to Equality and Inclusion (Level 7), a related topic: equality and inclusion
 - [CMI 4008 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/), Promoting Equality and Diversity (Level 4), a related topic: equality, diversity and inclusion

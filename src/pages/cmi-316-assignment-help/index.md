@@ -111,4 +111,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 315 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-315-assignment-help/), Principles of Health and Safety in a Work Setting (Level 3), a related topic: health and safety risk
+- [CMI 519 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/), Managing Quality and Continuous Improvement (Level 5), a related topic: quality and continuous improvement
 - [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4), a related topic: staff review and inspection
