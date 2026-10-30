@@ -9,8 +9,8 @@ const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
 const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "CMI Assignment Structure Guide — Management Report, Essay, and Reflective Account",
-  "description": "How to structure every CMI assignment format: management report (Level 5+), structured essay (Level 3–4), and reflective account. Section-by-section guidance, word count distribution, and format selection by command verb.",
+  "headline": "CMI Assignment Structure Guide — Reports, Accounts and Reflective Writing",
+  "description": "How to structure a CMI assignment: what CMI's syllabuses say about formats, and practical advice on structuring reports, scenario responses and reflective accounts so every criterion is answered.",
   "author": { "@type": "Organization", "name": "CMI Assignment Help UK" },
   "publisher": { "@type": "Organization", "name": "CMI Assignment Help UK", "url": siteUrl }
 };
@@ -19,32 +19,31 @@ const faqSchema = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    { "@type": "Question", "name": "What is the difference between a CMI management report and a structured essay?", "acceptedAnswer": { "@type": "Answer", "text": "A CMI management report has nine formal sections including an executive summary, a standalone recommendations section, and a conclusion distinct from the analysis. A structured essay uses PEEL body paragraphs to build an argument and does not include a formal recommendations section. The management report is the primary format at Level 5 and Level 6; the structured essay is primary at Level 3 and Level 4. The format is signalled by the Learning Outcome language and command verbs in the brief." } },
-    { "@type": "Question", "name": "How long should a CMI executive summary be?", "acceptedAnswer": { "@type": "Answer", "text": "A CMI executive summary should be 150 to 200 words. It summarises the context examined, the key analytical findings, and the key recommendations. A reader who reads only the executive summary should understand what the report found and what it recommends. Executive summaries exceeding 200 words are almost always combining the introduction function with the summary function." } },
-    { "@type": "Question", "name": "Do CMI recommendations need to be SMART?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. CMI Grade Descriptors at Level 5 and above require recommendations to be specific and justified. In practice, the SMART framework applies as the minimum standard: Specific, Measurable, Achievable, Relevant, and Time-bound. A recommendation that does not meet all five criteria is incomplete at the standard required for Merit or Distinction." } },
-    { "@type": "Question", "name": "How many sections does a CMI management report have?", "acceptedAnswer": { "@type": "Answer", "text": "A CMI management report has nine sections: Title Page, Executive Summary, Table of Contents, Introduction, Main Analysis Sections, Recommendations, Conclusion, Reference List, and Appendices. The Reference List and Appendices are excluded from the word count. The analysis sections carry 50–60% of the total word count and are where the grade is primarily determined." } },
-    { "@type": "Question", "name": "Can I use headings in a CMI essay?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Headings are permitted and recommended in CMI essays. Using H2 headings to signpost each Learning Outcome section aids assessor navigation and reduces the risk of a Learning Outcome being missed during marking, unlike the convention in standard academic essays where headings are often discouraged." } }
+    { "@type": "Question", "name": "Does CMI require a management report or an essay?", "acceptedAnswer": { "@type": "Answer", "text": "CMI does not fix one format for every unit. The syllabus sets the assessment criteria, and your centre sets the task. CMI's recommendations for each unit suggest ways to assess, most often a written report, a response to a scenario, an account, or a reflective account. Follow the format and instructions in your own assignment brief." } },
+    { "@type": "Question", "name": "Do I need an executive summary?", "acceptedAnswer": { "@type": "Answer", "text": "CMI does not require one. If your brief or centre template asks for a report with an executive summary, write it last and make it report what you found and recommend, not introduce the topic. If your brief does not ask for one, follow the brief." } },
+    { "@type": "Question", "name": "Do CMI recommendations need to be SMART?", "acceptedAnswer": { "@type": "Answer", "text": "CMI does not require SMART recommendations. CMI defines Recommend as putting forward proposals, alternatives or suggestions supported by a clear rationale appropriate to the situation. SMART (specific, measurable, achievable, relevant, time-bound) is a widely used way to make recommendations concrete, and it helps you show the rationale, so it is useful where your brief asks for actions." } },
+    { "@type": "Question", "name": "How should I split my word count?", "acceptedAnswer": { "@type": "Answer", "text": "Start from the guideline word count for your unit, which has a 10% allowance above or below. Give each assessment criterion a share, weight the larger share to criteria that ask you to judge or build something, and keep the introduction and conclusion short so they do not crowd out the criteria." } },
+    { "@type": "Question", "name": "Can I use headings in my assignment?", "acceptedAnswer": { "@type": "Answer", "text": "Headings are usually helpful because they show the assessor which criterion each section answers. Check your centre's brief or template for any rules on layout." } }
   ]
 };
 ---
 
 <Layout
-  title="CMI Assignment Structure Guide | Management Report, Essay, and Reflective Account"
-  description="How to structure every CMI assignment format: management report (Level 5+), structured essay (Level 3–4), and reflective account. Section-by-section guidance, word count distribution, and format selection by command verb. All levels 3–7."
+  title="CMI Assignment Structure Guide | Reports, Accounts and Reflective Writing"
+  description="How to structure a CMI assignment: what the syllabuses say about formats, and practical advice on reports, scenario responses and reflective accounts."
   canonical={siteUrl + '/guides/cmi-assignment-structure/'}
   pageSchema={[articleSchema, faqSchema]}
 >
 
   <section class="hero">
     <div class="container hero-inner">
-      <p class="eyebrow">Management Report &bull; Structured Essay &bull; Reflective Account</p>
-      <h1>CMI Assignment Structure Guide | Management Report, Essay, and Reflective Account</h1>
+      <p class="eyebrow">Reports &bull; Scenario Responses &bull; Reflective Accounts</p>
+      <h1>CMI Assignment Structure Guide | Reports, Accounts and Reflective Writing</h1>
       <p class="hero-sub">
-        CMI assignments are submitted in one of three formats. The format is not the student's choice.
-        It is defined by the unit brief, and submitting in the wrong format reduces the grade ceiling
-        regardless of the quality of the analytical content. This guide covers the nine-section management
-        report in full, the Level 3/4 essay format, the Gibbs and Kolb reflective account structure, and
-        the ten most common structural errors across all three formats.
+        CMI sets the assessment criteria and your centre sets the task, so the format comes from your brief.
+        This guide shows what CMI's syllabuses say about formats and gives practical advice on structuring a
+        report, a response to a scenario and a reflective account so that every criterion is answered. The
+        advice is ours. It is not a CMI requirement.
       </p>
       <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
         Need Help with Your CMI Assignment Structure?
@@ -55,7 +54,7 @@ const faqSchema = {
   <img
     class="page-header-img"
     src="/images/headers/cmi-assignment-structure.webp"
-    alt="CMI assignment structure guide — management report, essay, and reflective account"
+    alt="CMI assignment structure guide — reports, accounts and reflective writing"
     width="1376"
     height="688"
     loading="eager"
@@ -66,67 +65,65 @@ const faqSchema = {
 
   <section class="section">
     <div class="container narrow">
-      <h2 class="section-title" id="which-format-does-your-unit-require">Which CMI Assignment Format Does Your Unit Require?</h2>
+      <h2 class="section-title" id="which-format-does-your-unit-require">Which Format Does Your Unit Require?</h2>
       <p>
-        The format required for any given unit is determined by three signals in the assessment brief: the
-        language of the Learning Outcomes, the command verbs used, and any explicit format instruction.
-        Misreading these produces a structural mismatch that cannot be recovered at marking stage.
+        The assessment requirements are the criteria in each unit. For every unit CMI lists recommended ways to
+        assess, which it describes as guidance only, and the learner must meet all of the criteria. The syllabus also
+        says written work is expected to form the majority of assessable work, and that group assessment is not
+        recognised. Three signals tell you the format: the instructions in your brief, the verbs in the criteria, and
+        any template from your centre.
       </p>
       <div class="format-decision-grid">
         <div class="format-decision">
-          <h3>Management Report</h3>
-          <p><strong>Primary at:</strong> Level 5 and Level 6</p>
-          <p>Signalled by: "produce a report," "develop recommendations," "present findings to a senior audience." Command verbs: Evaluate, Justify, Critically Evaluate, Critically Analyse.</p>
+          <h3>Report</h3>
+          <p><strong>Suggested for:</strong> every unit at Levels 3, 5, 6 and 7 mention a report among their recommendations.</p>
+          <p>Use headings that follow the criteria, and finish with conclusions or recommendations if the criteria ask for them.</p>
         </div>
         <div class="format-decision">
-          <h3>Structured Essay</h3>
-          <p><strong>Primary at:</strong> Level 3 and Level 4</p>
-          <p>Signalled by: a response to a defined question, "discuss," "explain the principles of." No recommendation section in the Learning Outcomes.</p>
+          <h3>Scenario Response or Account</h3>
+          <p><strong>Suggested for:</strong> 19 of 21 Level 3 units and 24 of 26 Level 5 units mention a scenario.</p>
+          <p>Answer the criteria in order in the context of the scenario, using your own organisation or the one given.</p>
         </div>
         <div class="format-decision">
           <h3>Reflective Account</h3>
-          <p><strong>Required when:</strong> Learning Outcomes ask for reflection on personal experience or a professional event.</p>
-          <p>First-person academic language. Common in Unit 714 (L7) and reflective elements within Unit 321 (L3).</p>
+          <p><strong>Suggested for:</strong> 18 of 21 Level 3 units, 25 of 26 Level 5, all 14 Level 6 and 15 of 16 Level 7 units.</p>
+          <p>First-person academic writing about your own practice. Unit 714 (Level 7) and Unit 525 (Level 5) are built around it.</p>
         </div>
       </div>
       <p>
-        Understanding the <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/">CMI command verbs</a> in the brief
-        is the first step to identifying the correct format. A brief using Evaluate or Critically Evaluate
-        is a management report brief. A brief using Explain or Discuss is almost always an essay brief.
+        Understanding the <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/">CMI command verbs</a> in your criteria
+        is the first step. They tell you whether each section must describe, explain, analyse, evaluate or build.
       </p>
     </div>
   </section>
 
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title" id="management-report-9-sections">CMI Management Report Structure — All 9 Sections</h2>
+      <h2 class="section-title" id="management-report-9-sections">A Practical Report Structure</h2>
       <p class="section-lead">
-        Each section has a defined structural purpose. Deviating from the structure, or placing content in
-        the wrong section, reduces the grade ceiling regardless of the quality of the analytical content
-        that is present.
+        CMI does not set a section list. This layout is a common, sensible way to organise a report, so adapt it to
+        your brief or centre template.
       </p>
       <div class="report-sections">
-        <div class="report-section"><div class="rs-num">1</div><div class="rs-body"><h3 class="rs-title">Title Page</h3><p class="rs-desc">Assignment title, unit number and name, student name and registration number, submission date, word count, awarding centre. Not included in the word count.</p></div></div>
-        <div class="report-section report-section--alert"><div class="rs-num">2</div><div class="rs-body"><h3 class="rs-title">Executive Summary <span class="rs-alert">Most misunderstood section</span></h3><p class="rs-desc">150–200 words. Written last, placed first. Summarises the context, the key analytical findings, and the key recommendations, not an introduction to the topic. Covered in full below.</p></div></div>
-        <div class="report-section"><div class="rs-num">3</div><div class="rs-body"><h3 class="rs-title">Table of Contents</h3><p class="rs-desc">All section headings with page numbers. Required for any submission exceeding 1,000 words.</p></div></div>
-        <div class="report-section"><div class="rs-num">4</div><div class="rs-body"><h3 class="rs-title">Introduction</h3><p class="rs-desc">200–300 words. Defines scope and purpose, states organisational context, introduces the Learning Outcomes addressed. Does not preview analytical conclusions.</p></div></div>
-        <div class="report-section"><div class="rs-num">5</div><div class="rs-body"><h3 class="rs-title">Main Analysis Sections</h3><p class="rs-desc">One to four sections, each addressing a specific Learning Outcome. Carries 50–60% of the total word count. Applies named theories at the depth the command verb requires. This is where the grade is set.</p></div></div>
-        <div class="report-section"><div class="rs-num">6</div><div class="rs-body"><h3 class="rs-title">Recommendations</h3><p class="rs-desc">Three to five SMART recommendations derived directly from the analysis. Each must be traceable to a specific finding.</p></div></div>
-        <div class="report-section"><div class="rs-num">7</div><div class="rs-body"><h3 class="rs-title">Conclusion</h3><p class="rs-desc">150–250 words. Synthesises the findings and their implications. Does not introduce new content.</p></div></div>
-        <div class="report-section"><div class="rs-num">8</div><div class="rs-body"><h3 class="rs-title">Reference List</h3><p class="rs-desc">Full Harvard-format reference list of all sources cited in the text, not a bibliography of sources merely read.</p></div></div>
-        <div class="report-section"><div class="rs-num">9</div><div class="rs-body"><h3 class="rs-title">Appendices</h3><p class="rs-desc">Supporting material referenced within the body: data, models, diagrams. Excluded from the word count but must be referenced by label in the text.</p></div></div>
+        <div class="report-section"><div class="rs-num">1</div><div class="rs-body"><h3 class="rs-title">Title Page</h3><p class="rs-desc">Assignment title, unit number and name, your name and registration details, submission date and word count, as your centre requires.</p></div></div>
+        <div class="report-section report-section--alert"><div class="rs-num">2</div><div class="rs-body"><h3 class="rs-title">Executive Summary <span class="rs-alert">Only if your brief asks</span></h3><p class="rs-desc">A short summary of the findings and recommendations, not an introduction to the topic. Write it last. Covered below.</p></div></div>
+        <div class="report-section"><div class="rs-num">3</div><div class="rs-body"><h3 class="rs-title">Contents</h3><p class="rs-desc">Section headings with page numbers, useful for any longer submission.</p></div></div>
+        <div class="report-section"><div class="rs-num">4</div><div class="rs-body"><h3 class="rs-title">Introduction</h3><p class="rs-desc">Purpose, scope and the organisational context you are using. Keep it brief so it does not take words from the criteria.</p></div></div>
+        <div class="report-section"><div class="rs-num">5</div><div class="rs-body"><h3 class="rs-title">Main Sections, One Per Criterion or Learning Outcome</h3><p class="rs-desc">Headings that mirror the criteria so the assessor can see each one answered. Do what the verb asks, and use theory as a tool for your own situation.</p></div></div>
+        <div class="report-section"><div class="rs-num">6</div><div class="rs-body"><h3 class="rs-title">Recommendations or Proposal</h3><p class="rs-desc">Where the criteria use verbs such as Develop, Propose or Recommend, set out what you recommend and the rationale, drawn from your analysis.</p></div></div>
+        <div class="report-section"><div class="rs-num">7</div><div class="rs-body"><h3 class="rs-title">Conclusion</h3><p class="rs-desc">Draws the findings together. Avoid new material.</p></div></div>
+        <div class="report-section"><div class="rs-num">8</div><div class="rs-body"><h3 class="rs-title">References</h3><p class="rs-desc">Every source cited in the text, in the style your centre requires. See our <a href="https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/">Harvard referencing guide</a>.</p></div></div>
+        <div class="report-section"><div class="rs-num">9</div><div class="rs-body"><h3 class="rs-title">Appendices</h3><p class="rs-desc">CMI asks learners to keep appendices to a minimum. Evidence that shows a criterion is met belongs in the main body, not only in an appendix, and each appendix should be referred to in the text.</p></div></div>
       </div>
     </div>
   </section>
 
   <section class="section">
     <div class="container narrow">
-      <h2 class="section-title" id="executive-summary">The CMI Executive Summary — The Most Misunderstood Section</h2>
+      <h2 class="section-title" id="executive-summary">The Executive Summary — Findings, Not Introduction</h2>
       <p>
-        The executive summary is the most frequently mishandled section of CMI management reports. It is
-        also the first section an assessor reads after the title page, so a mismatch between what it should
-        be and what has been submitted creates a negative first impression the analytical content must
-        overcome.
+        If your brief asks for an executive summary, write it last. It should tell a reader who sees nothing else what
+        the report found and what it recommends. The common mistake is to write an introduction instead.
       </p>
       <div class="es-compare">
         <div class="es-col es-col--wrong">
@@ -135,152 +132,149 @@ const faqSchema = {
         </div>
         <div class="es-col es-col--right">
           <h3>What It Is</h3>
-          <p>"Analysis of the leadership approach applied during [organisation]'s restructure indicates that the Directive style produced a 23% increase in voluntary turnover... Three recommendations are presented accordingly." (a summary of what the report found).</p>
+          <p>"Analysis of the leadership approach used during [organisation]'s restructure shows that the directive style delivered the timetable but weakened engagement. Three recommendations follow." (a summary of what the report found).</p>
         </div>
       </div>
       <p>
-        Word count: 150–200 words. It is written last, after every other section is complete, because it
-        summarises content that does not exist when the student begins writing. The test: a reader who
-        reads only the executive summary should know what the report found and what it recommends without
-        reading anything else.
+        Keep it short, and check your brief for any length your centre sets. CMI does not set one.
       </p>
     </div>
   </section>
 
   <section class="section section-alt">
     <div class="container narrow">
-      <h2 class="section-title" id="analysis-sections">CMI Analysis Sections — Applying Theory at the Correct Depth</h2>
-      <p>The main analysis sections carry 50–60% of the total word count and set the grade. Each section has four structural components:</p>
+      <h2 class="section-title" id="analysis-sections">Analysis Sections — Answer the Criterion, Using Theory as a Tool</h2>
+      <p>For each criterion or learning outcome, a section that follows this order usually works:</p>
       <ol class="analysis-steps">
-        <li><strong>Opening statement</strong>: defines what the section addresses and which Learning Outcome it corresponds to. Does not preview the conclusion.</li>
-        <li><strong>Framework application</strong>: introduces the named theory, states its core propositions briefly, then applies it directly to the organisational context. The theory is the tool; the context is the subject. This sequence must not be inverted.</li>
-        <li><strong>Command verb operation</strong>: the analytical core, at the depth the command verb requires: Analyse (L4), Evaluate (L5), Critically Evaluate or Critically Analyse (L6/L7).</li>
-        <li><strong>Sub-conclusion</strong>: a single paragraph stating the analytical finding for this section, feeding directly into the recommendations.</li>
+        <li><strong>Opening statement</strong>: says which criterion the section answers and what it will cover, without giving away the conclusion.</li>
+        <li><strong>Framework or evidence</strong>: introduces the theory, model or source briefly, then applies it directly to your organisation. The theory is the tool and your context is the subject.</li>
+        <li><strong>The verb's operation</strong>: the core of the section, at the depth the verb asks, for example weighing strengths and weaknesses and reaching a judgement for Evaluate, or checking the validity of the information for Critically appraise.</li>
+        <li><strong>Sub-conclusion</strong>: a sentence or short paragraph stating what you found, which feeds into any recommendations.</li>
       </ol>
       <p>
-        Common errors: applying a framework and then describing it again instead of evaluating it; reaching
-        a sub-conclusion early and then adding material supporting a different conclusion; using a framework
-        to describe a general situation rather than the specific scenario in the brief.
+        Common errors: describing a framework and then describing it again instead of using it; reaching a
+        conclusion early and adding material that supports a different one; using a framework for a general
+        situation rather than the scenario in the brief.
       </p>
     </div>
   </section>
 
   <section class="section">
     <div class="container narrow">
-      <h2 class="section-title" id="smart-recommendations">CMI Recommendations — What Makes Them SMART</h2>
-      <p>Every CMI management report recommendation must meet all five SMART criteria, as defined by Doran (1981) in <em>Management Review</em>:</p>
+      <h2 class="section-title" id="smart-recommendations">Recommendations — Making Them Concrete</h2>
+      <p>
+        CMI defines Recommend as putting forward proposals, alternatives or suggestions supported by a clear
+        rationale appropriate to the situation. CMI does not require SMART recommendations, but SMART, from Doran
+        (1981), is a common way to make a recommendation concrete, and it makes the rationale easier to show:
+      </p>
       <div class="smart-grid">
-        <div class="smart-item"><h3>Specific</h3><p>Names a concrete action. "Improve communication" fails. "Implement weekly one-to-ones using the SBI feedback model from [date]" passes.</p></div>
-        <div class="smart-item"><h3>Measurable</h3><p>Includes a success criterion. "Achieve 90% completion of the training module by [date], verified via the LMS."</p></div>
-        <div class="smart-item"><h3>Achievable</h3><p>Realistic within the constraints stated in the analysis sections.</p></div>
-        <div class="smart-item"><h3>Relevant</h3><p>Traceable to a specific analytical finding. A recommendation with no evidential basis in the analysis is unsupported and reduces the grade.</p></div>
-        <div class="smart-item"><h3>Time-bound</h3><p>Includes a timeline or deadline for implementation or review.</p></div>
+        <div class="smart-item"><h3>Specific</h3><p>Names a concrete action. "Improve communication" is vague. "Introduce weekly one-to-ones from [date]" is specific.</p></div>
+        <div class="smart-item"><h3>Measurable</h3><p>Includes a success measure, for example "90% completion of the training module by [date]".</p></div>
+        <div class="smart-item"><h3>Achievable</h3><p>Realistic within the constraints your analysis described.</p></div>
+        <div class="smart-item"><h3>Relevant</h3><p>Traceable to a specific finding. A recommendation with no basis in the analysis is unsupported.</p></div>
+        <div class="smart-item"><h3>Time-bound</h3><p>Includes a timeline for implementation or review.</p></div>
       </div>
-      <p>Minimum three recommendations for a Level 5 or Level 6 report; five is typical for units with a planning or operational scope.</p>
+      <p>Only include recommendations where the criteria ask for them. If the verb is Evaluate or Analyse, a judgement or conclusion is what is needed.</p>
     </div>
   </section>
 
   <section class="section section-alt">
     <div class="container narrow">
-      <h2 class="section-title" id="word-count-distribution">Word Count Distribution for CMI Management Reports</h2>
-      <p>For a standard 3,500-word Level 5 management report:</p>
-      <table class="wc-table">
-        <tbody>
-          <tr><td>Executive Summary</td><td>150–200 words (often excluded, check your brief)</td></tr>
-          <tr><td>Introduction</td><td>200–300 words</td></tr>
-          <tr><td>Main Analysis Section 1</td><td>600–700 words</td></tr>
-          <tr><td>Main Analysis Section 2</td><td>600–700 words</td></tr>
-          <tr><td>Main Analysis Section 3 (if applicable)</td><td>400–500 words</td></tr>
-          <tr><td>Recommendations</td><td>300–400 words</td></tr>
-          <tr><td>Conclusion</td><td>200–250 words</td></tr>
-          <tr><td>Reference List / Appendices</td><td>Excluded</td></tr>
-        </tbody>
-      </table>
+      <h2 class="section-title" id="word-count-distribution">Planning Your Word Count</h2>
       <p>
-        The two most common word count errors: an over-long introduction (400+ words) that crowds out the
-        analysis sections, and a long conclusion that introduces new points instead of synthesising. For
-        longer reports (4,000–5,000 words at L5; 5,000–6,500 at L7), additional word count goes into the
-        analysis sections, not the introduction or conclusion.
+        Every unit has a guideline word count with a 10% allowance above or below, and your brief takes precedence.
+        At Level 5 the guidelines range from 3,000 to 5,000 words, at Level 6 they are 3,500 or 4,000, and at Level 7
+        they are 3,500, 4,000 or 4,500 for the Group A units.
+      </p>
+      <ol class="analysis-steps">
+        <li><strong>Count the criteria.</strong> List every assessment criterion in your brief or the syllabus.</li>
+        <li><strong>Share the guideline.</strong> Divide the usable words between them, giving a larger share to criteria that ask you to judge or build something, such as Evaluate, Critically appraise or Develop, than to criteria that ask you to identify or describe.</li>
+        <li><strong>Keep the frame short.</strong> A brief introduction and conclusion leave more words for the criteria, which is where they are met.</li>
+        <li><strong>Check the count against the allowance</strong> before you submit.</li>
+      </ol>
+      <p>
+        The two most common word count problems are a long introduction that crowds out the analysis and a
+        conclusion that introduces new points instead of drawing the findings together.
       </p>
     </div>
   </section>
 
   <section class="section">
     <div class="container narrow">
-      <h2 class="section-title" id="structured-essay-format">CMI Structured Essay Format — Level 3 and Level 4</h2>
+      <h2 class="section-title" id="structured-essay-format">Scenario Responses and Accounts</h2>
       <p>
-        The structured essay differs from a management report in three respects: no executive summary, no
-        formal recommendations section, and structured by argument rather than function.
+        Many units suggest responding to a scenario or writing an account. These do not need the full report
+        apparatus. A clean structure is enough:
       </p>
       <ul class="essay-parts">
-        <li><strong>Title</strong>: the assignment question or a direct response to it.</li>
-        <li><strong>Introduction</strong> (150–200 words): introduces the topic and scope, states how the Learning Outcomes will be addressed. Does not preview conclusions.</li>
-        <li><strong>Body paragraphs</strong>: each addresses a specific Learning Outcome using PEEL structure: <em>Point</em>, <em>Evidence</em>, <em>Explanation</em>, <em>Link</em>. 150–250 words each.</li>
-        <li><strong>Conclusion</strong> (150–200 words): synthesises the body's findings. No new content.</li>
-        <li><strong>Reference List</strong>: Harvard format. Minimum sources: Level 3, 6–8; Level 4, 8–10.</li>
+        <li><strong>Title</strong>: the question or a direct response to it.</li>
+        <li><strong>Introduction</strong>: the topic, the context and how you will address the criteria.</li>
+        <li><strong>Body</strong>: one section or group of paragraphs per criterion, each doing what the verb asks. The PEEL pattern (Point, Evidence, Explanation, Link) keeps paragraphs tight.</li>
+        <li><strong>Conclusion</strong>: draws the findings together. No new content.</li>
+        <li><strong>References</strong>: every source you cite, in your centre's style.</li>
       </ul>
       <p>
-        Headings are permitted and recommended. Using H2 headings to signpost each Learning Outcome aids
-        assessor navigation, unlike the convention in a standard university essay.
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/">CMI Level 3 assignment help</a> and
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/">CMI Level 4 assignment help</a> confirm the correct format
-        from the brief before writing, as some Level 4 units use management report format instead.
+        Headings that name each criterion help the assessor see that nothing is missing. Check your centre's brief for
+        any rule on layout. For the units, see <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/">CMI Level 3 assignment help</a> and
+        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/">CMI Level 4 assignment help</a>.
       </p>
     </div>
   </section>
 
   <section class="section section-alt">
     <div class="container narrow">
-      <h2 class="section-title" id="reflective-account-structure">CMI Reflective Account Structure — Using Gibbs and Kolb</h2>
+      <h2 class="section-title" id="reflective-account-structure">Reflective Accounts — Using Gibbs, Kolb or Johns</h2>
       <p>
-        Reflective accounts use first-person academic language throughout ("I observed," "I concluded")
-        as opposed to the third-person register of the management report.
+        Reflective accounts are written in the first person ("I observed", "I concluded") about your own practice. CMI
+        defines Critically reflect as identifying, questioning and assessing
+        deeply held beliefs and assumptions about your practice. The syllabuses name reflective models as examples, so
+        use one that suits you and say why.
       </p>
       <div class="reflective-grid">
         <div class="reflective-model">
-          <h3>Gibbs' Reflective Cycle (1988) — 6 Stages</h3>
+          <h3>Gibbs' Reflective Cycle — 6 Stages</h3>
           <ol>
             <li>Description: what happened</li>
-            <li>Feelings: what the student thought and felt</li>
+            <li>Feelings: what you thought and felt</li>
             <li>Evaluation: what was good or bad</li>
             <li>Analysis: theory applied to make sense of the situation</li>
-            <li>Conclusion: what else could have been done, what was learned</li>
-            <li>Action Plan: what the student will do differently</li>
+            <li>Conclusion: what else you could have done</li>
+            <li>Action plan: what you will do differently</li>
           </ol>
         </div>
         <div class="reflective-model">
           <h3>Kolb's Experiential Learning Cycle (1984) — 4 Stages</h3>
           <ol>
-            <li>Concrete Experience: the event or situation</li>
-            <li>Reflective Observation: reflection on the experience</li>
-            <li>Abstract Conceptualisation: theory applied to the experience</li>
-            <li>Active Experimentation: what will be tried differently</li>
+            <li>Concrete experience: the event or situation</li>
+            <li>Reflective observation: reflection on the experience</li>
+            <li>Abstract conceptualisation: theory applied to the experience</li>
+            <li>Active experimentation: what you will try differently</li>
           </ol>
         </div>
       </div>
       <p>
-        A reflective account that omits the Analysis stage, where named management theory is applied,
-        does not meet CMI assessment requirements at any level. Level 7 is the most demanding
-        reflective submission in the qualification framework.
+        Johns' Model of Structured Reflection (1995, 2006) is also named in the Level 7 syllabus. Whichever model you
+        use, show how theory and evidence inform your reflection rather than only recounting events. For more, see
+        our <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/">reflective practice guide</a>.
       </p>
     </div>
   </section>
 
   <section class="section">
     <div class="container">
-      <h2 class="section-title" id="common-structure-errors">Common CMI Assignment Structure Errors</h2>
-      <p class="section-lead">Ten structural errors produce the most consistent Referral outcomes across CMI submissions.</p>
+      <h2 class="section-title" id="common-structure-errors">Common Structure Errors</h2>
+      <p class="section-lead">These structural problems often lead to criteria that are not yet met.</p>
       <ol class="error-list">
-        <li><strong>Executive summary written as an introduction</strong>: the most common error at Level 5 and Level 6.</li>
-        <li><strong>Introduction that previews findings</strong>: conclusions belong in the executive summary and analysis, not the introduction.</li>
-        <li><strong>New content in the conclusion</strong>: signals that the analysis sections are incomplete.</li>
-        <li><strong>Theory described rather than applied</strong>: the most grade-damaging error, inverting the tool/subject relationship.</li>
-        <li><strong>Recommendations without analytical basis</strong>: not traceable to a sub-conclusion in the analysis.</li>
-        <li><strong>Non-SMART recommendations</strong>: vague statements without a concrete action, metric, or timeframe.</li>
-        <li><strong>Word count imbalance</strong>: introduction or conclusion allocated at the expense of the analysis sections.</li>
-        <li><strong>Reflective account written in third person</strong>: reflective units require first-person language.</li>
-        <li><strong>In-text citations absent from the report body</strong>: sources listed but never cited in the text.</li>
-        <li><strong>Reference list not in Harvard format</strong>: incomplete or inconsistent author-date formatting.</li>
+        <li><strong>A criterion that is never answered directly</strong>: the content is relevant but the section does not do what the verb asks.</li>
+        <li><strong>Executive summary written as an introduction</strong>, where one is required.</li>
+        <li><strong>New content in the conclusion</strong>: it suggests the analysis is incomplete.</li>
+        <li><strong>Theory described rather than applied</strong>: the framework is explained at length, not used on your situation.</li>
+        <li><strong>Recommendations without an analytical basis</strong>: not traceable to a finding.</li>
+        <li><strong>Word count imbalance</strong>: the introduction or conclusion takes words from the criteria.</li>
+        <li><strong>Essential evidence left in an appendix</strong>: CMI asks for evidence that shows a criterion is met to be in the main body.</li>
+        <li><strong>A reflective account written in the third person</strong>.</li>
+        <li><strong>Sources in the list but never cited in the text</strong>, or the reverse.</li>
+        <li><strong>Inconsistent referencing</strong>: incomplete or mixed citation styles.</li>
       </ol>
     </div>
   </section>
@@ -289,11 +283,11 @@ const faqSchema = {
     <div class="container narrow">
       <h2 class="section-title" id="structure-faq">CMI Assignment Structure — Frequently Asked Questions</h2>
       <div class="faq-list">
-        <details class="faq-item"><summary class="faq-q">What is the difference between a CMI management report and a structured essay?</summary><div class="faq-a"><p>A management report has nine formal sections including an executive summary, a standalone recommendations section, and a distinct conclusion. A structured essay uses PEEL body paragraphs and has no formal recommendations section. Management report is primary at Level 5–6; essay is primary at Level 3–4.</p></div></details>
-        <details class="faq-item"><summary class="faq-q">How long should a CMI executive summary be?</summary><div class="faq-a"><p>150 to 200 words, summarising the context, findings, and recommendations. Exceeding 200 words almost always means the introduction function has crept in. The test: does the first sentence report a finding, or describe what the report is about?</p></div></details>
-        <details class="faq-item"><summary class="faq-q">Do CMI recommendations need to be SMART?</summary><div class="faq-a"><p>Yes. CMI Grade Descriptors at Level 5 and above require recommendations to be specific and justified. The SMART framework applies as the minimum standard for Merit or Distinction.</p></div></details>
-        <details class="faq-item"><summary class="faq-q">How many sections does a CMI management report have?</summary><div class="faq-a"><p>Nine: Title Page, Executive Summary, Table of Contents, Introduction, Main Analysis Sections, Recommendations, Conclusion, Reference List, and Appendices. The analysis sections carry 50–60% of the word count.</p></div></details>
-        <details class="faq-item"><summary class="faq-q">Can I use headings in a CMI essay?</summary><div class="faq-a"><p>Yes. Headings are permitted and recommended to signpost each Learning Outcome, aiding assessor navigation, unlike the convention in a standard academic essay.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Does CMI require a management report or an essay?</summary><div class="faq-a"><p>CMI does not fix one format for every unit. The syllabus sets the assessment criteria, and your centre sets the task. CMI's recommendations for each unit suggest ways to assess, most often a written report, a response to a scenario, an account, or a reflective account. Follow the format and instructions in your own assignment brief.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Do I need an executive summary?</summary><div class="faq-a"><p>CMI does not require one. If your brief or centre template asks for a report with an executive summary, write it last and make it report what you found and recommend, not introduce the topic. If your brief does not ask for one, follow the brief.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Do CMI recommendations need to be SMART?</summary><div class="faq-a"><p>CMI does not require SMART recommendations. CMI defines Recommend as putting forward proposals, alternatives or suggestions supported by a clear rationale appropriate to the situation. SMART is a widely used way to make recommendations concrete, and it helps you show the rationale, so it is useful where your brief asks for actions.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">How should I split my word count?</summary><div class="faq-a"><p>Start from the guideline word count for your unit, which has a 10% allowance above or below. Give each assessment criterion a share, weight the larger share to criteria that ask you to judge or build something, and keep the introduction and conclusion short so they do not crowd out the criteria.</p></div></details>
+        <details class="faq-item"><summary class="faq-q">Can I use headings in my assignment?</summary><div class="faq-a"><p>Headings are usually helpful because they show the assessor which criterion each section answers. Check your centre's brief or template for any rules on layout.</p></div></details>
       </div>
     </div>
   </section>
@@ -302,10 +296,10 @@ const faqSchema = {
     <div class="container">
       <h2 class="section-title">Related CMI Assignment Services</h2>
       <div class="supp-grid">
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-report-writing-help/" class="supp-card"><h3>CMI Report Writing Help</h3><p>Specialist support for the management report format: all nine sections produced to CMI standard.</p></a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/" class="supp-card"><h3>CMI Command Verbs Explained</h3><p>What the analysis sections must achieve at every level, from Identify to Critically Analyse.</p></a>
+        <a href="https://www.cmiassignmenthelp.uk.com/cmi-report-writing-help/" class="supp-card"><h3>CMI Report Writing Help</h3><p>Specialist support for report-format assignments, structured to your criteria.</p></a>
+        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/" class="supp-card"><h3>CMI Command Verbs Explained</h3><p>What each section must achieve, from Identify to Critically appraise.</p></a>
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/" class="supp-card"><h3>CMI Assignment Tutoring</h3><p>Structure planning sessions before a single word of the main content is written.</p></a>
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/" class="supp-card"><h3>CMI Level 5 Assignment Help</h3><p>Management report format at Evaluate depth across all 25 Diploma units.</p></a>
+        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/" class="supp-card"><h3>CMI Level 5 Assignment Help</h3><p>All 26 Level 5 units (501 to 526), written to the unit criteria and command verbs.</p></a>
       </div>
     </div>
   </section>
