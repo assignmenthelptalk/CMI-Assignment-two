@@ -157,7 +157,7 @@ const extraSchemas = pageSchema
     <footer class="site-footer">
       <div class="container footer-grid">
         <div class="footer-col">
-          <p class="footer-brand">CMI Assignment Help UK</p>
+          <p class="footer-brand"><a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a></p>
           <p class="footer-desc">
             UK-based CMI writers supporting working professionals across all levels 3 to 7.
             CMI assignment help, writing service, and tutoring for every CMI qualification pathway.
@@ -184,36 +184,11 @@ const extraSchemas = pageSchema
         </div>
 
         <div class="footer-col">
-          <h3 class="footer-heading">Services</h3>
-          <ul class="footer-links">
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/">CMI Assignment Writing Service</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/">CMI Assignment Tutoring</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-coursework-help/">CMI Coursework Help</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-essay-writing-help/">CMI Essay Writing Help</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-report-writing-help/">CMI Report Writing Help</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-help-online/">CMI Assignment Help Online</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-examples/">CMI Assignment Examples</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-answers/">CMI Assignment Answers</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-homework-help/">CMI Homework Help</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/pay-someone-to-do-my-cmi-assignment/">Pay Someone to Do My CMI Assignment</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/cheap-cmi-assignment-help/">Affordable CMI Assignment Help</a></li>
-          </ul>
-        </div>
-
-        <div class="footer-col">
           <h3 class="footer-heading">Guides</h3>
           <ul class="footer-links">
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/">CMI Command Verbs Explained</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/">CMI Assignment Structure Guide</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/">CMI Reflective Practice Guide</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/">Harvard Referencing for CMI</a></li>
             <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/">CMI Qualification Levels Explained</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/">CMI Level 5 vs Level 7</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/">CMI Membership: ACMI, MCMI, FCMI</a></li>
             <li><a href="https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/">Is a CMI Qualification Worth It?</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/">NHS Management and CMI</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/">Management Theory for CMI</a></li>
-            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/">CMI Resubmission Guide</a></li>
+            <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/">CMI Command Verbs Explained</a></li>
           </ul>
         </div>
       </div>
@@ -603,7 +578,7 @@ const extraSchemas = pageSchema
   }
   .footer-grid {
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1fr;
+    grid-template-columns: 2fr 1fr 1fr;
     gap: 2rem;
     padding-bottom: 2rem;
   }
@@ -613,6 +588,8 @@ const extraSchemas = pageSchema
     color: #fff;
     margin-bottom: .75rem;
   }
+  .footer-brand a { color: inherit; text-decoration: none; }
+  .footer-brand a:hover { text-decoration: underline; }
   .footer-desc {
     font-size: .875rem;
     line-height: 1.6;
