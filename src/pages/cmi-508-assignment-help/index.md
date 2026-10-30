@@ -108,5 +108,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing the Knowledge, Skills and Abilities of Individuals and Teams (Level 3), a related topic: developing knowledge, skills and abilities
 - [CMI 308 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/), Managing Volunteers (Level 3), a related topic: managing and developing volunteers
 - [CMI 612 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/), Coaching Skills for Leaders (Level 6), a related topic: coaching skills for leaders

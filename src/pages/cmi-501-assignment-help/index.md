@@ -131,3 +131,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Blake and Mouton, Tannenbaum and Schmidt and Adair
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Tannenbaum and Schmidt and Adair
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Blake and Mouton and Adair
+- [CMI 4003 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/), Understanding Organisational Culture, Values and Behaviour (Level 4), a related topic: organisational culture

@@ -126,6 +126,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names the Balanced Scorecard
 - [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6), also names the Balanced Scorecard
 - [CMI 313 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/), Developing and Sharing Good Practice (Level 3), a related topic: developing and sharing good practice
+- [CMI 315 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-315-assignment-help/), Principles of Health and Safety in a Work Setting (Level 3), a related topic: health and safety risk
 - [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Principles of Innovation (Level 5), a related topic: innovation
 - [CMI 316 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-316-assignment-help/), Monitoring Quality to Improve Outcomes (Level 3), a related topic: quality and continuous improvement
 - [CMI 609 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-609-assignment-help/), Leading Quality Management (Level 6), a related topic: quality and continuous improvement

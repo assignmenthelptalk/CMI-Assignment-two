@@ -113,3 +113,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Schein and Hofstede, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 707 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-707-assignment-help/), Organisational Design and Development (Level 7), a related topic: organisational design and culture
+- [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Organisational Culture (Level 6), a related topic: organisational culture
+- [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Principles of Management and Leadership in an Organisational Context (Level 5), a related topic: organisational culture
