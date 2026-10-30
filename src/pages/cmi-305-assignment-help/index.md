@@ -122,3 +122,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 317 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-317-assignment-help/), Supporting the Delivery of Customer Service (Level 3), a related topic: customer service
 - [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Collaboration and Partnerships (Level 7), a related topic: collaboration and partnerships
+- [CMI 4002 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/), Managing Stakeholders' Expectations (Level 4), a related topic: managing stakeholder expectations

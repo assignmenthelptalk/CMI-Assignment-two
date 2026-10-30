@@ -124,3 +124,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 513 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/), Managing Projects to Achieve Results (Level 5), a related topic: project delivery
+- [CMI 524 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-524-assignment-help/), Conducting a Management Project (Level 5), a related topic: project delivery
+- [CMI 604 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/), Strategic Programme and Project Management (Level 6), a related topic: project delivery

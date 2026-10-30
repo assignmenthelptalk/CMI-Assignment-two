@@ -116,3 +116,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 308 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/), Managing Volunteers (Level 3), a related topic: managing and developing volunteers
 - [CMI 313 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/), Developing and Sharing Good Practice (Level 3), a related topic: developing and sharing good practice
+- [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Principles of Delivering Coaching and Mentoring (Level 5), a related topic: coaching and mentoring

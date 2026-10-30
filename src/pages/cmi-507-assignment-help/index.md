@@ -128,3 +128,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names the Balanced Scorecard
 - [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6), also names the Balanced Scorecard
+- [CMI 612 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/), Coaching Skills for Leaders (Level 6), a related topic: coaching and mentoring
+- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing the Knowledge, Skills and Abilities of Individuals and Teams (Level 3), a related topic: coaching and mentoring
+- [CMI 714 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-714-assignment-help/), Personal and Professional Development for Strategic Leaders (Level 7), a related topic: coaching and mentoring

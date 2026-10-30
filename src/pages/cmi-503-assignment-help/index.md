@@ -121,3 +121,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Blake and Mouton and Tannenbaum and Schmidt
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Blake and Mouton and Vroom
 - [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Principles of Management and Leadership in an Organisational Context (Level 5), also names Blake and Mouton and Tannenbaum and Schmidt
+- [CMI 602 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/), Developing, Managing and Leading Individuals and Teams (Level 6), a related topic: managing and leading individuals and teams

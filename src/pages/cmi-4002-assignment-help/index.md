@@ -103,3 +103,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 703 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/), Collaboration and Partnerships (Level 7), a related topic: collaboration and partnerships
+- [CMI 305 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/), Building Stakeholder Relationships using Effective Communication (Level 3), a related topic: managing stakeholder expectations
+- [CMI 4006 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/), Management and Leadership Influencing Skills (Level 4), a related topic: managing stakeholder expectations

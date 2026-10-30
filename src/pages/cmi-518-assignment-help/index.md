@@ -101,3 +101,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 315 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-315-assignment-help/), Principles of Health and Safety in a Work Setting (Level 3), a related topic: health and safety risk
+- [CMI 708 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/), Strategic Risk Management (Level 7), a related topic: risk management

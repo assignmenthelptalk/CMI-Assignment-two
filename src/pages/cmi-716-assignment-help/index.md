@@ -110,3 +110,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Goleman, Schein, Hofstede and Bass, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3), a related topic: mental health and wellbeing at work
+- [CMI 504 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-504-assignment-help/), Managing Performance (Level 5), a related topic: mental health and wellbeing at work

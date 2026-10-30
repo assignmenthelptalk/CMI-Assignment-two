@@ -116,3 +116,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7), also names Greenleaf
 - [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Leading Strategic Change (Level 7), also names Greenleaf
+- [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Principles of Delivering Coaching and Mentoring (Level 5), a related topic: coaching and mentoring

@@ -113,3 +113,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Adair
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Adair
+- [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Principles of Delivering Coaching and Mentoring (Level 5), a related topic: coaching and mentoring

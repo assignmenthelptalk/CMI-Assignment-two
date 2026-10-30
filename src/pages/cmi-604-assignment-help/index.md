@@ -111,4 +111,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Hersey and Blanchard and Goleman, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 311 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/), Contributing to the Delivery of a Project (Level 3), a related topic: project delivery
 - [CMI 712 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/), Strategic Management Project (Level 7), a related topic: strategic projects and research

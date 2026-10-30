@@ -102,4 +102,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4), a related topic: staff review and inspection
+- [CMI 503 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/), Principles of Managing and Leading Individuals and Teams to Achieve Success (Level 5), a related topic: managing and leading individuals and teams
+- [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4), a related topic: managing performance
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7), a related topic: managing performance
+- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3), a related topic: managing performance
+- [CMI 716 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/), Strategic Approaches to Mental Health and Wellbeing (Level 7), a related topic: mental health and wellbeing at work

@@ -113,3 +113,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Tuckman and Belbin
 - [CMI 4004 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/), Understanding Team Dynamics (Level 4), also names Tuckman and Belbin
 - [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names Tuckman and Belbin
+- [CMI 503 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/), Principles of Managing and Leading Individuals and Teams to Achieve Success (Level 5), a related topic: managing and leading individuals and teams

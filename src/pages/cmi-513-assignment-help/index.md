@@ -118,3 +118,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6), also names Senge
 - [CMI 613 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-613-assignment-help/), Leading Equality, Diversity and Inclusion (Level 6), also names Senge
+- [CMI 311 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/), Contributing to the Delivery of a Project (Level 3), a related topic: project delivery
