@@ -106,3 +106,10 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 608 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-608-assignment-help/), Strategic Corporate Social Responsibility and Sustainability (Level 6)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Mintzberg, which this unit's indicative content names
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Mintzberg
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7), also names Mintzberg

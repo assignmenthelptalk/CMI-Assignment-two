@@ -101,3 +101,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 521 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-521-assignment-help/), Using Data and Information for Decision Making (Level 5)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

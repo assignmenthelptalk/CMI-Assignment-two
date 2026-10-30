@@ -105,3 +105,11 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 608 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-608-assignment-help/), Strategic Corporate Social Responsibility and Sustainability (Level 6)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Senge, Goleman, Hofstede and Bass, which this unit's indicative content names
+- [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 513 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/), Managing Projects to Achieve Results (Level 5), also names Senge
+- [CMI 515 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/), Creating and Delivering Operational Plans (Level 5), also names Senge

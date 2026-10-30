@@ -108,3 +108,11 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 613 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-613-assignment-help/), Leading Equality, Diversity and Inclusion (Level 6)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Greenleaf, Hersey and Blanchard, Goleman and Hofstede, which this unit's indicative content names
+- [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7), also names Greenleaf
+- [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Leading Strategic Change (Level 7), also names Greenleaf

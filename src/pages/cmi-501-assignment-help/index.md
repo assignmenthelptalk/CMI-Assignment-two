@@ -123,3 +123,11 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 506 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/), Managing Equality, Diversity and Inclusion (Level 5)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Blake and Mouton, Tannenbaum and Schmidt, Adair and Hersey and Blanchard, which this unit's indicative content names
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Blake and Mouton, Tannenbaum and Schmidt and Adair
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Tannenbaum and Schmidt and Adair
+- [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Blake and Mouton and Adair

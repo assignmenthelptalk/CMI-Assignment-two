@@ -102,3 +102,10 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4007 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/), Managing Interviews (Level 4)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Herzberg, Maslow and Alderfer, which this unit's indicative content names
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Maslow
+- [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Professional Management and Leadership Practice (Level 6), also names Maslow

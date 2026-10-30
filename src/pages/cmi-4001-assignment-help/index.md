@@ -107,3 +107,12 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4006 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/), Management and Leadership Influencing Skills (Level 4)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Belbin, Herzberg, Maslow and Blake and Mouton, which this unit's indicative content names
+- [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Belbin, Maslow and Adair
+- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names Belbin, Blake and Mouton and Vroom
+- [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Blake and Mouton and Adair

@@ -108,3 +108,11 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Developing and Leading Strategy (Level 6)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Kotter, Lewin, ADKAR and the Balanced Scorecard, which this unit's indicative content names
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 514 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/), Managing Change (Level 5), also names Kotter, Lewin and ADKAR
+- [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Leading Strategic Change (Level 7), also names Kotter, Lewin and Greenleaf
+- [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Supporting Teams and Individuals through Change (Level 3), also names Kotter and Lewin

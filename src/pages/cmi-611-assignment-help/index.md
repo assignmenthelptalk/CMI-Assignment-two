@@ -110,3 +110,10 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 609 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-609-assignment-help/), Leading Quality Management (Level 6)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as the Balanced Scorecard, Teece and Senge, which this unit's indicative content names
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names the Balanced Scorecard
+- [CMI 503 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/), Principles of Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names the Balanced Scorecard

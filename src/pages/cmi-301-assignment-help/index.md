@@ -115,3 +115,11 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 321 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-321-assignment-help/), Managing Own Personal and Professional Development (Level 3)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Lewin, Blake and Mouton, Tannenbaum and Schmidt and Adair, which this unit's indicative content names
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Principles of Management and Leadership in an Organisational Context (Level 5), also names Blake and Mouton, Tannenbaum and Schmidt and Adair
+- [CMI 526 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/), Principles of Leadership Practice (Level 5), also names Blake and Mouton, Tannenbaum and Schmidt and Adair
+- [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Blake and Mouton and Adair

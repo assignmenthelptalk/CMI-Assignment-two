@@ -119,3 +119,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 321 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-321-assignment-help/), Managing Own Personal and Professional Development (Level 3)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

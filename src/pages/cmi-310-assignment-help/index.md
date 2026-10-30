@@ -109,3 +109,11 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 311 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/), Contributing to the Delivery of a Project (Level 3)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
+
+## More on this unit's topics
+
+- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Kotter, Lewin and Goleman, which this unit's indicative content names
+- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 514 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/), Managing Change (Level 5), also names Kotter and Lewin
+- [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Organisational Culture (Level 6), also names Kotter and Lewin
+- [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names Kotter and Lewin
