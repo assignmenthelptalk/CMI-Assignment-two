@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/UnitPage.astro
 title: "Is a CMI Qualification Worth It? Career ROI Explained"
-description: "Is a CMI qualification worth it? Salary evidence, employer recognition by sector, CMI vs ILM vs MBA, and who benefits most, including Level 7."
+description: "Is a CMI qualification worth it? What the evidence shows, who benefits most, CMI vs ILM vs an MBA, whether Level 7 is worth it, and how funding changes the answer."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/"
 headerImage: "/images/headers/is-cmi-qualification-worth-it.webp"
 headerImageAlt: "Is a CMI Qualification Worth It — career ROI, employer recognition, and who benefits most"
@@ -9,161 +9,146 @@ headerImageAlt: "Is a CMI Qualification Worth It — career ROI, employer recogn
 
 # Is a CMI Qualification Worth It? Career ROI Explained
 
-**Short answer:** yes, for UK managers in the NHS, public sector and similar roles, especially when an employer pays; less clearly so in technology or creative sectors, or if you need international recognition. CMI-qualified managers report a salary premium, but the evidence is correlational. Whether it is worth it for you depends on your sector, your employer's funding, and the level you would study.
+**Short answer:** it is worth it for UK managers who want a structured, recognised management qualification and who either have an employer paying or a clear use for the qualification, such as the Chartered Manager route. It is less clearly worth paying for yourself if your sector rewards technical expertise or portfolio over formal qualifications, or if you need international recognition. The evidence for pay and promotion benefits is mostly correlational, so be wary of any single salary figure.
 
-The honest answer is: it depends on who you are, what sector you work in, and what you are trying to achieve. A CMI qualification is not universally the best professional development investment, but for a specific set of working professionals in the UK, it is one of the most direct credentials available for formalising management competence and building towards professional membership. This guide covers the career evidence, sector recognition, how CMI compares to ILM and MBA, whether [CMI Level 7 is worth it](#is-cmi-level-7-worth-it), and which professional profiles get the most value.
+The honest answer depends on your sector, your employer's funding, the level you would study, and what you want the qualification to do. This guide covers what the evidence does and does not show, how CMI compares with ILM and an MBA, whether [CMI Level 7 is worth it](#is-cmi-level-7-worth-it), and which profiles tend to get the most value.
 
-## Career Outcomes — What the Evidence Shows
+## What the Evidence Shows
 
-CMI's own Management Salary Survey consistently reports that CMI-qualified managers earn a significant premium over non-qualified peers. The figures cited in recent editions show CMI-qualified managers earning on average 26% more than those without a management qualification.
+Several training providers quote a salary premium for CMI-qualified managers or Chartered Managers, often as a precise percentage or amount. We have not been able to verify those numbers against a published CMI survey with a year and sample, so we do not repeat them here. If a figure matters to your decision, check CMI's own research at managers.org.uk rather than a provider's marketing page.
 
-The caveat worth naming: this is correlation, not proven causation. Managers who invest in a formal qualification tend to be the same managers who are already proactively developing their careers, the qualification may be a signal of that commitment rather than the primary driver of the salary differential. Both things can be true: the qualification helps, and the type of person who gets the qualification was already progressing.
+Two things are fair to say about any pay evidence:
 
-What the evidence is more strong on:
+- It is **correlational**. Managers who invest in a qualification are often the same managers who are already developing their careers. The qualification may be a signal of that commitment as much as the cause of pay rises.
+- Benefits depend on **use**. A qualification that your employer values, or that you apply to a promotion case, is worth more than one sitting on a CV.
 
-**Promotion into formal management roles**: CMI qualifications, particularly Level 5 and Level 7, are increasingly listed as desirable or required credentials in senior management job descriptions in NHS, local government, and civil service. The FCMI post-nominal, which CMI awards on 10 years' management experience with at least 3 at a strategic level, carries weight in Director-level recruitment. See [CMI membership grades explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/).
+What CMI's own syllabuses do say, which is more concrete than salary data:
 
-**Employer-funded access**: Many UK employers fund CMI qualifications through CPD budgets or the apprenticeship levy. The availability of employer funding substantially changes the ROI calculation, a qualification delivered at no direct cost to the learner produces value at almost any outcome.
+- **A structured way to evidence management practice.** Units are built from learning outcomes and assessment criteria, and you are asked to apply theory to your own organisation and support conclusions with evidence.
+- **A route to Chartered Manager.** All successful Level 4, 5 and 6 learners are eligible for Foundation Chartered Manager (fCMgr) (subject to CMI membership), and Diploma and Extended Diploma learners at Levels 5, 6 and 7 may be eligible for Chartered Manager (CMgr) with at least three years' management and leadership experience.
+- **A progression ladder.** Levels 3 to 7 connect, and Level 8 (Strategic Direction and Leadership) sits above Level 7.
 
-**Confidence in practice**: The qualitative evidence from CMI's surveys is consistent, learners report greater confidence in their management practice, better ability to structure and justify decisions, and stronger performance in management roles. These are harder to quantify but consistently reported.
 ## Employer and Sector Recognition
 
-CMI recognition varies meaningfully by sector. Understanding where it carries weight helps in deciding whether it is worth the investment for your specific career context.
+Recognition varies by employer and sector, and we cannot give you a sector-wide statement that holds for every organisation. Practical ways to check yours:
 
-### NHS and Healthcare
+- Read recent job descriptions and person specifications for the roles you want. See which management qualifications they name, and whether they say essential, desirable or equivalent.
+- Ask your learning and development team which providers and levels your organisation supports.
+- Ask managers a level or two above you what they hold and what they found useful.
 
-CMI Level 5 is formally aligned to NHS Band 7 competency frameworks. The NHS Leadership Academy references CMI qualifications in its leadership development pathways. For NHS managers at Band 7 and above, CMI Level 5 or Level 7 is one of the most recognised formal management credentials, more relevant than many generic academic qualifications because its content is directly applicable to NHS management practice.
-
-NHS employers commonly fund CMI qualifications through workforce development budgets. For NHS professionals, CMI typically sits alongside or replaces ILM in employer-offered development programmes. For NHS-specific guidance by band, see [CMI qualifications for NHS managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/).
-
-### Public Sector
-
-Local government, central government, the civil service, police, fire and rescue, and Ministry of Defence are all sectors where CMI qualifications and ACMI/MCMI/FCMI post-nominals are recognised. Public sector Continuing Professional Development frameworks increasingly reference CMI as a standard for management qualification.
-
-### Commercial and Private Sector
-
-Recognition in commercial contexts is growing but less uniform than in NHS and public sector. Large employers in retail, financial services, professional services, logistics, and manufacturing recognise CMI qualifications, particularly at Director level (FCMI). Smaller or technology-led employers may be less familiar with the CMI framework, in those contexts, demonstrated competence and portfolio often carry more weight than post-nominals.
-
-### Defence
-
-CMI qualifications are embedded in military officer development programmes. CMI Level 5 is used in senior NCO and junior officer development; Level 7 is relevant for senior officers. FCMI post-nominals are well-regarded in defence career contexts.
+CMI's own Level 3 to Level 7 syllabuses are written for managers in any sector. They describe roles such as Team Leader, Operations Manager, Departmental Manager, Senior Manager, Director and CEO, not sector-specific posts. Health and care managers can find a number of units that suit their work, covered in our [guide to CMI qualifications for NHS managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/).
 
 ## CMI vs ILM — Which Management Qualification?
 
-Both CMI and ILM (Institute of Leadership and Management) offer Ofqual-regulated management and leadership qualifications at Levels 3–7 on the RQF. The question of which to choose comes down to sector, format, and what the employer is offering.
+Both CMI and ILM (the Institute of Leadership and Management, part of the City & Guilds Group) offer regulated management and leadership qualifications. The choice usually comes down to what your employer offers and what you want from the qualification.
 
 | Factor | CMI | ILM |
 |--------|-----|-----|
-| Governing body | Chartered Management Institute (professional body) | City & Guilds Group (vocational awarding body) |
-| Post-nominals | ACMI, MCMI, FCMI, CMgr | none equivalent |
-| Assignment format | Management report, strategic paper | Work-based assignments, portfolios, journals |
-| NHS recognition | Strong, referenced in NHS Leadership Academy | Present but less prominent |
-| Public sector recognition | Strong, embedded in many public sector development programmes | Strong, widely used in apprenticeship contexts |
-| Apprenticeship use | Available through management degree apprenticeship | Very widely used in apprenticeship standard delivery |
-| Primary differentiator | Professional body membership + post-nominals | Portfolio/work-based evidence approach |
+| Governing body | Chartered Management Institute (professional body) | City & Guilds Group (awarding body) |
+| Membership grades | ACMI, MCMI, FCMI, plus Chartered Manager (CMgr) | Different offer, check ILM directly |
+| Assessment | Centre-set written work against CMI criteria, Pass/Refer | Check ILM's specification for your qualification |
+| Chartered status | Chartered Manager route via CMI | Not applicable in the same way |
+| Primary differentiator | Professional body membership and the Chartered Manager route | Awarding body focus, widely offered through providers |
 
-**When CMI is the stronger choice**: NHS and healthcare managers; public sector professionals seeking career progression; those for whom ACMI/MCMI/FCMI post-nominals carry weight in their employer or sector; professionals who prefer the academic rigour of a management report or strategic paper format.
+**When CMI is the stronger choice**: you want the Chartered Manager route, you value CMI membership grades, or your employer or sector refers to CMI.
 
-**When ILM is a reasonable alternative**: Professionals whose employer specifically offers ILM; apprenticeship learners whose programme is delivered through ILM; those who prefer a portfolio and work-based evidence approach over formal academic assignment writing.
+**When ILM is a reasonable alternative**: your employer specifically offers ILM, or your programme is delivered through ILM.
 
-Neither is universally superior. If your employer is funding the qualification, the question is usually which one they offer, not which is objectively better.
+Neither is universally superior. If your employer is funding the qualification, the question is usually which one they offer.
 
 ## CMI vs MBA — Professional Qualification vs Business Degree
 
-The CMI Level 7 Diploma sits on Level 7 of the RQF, the same level as a Master's degree. This makes it a natural comparison point with an MBA, but the two qualifications are meaningfully different.
+CMI Level 7 sits at Level 7 of the RQF, the same level as a master's degree, so it is a natural comparison with an MBA. The two are different products.
 
 | Factor | CMI Level 7 Diploma | MBA (UK-based) |
 |--------|---------------------|----------------|
 | RQF level | Level 7 | Level 7 |
 | Qualification type | Professional qualification | Academic degree |
-| Typical duration | 18–24 months part-time | 1 year full-time / 2–3 years part-time |
-| Typical cost | £3,000–£8,000 (employer-funded in many cases) | £15,000–£40,000+ |
-| Study mode | Part-time, alongside work | Often intensive, can require reduced hours |
-| International recognition | Limited, UK-focused professional body | Strong, particularly from ranked business schools |
-| UK practitioner recognition | Strong, especially in NHS, public sector, and management roles | Strong |
-| Post-nominals | FCMI, CMgr | MBA |
-| Academic standing | Professional qualification (not a degree) | Academic degree |
-| Content | Management and leadership practice, strategic leadership, governance, innovation, change | Business functions, finance, marketing, operations, strategy, economics |
+| Size | At least 37 credits (370 hours of Total Qualification Time) | Varies by university |
+| Study mode | Set by your centre | Often full-time or part-time over one to three years |
+| International recognition | Mainly UK professional body | Strong, particularly from ranked business schools |
+| Post-nominals | CMI membership grades and CMgr, separate from the qualification | MBA |
+| Content | Strategic leadership, risk, finance, change, people, ethics and more, in units 701 to 716 | Business functions such as finance, marketing, operations, strategy |
 
-**CMI Level 7 is the stronger choice when**: you are a UK-based professional seeking strategic leadership development without interrupting a demanding full-time senior role; your employer will fund the qualification; your career is in NHS, public sector, or UK-based management roles where FCMI carries specific recognition; you do not need international academic brand recognition.
+**CMI Level 7 is the stronger choice when**: you are UK-based and want strategic leadership development alongside a demanding job; your employer will fund it; the Chartered Manager route matters to you; and you do not need an international business school brand.
 
-**An MBA is the stronger choice when**: you want international recognition and the ability to signal business school credential to global employers; you are planning a career pivot into management consulting, investment banking, or international business; you want the network of an MBA cohort; your employer will fund a significant portion of the cost.
+**An MBA is the stronger choice when**: you want international recognition, a career pivot into consulting, finance or international business, or an MBA cohort network.
 
-For a working NHS Director or Senior Manager, a CMI Level 7 Diploma delivers Master's-equivalent professional recognition at a fraction of the cost and without requiring a reduction in working hours.
+Costs vary widely between providers and universities, so compare current prices from each rather than relying on a typical figure.
 
 ## Is CMI Level 7 Worth It?
 
-For most senior managers who are funded by their employer, yes. The CMI Level 7 Diploma sits at the same RQF level as a Master's degree, is studied part-time over roughly 18 to 24 months, and is assessed through strategic papers at Critically Analyse depth. It is most worth it when:
+For senior managers whose employer is paying, or who want the Chartered Manager route, usually yes. The Level 7 Diploma needs at least 37 credits, with at least 30 from Group A units, and the Extended Diploma needs at least 64 credits. Of the 80 assessment criteria in the Level 7 units, 37 begin with Critically, and many end in a proposal or strategy, so the work is demanding. It is most worth it when:
 
-- your employer or the apprenticeship levy covers the cost;
-- you work in the UK in the NHS, public sector or a management role where the qualification is recognised;
+- your employer covers the cost or you have a defined use for the qualification;
+- your role is at the senior level CMI describes: Senior Manager, Regional Manager, Specialist Manager, Director or CEO;
 - you want strategic-leadership development without a full-time MBA.
 
-It is less worth paying for yourself if your goal is international recognition (an MBA from a ranked business school carries more weight abroad) or if your sector rewards portfolio and technical expertise over formal qualifications. Level 7 is also heavier work than Level 5, because strategic papers require engagement with academic debate at primary-source level. See [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/) for the full comparison, and [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/) if you are already enrolled.
+It is less worth paying for yourself if your goal is international recognition, or if your sector rewards portfolio and technical expertise over formal qualifications. Level 7 is also heavier work than Level 5 because the criteria ask you to question and test evidence rather than only weigh it. See [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/) for the comparison, and [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/) if you are already enrolled.
 
 ## Who Gets the Most Value from a CMI Qualification?
 
-**NHS Band 7+ managers**: CMI Level 5 is directly aligned to NHS Band 7 competency frameworks. The management report format and Evaluate/Justify command verbs match exactly what NHS managers need to demonstrate in their roles. CMI Level 5 is among the most targeted professional qualifications for this group.
+**New and developing managers (Levels 3 and 4)**: CMI designed Level 3 for Team Leaders, Supervisors, Project Officers and Shift Managers, and Level 4 to develop management capability and decision-making. They suit people moving into management who want a foundation and a ladder to Level 5.
 
-**Public sector managers targeting promotion to Head of Service or Director**: A CMI Level 5 or Level 7 qualification, alongside CMI membership (ACMI, MCMI or FCMI), is a credentialing pathway for public sector professionals where post-nominals appear in job person specifications.
+**Operations, departmental and specialist managers (Level 5)**: Level 5 is for managers accountable to a senior manager who lead teams to deliver strategy. With a Diploma, three years' experience and CMI membership you may reach Chartered Manager.
 
-**Commercial middle managers seeking department head or directorship**: CMI Level 5 provides the management report skill set (structured analysis, SMART recommendations, evidence-based decision-making) that directly transfers to senior management responsibilities. The ACMI post-nominal, open to anyone who completes a CMI Certificate or Diploma through an approved centre, signals formal qualification in contexts where it is recognised.
+**Senior managers, Regional Managers, Specialist Managers and Directors (Levels 6 and 7)**: these levels build professional and strategic practice, and Diploma holders may be eligible for Chartered Manager.
 
-**Military officers in command development programmes**: CMI is embedded in officer development, making it highly relevant for career progression within defence career frameworks.
-
-**Professionals who want Master's-level standing without a full-time MBA**: CMI Level 7 Diploma at the same RQF level as a Master's degree, delivered part-time, employer-fundable. CMI membership (MCMI, FCMI) and Chartered Manager status are meaningful credentials in UK management roles, though they depend on experience as well as study.
+**People who want a recognised credential without a full-time degree**: CMI qualifications are designed to be studied alongside work.
 
 ### Who It May Not Suit
 
-**Professionals in technology or creative sectors** where formal management qualifications are less weighted in career progression than portfolio, track record, and technical expertise.
+**Professionals in technology or creative sectors** where formal management qualifications are less weighted in progression than track record and technical expertise.
 
-**Those seeking international academic recognition**: An MBA from a globally ranked business school carries significantly stronger international brand recognition than FCMI. If your ambition is a global career in consulting, investment, or international leadership, the MBA has the edge.
+**Those seeking international academic recognition**: an MBA from a well-ranked business school carries a stronger international brand.
 
-**Those who want vocational, portfolio-based assessment**: If the academic management report format does not suit your learning approach, ILM's portfolio-based evidence model may be a better fit.
+**Those who dislike written assessment**: CMI expects written work to form the majority of the evidence, so a qualification built on workplace observation or portfolio may suit you better.
 
-## Employer Funding — How CMI Qualifications Are Funded in the UK
+## Funding
 
-**Apprenticeship levy**: Large UK employers (payroll over £3 million) pay 0.5% of their payroll into the apprenticeship levy. This funding can be used for CMI qualifications delivered through the Management Degree Apprenticeship standard (Level 7) or through apprenticeship-approved Level 5 programmes. For employees of levy-paying employers, this route can make a CMI Level 5 or Level 7 fully funded.
+Who pays changes the calculation more than anything else. Options to ask about:
 
-**Employer CPD budgets**: Many NHS, local government, and commercial employers have professional development budgets that fund CMI qualifications as part of workforce development plans. The Level 5 and Level 6 Diplomas are the most commonly employer-funded standalone qualifications.
+- **Your employer**: many employers support management qualifications through learning and development budgets. Ask your line manager or learning team, and check whether a particular level or provider is required.
+- **Apprenticeships**: some apprenticeship standards include a CMI qualification. CMI's syllabuses analyse the Team Leader/Supervisor and Senior Leader apprenticeship standards, for example. Whether the apprenticeship levy can fund your programme depends on the apprenticeship standard it is delivered under, so ask your employer or provider.
+- **Yourself**: compare fees and what is included, such as registration, assessment and resubmission, across providers before you commit.
 
-**How to raise it with your employer**: CMI qualifications qualify as professional development investment. The business case is straightforward: the qualification improves management competence, reduces management failure costs, and produces ACMI/MCMI/FCMI credentialed managers, which some employers require for senior role appointments. Framing the request around your employer's workforce development strategy and the qualification's alignment to your role increases approval rates.
+**How to raise it with your employer**: link the request to your role and your organisation's workforce development plan. Say which level, which units and how it will be used at work.
 
 ## Is a CMI Qualification Worth It? — Common Questions
 
 **Is a CMI Level 7 equivalent to a Master's degree?**
 
-CMI Level 7 is on Level 7 of the RQF, the same academic level as a Master's degree. It is a professional qualification rather than a university degree, so it does not carry the same academic credential or international brand as an MBA. In UK management and leadership roles, CMI Level 7 is widely recognised as the equivalent of a postgraduate-level professional qualification.
+CMI Level 7 is at Level 7 of the RQF, the same level as a master's degree. It is a professional qualification rather than a university degree, so it does not carry the same credential or international brand as an MBA.
 
 **Is CMI better than ILM?**
 
-Neither is universally better, it depends on your sector, employer, and preferred assessment approach. CMI has stronger recognition in NHS and public sector, and offers ACMI/MCMI/FCMI post-nominals as a professional membership pathway. ILM is more widely used in apprenticeship delivery and favours portfolio and work-based evidence. If your employer is funding the qualification, work with what they offer.
+Neither is universally better. It depends on your sector, your employer and what you want from the qualification. CMI offers professional membership grades and the Chartered Manager route. If your employer is funding the qualification, work with what they offer.
 
 **Does a CMI qualification help you get promoted?**
 
-The evidence is correlational rather than causal, but consistently positive. CMI-qualified managers report stronger confidence in practice and better ability to make and justify management decisions. CMI Level 5 and Level 7 are referenced in NHS and public sector job person specifications. The qualification provides evidence of competence that formal promotion processes can assess.
+The evidence is correlational. A qualification gives you structured evidence of management knowledge and practice, and some job descriptions name management qualifications. Check the roles you want to see how much weight they give it.
 
 **Can my employer pay for my CMI qualification?**
 
-Yes, and in many cases they already have a mechanism to do so. NHS employers, local government, and large commercial employers commonly fund CMI qualifications through CPD budgets or apprenticeship levy. Raise it formally as a professional development request, linked to your role development and organisational objectives.
+Some do. Raise it formally as a development request linked to your role and objectives, and ask whether a particular level or provider is required.
 
 **Is CMI recognised in the NHS?**
 
-Yes, CMI Level 5 is formally aligned to NHS Band 7 competency frameworks, and CMI qualifications are referenced in NHS Leadership Academy development pathways. CMI is one of the most relevant formal management qualifications for NHS managers at Band 7 and above.
+CMI qualifications are used by managers in many sectors, including health and care. We cannot say that any NHS body maps CMI levels to pay bands, and CMI does not do so. Check your employer's job descriptions and learning offer.
 
-**I am studying CMI and need help with my assignment, what do I do?**
+**I am studying CMI and need help with my assignment. What do I do?**
 
-Send your unit brief, target grade, and deadline via WhatsApp. A quote is returned within 2 hours. Writers are matched to your level, CMI Level 5 writers for management report format, CMI Level 7 writers for strategic paper format at Critically Analyse depth.
+Send your unit brief, level and deadline via WhatsApp. A quote is returned within 2 hours, and support is matched to your level and unit.
 
 ## CMI Assignment Help — Supporting Your Qualification Journey
 
-- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Management and Leadership Diploma, management report format
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Strategic Management and Leadership, strategic paper, Critically Analyse depth
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Management and Leadership, units 501 to 526
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Strategic Management and Leadership Practice, units 701 to 716
 - [CMI Membership Grades: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/), how each grade is earned
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), All levels, all units, all formats
-- [CMI Qualification Levels Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/), What each level covers, who studies it, and how they connect
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), all levels and units
+- [CMI Qualification Levels Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/), what each level covers, who it is designed for and how they connect
 
-The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes salary and career progression evidence for qualified managers and leaders across all CMI membership levels.
+The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes research and career information for qualified managers and leaders.
 
 ## Related CMI Unit Pages
 
@@ -181,5 +166,6 @@ More guides that connect to this topic:
 - [CMI Membership: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/)
 - [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/)
 - [CMI Qualification Levels Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/)
+- [CMI Qualifications for NHS Managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/)
 
 [WhatsApp for CMI Assignment Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
