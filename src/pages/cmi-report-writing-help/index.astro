@@ -15,7 +15,7 @@ const faqSchema = {
       "name": "What is included in CMI report writing help?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "CMI report writing help covers the management report format specifically: executive summary writing, analysis sections written at the correct command verb depth (Evaluate at Level 5, Critically Evaluate at Level 6), SMART recommendations derived from the analysis, and a Harvard-referenced bibliography. It is available as a complete report written from your unit brief, or as help with one or more specific sections if you have already written most of the report yourself."
+        "text": "CMI report writing help covers written work where your brief asks for a report: a clear structure, analysis written to the command verb of each assessment criterion (such as Analyse, Examine or Evaluate at Level 5), recommendations that follow from the analysis, and a consistently referenced reference list. It is available as a complete report written from your unit brief, or as help with specific sections if you have already written most of it yourself."
       }
     },
     {
@@ -23,23 +23,23 @@ const faqSchema = {
       "name": "Can you just rewrite my executive summary or recommendations, not the whole report?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Section-specific help is available for students who have written most of the report independently but need one part brought up to standard, most commonly the executive summary, the recommendations, or the Harvard referencing. Send your draft and unit brief via WhatsApp specifying which section needs attention, and the quote will reflect that narrower scope rather than the cost of a full report."
+        "text": "Yes. Section-specific help is available if you have written most of the report and need one part brought up to standard, most commonly the executive summary, the recommendations or the referencing. Send your draft and unit brief via WhatsApp, say which section needs attention, and the quote will reflect that narrower scope."
       }
     },
     {
       "@type": "Question",
-      "name": "How many sources does a CMI management report need?",
+      "name": "How many sources does a CMI report need?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Level 5 management reports typically require 10 to 12 Harvard-referenced sources. Level 6 reports typically require 12 to 15 sources, including a proportion of peer-reviewed journal articles. ManagementDirect, CMI's own research library, is the expected primary source type at both levels. Every source cited in-text must appear in the reference list, and the reference list should not include sources that were never cited in the body of the report."
+        "text": "CMI does not set a minimum number of sources. Its syllabuses ask for appropriate use of evidence, examples and references to support conclusions and recommendations. Your centre or brief may state its own expectation, so follow that. Every source cited in the text must appear in the reference list, and the list should not include sources you never cited."
       }
     },
     {
       "@type": "Question",
-      "name": "Is CMI report writing help available for Level 4 units that use the report format?",
+      "name": "Does my CMI assignment have to be a report?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. While the management report is primarily associated with Level 5 and Level 6, some Level 4 units also specify the report format rather than a structured essay. Send your unit brief via WhatsApp to confirm the required format and receive a quote. The brief's Learning Outcome language and command verbs determine whether report format applies."
+        "text": "Not necessarily. CMI does not prescribe a single format: centres set the format within CMI's recommendations, and written work (reports, accounts, reflective pieces) forms the majority of the evidence. Your brief says what is required. If it asks for a report, the page above explains how to approach it; if it asks for something else, send it over and we will work to that."
       }
     },
     {
@@ -47,7 +47,7 @@ const faqSchema = {
       "name": "What is the difference between report writing help and CMI assignment tutoring?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Report writing help produces or corrects the management report itself, either the complete document or specific sections, delivered as finished content. CMI assignment tutoring is coaching where the student writes the report and the tutor provides guidance on structure, command verb depth, and draft review, with the student retaining authorship throughout. Students who want a section written for them should use report writing help; students who want to write it themselves with expert direction should use tutoring."
+        "text": "Report writing help produces or corrects the report itself, either the complete document or specific sections, delivered as finished content. CMI assignment tutoring is coaching where the student writes the report and the tutor guides structure, command verb depth and draft review, with the student keeping authorship. If you want a section written for you, use report writing help; if you want to write it yourself with expert direction, use tutoring."
       }
     }
   ]
@@ -57,7 +57,7 @@ const serviceSchema = {
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "CMI Report Writing Help",
-  "description": "Specialist CMI report writing help for the management report format: executive summary, analysis sections, SMART recommendations, and Harvard-referenced bibliography. Primarily Level 5 and Level 6.",
+  "description": "CMI report writing help for assignments where the brief asks for a report: structure, analysis written to the command verb, recommendations that follow from the analysis, and consistent referencing.",
   "provider": {
     "@type": "Organization",
     "name": "CMI Assignment Help UK",
@@ -68,16 +68,16 @@ const serviceSchema = {
 };
 
 const reportSections = [
-  { num: "2", title: "Executive Summary", alert: true, desc: "150–200 words. Written last, placed first. Summarises findings and recommendations, not an introduction to the topic." },
-  { num: "5", title: "Main Analysis Sections", alert: false, desc: "Carries 50–60% of the word count. Applies named theory at Evaluate (L5) or Critically Evaluate (L6) depth. Sets the grade." },
-  { num: "6", title: "Recommendations", alert: false, desc: "Minimum three SMART recommendations, each traceable to a specific analytical finding." },
-  { num: "8", title: "Reference List", alert: false, desc: "Full Harvard-format list of sources actually cited in-text, not a bibliography of sources merely read." },
+  { num: "1", title: "Executive Summary", alert: true, desc: "Only if the brief or your centre asks for one. It summarises what the report found and recommends, rather than introducing the topic." },
+  { num: "2", title: "Main Analysis Sections", alert: false, desc: "Usually the largest share of the word count. Each assessment criterion is answered to its command verb, using your own organisation as the case." },
+  { num: "3", title: "Recommendations", alert: false, desc: "Practical actions that follow from your findings, each traceable to the analysis that supports it." },
+  { num: "4", title: "Reference List", alert: false, desc: "A consistent list of the sources you actually cited, matched to the in-text citations." },
 ];
 ---
 
 <Layout
-  title="CMI Report Writing Help | Management Report Format, Levels 5 & 6"
-  description="Specialist CMI report writing help for the management report format: executive summary, analysis sections, SMART recommendations, and Harvard referencing. Primarily Levels 5 and 6. UK-based CMI writers. WhatsApp quote in 2 hours."
+  title="CMI Report Writing Help | Structure, Analysis, Referencing"
+  description="CMI report writing help when your brief asks for a report: structure, analysis written to the command verb, recommendations and referencing. WhatsApp quote in 2 hours."
   canonical={siteUrl + '/cmi-report-writing-help/'}
   pageSchema={[serviceSchema, faqSchema]}
 >
@@ -85,18 +85,17 @@ const reportSections = [
   <!-- Hero -->
   <section class="hero">
     <div class="container hero-inner">
-      <p class="eyebrow">Management Report Format &bull; Levels 5 &amp; 6</p>
-      <h1>CMI Report Writing Help | Management Report Format Specialists</h1>
+      <p class="eyebrow">Report Format &bull; Levels 3 to 7</p>
+      <h1>CMI Report Writing Help | Reports Written to Your Brief and Criteria</h1>
       <p class="hero-sub">
-        Specialist support for the CMI management report format, the nine-section structure required by
-        most Level 5 and Level 6 units. Executive summary writing, analysis sections evaluated at the
-        correct depth, SMART recommendations, and Harvard-referenced bibliography. Full report writing
-        or help with specific sections, priced according to scope.
+        Support for CMI assignments where the brief asks for a report. We help with structure, analysis written to
+        the command verb of each criterion, recommendations that follow from the evidence, and consistent
+        referencing. Full report writing or help with specific sections, priced according to scope.
       </p>
       <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
         Get CMI Report Writing Help
       </a>
-      <p class="hero-note">Fixed quote within 2 hours &bull; Full report or single sections &bull; Levels 5 and 6</p>
+      <p class="hero-note">Fixed quote within 2 hours &bull; Full report or single sections</p>
     </div>
   </section>
 
@@ -107,80 +106,78 @@ const reportSections = [
     <div class="container">
       <h2 class="section-title" id="what-cmi-report-writing-help-covers">What CMI Report Writing Help Covers</h2>
       <p class="section-lead">
-        Scoped specifically to the management report format, the structure required by most Level 5
-        and Level 6 units.
-       This service is offered by <a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a> across every CMI level from 3 to 7.</p>
+        Scoped to assignments where your brief asks for a report. This service is offered by
+        <a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a> across every CMI level from 3 to 7.</p>
       <ul class="includes-list">
         <li>
-          <strong>Executive summary writing</strong>: 150–200 words, summarising the report's key
-          findings and recommendations, written after the analysis is complete.
+          <strong>Structure and planning</strong>: headings that map to the assessment criteria in your unit,
+          and a word count split that matches where the marks are earned.
         </li>
         <li>
-          <strong>Analysis section development</strong>: written at the correct command verb depth,
-          Evaluate at Level 5 or Critically Evaluate at Level 6, applying named management theory
-          to your organisational context.
+          <strong>Analysis section development</strong>: written to the command verb of each criterion, for
+          example Analyse, Examine or Evaluate at Level 5, applying named management theory to your
+          organisational context.
         </li>
         <li>
-          <strong>SMART recommendation drafting</strong>: minimum three recommendations, each derived
-          directly from a specific analytical finding.
+          <strong>Recommendations</strong>: practical actions derived directly from specific findings, with a
+          timeline or measure where it helps.
         </li>
         <li>
-          <strong>Bibliography and Harvard referencing</strong>: correctly formatted reference list
-          matched exactly to in-text citations, meeting the minimum source count for your level.
+          <strong>Executive summary</strong>: if your brief or centre asks for one, written last so it reflects
+          what the report actually found.
+        </li>
+        <li>
+          <strong>Referencing</strong>: a consistent reference list matched to your in-text citations, in the
+          style your centre requires.
         </li>
       </ul>
       <p>
         Available as <strong>full report writing</strong> (a CMI-qualified writer produces the complete
-        submission-ready report from your unit brief) or as <strong>section-specific help</strong> for
-        students who have written most of the report independently but need one part corrected, most
-        commonly the executive summary, the recommendations, or the referencing.
+        report from your unit brief) or as <strong>section-specific help</strong> for students who have written
+        most of the report independently but need one part corrected, most commonly the executive summary, the
+        recommendations or the referencing.
       </p>
       <p>
         This is distinct from the <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/">CMI assignment writing service</a>,
-        which covers every CMI format including essays, reflective accounts, and strategic papers, and from
+        which covers every format including reflective accounts and scenario-based answers, and from
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/">CMI assignment tutoring</a>, where the student retains authorship
-        and the tutor provides guidance rather than producing content. Report writing help is specifically for
-        students whose brief requires the management report format and who want that format produced or
-        corrected to CMI assessment standard.
+        and the tutor provides guidance rather than producing content.
       </p>
     </div>
   </section>
 
-  <!-- Format vs Essay -->
+  <!-- When the brief asks for a report -->
   <section class="section section-alt">
     <div class="container narrow">
-      <h2 class="section-title" id="management-report-format-vs-essay">The Management Report Format — Why It Is Different from an Essay</h2>
+      <h2 class="section-title" id="when-the-brief-asks-for-a-report">When Your Brief Asks for a Report</h2>
       <p>
-        The CMI management report is a nine-section structure: title page, executive summary, table of
-        contents, introduction, main analysis sections, recommendations, conclusion, reference list, and
-        appendices. This is fundamentally different from a structured essay, which has no executive summary
-        and no standalone recommendations section.
+        CMI does not prescribe one assignment format. Centres set the format within CMI's recommendations, and
+        written work forms the majority of the evidence, so reports, accounts and reflective pieces all appear. Your
+        brief is the authority on what to submit, and the layout below is our own practical advice, not a CMI
+        template.
       </p>
       <p>
-        Students who have written essays at Level 3 or Level 4 and progress to Level 5 often default to
-        essay conventions when the brief requires a report: an introduction that previews conclusions, a
-        conclusion that introduces new content, headings that do not map to Learning Outcomes. None of
-        these meet management report standard, regardless of the analytical quality underneath them.
+        A common mistake is writing a report like an essay: an introduction that previews conclusions, headings
+        that do not map to the criteria, and no clear recommendations. Whatever the layout, the assessor needs to
+        see each criterion answered to its verb, with evidence.
       </p>
       <p class="report-sections-lead">
-        The report is written for an assessor who may read only the executive summary and the
-        recommendations first. Four sections below carry the most weight relative to their word count:
+        Four parts of a report usually decide how it reads. They are shown below in the order a reader meets them:
       </p>
       <div class="report-sections">
         {reportSections.map(s => (
           <div class={`report-section ${s.alert ? 'report-section--alert' : ''}`}>
             <div class="rs-num">{s.num}</div>
             <div class="rs-body">
-              <h3 class="rs-title">{s.title}{s.alert && <span class="rs-alert">Most misunderstood</span>}</h3>
+              <h3 class="rs-title">{s.title}{s.alert && <span class="rs-alert">Often misunderstood</span>}</h3>
               <p class="rs-desc">{s.desc}</p>
             </div>
           </div>
         ))}
       </div>
       <p>
-        For the complete nine-section breakdown with word count distribution across a typical report, see
-        the <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/">CMI assignment structure guide</a>. This page focuses
-        on the three sections that most frequently cost students marks, covered in detail below.
+        For a fuller layout, a word count method and the common errors, see the
+        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/">CMI assignment structure guide</a>.
       </p>
     </div>
   </section>
@@ -188,11 +185,12 @@ const reportSections = [
   <!-- Executive Summary -->
   <section class="section">
     <div class="container narrow">
-      <h2 class="section-title" id="executive-summary-writing">Executive Summary Writing — The Most Misunderstood Section</h2>
+      <h2 class="section-title" id="executive-summary-writing">Executive Summary Writing</h2>
       <p>
-        The executive summary is 150 to 200 words. It is written last, after every other section of the
-        report is complete, and placed first. It summarises the report's key findings and recommendations.
-        It is not an introduction to the topic.
+        Not every CMI brief asks for an executive summary, so check yours. When one is required, it is written last,
+        after every other section is complete, and placed first. It summarises the report's key findings and
+        recommendations. It is not an introduction to the topic. Check whether your brief counts it toward the
+        word limit.
       </p>
       <div class="es-compare">
         <div class="es-col es-col--wrong">
@@ -206,10 +204,9 @@ const reportSections = [
       </div>
       <p>
         The test: a reader who reads only the executive summary should understand what the report found and
-        what it recommends, without reading anything else. Executive summary writing help typically involves
-        drafting or rewriting this section after the analysis and recommendations are finalised, since it
-        must reflect the report's actual content rather than the student's original plan, which frequently
-        changes during writing.
+        what it recommends. Help with this section typically involves drafting or rewriting it after the analysis
+        and recommendations are finalised, since it must reflect the report's actual content rather than the
+        original plan, which often changes during writing.
       </p>
     </div>
   </section>
@@ -217,90 +214,91 @@ const reportSections = [
   <!-- Analysis Sections -->
   <section class="section section-alt">
     <div class="container narrow">
-      <h2 class="section-title" id="analysis-sections-evaluate-depth">Analysis Sections — Evaluating at the Correct Depth</h2>
+      <h2 class="section-title" id="analysis-sections-command-verbs">Analysis Sections: Writing to the Command Verb</h2>
       <p>
-        The main analysis sections carry 50 to 60 percent of the total word count and are where the grade
-        is primarily determined. Each section applies a named management theory or framework to the
-        organisational context, at the depth the unit's command verb requires.
+        The main analysis sections are where the assessment criteria are met. Each criterion in your unit begins with a
+        command verb, and CMI defines each verb in Annex 1 of the syllabus. The analysis has to do what the verb asks,
+        using theory as a tool on your own organisation rather than describing it.
       </p>
       <div class="verb-depth-grid">
         <div class="verb-depth-card">
-          <h3>Level 5 — Evaluate</h3>
+          <h3>Level 5: Analyse, Examine, Evaluate</h3>
           <p>
-            The analysis must weigh the framework's strengths and limitations in the specific context and
-            reach a stated, defended conclusion. An Evaluate response that describes strengths and
-            limitations but never states a position is incomplete. The conclusion is not optional.
+            These three account for 165 of the 248 criteria at Level 5 (Analyse 66, Examine 51, Evaluate 48).
+            Analyse breaks a situation into parts and examines each. Evaluate weighs strengths, weaknesses and
+            arguments for and against, then reaches a reasoned judgement. A description of strengths and
+            weaknesses with no stated conclusion does not meet Evaluate.
           </p>
         </div>
         <div class="verb-depth-card verb-depth-card--l6">
-          <h3>Level 6 — Critically Evaluate</h3>
+          <h3>Level 6: Critically appraise, Critically assess</h3>
           <p>
-            Beyond Evaluate, the analysis must also examine the assumptions the framework rests on as an
-            academic construct, consider at least one alternative framework, and show the conclusion has
-            been tested against a counter-argument.
+            Level 6 has 75 criteria, led by Critically appraise (12) and Critically assess (9), with Discuss (8) and
+            Recommend (7) next. The Critically verbs ask you to question and test the evidence and argue a position,
+            not just report it.
           </p>
         </div>
       </div>
       <p>
-        Report writing help at this stage typically means restructuring analysis that describes a
-        framework instead of applying it, adding a missing conclusion to an Evaluate section, or adding
-        the framework critique and counter-argument testing that a Level 6 submission is missing.
+        Report writing help at this stage typically means restructuring analysis that describes a framework instead of
+        applying it, adding a missing conclusion to an Evaluate section, or adding the questioning that a Critically
+        verb requires. Our <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/">command verbs guide</a>
+        gives CMI's definitions in full.
       </p>
     </div>
   </section>
 
-  <!-- SMART Recommendations -->
+  <!-- Recommendations -->
   <section class="section">
     <div class="container narrow">
-      <h2 class="section-title" id="smart-recommendations">SMART Recommendations — Derived from the Analysis</h2>
-      <p>CMI management report recommendations must meet all five SMART criteria:</p>
+      <h2 class="section-title" id="recommendations-from-the-analysis">Recommendations That Follow from the Analysis</h2>
+      <p>
+        Where a criterion asks you to Recommend or Develop a plan, the recommendation has to follow from your evidence.
+        CMI does not require a particular recommendation format. A SMART layout is a useful checklist that many
+        writers choose to apply:
+      </p>
       <div class="smart-grid">
-        <div class="smart-item"><h3>Specific</h3><p>Names a concrete action. "Improve communication" fails. "Implement weekly one-to-ones using the SBI feedback model from a stated date" passes.</p></div>
-        <div class="smart-item"><h3>Measurable</h3><p>Includes a success criterion that can be checked against evidence.</p></div>
+        <div class="smart-item"><h3>Specific</h3><p>Names a concrete action. "Improve communication" is vague. "Hold weekly one-to-ones from a stated date" is specific.</p></div>
+        <div class="smart-item"><h3>Measurable</h3><p>Includes a success measure that can be checked against evidence.</p></div>
         <div class="smart-item"><h3>Achievable</h3><p>Realistic within the constraints established earlier in the analysis.</p></div>
-        <div class="smart-item"><h3>Relevant</h3><p>Traceable directly to a specific analytical finding, not introduced without evidential basis.</p></div>
+        <div class="smart-item"><h3>Relevant</h3><p>Traceable directly to a specific finding, not introduced without an evidential basis.</p></div>
         <div class="smart-item"><h3>Time-bound</h3><p>Includes a timeline or review date for implementation.</p></div>
       </div>
       <p>
-        A recommendation with no evidential basis in the preceding analysis is unsupported and reduces the
-        grade regardless of how well the sentence itself is worded. Minimum three recommendations are
-        expected for a Level 5 or Level 6 report. Report writing help on recommendations typically involves
-        rewriting vague statements into SMART-compliant actions and making sure each one is explicitly
-        linked back to the sub-conclusion of the analysis section that supports it.
+        A recommendation with no basis in the preceding analysis is unsupported, however well it is worded. Help
+        with recommendations typically involves rewriting vague statements into specific actions and linking each
+        one explicitly back to the finding that supports it.
       </p>
     </div>
   </section>
 
-  <!-- Bibliography -->
+  <!-- References -->
   <section class="section section-alt">
     <div class="container narrow">
-      <h2 class="section-title" id="bibliography-and-harvard-referencing">Bibliography and Harvard Referencing</h2>
+      <h2 class="section-title" id="referencing-and-evidence">Referencing and Evidence</h2>
       <p>
-        Every source cited in-text within the report body must appear in the reference list, and the
-        reference list must contain only sources that were actually cited, not every source read during
-        research. Harvard format applies throughout: in-text citations use author-date format, and each
-        reference list entry follows the correct Harvard structure for its source type, whether a book,
-        journal article, website, or ManagementDirect resource.
+        CMI's syllabuses ask for appropriate use of evidence, examples and references to support conclusions and
+        recommendations. They do not set a minimum number of sources, so follow your centre's guidance and your brief.
+        Whatever style you use, apply it consistently.
       </p>
       <div class="ref-grid">
         <div class="ref-block">
-          <h3>Level 5 Sources</h3>
-          <p>10–12 Harvard-referenced sources, with ManagementDirect as the expected primary source type.</p>
+          <h3>Fit the Claim</h3>
+          <p>Each significant claim should rest on a source or on a specific example from your own organisation.</p>
         </div>
         <div class="ref-block">
-          <h3>Level 6 Sources</h3>
-          <p>12–15 sources, including a proportion of peer-reviewed journal articles alongside ManagementDirect material.</p>
+          <h3>Mix Source Types</h3>
+          <p>Books, journal articles, professional body publications and reputable organisational data all have a place when relevant.</p>
         </div>
         <div class="ref-block">
           <h3>In-Text Matching</h3>
-          <p>Every reference list entry must have a matching in-text citation, and vice versa, no orphaned citations either way.</p>
+          <p>Every reference list entry needs a matching in-text citation and vice versa, with no orphaned citations either way.</p>
         </div>
       </div>
       <p>
-        Report writing help on the bibliography covers correcting inconsistent Harvard formatting,
-        checking that in-text citations and reference list entries match exactly, and sourcing appropriate
-        management journals and ManagementDirect material where a draft falls under the minimum source
-        count for its level.
+        Help with referencing covers correcting inconsistent formatting, checking that citations and the list match,
+        and finding suitable sources where a draft leans on too few. See our
+        <a href="https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/">Harvard referencing guide</a> if your centre uses Harvard.
       </p>
     </div>
   </section>
@@ -308,26 +306,34 @@ const reportSections = [
   <!-- By Level -->
   <section class="section">
     <div class="container narrow">
-      <h2 class="section-title" id="report-writing-help-by-level">CMI Report Writing Help by Level — Level 5 and Level 6</h2>
+      <h2 class="section-title" id="report-writing-help-by-level">CMI Report Writing Help by Level</h2>
       <div class="level-summary-grid">
         <div class="level-summary-card">
           <h3><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/">CMI Level 5</a></h3>
           <p>
-            The management report is the primary format across most of the 25-unit Management and
-            Leadership Diploma. Operative verb: Evaluate. Most common request: executive summary
-            correction and ensuring the analysis reaches a stated conclusion. Most frequently supported
-            units: 502, 503, 512.
+            Units 501 to 526, with a guideline of 3,000 to 5,000 words per unit and a 10% allowance. Criteria are
+            mostly Analyse, Examine and Evaluate. The common request is analysis that reaches a stated conclusion.
           </p>
         </div>
         <div class="level-summary-card">
           <h3><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/">CMI Level 6</a></h3>
           <p>
-            The report format continues but the verb steps up to Critically Evaluate, requiring framework
-            critique and counter-argument testing, with a higher evidential standard for Merit and
-            Distinction. Most frequently supported units: 601, 602, 603.
+            Units 601 to 614. The Critically verbs lead, so the common request is analysis that tests the evidence
+            and argues a position, rather than describing it.
+          </p>
+        </div>
+        <div class="level-summary-card">
+          <h3><a href="https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/">CMI Level 7</a></h3>
+          <p>
+            Units 701 to 716, plus Group B units. Of 80 criteria, 37 begin with Critically, and many end in a
+            proposal or strategy, so the work must judge the evidence and then recommend.
           </p>
         </div>
       </div>
+      <p>
+        CMI grades each unit Pass or Refer, so the aim of a report is to meet every criterion. See the
+        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/">resubmission guide</a> if a unit has been referred.
+      </p>
     </div>
   </section>
 
@@ -337,10 +343,10 @@ const reportSections = [
       <h2 class="section-title" id="how-to-get-cmi-report-writing-help">How to Get CMI Report Writing Help</h2>
       <ol class="order-steps">
         <li>
-          <strong>Message us on WhatsApp</strong> with your unit number, qualification level, and full
-          assignment brief. State whether you need the complete report written or section-specific help:
-          for example, the executive summary only, the recommendations only, or referencing correction
-          only. Attach your current draft if one exists.
+          <strong>Message us on WhatsApp</strong> with your unit number, qualification level and full assignment
+          brief. State whether you need the complete report written or section-specific help, for example the
+          executive summary only, the recommendations only, or referencing correction only. Attach your current
+          draft if one exists.
         </li>
         <li>
           <strong>Receive a fixed quote within 2 hours,</strong> priced according to scope. A full report
@@ -348,8 +354,7 @@ const reportSections = [
         </li>
         <li>
           <strong>Receive your completed report or corrected sections</strong> in the agreed format and
-          timeframe, structured to the nine-section management report standard and referenced in Harvard
-          style.
+          timeframe, written to your unit criteria and referenced in the style your centre uses.
         </li>
       </ol>
       <div class="order-cta">
@@ -363,58 +368,27 @@ const reportSections = [
   <!-- FAQ -->
   <section class="section">
     <div class="container narrow">
-      <h2 class="section-title" id="cmi-report-writing-help-faq">CMI Report Writing Help — Frequently Asked Questions</h2>
+      <h2 class="section-title" id="cmi-report-writing-help-faq">CMI Report Writing Help: Frequently Asked Questions</h2>
       <div class="faq-list">
         <details class="faq-item">
           <summary class="faq-q">What is included in CMI report writing help?</summary>
-          <div class="faq-a">
-            <p>CMI report writing help covers the management report format specifically: executive summary
-            writing, analysis sections written at the correct command verb depth (Evaluate at Level 5,
-            Critically Evaluate at Level 6), SMART recommendations derived from the analysis, and a
-            Harvard-referenced bibliography. It is available as a complete report written from your unit
-            brief, or as help with one or more specific sections if you have already written most of the
-            report yourself.</p>
-          </div>
+          <div class="faq-a"><p>CMI report writing help covers written work where your brief asks for a report: a clear structure, analysis written to the command verb of each assessment criterion (such as Analyse, Examine or Evaluate at Level 5), recommendations that follow from the analysis, and a consistently referenced reference list. It is available as a complete report written from your unit brief, or as help with specific sections if you have already written most of it yourself.</p></div>
         </details>
         <details class="faq-item">
           <summary class="faq-q">Can you just rewrite my executive summary or recommendations, not the whole report?</summary>
-          <div class="faq-a">
-            <p>Yes. Section-specific help is available for students who have written most of the report
-            independently but need one part brought up to standard, most commonly the executive summary,
-            the recommendations, or the Harvard referencing. Send your draft and unit brief via WhatsApp
-            specifying which section needs attention, and the quote will reflect that narrower scope rather
-            than the cost of a full report.</p>
-          </div>
+          <div class="faq-a"><p>Yes. Section-specific help is available if you have written most of the report and need one part brought up to standard, most commonly the executive summary, the recommendations or the referencing. Send your draft and unit brief via WhatsApp, say which section needs attention, and the quote will reflect that narrower scope.</p></div>
         </details>
         <details class="faq-item">
-          <summary class="faq-q">How many sources does a CMI management report need?</summary>
-          <div class="faq-a">
-            <p>Level 5 management reports typically require 10 to 12 Harvard-referenced sources. Level 6
-            reports typically require 12 to 15 sources, including a proportion of peer-reviewed journal
-            articles. ManagementDirect, CMI's own research library, is the expected primary source type at
-            both levels. Every source cited in-text must appear in the reference list, and the reference
-            list should not include sources that were never cited in the body of the report.</p>
-          </div>
+          <summary class="faq-q">How many sources does a CMI report need?</summary>
+          <div class="faq-a"><p>CMI does not set a minimum number of sources. Its syllabuses ask for appropriate use of evidence, examples and references to support conclusions and recommendations. Your centre or brief may state its own expectation, so follow that. Every source cited in the text must appear in the reference list, and the list should not include sources you never cited.</p></div>
         </details>
         <details class="faq-item">
-          <summary class="faq-q">Is CMI report writing help available for Level 4 units that use the report format?</summary>
-          <div class="faq-a">
-            <p>Yes. While the management report is primarily associated with Level 5 and Level 6, some
-            Level 4 units also specify the report format rather than a structured essay. Send your unit
-            brief via WhatsApp to confirm the required format and receive a quote. The brief's Learning
-            Outcome language and command verbs determine whether report format applies.</p>
-          </div>
+          <summary class="faq-q">Does my CMI assignment have to be a report?</summary>
+          <div class="faq-a"><p>Not necessarily. CMI does not prescribe a single format: centres set the format within CMI's recommendations, and written work (reports, accounts, reflective pieces) forms the majority of the evidence. Your brief says what is required. If it asks for a report, the page above explains how to approach it; if it asks for something else, send it over and we will work to that.</p></div>
         </details>
         <details class="faq-item">
           <summary class="faq-q">What is the difference between report writing help and CMI assignment tutoring?</summary>
-          <div class="faq-a">
-            <p>Report writing help produces or corrects the management report itself, either the complete
-            document or specific sections, delivered as finished content. CMI assignment tutoring is
-            coaching where the student writes the report and the tutor provides guidance on structure,
-            command verb depth, and draft review, with the student retaining authorship throughout.
-            Students who want a section written for them should use report writing help; students who want
-            to write it themselves with expert direction should use tutoring.</p>
-          </div>
+          <div class="faq-a"><p>Report writing help produces or corrects the report itself, either the complete document or specific sections, delivered as finished content. CMI assignment tutoring is coaching where the student writes the report and the tutor guides structure, command verb depth and draft review, with the student keeping authorship. If you want a section written for you, use report writing help; if you want to write it yourself with expert direction, use tutoring.</p></div>
         </details>
       </div>
     </div>
@@ -427,19 +401,19 @@ const reportSections = [
       <div class="supp-grid">
         <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/" class="supp-card">
           <h3>CMI Assignment Structure Guide</h3>
-          <p>The full nine-section management report breakdown, word count distribution, and the ten most common structural errors.</p>
+          <p>Reports, accounts and reflective writing: a practical layout, word count planning and common errors.</p>
         </a>
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/" class="supp-card">
           <h3>CMI Level 5 Assignment Help</h3>
-          <p>All 26 units of the Management and Leadership Diploma, where the management report is the standard format.</p>
+          <p>All 26 Level 5 units (501 to 526), with their criteria, verbs and word counts.</p>
         </a>
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/" class="supp-card">
           <h3>CMI Level 6 Assignment Help</h3>
-          <p>Critically Evaluate depth and a higher evidential standard, across the full Level 6 unit set.</p>
+          <p>The Critically verbs and the Level 6 unit set, 601 to 614.</p>
         </a>
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/" class="supp-card">
           <h3>CMI Assignment Tutoring</h3>
-          <p>For students who want to write their own management report with expert guidance on structure and command verb depth.</p>
+          <p>For students who want to write their own report with expert guidance on structure and command verb depth.</p>
         </a>
       </div>
     </div>
@@ -448,8 +422,8 @@ const reportSections = [
   <!-- Final CTA -->
   <section class="cta-section">
     <div class="container cta-inner">
-      <h2>Get Your Management Report Written</h2>
-      <p>Message us on WhatsApp with your unit number, level, and deadline. Fixed quote in 2 hours, full report or specific sections only.</p>
+      <h2>Get Your Report Written</h2>
+      <p>Message us on WhatsApp with your unit number, level and deadline. Fixed quote in 2 hours, full report or specific sections only.</p>
       <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
         WhatsApp Us Your Brief
       </a>
