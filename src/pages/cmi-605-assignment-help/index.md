@@ -116,3 +116,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 514 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/), Managing Change (Level 5), also names Kotter, Lewin and ADKAR
 - [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Leading Strategic Change (Level 7), also names Kotter, Lewin and Greenleaf
 - [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Supporting Teams and Individuals through Change (Level 3), also names Kotter and Lewin
+- [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Principles of Innovation (Level 5), a related topic: innovation
+- [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Entrepreneurial Practice (Level 7), a related topic: entrepreneurship and marketing

@@ -116,3 +116,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 521 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-521-assignment-help/), Using Data and Information for Decision Making (Level 5), a related topic: managing data and information
+- [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Strategic Management of Data and Information (Level 7), a related topic: managing data and information
+- [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6), a related topic: managing data and information
+- [CMI 304 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-304-assignment-help/), Principles of Communication in the Workplace (Level 3), a related topic: managing data and information

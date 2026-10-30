@@ -113,3 +113,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Maslow
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Maslow
+- [CMI 524 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-524-assignment-help/), Conducting a Management Project (Level 5), a related topic: management projects
+- [CMI 604 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/), Strategic Programme and Project Management (Level 6), a related topic: strategic projects and research
+- [CMI 4005 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/), Management Report Writing (Level 4), a related topic: strategic projects and research

@@ -107,3 +107,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI 524 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-524-assignment-help/), Conducting a Management Project (Level 5), a related topic: management projects
+- [CMI 712 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/), Strategic Management Project (Level 7), a related topic: strategic projects and research
+- [CMI 713 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/), Applied Research for Strategic Leaders (Level 7), a related topic: report writing
+- [CMI 320 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-320-assignment-help/), Presenting for Success (Level 3), a related topic: report writing

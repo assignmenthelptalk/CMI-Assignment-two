@@ -111,3 +111,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Mintzberg
 - [CMI 523 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-523-assignment-help/), Principles of Marketing Products and Services (Level 5), also names Porter
+- [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Principles of Innovation (Level 5), a related topic: innovation
+- [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), a related topic: entrepreneurship and marketing
