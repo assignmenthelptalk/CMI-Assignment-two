@@ -214,11 +214,12 @@ const allUnits = [
       </p>
       <div class="units-grid">
         {allUnits.map(u => (
-          <a href={`https://www.cmiassignmenthelp.uk.com/cmi-${u.num}-assignment-help/`} class={`unit-card ${u.priority ? 'unit-priority' : ''}`}>
+          <div class={`unit-card ${u.priority ? 'unit-priority' : ''}`}>
             {u.priority && <span class="priority-tag">High Demand</span>}
             <p class="unit-num">Unit {u.num}</p>
             <p class="unit-title">{u.title}</p>
-          </a>
+            <p class="unit-cta"><a href={`https://www.cmiassignmenthelp.uk.com/cmi-${u.num}-assignment-help/`} class="card-link">CMI Unit {u.num} assignment help</a> &rarr;</p>
+          </div>
         ))}
       </div>
     </div>
@@ -761,8 +762,13 @@ const allUnits = [
     .diff-row { grid-template-columns: 1fr 1fr 1fr; }
     .meta-row { grid-template-columns: 1fr; }
   }
-  a.unit-card { text-decoration: none; color: inherit; display: block; transition: border-color .15s, box-shadow .15s; }
-  a.unit-card:hover { border-color: var(--blue); box-shadow: 0 4px 12px rgba(0,0,0,.12); text-decoration: none; }
+  .unit-card { text-decoration: none; color: inherit; display: block; transition: border-color .15s, box-shadow .15s; }
+  .unit-card:hover { border-color: var(--blue); box-shadow: 0 4px 12px rgba(0,0,0,.12); text-decoration: none; }
   .unit-cta { font-size: .8rem; font-weight: 600; color: var(--blue-light); margin-top: .75rem; margin-bottom: 0; }
 
+  .unit-item, .unit-card { position: relative; }
+  .unit-cta .card-link { color: inherit; text-decoration: none; }
+  .unit-cta .card-link::after { content: ''; position: absolute; inset: 0; }
+  .unit-cta .card-link:focus-visible { outline: none; }
+  .unit-cta .card-link:focus-visible::after { outline: 2px solid var(--blue); outline-offset: 2px; border-radius: 8px; }
 </style>
