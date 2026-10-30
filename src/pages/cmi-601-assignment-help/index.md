@@ -111,3 +111,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7), also names Kotter and Greenleaf
 - [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Leading Strategic Change (Level 7), also names Kotter and Greenleaf
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names Kotter and Greenleaf
+- [CMI 526 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/), Principles of Leadership Practice (Level 5), a related topic: leadership practice

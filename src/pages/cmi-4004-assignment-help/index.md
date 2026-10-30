@@ -127,4 +127,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Tuckman, Belbin and Tannenbaum and Schmidt
 - [CMI 505 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-505-assignment-help/), Forming Successful Teams (Level 5), also names Tuckman and Belbin
 - [CMI 602 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/), Developing, Managing and Leading Individuals and Teams (Level 6), also names Tuckman and Belbin
+- [CMI 309 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/), Responding to Conflict in the Workplace (Level 3), a related topic: responding to conflict
 - [CMI 510 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/), Managing Conflict (Level 5), a related topic: managing conflict

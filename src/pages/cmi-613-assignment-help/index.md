@@ -113,4 +113,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 513 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/), Managing Projects to Achieve Results (Level 5), also names Senge
 - [CMI 515 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/), Creating and Delivering Operational Plans (Level 5), also names Senge
+- [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Principles of Equality, Diversity and Inclusive Working Practice (Level 3), a related topic: equality, diversity and inclusion
+- [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Strategic Approaches to Equality and Inclusion (Level 7), a related topic: equality and inclusion
 - [CMI 4008 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/), Promoting Equality and Diversity (Level 4), a related topic: equality, diversity and inclusion

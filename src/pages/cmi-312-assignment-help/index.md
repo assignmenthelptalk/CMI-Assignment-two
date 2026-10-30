@@ -116,4 +116,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 315 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-315-assignment-help/), Principles of Health and Safety in a Work Setting (Level 3), a related topic: health and safety risk
+- [CMI 515 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/), Creating and Delivering Operational Plans (Level 5), a related topic: managing daily activities and plans
+- [CMI 315 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-315-assignment-help/), Principles of Health and Safety in a Work Setting (Level 3), a related topic: managing daily activities and plans
+- [CMI 319 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-319-assignment-help/), Managing Meetings (Level 3), a related topic: managing daily activities and plans

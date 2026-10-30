@@ -107,3 +107,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Porter, Mintzberg, Schein and Bass, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Entrepreneurial Practice (Level 7), also names Porter and Mintzberg
+- [CMI 706 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/), Finance for Strategic Leaders (Level 7), a related topic: finance and budgets

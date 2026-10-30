@@ -109,5 +109,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Maslow
 - [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Professional Management and Leadership Practice (Level 6), also names Maslow
+- [CMI 309 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/), Responding to Conflict in the Workplace (Level 3), a related topic: responding to conflict
 - [CMI 510 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/), Managing Conflict (Level 5), a related topic: managing conflict
 - [CMI 4002 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/), Managing Stakeholders' Expectations (Level 4), a related topic: managing stakeholder expectations

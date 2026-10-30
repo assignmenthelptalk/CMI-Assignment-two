@@ -116,3 +116,4 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Belbin, Maslow and Adair
 - [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names Belbin, Blake and Mouton and Vroom
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Blake and Mouton and Adair
+- [CMI 526 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/), Principles of Leadership Practice (Level 5), a related topic: leadership practice

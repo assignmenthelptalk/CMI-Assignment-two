@@ -127,3 +127,5 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3), also names Blake and Mouton, Tannenbaum and Schmidt and Adair
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Tannenbaum and Schmidt and Adair
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Blake and Mouton and Adair
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7), a related topic: leadership practice
+- [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Professional Management and Leadership Practice (Level 6), a related topic: leadership practice

@@ -110,4 +110,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 510 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/), Managing Conflict (Level 5), a related topic: managing conflict
+- [CMI 510 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/), Managing Conflict (Level 5), a related topic: responding to conflict
+- [CMI 4004 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/), Understanding Team Dynamics (Level 4), a related topic: responding to conflict
+- [CMI 4006 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/), Management and Leadership Influencing Skills (Level 4), a related topic: responding to conflict
+- [CMI 305 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/), Building Stakeholder Relationships using Effective Communication (Level 3), a related topic: responding to conflict
