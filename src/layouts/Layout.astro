@@ -36,6 +36,29 @@ const websiteSchema = {
 
 const canonicalHref = canonical ?? siteUrl;
 
+// Home > own hub > unit for units; Home > page for everything else. No trail on the home page.
+const breadcrumbSchema = (() => {
+  const path = new URL(canonicalHref).pathname.replace(/\/+$/, '');
+  if (!path) return null;
+  const unit = path.match(/^\/cmi-(\d{3,4})-assignment-help$/);
+  const hub = path.match(/^\/cmi-level-(\d)-assignment-help$/);
+  const trail = [{ name: 'Home', url: `${siteUrl}/` }];
+  if (unit) {
+    const code = unit[1];
+    const level = code.length === 4 ? 4 : Number(code[0]);
+    trail.push({ name: `CMI Level ${level} Assignment Help`, url: `${siteUrl}/cmi-level-${level}-assignment-help/` });
+    trail.push({ name: `CMI Unit ${code} Assignment Help`, url: `${siteUrl}${path}/` });
+  } else {
+    const name = hub ? `CMI Level ${hub[1]} Assignment Help` : title.split(/\s[|—–-]\s/)[0].trim();
+    trail.push({ name, url: `${siteUrl}${path}/` });
+  }
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": trail.map((c, i) => ({ "@type": "ListItem", "position": i + 1, "name": c.name, "item": c.url })),
+  };
+})();
+
 const extraSchemas = pageSchema
   ? (Array.isArray(pageSchema) ? pageSchema : [pageSchema])
   : [];
@@ -55,6 +78,7 @@ const extraSchemas = pageSchema
     <link rel="canonical" href={canonicalHref} />
     <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+    {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
     {extraSchemas.map(s => (
       <script type="application/ld+json" set:html={JSON.stringify(s)} />
     ))}
