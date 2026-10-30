@@ -97,7 +97,7 @@ const extraSchemas = pageSchema
     <header class="site-header">
       <div class="container header-inner">
         <a href="https://www.cmiassignmenthelp.uk.com/" class="logo" aria-label="CMI Assignment Help UK — Home">
-          CMI Assignment Help UK
+          cmiassignmenthelp.uk.com
         </a>
 
         <nav class="main-nav" aria-label="Main navigation">
@@ -394,14 +394,19 @@ const extraSchemas = pageSchema
   }
 
   .logo {
-    color: #fff;
-    font-weight: 700;
-    font-size: 1.05rem;
+    color: #c4b5fd;
+    background: linear-gradient(90deg, #93c5fd 0%, #c4b5fd 50%, #f0abfc 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    font-size: 1.15rem;
+    letter-spacing: -.01em;
     white-space: nowrap;
     text-decoration: none;
     flex-shrink: 0;
   }
-  .logo:hover { color: #e0e7ff; text-decoration: none; }
+  .logo:hover { filter: brightness(1.15); text-decoration: none; }
 
   .main-nav { flex: 1; }
   .nav-list {
