@@ -10,7 +10,7 @@ headerImageAlt: "CMI Unit 519 Assignment Help — Leading Innovation and Change"
 # CMI Unit 519 Assignment Help | Leading Innovation and Change
 **Innovation Types, Kotter (1996), Edmondson (1999), De Bono (1985), Evaluate Depth, Management Report Format**
 
-CMI Unit 519 assignment help for Leading Innovation and Change, the innovation leadership unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with innovation types distinguished and evaluated at their definitional level, psychological safety applied as the foundational innovation enabler, Kotter's 8-step model adapted to innovation-driven change, and De Bono's Six Thinking Hats applied to creative problem-solving processes.
+CMI Unit 519 assignment help for Leading Innovation and Change, the innovation leadership unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with innovation types distinguished and evaluated at their definitional level, psychological safety applied as the foundational innovation enabler, Kotter's 8-step model adapted to innovation-driven change, and De Bono's Six Thinking Hats applied to creative problem-solving processes. This unit is part of [CMI Level 5 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), covering all 25 Level 5 units.
 
 [Get a Unit 519 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 

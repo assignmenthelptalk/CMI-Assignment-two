@@ -10,7 +10,7 @@ headerImageAlt: "CMI Unit 705 Assignment Help — Strategic Leadership"
 # CMI Unit 705 Assignment Help
 **Strategic Leadership, Barney (1991) VRIO, Teece, Pisano and Shuen (1997) Dynamic Capabilities, Critically Analyse Depth, Director-Level Writers**
 
-CMI Unit 705 assignment help for Strategic Leadership, the core strategic leadership theory unit of the CMI Level 7 Diploma. The service covers strategic paper format at Critically Analyse depth, with the central academic debate engaged at primary source level: Barney's (1991) Resource-Based View and VRIO framework versus Teece, Pisano and Shuen's (1997) Dynamic Capabilities framework. Writers hold the CMI Level 7 Diploma with director-level strategic leadership experience.
+CMI Unit 705 assignment help for Strategic Leadership, the core strategic leadership theory unit of the CMI Level 7 Diploma. The service covers strategic paper format at Critically Analyse depth, with the central academic debate engaged at primary source level: Barney's (1991) Resource-Based View and VRIO framework versus Teece, Pisano and Shuen's (1997) Dynamic Capabilities framework. Writers hold the CMI Level 7 Diploma with director-level strategic leadership experience. This unit is part of [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), covering all 17 Level 7 units.
 
 [Get a Unit 705 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 

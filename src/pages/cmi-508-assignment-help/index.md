@@ -10,7 +10,7 @@ headerImageAlt: "CMI Unit 508 Assignment Help — Procurement and Contracting"
 # CMI Unit 508 Assignment Help | Procurement and Contracting
 **Kraljic (1983), Supplier Relationship Management, Contract Types, Evaluate Depth, Management Report Format**
 
-CMI Unit 508 assignment help for Procurement and Contracting, the supply chain and contract management unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with Kraljic's (1983) purchasing portfolio matrix applied to supplier categorisation, supplier relationship management levels evaluated against supply risk, and contract type selection assessed against risk allocation principles.
+CMI Unit 508 assignment help for Procurement and Contracting, the supply chain and contract management unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with Kraljic's (1983) purchasing portfolio matrix applied to supplier categorisation, supplier relationship management levels evaluated against supply risk, and contract type selection assessed against risk allocation principles. This unit is part of [CMI Level 5 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), covering all 25 Level 5 units.
 
 [Get a Unit 508 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 

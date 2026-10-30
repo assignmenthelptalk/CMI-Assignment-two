@@ -10,7 +10,7 @@ headerImageAlt: "CMI Unit 518 Assignment Help — Developing Organisational Stra
 # CMI Unit 518 Assignment Help | Developing Organisational Strategy
 **Porter (1980), Ansoff (1957), Johnson Scholes Whittington SAF, Evaluate Depth, Management Report Format**
 
-CMI Unit 518 assignment help for Developing Organisational Strategy, the strategic management unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with Porter's Five Forces applied to competitive environment analysis, Ansoff's growth matrix used to evaluate strategic direction options, and the SAF criteria from Johnson, Scholes and Whittington used to evaluate strategic choices.
+CMI Unit 518 assignment help for Developing Organisational Strategy, the strategic management unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with Porter's Five Forces applied to competitive environment analysis, Ansoff's growth matrix used to evaluate strategic direction options, and the SAF criteria from Johnson, Scholes and Whittington used to evaluate strategic choices. This unit is part of [CMI Level 5 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), covering all 25 Level 5 units.
 
 [Get a Unit 518 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 

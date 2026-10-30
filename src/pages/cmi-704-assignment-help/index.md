@@ -10,7 +10,7 @@ headerImageAlt: "CMI Unit 704 Assignment Help — Governance, Risk and Ethics"
 # CMI Unit 704 Assignment Help
 **Governance, Risk and Ethics, Strategic Paper, ISO 31000, COSO ERM, Taleb (2007), Carroll (1991), Critically Analyse Depth**
 
-CMI Unit 704 assignment help for Governance, Risk and Ethics, the governance and strategic risk unit of the CMI Level 7 Strategic Management and Leadership Diploma. The service covers all three content domains at Critically Analyse depth: corporate governance (UK Corporate Governance Code, stewardship vs agency theory), strategic risk management (ISO 31000:2018, COSO ERM 2017, Taleb's Black Swan critique), and organisational ethics (Carroll, 1991; Kohlberg). Writers hold CMI Level 7 qualifications with director-level governance and risk experience.
+CMI Unit 704 assignment help for Governance, Risk and Ethics, the governance and strategic risk unit of the CMI Level 7 Strategic Management and Leadership Diploma. The service covers all three content domains at Critically Analyse depth: corporate governance (UK Corporate Governance Code, stewardship vs agency theory), strategic risk management (ISO 31000:2018, COSO ERM 2017, Taleb's Black Swan critique), and organisational ethics (Carroll, 1991; Kohlberg). Writers hold CMI Level 7 qualifications with director-level governance and risk experience. This unit is part of [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), covering all 17 Level 7 units.
 
 [Get a Unit 704 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 

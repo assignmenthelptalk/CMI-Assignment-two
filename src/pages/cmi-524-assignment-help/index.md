@@ -10,7 +10,7 @@ headerImageAlt: "CMI Unit 524 Assignment Help — Partnership Working"
 # CMI Unit 524 Assignment Help | Partnership Working
 **Huxham & Vangen (2005), NHS ICS Context, Partnership Governance, Evaluate Depth, Management Report Format**
 
-CMI Unit 524 assignment help for Partnership Working, the inter-organisational collaboration unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with the partnership spectrum applied to classify the collaboration type, Huxham and Vangen's five partnership success factors used as the evaluative framework, and NHS Integrated Care System context available for healthcare sector students.
+CMI Unit 524 assignment help for Partnership Working, the inter-organisational collaboration unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with the partnership spectrum applied to classify the collaboration type, Huxham and Vangen's five partnership success factors used as the evaluative framework, and NHS Integrated Care System context available for healthcare sector students. This unit is part of [CMI Level 5 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), covering all 25 Level 5 units.
 
 [Get a Unit 524 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 

@@ -10,7 +10,7 @@ headerImageAlt: "CMI Unit 506 Assignment Help — Managing Change"
 # CMI Unit 506 Assignment Help | Managing Change
 **Kotter (1996), Lewin (1951), ADKAR, Evaluate Depth, Management Report Format**
 
-CMI Unit 506 assignment help for Managing Change, the operational change management unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with the three primary change frameworks applied at EAV depth: Kotter's 8-step change model, Lewin's force field analysis and unfreeze-change-refreeze model, and the ADKAR individual change readiness framework. Writers hold CMI Level 5 with direct change management experience.
+CMI Unit 506 assignment help for Managing Change, the operational change management unit of the CMI Level 5 Diploma. The service covers management report format at Evaluate depth, with the three primary change frameworks applied at EAV depth: Kotter's 8-step change model, Lewin's force field analysis and unfreeze-change-refreeze model, and the ADKAR individual change readiness framework. Writers hold CMI Level 5 with direct change management experience. This unit is part of [CMI Level 5 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), covering all 25 Level 5 units.
 
 [Get a Unit 506 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 

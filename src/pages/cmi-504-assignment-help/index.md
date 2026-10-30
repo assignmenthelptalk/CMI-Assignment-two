@@ -10,7 +10,7 @@ headerImageAlt: "CMI Unit 504 Assignment Help — Equality, Diversity and Inclus
 # CMI Unit 504 Assignment Help
 **Equality, Diversity and Inclusion in the Workplace, Level 5 Management Report, Equality Act 2010, Nine Protected Characteristics, UK Writers**
 
-CMI Unit 504 assignment help for Equality, Diversity and Inclusion in the Workplace, the EDI principles unit of the CMI Level 5 Diploma. The service covers the management report format at Evaluate depth, with the core legal framework (Equality Act 2010, nine protected characteristics, four discrimination types), inclusive management practice frameworks, and NHS-specific EDI standards (WRES, WDES) for NHS Band 7+ managers.
+CMI Unit 504 assignment help for Equality, Diversity and Inclusion in the Workplace, the EDI principles unit of the CMI Level 5 Diploma. The service covers the management report format at Evaluate depth, with the core legal framework (Equality Act 2010, nine protected characteristics, four discrimination types), inclusive management practice frameworks, and NHS-specific EDI standards (WRES, WDES) for NHS Band 7+ managers. This unit is part of [CMI Level 5 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), covering all 25 Level 5 units.
 
 [Get a Unit 504 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
