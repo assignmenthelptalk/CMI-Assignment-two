@@ -1,51 +1,57 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "Harvard Referencing for CMI Assignments | The Complete Guide"
-description: "Harvard referencing is required in all CMI assignment submissions from Level 3 upwards. At Level 5 and above, the quality and quantity of sources — and the a..."
+title: "Harvard Referencing for CMI Assignments | Guide"
+description: "How to reference a CMI assignment in Harvard style: in-text citations, a reference list, every common source type, and what CMI's syllabuses say about evidence."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/"
 headerImage: "/images/headers/harvard-referencing-cmi.webp"
 headerImageAlt: "Harvard Referencing for CMI Assignments — the complete guide"
 ---
 
-# Harvard Referencing for CMI Assignments | The Complete Guide
+# Harvard Referencing for CMI Assignments | Guide
 
-Harvard referencing is required in all CMI assignment submissions from Level 3 upwards. At Level 5 and above, the quality and quantity of sources, and the accuracy of their citation, directly affects the grade. A Merit response with weak or missing in-text citations becomes a Pass. A Distinction-level analysis undermined by a bibliography that cites textbook summaries rather than primary sources will not receive Distinction at Level 7. This guide covers every Harvard referencing format CMI students need: in-text citation, bibliography layout, ManagementDirect citation, and minimum source counts by level.
+Harvard author-date referencing is the style most CMI centres ask for, and this guide covers the formats CMI learners need most: in-text citation, the reference list, and common source types. First, what CMI itself says: its syllabuses at Levels 3 to 7 ask for "appropriate use of evidence, examples and references to support conclusions and recommendations". They do not name a referencing style and they do not set a minimum number of sources. Your centre sets the style and any source expectations, so check its guidance before you start and follow it over anything here.
 
 ## Why Referencing Matters in CMI Assignments
 
-CMI assessors use referencing as evidence of source engagement. An assertion, "transformational leadership is more effective than transactional leadership", becomes an academically supported claim when cited: (Bass and Avolio, 1994). The citation tells the assessor that the student has engaged with the professional and academic literature, not merely repeated received wisdom.
+Every CMI unit is judged Pass or Refer, and all assessment criteria must be met. References are part of how you show a criterion is met. An assertion such as "transformational leadership is more effective than transactional leadership" is only a claim until a source supports it: (Bass and Avolio, 1994). The citation tells the assessor where the idea comes from and lets them check it.
 
-At Level 5 and above, weak referencing is one of the most common causes of referrals. The specific issues assessors flag:
-- Claims made without any in-text citation (no evidence of source engagement)
-- Bibliography entries without corresponding in-text citations (listed but not actually used)
-- Missing ManagementDirect sources at Level 5+ (the CMI's own knowledge platform is expected)
-- Secondary sources used where primary sources are required at Level 7 (citing a textbook that summarises Barney, 1991 rather than Barney, 1991 directly)
+The referencing problems that tend to cost learners time are practical ones:
 
-Getting referencing right is not an administrative task, it is evidence of the engagement that determines whether you receive Pass, Merit, or Distinction.
+- Claims made with no in-text citation, so the assessor cannot see the evidence
+- Reference list entries with no matching in-text citation (listed but never used)
+- In-text citations with no matching reference list entry
+- A mix of formats within the same list
+- Relying on a textbook summary of a theory when the original work is easy to find (see the section on secondary sources below)
 
-## In-Text Citation Format for CMI Assignments
+Getting referencing right is not an administrative extra. It is part of how the written evidence is judged. The same syllabuses expect "accurate, current, and authentic" evidence, and ask learners to declare that the work is their own, so the reference list is also how you show what is your own thinking and what is drawn from others.
 
-### Paraphrase (most common — use this)
+## There Is More Than One Harvard
+
+Harvard is a family of author-date styles, not one fixed standard. Punctuation, the order of elements and the treatment of online sources differ slightly between universities and centres. Many centres point to a guide such as *Cite Them Right*. The examples below use a common version. If your centre's guide differs, follow your centre's guide, and keep one version throughout the assignment.
+
+## In-Text Citation Format
+
+### Paraphrase (the most common use)
 
 When you have read a source and expressed its idea in your own words:
 
-> According to Tuckman (1965), teams progress through a predictable sequence of development stages before reaching peak performance.
+> According to Tuckman (1965), teams progress through a sequence of development stages before reaching peak performance.
 
 Or, at the end of the sentence:
 
-> Teams progress through a predictable sequence of development stages before reaching peak performance (Tuckman, 1965).
+> Teams progress through a sequence of development stages before reaching peak performance (Tuckman, 1965).
 
 Format: **(Author surname, Year)**
 
 ### Direct Quote (use sparingly)
 
-When you need the author's exact wording, because the precise phrasing carries meaning:
+When the author's exact wording matters, for example a formal definition:
 
-> Barney (1991, p. 101) defines sustained competitive advantage as occurring "when a firm is implementing a value creating strategy not simultaneously being implemented by any current or potential competitors."
+> Author (Year, p. 00) defines the term as "exact words copied from the source."
 
-Format: **(Author surname, Year, p.XX)**
+Format: **(Author surname, Year, p. 00)**
 
-CMI assessors prefer paraphrasing over direct quotation. Over-quoting, using direct quotation where paraphrase would do, signals an inability to synthesise source material. At Level 5 and above, if more than 10–15% of your academic content is in direct quotation, reduce it.
+Keep quotations short and rare. Analysis in your own words, applied to your own organisation, usually shows your understanding better than quotation does. Longer quotations are normally set as an indented block, and the length at which that applies is set by your centre's guide.
 
 ### Two Authors
 
@@ -55,39 +61,37 @@ CMI assessors prefer paraphrasing over direct quotation. Over-quoting, using dir
 
 > (Smith et al., 2020)
 
-**Et al.** means "and others", used from three authors onwards in-text (all authors are listed in the bibliography).
+*Et al.* means "and others". Many Harvard guides use it in-text from three authors onwards, with all authors listed in the reference list. Some centres use it from four. Check your guide.
 
 ### Same Author, Same Year, Multiple Works
 
-If you cite two works by the same author published in the same year:
+If you cite two works by the same author published in the same year, add a letter:
 
-> (Kotter, 1995a) and (Kotter, 1995b)
+> (Smith, 2020a) and (Smith, 2020b)
 
-Add the same letter suffix (a, b) in the bibliography entry.
+Use the same letters in the reference list entries.
 
 ### Secondary Source (citing a source you found cited in another source)
 
-Avoid wherever possible, especially at Level 7. If you must:
+Avoid this wherever you can. If you must:
 
-> Bass (1985, cited in Bass and Avolio, 1994, p.3) proposed that...
+> Author A (1985, cited in Author B, 1994, p. 3) proposed that...
 
-Only the work you actually read (Bass and Avolio, 1994) goes in the bibliography. At Level 7, always locate the primary source directly, do not cite textbook summaries of original theories.
+Only the work you actually read (Author B, 1994) goes in the reference list.
 
-## Bibliography Format — Every Source Type CMI Students Use
+## Reference List Format
 
-The bibliography (or reference list) appears at the end of the assignment, listing all sources cited in the text, arranged alphabetically by author surname.
+The reference list sits at the end of the assignment. It lists every source cited in the text, in alphabetical order by author surname. It is not a bibliography of everything you read.
 
 ### Book
 
-**Format**: Author surname, Initial(s). (Year) *Title in italics*. Edition (if not first). Place of publication: Publisher.
+**Format**: Author surname, Initial(s). (Year) *Title in italics*. Edition (from the second edition onwards). Place of publication: Publisher.
 
 > Kotter, J.P. (1996) *Leading Change*. Boston, MA: Harvard Business School Press.
 
 > Bass, B.M. and Avolio, B.J. (1994) *Improving Organizational Effectiveness through Transformational Leadership*. Thousand Oaks, CA: Sage.
 
 > Kolb, D.A. (1984) *Experiential Learning: Experience as the Source of Learning and Development*. Englewood Cliffs, NJ: Prentice Hall.
-
-Note: the first edition does not need to state "1st edn.", only state edition from the second onwards (e.g., 6th edn.).
 
 ### Journal Article
 
@@ -99,114 +103,94 @@ Note: the first edition does not need to state "1st edn.", only state edition fr
 
 > Tuckman, B.W. (1965) 'Developmental sequence in small groups', *Psychological Bulletin*, 63(6), pp. 384–399.
 
-### Website / Online Resource
+### Website or Online Document
 
-**Format**: Author/Organisation. (Year) *Title* [Online]. Available at: URL (Accessed: DD Month YYYY).
+**Format**: Author/Organisation (Year) *Title* [Online]. Available at: URL (Accessed: DD Month YYYY).
 
 > NHS England (2019) *The NHS Long Term Plan* [Online]. Available at: https://www.longtermplan.nhs.uk/ (Accessed: 12 June 2025).
 
-### ManagementDirect (CMI's Knowledge Platform)
-
-ManagementDirect is the CMI's own online knowledge platform, available to CMI members and students. Assessors at Level 5 and above specifically expect ManagementDirect to be cited, it is the CMI's curated management knowledge resource and signals that the student is using the qualification's own learning infrastructure.
-
-**Format**: CMI (Year) *Title of checklist, factsheet, or report* [Online]. Available at: ManagementDirect URL (Accessed: DD Month YYYY).
-
-> CMI (2023) *Developing your Leadership Style* [Online]. Available at: https://www.managers.org.uk/... (Accessed: 15 March 2025).
-
-The organisation is CMI (the Chartered Management Institute), CMI is both the author and the publisher for all ManagementDirect content.
-
-### Government Report
-
-**Format**: Department/Organisation (Year) *Title* [Report reference if applicable]. Place: Publisher.
-
-> Department of Health and Social Care (2021) *Integration and Innovation: Working Together to Improve Health and Social Care for All*. London: HMSO.
-
-> NHS England (2019) *The NHS Long Term Plan*. London: NHS England.
+Record the date you accessed the page. Web pages change, and the access date shows which version you used.
 
 ### Legislation
 
-Acts of Parliament are not italicised and are listed under their letter in the bibliography:
+Acts of Parliament are not italicised in most Harvard guides. Check how yours sets the citation and the publisher:
+
+> Equality Act 2010. London: The Stationery Office.
 
 > Health and Safety at Work etc. Act 1974. London: HMSO.
 
-> Equality Act 2010. London: HMSO.
+### CMI Resources and Reports
 
-## How to Cite ManagementDirect in a CMI Assignment
+CMI is the author when you cite its own publications, checklists, factsheets or research.
 
-ManagementDirect deserves its own section because many CMI students either do not know it exists or do not know how to cite it.
+**Format**: CMI (Year) *Title of the resource* [Online]. Available at: URL (Accessed: DD Month YYYY).
 
-ManagementDirect (accessible at managers.org.uk for CMI members and students) contains:
-- Checklists (practical how-to guides for management tasks)
-- Factsheets (summaries of management topics and frameworks)
-- Reports and research publications (CMI's own research output)
-- Management articles and case studies
+In the text: (CMI, Year).
 
-**Why assessors expect it**: ManagementDirect is the CMI's own curated knowledge base. Citing it signals that the student is engaging with the qualification's intended learning resources. At Level 5, failing to include any ManagementDirect sources is sometimes explicitly flagged in referral feedback.
+Copy the full URL and the publication date shown on the page when you read it. Do not reconstruct either from memory.
 
-**Citation in-text**: (CMI, Year)
+## ManagementDirect
 
-**Bibliography**: CMI (Year) *Checklist/Factsheet title* [Online]. Available at: [full URL] (Accessed: DD Month YYYY).
+CMI's Level 3 syllabus describes ManagementDirect as an online library of management material for CMI members, with checklists, model overviews, articles, ebooks, access to journals through a database partner, and study skills factsheets covering assignment writing, references and citations, and avoiding plagiarism. The syllabus says it is the main resource its suggested reading refers to. Access depends on your membership, and the platform may have changed since that syllabus was written, so check what you can use at managers.org.uk.
 
-**Practical note**: When you log into ManagementDirect, note the full URL of the specific checklist or factsheet and copy it directly. Use the publication date shown on the resource page.
+Using it is optional unless your centre says otherwise. If you do cite it, cite it as any other CMI resource: CMI is the author and the date is the date shown on the page. A CMI factsheet is a useful starting point, but for analysis the stronger evidence is usually the original book or journal article it points you to.
 
-## Minimum Sources by Level
+## How Many Sources, and Which Kinds?
 
-| CMI Level | Minimum Sources | Source Types Expected |
-|-----------|----------------|----------------------|
-| Level 3 | 6+ | Textbooks, CMI resources, reputable websites |
-| Level 4 | 8–10 | Textbooks, ManagementDirect, at least 1 journal |
-| Level 5 | 10–12 | ManagementDirect (required), academic journals (2+), textbooks, government/sector reports |
-| Level 6 | 12–15 | Peer-reviewed journals (primary sources required), ManagementDirect, sector reports |
-| Level 7 | 15–20 | Peer-reviewed primary sources (original papers, not textbook summaries), ManagementDirect, government strategy documents |
+There is no CMI minimum. CMI says the evidence must be appropriate, and your brief or centre may give its own guidance. The questions that matter are these:
 
-**What "primary source" means at Level 7**: Barney (1991) is a primary source, the original journal article in *Journal of Management*. A textbook chapter that summarises Barney's work is a secondary source. At Level 7, assessors expect the original papers and books to be cited, not textbook summaries of them. If you cite "Mullins (2019) who summarises Barney's VRIO framework," you are signalling that you have not read Barney (1991) directly.
+- Does each significant claim rest on a source or on a specific example from your own organisation?
+- Are the sources reasonably current, and from reputable publishers, journals, professional bodies or government?
+- Is there some variety, such as books, journal articles, professional body material and organisational data, rather than one type?
+- Could a reader find each source from your entry?
 
-## Paraphrasing vs Direct Quoting — CMI Assessor Preference
+### Primary and Secondary Sources
 
-CMI assessors at Level 5 and above consistently prefer paraphrase over direct quotation. Here is why this matters:
+Barney (1991) is the original journal article. A textbook chapter that summarises Barney's argument is a secondary source. Where a criterion asks you to evaluate or critically appraise a theory, going to the original work is generally stronger practice, because you can see what the author actually claimed and tested. At Level 7, where 37 of the 80 criteria begin with Critically, this matters more. This is our advice. CMI does not state a primary-source rule.
 
-**What over-quoting signals**: When a student uses direct quotation frequently, it suggests they are letting the author speak rather than demonstrating their own synthesis of the material. Assessment criteria at Level 5 and above reward the student's ability to apply theory to their context, not the student's ability to copy text from a source.
+## Paraphrasing and Quoting
 
-**When direct quoting is appropriate**:
-- When the precise phrasing carries meaning that would be lost in paraphrase (a formal definition, a specific theoretical statement)
-- When the author's exact words are the subject of analysis ("Barney (1991, p. 101) specifically defines...")
-
-**Block quotations**: Direct quotations of 40 or more words should be set as a block quote, indented from both margins, no quotation marks, followed by the citation. Block quotes are discouraged at Level 5 and above unless genuinely necessary.
-
-**The paraphrase rule**: If you can express the idea in your own words and attribute it with a citation, do so. Save direct quotation for cases where you genuinely need the author's exact phrasing.
+- Paraphrase when you can express an idea in your own words. Still cite it.
+- Quote when the precise wording carries the meaning, or when the wording is itself what you are analysing.
+- Do not string quotations together. Your own application and judgement are what the criteria ask for.
+- Paraphrase closely enough that it is genuinely your own wording. Pasting text and changing a few words is still copying. CMI publishes a statement on plagiarism, collusion and the use of AI, and learners sign a declaration that the work is their own.
 
 ## Harvard Referencing for CMI Assignments — Common Questions
 
-**Do CMI assignments use Harvard referencing?**
+**Do CMI assignments have to use Harvard referencing?**
 
-Yes. Harvard author-date referencing is the standard for all CMI assignments at all levels. Some awarding centres specify "Harvard referencing to CMI standards", this means the same Harvard format described in this guide, with particular emphasis on ManagementDirect at Level 5+.
+CMI's syllabuses ask for references but name no style. Harvard is common and many centres specify it, sometimes with their own guide. Follow your centre.
 
-**How do I cite ManagementDirect in a CMI assignment?**
+**How do I cite a CMI checklist or factsheet?**
 
-Cite as: CMI (Year) *Title of resource* [Online]. Available at: URL (Accessed: date). The CMI is both author and publisher for all ManagementDirect content. Access the resource directly through managers.org.uk and note the specific URL and publication date.
+Treat CMI as the author: CMI (Year) *Title* [Online]. Available at: URL (Accessed: date). In the text: (CMI, Year).
 
-**How many sources do I need for a CMI Level 5 assignment?**
+**How many sources do I need?**
 
-The minimum is typically 10–12 sources for a Level 5 Diploma unit. This should include at least one ManagementDirect source, at least two academic journal articles, and relevant textbooks. Fewer than 10 sources at Level 5 is commonly flagged in referral feedback.
+CMI sets no minimum number. Use enough good sources that each significant claim is supported, and check whether your brief or centre states its own expectation.
 
-**What is the difference between in-text citation and bibliography in Harvard referencing?**
+**What is the difference between in-text citation and the reference list?**
 
-In-text citations appear within the body of your assignment whenever you use an idea from a source: (Author, Year) or (Author, Year, p.XX). The bibliography appears at the end and lists every source cited in the text, in full detail, in alphabetical order by author surname. Every in-text citation must have a matching bibliography entry, and every bibliography entry must be cited somewhere in the text.
+In-text citations appear in the body, wherever you use an idea from a source: (Author, Year) or (Author, Year, p. 00). The reference list sits at the end and gives the full details of every source cited, alphabetically by author surname. Each in-text citation needs a matching list entry, and each list entry must be cited somewhere in the text.
 
-**Can I cite websites in a CMI assignment?**
+**Can I cite websites?**
 
-Yes, but use reputable sources, government departments, professional bodies (CIPD, CMI, NHS England), and established organisations. Do not cite Wikipedia or general web articles. At Level 5 and above, websites should supplement, not replace, academic journals and professional publications.
+Yes, if they are reputable: government departments, professional bodies such as CMI or CIPD, regulators, and established organisations. Avoid anonymous or user-edited pages, and treat websites as support for journal and book evidence rather than a replacement.
 
-**How do I get help with a CMI assignment that needs proper referencing?**
+**Does the reference list count toward the word count?**
 
-Send your draft or assignment brief via WhatsApp. Writers provide fully Harvard-referenced assignments with all sources cited correctly in-text and in the bibliography, including ManagementDirect at Level 5+ and primary academic sources at Level 7.
+CMI's guideline word counts allow 10% above or below. Whether the reference list, appendices and contents page are counted is set by your brief and centre, so check. CMI asks that appendices be kept to a minimum.
+
+**How do I get help with referencing?**
+
+Send your draft or brief via WhatsApp. We can check citations against the list, correct formatting, and suggest suitable sources where a draft leans on too few.
 
 ## Related CMI Assignment Support
 
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), Fully referenced CMI assignments at all levels, Harvard format, ManagementDirect included at Level 5+, primary sources at Level 7
-- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Management report format with correct source count and ManagementDirect citations
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Strategic paper format with 15–20 peer-reviewed primary sources cited at origin
-- [CMI Report Writing Help](https://www.cmiassignmenthelp.uk.com/cmi-report-writing-help/), Management report structure and referencing guidance for Levels 5 and 6
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), assignments written to your brief with consistent referencing
+- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Level 5 units, criteria and command verbs
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Level 7 units, criteria and command verbs
+- [CMI Report Writing Help](https://www.cmiassignmenthelp.uk.com/cmi-report-writing-help/), structure, analysis and recommendations when your brief asks for a report
 
 ## Related CMI Unit Pages
 
@@ -220,6 +204,7 @@ Unit-level support for the units most relevant to this guide:
 More guides that connect to this topic:
 
 - [CMI Assignment Structure Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/)
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/)
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/)
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/)
 - [CMI Assignment Referral and Resubmission Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/)

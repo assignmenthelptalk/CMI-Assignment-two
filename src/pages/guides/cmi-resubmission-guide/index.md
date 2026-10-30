@@ -1,139 +1,132 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "CMI Assignment Referral | What It Means and How to Resubmit Successfully"
-description: "Receiving a CMI referral is not a final result. A referral means that one or more Learning Outcomes in your assignment did not meet the assessment standard —..."
+title: "CMI Referral and Resubmission Guide | What to Do"
+description: "What a CMI Refer result means, how to read assessor feedback against the assessment criteria, and how to plan a targeted resubmission."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/"
 headerImage: "/images/headers/cmi-resubmission-guide.webp"
 headerImageAlt: "CMI Assignment Referral — what it means and how to resubmit successfully"
 ---
 
-# CMI Assignment Referral | What It Means and How to Resubmit Successfully
+# CMI Referral and Resubmission Guide | What to Do
 
-Receiving a CMI referral is not a final result. A referral means that one or more Learning Outcomes in your assignment did not meet the assessment standard, and that you have a resubmission window to address the specific gaps and resubmit. Most CMI students who receive a referral can resubmit successfully with targeted work. The key is understanding exactly what the assessor flagged and knowing precisely what needs to change.
+A Refer result is not a final fail. CMI grades qualifications Pass or Refer, and a Refer means the evidence you submitted did not yet show that every assessment criterion in the unit was met. The usual next step is to correct the specific gaps the assessor identified and resubmit. The detail of how and when is set by your centre, so this guide covers what CMI's syllabuses say, how to read feedback, and how to plan the work.
 
 [Send Your Referral Feedback to WhatsApp, Get a Plan in 2 Hours](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
-## What a CMI Referral Means
+## What a CMI Refer Result Means
 
-A CMI referral (sometimes called "Refer," "Not Yet Competent," or "Not Yet Achieved") means your submission was assessed against the Learning Outcomes for the unit and one or more of those outcomes was not met to the required standard.
+CMI's syllabuses state that the grading system is "Pass/Refer". They also state that all assessment criteria must be met, and that external moderation confirms the required criteria for achievement have been met. There are no Merit or Distinction grades, so a resubmission is about meeting criteria, not raising a grade.
 
-It is not a fail. You have not been removed from the programme. The qualification is not at risk unless you miss the resubmission deadline or fail the resubmission.
+Your centre (the college, training provider or employer delivering your programme) assesses your work first. It tells you the result, gives feedback, and applies its own process for resubmission. A Refer means the unit is not yet achieved. It does not mean you are removed from the programme.
 
-### Types of Referral Decision
+### What the Syllabuses Say About Time
 
-**Refer on all Learning Outcomes**: All LOs were assessed as not yet met. This typically indicates a fundamental issue, wrong format, wrong command verb depth throughout, or the assignment did not address the brief. This is the most serious referral outcome and requires the most thorough resubmission.
+Three points come directly from CMI's syllabuses:
 
-**Refer on specific Learning Outcomes**: Some LOs were met; specific ones were not. This is the most common referral pattern. The resubmission only needs to address the referred LOs, the achieved LOs are confirmed and do not need to be rewritten.
+- **Registration period**: The Level 4, 6 and 7 syllabuses state a five-year registration period from the date of registration. All assessment, including any required reassessment, must be achieved within it. Work achieved after the end date is not accepted towards the qualification.
+- **Extensions and special considerations**: Where exceptional circumstances arise, centres refer to CMI's policies on extensions and special considerations. If you need more time, ask your centre early and give the reason.
+- **Reasonable adjustments**: CMI has a policy for reasonable adjustments and special consideration, which your centre applies for learners with a recognised need.
 
-**Refer with detailed assessor guidance**: The assessor has provided specific written feedback on exactly what is missing from each referred LO. This is the most actionable referral, the assessor has effectively told you what to add or change.
+### What Your Centre Decides
 
-### What Happens After a Referral
+The syllabuses do not set a standard resubmission window, a number of attempts, or a rule about which parts of a unit are carried forward. Those depend on your centre and CMI's Assessment Guidance Policy. Ask your centre in writing:
 
-Your awarding centre (the college, training provider, or employer delivering your CMI programme) will notify you of the referral decision, provide the assessor feedback, and set a resubmission deadline. The resubmission window is typically 6 to 12 weeks from the referral notification, depending on the centre.
+1. What is the resubmission deadline?
+2. How many resubmission attempts does my unit allow?
+3. Are criteria already marked as met carried forward, or is the whole unit reassessed?
+4. Is there a fee, and who pays it?
+5. Can I get extra feedback or a tutorial before I resubmit?
 
-Most CMI programmes allow one resubmission per unit. If the resubmission is also referred, re-assessment options vary by centre, contact your centre directly for their specific policy.
+## How to Read Your Assessor Feedback
 
-## How to Read Your CMI Assessor Feedback
+Feedback usually comes as comments against each assessment criterion. Reading it correctly is the most important step.
 
-Assessor feedback arrives as written comments against each Learning Outcome. Reading it correctly is the most important step in a successful resubmission.
+**Step 1: List the criteria not yet met.** Make a list from the feedback. These are the parts to address. Criteria marked as met are not the focus, but check with your centre whether the whole unit is reassessed before you assume they can be left alone.
 
-**Step 1, Identify which LOs are referred**: Referred LOs are marked as "Not Yet Achieved," "Refer," or equivalent. Make a list. These are the only sections you need to address in the resubmission. Sections marked as "Achieved," "Pass," or "Met" are confirmed, do not change them.
+**Step 2: Read each comment against the criterion wording.** Every criterion starts with a command verb, such as Analyse, Examine, Evaluate or Critically appraise. Compare what you wrote with what the verb asks. Common feedback and what it often means:
 
-**Step 2, Read the feedback against each referred LO line by line**: Assessors flag specific gaps. Common feedback phrases and what they mean:
+- *"Described the theory but did not apply it to your organisation"* → you named a framework but did not use it on your own situation. Add specific evidence from your workplace and say what the framework shows.
+- *"Does not meet the command verb"* → the depth is wrong. If the verb is Evaluate, weigh strengths and weaknesses and reach a stated conclusion.
+- *"Criterion not addressed"* → the content cannot be seen in the submission. Add a section headed to the criterion that responds to it directly.
+- *"Insufficient evidence"* → claims rest on too little. Add sources or concrete examples. CMI asks for appropriate evidence, examples and references to support conclusions and recommendations.
+- *"Recommendations not supported"* → the actions do not follow from the analysis. Trace each recommendation to a finding.
 
-- *"You have described the theory but not applied it to your organisational context"* → you named the framework but did not evaluate it against your scenario. Solution: add specific evidence from your workplace and a conclusion about what the framework reveals.
-- *"The response does not demonstrate Evaluate depth"* → you have written at Describe or Explain depth. Solution: restructure to assess strengths and weaknesses and reach a supported conclusion.
-- *"SMART recommendations are missing"* → the management report format requires at least three SMART recommendations. Solution: add a dedicated SMART recommendations section.
-- *"Insufficient academic sources"* → fewer than the minimum expected for your level. Solution: add ManagementDirect citations at Level 5, or peer-reviewed journal articles at Level 6–7.
-- *"This Learning Outcome has not been addressed"* → the LO content is not visible in the submission. Solution: add a section that directly and visibly responds to the LO requirement.
+**Step 3: Name the type of gap.**
 
-**Step 3, Categorise the gap type**: Before starting the resubmission, identify which type of gap you are addressing:
+| Gap type | What it looks like | What to do |
+|----------|--------------------|------------|
+| Depth | Right content, wrong command verb level | Rework the analysis to the verb |
+| Coverage | A criterion is not addressed | Add the missing content |
+| Format | Not what the brief asked for | Restructure to the brief |
+| Evidence | Too few or poorly cited sources | Add evidence and fix referencing |
 
-| Gap Type | Description | Solution |
-|----------|-------------|----------|
-| Depth | Correct content, wrong command verb level | Upgrade the analytical section |
-| Coverage | LO content not addressed | Add the missing content |
-| Format | Wrong structure (e.g. essay instead of management report) | Reformat the whole submission |
-| Referencing | Insufficient or incorrectly cited sources | Add in-text citations and bibliography entries |
+**Step 4: Map each referred criterion to a specific change.** Write a one-line plan for each before you start rewriting.
 
-**Step 4, Plan the resubmission targeted to the gaps**: Map each referred LO to the specific change required. Do not rewrite content that was already awarded.
+## Gaps to Check at Each Level
 
-## Most Common CMI Referral Reasons by Level
+Command verb depth is the issue we are asked about most, and it is also the easiest to diagnose, because the criterion tells you the verb. The verbs differ by level, so check yours.
 
-Across all levels, the most common root cause of CMI referrals is command verb depth, not content knowledge. Students typically know the theories and have relevant professional experience. What they get wrong is the level of analysis the command verb requires.
+### Level 3 and Level 4
 
-### Level 3
-
-- Descriptive narrative without framework application, the assignment retells what happened without applying a named management model
-- Learning Outcomes not explicitly addressed, the assessor cannot see where each LO is covered
-- Word count significantly below the required range, insufficient development of each section
-
-### Level 4
-
-- Applying theories rather than analysing them, naming and explaining Tannenbaum-Schmidt instead of analysing why a specific point on the continuum was or was not appropriate
-- Lack of workplace evidence, analysis without specific examples from a management context
-- No reference list, or references listed without corresponding in-text citations
+- A narrative that retells what happened with no model or theory applied
+- Criteria not visibly addressed, so the assessor cannot find where each is covered
+- Level 4 criteria are led by Describe, Discuss, Identify and Explain. Check that each verb is met, for example that a Discuss answer covers more than one view
+- Workplace examples missing, or references listed with no in-text citations
 
 ### Level 5
 
-- Describing Evaluate questions rather than evaluating them, the most common Level 5 referral cause. "Tuckman identified five team development stages" (Describe) instead of "The team's behaviour during the project restructuring is consistent with the Storming stage (Tuckman, 1965, 1977) because..." (Evaluate).
-- Management report format not followed, missing executive summary, absent SMART recommendations section, or the document submitted as an essay
-- Insufficient sources, fewer than 10, or no ManagementDirect sources, or no academic journal references
-- Framework limitations not named, missing the content that unlocks Merit and Distinction
+- Analyse (66 criteria), Examine (51) and Evaluate (48) account for most Level 5 criteria. A description of a theory, such as "Tuckman identified stages of team development", does not meet them. Applying it, as in "the team's behaviour during the restructure fits the storming stage because...", is closer
+- An Evaluate answer with strengths and weaknesses listed but no stated conclusion
+- Format different from the brief, or a missing section the brief asked for
+- Recommendations that do not follow from the analysis
 
 ### Level 6
 
-- Critically Evaluate executed as Evaluate, applying and assessing one framework rather than engaging with competing frameworks, examining underlying assumptions, and reaching a justified conclusion
-- Missing peer-reviewed sources, textbooks used where academic journals are required
-- Analysis without a conclusion, assessing competing perspectives but not reaching a justified position
+- The Critically verbs lead at Level 6: Critically appraise (12 of 75 criteria) and Critically assess (9). These ask you to question and test the evidence and argue a position, not just report it
+- Assessing one perspective only, with no competing view
+- A conclusion that does not follow from the argument
 
 ### Level 7
 
-- Critically Analyse executed as Critically Evaluate, the most common Level 7 referral. Critically Evaluate means assessing frameworks and their limitations. Critically Analyse means engaging with the academic debate at primary source level and producing an original synthesis. Students who have learned to Critically Evaluate at Level 6 often write to that standard at Level 7 and receive a referral.
-- Citing textbook summaries rather than primary sources, "According to Mullins (2019), Barney (1991) argues..." instead of engaging with Barney (1991) directly
-- No original synthesis in the conclusion, the conclusion summarises the analysis rather than producing a theoretically grounded position derived from having engaged with the debate
-- Strategic paper format confused with management report, submitting a 9-component management report (with SMART recommendations) instead of a strategic paper (with strategic recommendations and an original synthesis conclusion)
+- 37 of the 80 criteria begin with Critically. Check that your answer questions and tests the evidence rather than only describing and evaluating it
+- Many criteria end in a proposal or strategy, so judge the evidence, then recommend
+- Analysis scoped to team level when the criterion is about organisation-wide strategy
+- Reliance on textbook summaries where the original work was available
 
-## CMI Resubmission Strategy — What to Fix and What to Leave
+## Resubmission Strategy: What to Change and What to Leave
 
-The most important resubmission rule: **do not rewrite the entire assignment**. Only address referred Learning Outcomes and the specific gaps within them.
+Do not rewrite everything. Work to the feedback.
 
-**What to change**:
-- Referred LO sections only
-- Sections where the format was wrong (if the whole document was in the wrong format, reformat it)
-- Bibliography and in-text citations if referencing was flagged
+**Change**:
+- The sections that answer criteria not yet met
+- Any structure the brief asked for that was missing or wrong
+- Referencing, if it was flagged
 
-**What to leave**:
-- All LOs marked as Achieved, Met, or equivalent, changing these risks disrupting content that has already been awarded
-- Your introduction and conclusion structure (unless these were specifically flagged)
+**Be careful with**:
+- Sections that were marked as met. Ask your centre whether the whole unit is reassessed. If it is, an unplanned change in a section that was fine can create new gaps
+- Your word count. CMI's guideline word counts carry a 10% allowance above or below, so adding material may mean tightening elsewhere
 
-**Upgrading depth**: If the referral is about command verb depth, the most common case, the resubmission work is targeted:
+### Upgrading Depth
 
-For Level 5 Evaluate: find the section where you described or explained the framework. Add: specific evidence from your workplace scenario, a judgement about what the framework reveals (strengths and weaknesses in this context), and a conclusion about what the evidence implies. Three to four additional paragraphs of targeted analytical content typically resolves a depth-based Level 5 referral.
+**For an Evaluate criterion**: find the section where you described or explained the framework. Add specific evidence from your own scenario, a judgement of its strengths and weaknesses in that context, and a conclusion about what the evidence implies.
 
-For Level 6 Critically Evaluate: the section needs a second framework applied to the same scenario, an examination of what assumption the first framework makes that the second framework challenges, and a justified conclusion about which framework better explains the management challenge.
+**For a Critically verb**: question the framework, not just apply it. Bring in a competing perspective or counter-argument, say what each assumes, test your conclusion against the alternative, and state your position.
 
-For Level 7 Critically Analyse: if you have Critically Evaluated where Critically Analyse was required, the section needs to be substantially rebuilt. Engage with the specific academic debate at primary source level, name the theoretical tension, and produce your own synthesis on the implications for the strategic leadership context.
+**For a Recommend or Develop criterion**: make sure each action follows from a finding in the analysis, and say how it would be carried out and checked.
 
-## CMI Resubmission Timeline — Deadlines and What Happens Next
+Our [command verbs guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/) sets out CMI's own definitions of each verb.
 
-**Typical resubmission window**: 6–12 weeks from referral notification. Your awarding centre sets the specific deadline, check the referral notification or contact your centre directly.
+## Authenticity
 
-**One resubmission is typically allowed**: If the resubmission is also referred, your options depend on your centre's specific policy. Some centres allow a second resubmission with tutor agreement; others require re-enrolment. Treat your one resubmission opportunity as your recovery window, it is worth getting targeted support to ensure it succeeds.
+CMI requires learners to sign a Declaration of Authenticity confirming that the evidence is their own work and has not been completed by a third party. CMI also publishes a statement on plagiarism, collusion and the use of artificial intelligence. A resubmission falls under the same rules as the first submission, so use support to understand the feedback and improve your own work, and make sure what you submit meets your centre's and CMI's requirements.
 
-**Do not miss the deadline**: A missed resubmission deadline typically means you lose the resubmission opportunity for that unit. The consequences, re-enrolment, additional cost, qualification delay, are significantly worse than the original referral.
+## When Support Makes the Difference
 
-**Contact your centre**: If you need more time than the resubmission window allows, contact your awarding centre as early as possible. Exceptional circumstances may allow a deadline extension, but this is at the centre's discretion and requires a formal request.
+**A depth referral on specific criteria.** You understand the theory but the submission showed it at the wrong level. A short tutoring session focused on what the assessor expected for that criterion, and how to build the answer to the right depth, gives you a clear target. This is usually the quickest case to resolve.
 
-## When Professional Support Makes the Difference
+**Many criteria and a short window.** The resubmission needs significant rework. Structured guidance on each referred criterion, with model approaches to the command verbs, helps you plan the work and use the time you have.
 
-Two resubmission scenarios benefit most from expert support:
-
-**Scenario 1, Depth referral on a specific LO**: You were referred for not reaching Evaluate or Critically Evaluate depth. You understand the theory but your submission demonstrated it at the wrong level. A short tutoring session, 60–90 minutes, focused on exactly what the assessor expected for that LO, and how to construct the response at the right depth, gives you a clear resubmission target. This is the most common resubmission scenario and the most straightforward to resolve with targeted guidance.
-
-**Scenario 2, Referred on all LOs or on multiple LOs with a short window**: The resubmission requires significant rework across the document. A writer can work on the specific referred sections, rebuilding the analytical content for each referred LO to the correct depth and format, while you retain the sections that were awarded. This allows the resubmission to be completed within a tight window without the risk of inadvertently disrupting awarded content.
-
-**How it works**: Send your original submission, the assessor's referral feedback, the unit brief, and your resubmission deadline via WhatsApp. A plan is returned within 2 hours, either a tutoring session to coach you through the resubmission yourself, or a quote for targeted rewriting of the referred sections.
+**How it works**: Send your original submission, the assessor's feedback, the unit brief and your resubmission deadline via WhatsApp. A plan is returned within 2 hours, either a tutoring plan to guide your own resubmission or a quote for targeted help.
 
 [WhatsApp for CMI Resubmission Support](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
@@ -141,35 +134,39 @@ Two resubmission scenarios benefit most from expert support:
 
 **What does it mean if my CMI assignment has been referred?**
 
-A referral means one or more Learning Outcomes in your assignment did not meet the assessment standard. It is not a final fail, you have a resubmission window (typically 6–12 weeks) to address the specific gaps and resubmit. The LOs that were awarded in the original submission remain awarded; only the referred LOs need to be addressed.
+CMI grades Pass or Refer. A Refer means one or more assessment criteria were not yet met. It is not a final fail. Your centre sets the resubmission process.
 
-**How many times can I resubmit a CMI assignment?**
+**How many times can I resubmit?**
 
-Most CMI programmes allow one resubmission. If the resubmission is also referred, re-assessment options vary by awarding centre. Contact your centre directly for their specific policy.
+The syllabuses do not set a number. It depends on your centre and CMI's policies, so ask your centre in writing.
 
-**Do I have to rewrite the whole assignment after a referral?**
+**Do I have to rewrite the whole assignment?**
 
-No. Only address the referred Learning Outcomes and the specific gaps the assessor identified. Do not change sections that were marked as Achieved, changing awarded sections risks disrupting content that has already been confirmed.
+Usually not. Address the criteria the assessor says were not met. Ask your centre whether criteria already met are carried forward or the unit is reassessed as a whole.
 
-**What is the most common reason CMI assignments are referred?**
+**What is the most common reason for a Refer?**
 
-Command verb depth. At every level, the most common referral cause is writing at the wrong cognitive depth, Describing where Evaluate is required, Evaluating where Critically Evaluate is required, Critically Evaluating where Critically Analyse is required. The student typically knows the theory and has relevant experience, the gap is in the analytical depth and structure of the response.
+In our experience it is the command verb: the answer describes where the criterion asks for analysis or evaluation, or evaluates where a Critically verb asks for questioning and testing. This is our own observation, not a CMI statistic.
 
-**How long do I have to resubmit a CMI assignment?**
+**How long do I have to resubmit?**
 
-Typically 6–12 weeks from the referral notification, depending on your awarding centre's policy. Your resubmission deadline is set by your centre, check your referral notification or contact your centre directly. Do not miss the deadline.
+Your centre sets the deadline. CMI's Level 4, 6 and 7 syllabuses state a five-year registration period within which all assessment, including reassessment, must be achieved. If you need an extension, ask your centre as early as possible. Extensions and special considerations follow CMI's policies.
 
-**Can I get help with my CMI resubmission?**
+**Is there a Merit or Distinction I can aim for?**
 
-Yes. Send your original submission, the assessor's referral feedback, and the unit brief via WhatsApp. A plan is returned within 2 hours, either tutoring to guide your own resubmission or targeted writing support for the specific referred sections.
+No. CMI grades Pass or Refer only. The aim of a resubmission is to meet every criterion.
+
+**Can I get help with my resubmission?**
+
+Yes. Send your submission, feedback and brief via WhatsApp for a plan within 2 hours.
 
 ## CMI Assignment Support for Resubmissions
 
-- [CMI Assignment Tutoring](https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/), Expert coaching on what Evaluate, Critically Evaluate, or Critically Analyse requires for your specific referred LO, the most targeted resubmission support
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), Targeted rewriting of referred sections at the correct command verb depth, within your resubmission window
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), The most common root cause of CMI referrals, understand exactly what each command verb requires at each level
+- [CMI Assignment Tutoring](https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/), guidance on what your referred criterion requires and how to build the answer yourself
+- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), written support for assignments to your brief and criteria
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), CMI's definitions of each command verb and the levels that use it most
 
-The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes assessment guidance for its qualifications — including resubmission and referral procedures — that inform the process covered in this guide.
+The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes assessment guidance for its qualifications, including its policies on extensions, special consideration and plagiarism, which apply to the process covered in this guide.
 
 ## Related CMI Unit Pages
 
