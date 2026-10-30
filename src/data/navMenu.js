@@ -19,7 +19,7 @@ export const levels = [
       { num: 313, title: 'Developing and Sharing Good Practice' },
       { num: 314, title: 'Managing Budgets and Resources' },
       { num: 315, title: 'Principles of Health and Safety in a Work Setting' },
-      { num: 316, title: 'Managing Quality to Improve Outcomes' },
+      { num: 316, title: 'Monitoring Quality to Improve Outcomes' },
       { num: 317, title: 'Supporting the Delivery of Customer Service' },
       { num: 318, title: 'Managing Data and Information' },
       { num: 319, title: 'Managing Meetings' },

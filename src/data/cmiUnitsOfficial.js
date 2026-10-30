@@ -26,7 +26,7 @@ export const officialUnits = {
     ['313', 'Developing and Sharing Good Practice'],
     ['314', 'Managing Budgets and Resources'],
     ['315', 'Principles of Health and Safety in a Work Setting'],
-    ['316', 'Managing Quality to Improve Outcomes'],
+    ['316', 'Monitoring Quality to Improve Outcomes'],
     ['317', 'Supporting the Delivery of Customer Service'],
     ['318', 'Managing Data and Information'],
     ['319', 'Managing Meetings'],
