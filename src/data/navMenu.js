@@ -119,16 +119,10 @@ export const levels = [
 
 export const guides = [
   { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/', title: 'CMI Qualification Levels Explained' },
-  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/', title: 'CMI Level 5 vs Level 7' },
-  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/', title: 'CMI Membership: ACMI, MCMI, FCMI' },
   { slug: 'https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/', title: 'Is a CMI Qualification Worth It?' },
   { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/', title: 'CMI Command Verbs Explained' },
-  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/', title: 'CMI Assignment Structure Guide' },
-  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/', title: 'Management Theories for CMI Assignments' },
-  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/', title: 'Harvard Referencing for CMI Assignments' },
-  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/', title: 'CMI Reflective Practice' },
-  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/', title: 'CMI Assignment Referral Guide' },
-  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/', title: 'CMI Qualifications for NHS Managers' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/', title: 'CMI Membership: ACMI, MCMI, FCMI' },
+  { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/', title: 'CMI Level 5 vs Level 7' },
 ];
 
 export const services = [
