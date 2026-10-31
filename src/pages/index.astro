@@ -117,24 +117,28 @@ const levels = [
 const services = [
   {
     icon: 'pen',
+    tone: 'blue',
     title: 'CMI Assignment Writing Service',
     href: `${siteUrl}/cmi-assignment-writing-service/`,
     desc: 'Submission-ready assignment written to the correct command verb depth and the format your centre sets, with full Harvard referencing.',
   },
   {
     icon: 'cap',
+    tone: 'purple',
     title: 'CMI Assignment Tutoring',
     href: `${siteUrl}/cmi-assignment-tutoring/`,
     desc: 'Expert guidance for students writing their own assignment: structure planning, command verb application, Learning Outcome alignment, and resubmission coaching after a Referral.',
   },
   {
     icon: 'layers',
+    tone: 'pink',
     title: 'CMI Coursework Help',
     href: `${siteUrl}/cmi-coursework-help/`,
     desc: 'Sustained support across multiple units of a full CMI Diploma, with consistent academic framing and command verb depth throughout the qualification.',
   },
   {
     icon: 'loop',
+    tone: 'orange',
     title: 'CMI Resubmission Support',
     href: `${siteUrl}/guides/cmi-resubmission-guide/`,
     desc: 'Referral recovery: identifying unmet Learning Outcomes from assessor feedback, restructuring the response, and meeting the required command verb depth.',
@@ -208,7 +212,7 @@ const steps = [
       </p>
       <div class="services-grid">
         {services.map(svc => (
-          <div class="service-card">
+          <div class={`service-card svc-${svc.tone}`}>
             <span class="svc-badge" aria-hidden="true">
               <svg class="svc-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" focusable="false" set:html={serviceIcons[svc.icon]}></svg>
             </span>
@@ -629,10 +633,15 @@ const steps = [
     width: 56px;
     height: 56px;
     margin-bottom: 1.1rem;
-    color: #fff;
+    color: var(--navy);
     background: var(--accent);
     border-radius: 50%;
   }
+  /* Each service has its own badge colour. Navy icons keep at least 4.4:1 contrast on all four. */
+  .svc-blue .svc-badge { background: var(--icon-blue); }
+  .svc-purple .svc-badge { background: var(--icon-purple); }
+  .svc-pink .svc-badge { background: var(--icon-pink); }
+  .svc-orange .svc-badge { background: var(--icon-orange); }
   .svc-svg { width: 28px; height: 28px; }
   .svc-title { font-size: 1.15rem; font-weight: 700; color: var(--navy); margin-bottom: .6rem; }
   .svc-desc { font-size: .95rem; color: var(--text); }
