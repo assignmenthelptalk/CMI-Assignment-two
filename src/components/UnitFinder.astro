@@ -31,7 +31,7 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
     </div>
     <div class="uf-field uf-field--unit">
       <label for="uf-unit">Unit</label>
-      <select id="uf-unit" name="unit" disabled>
+      <select id="uf-unit" name="unit" aria-disabled="true">
         <option value="">Choose a level first</option>
       </select>
     </div>
@@ -76,14 +76,29 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
       msg.append(a, '.');
     };
 
+    // The unit list stays focusable (a disabled select ignores clicks), so ask for a level instead of doing nothing.
+    const askForLevel = (e) => {
+      if (levelSel.value) return;
+      e.preventDefault();
+      say('Choose a level first.', true);
+      levelSel.classList.add('uf-attn');
+      levelSel.focus();
+    };
+    unitSel.addEventListener('mousedown', askForLevel);
+    unitSel.addEventListener('click', askForLevel);
+    unitSel.addEventListener('keydown', (e) => {
+      if (['ArrowUp', 'ArrowDown', 'Enter', ' ', 'F4'].includes(e.key)) askForLevel(e);
+    });
+
     levelSel.addEventListener('change', () => {
       clearMessage();
+      levelSel.classList.remove('uf-attn');
       unitSel.replaceChildren();
       const units = data[levelSel.value];
       const first = new Option(units ? 'Choose a unit' : 'Choose a level first', '');
       unitSel.add(first);
       if (units) units.forEach((u) => unitSel.add(new Option(`${u[0]} – ${u[1]}`, u[0])));
-      unitSel.disabled = !units;
+      unitSel.setAttribute('aria-disabled', units ? 'false' : 'true');
     });
 
     unitSel.addEventListener('change', () => {
@@ -146,7 +161,8 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
     border: 2px solid var(--text-muted);
     border-radius: 8px;
   }
-  .uf-field select:disabled { background: var(--bg-light); color: var(--text); --text-muted: var(--text); }
+  .uf-field select[aria-disabled="true"] { background: var(--bg-light); color: var(--text); --text-muted: var(--text); cursor: not-allowed; }
+  .uf-field select.uf-attn { border-color: var(--blue); box-shadow: 0 0 0 3px var(--accent); }
   .uf-btn {
     width: 100%;
     min-height: 56px;
