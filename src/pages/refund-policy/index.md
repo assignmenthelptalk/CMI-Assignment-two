@@ -12,7 +12,7 @@ noindex: true
 
 ## Money-Back Guarantee
 
-This policy explains when you can ask for a refund or compensation on an order. If your situation doesn't fit any category below, contact our Support Team at assignmenthelptalk@gmail.com and we'll review it individually.
+This policy explains when you can ask for a refund or compensation on an order. If your situation doesn't fit any category below, contact us at assignmenthelptalk@gmail.com and we'll review it individually.
 
 Nothing in this policy affects your statutory rights as a consumer.
 
@@ -31,7 +31,7 @@ The deductions cover the time and work already put in by our writers and team. O
 If we deliver after the agreed deadline, you may be entitled to compensation based on the original deadline and the length of the delay. We review each case individually.
 
 - For orders with a deadline of 14 days or more, compensation is 7% of the order price.
-- For shorter orders, compensation is [X]% of the order price for each full [day/12-hour period] of delay, up to a maximum of [Y]%.
+- For shorter orders, compensation is 1% of the order price for each full 12 hours of delay, up to a maximum of 7%.
 
 Compensation is not available if the delay was caused by:
 
@@ -41,7 +41,7 @@ Compensation is not available if the delay was caused by:
 
 ### 3. Quality claims
 
-If you're unhappy with the work, send us detailed feedback explaining how it differs from your order instructions. Our Quality Assurance Team will review it, and the outcome of that review decides the resolution.
+If you're unhappy with the work, send us detailed feedback explaining how it differs from your order instructions. We will review it, and the outcome of that review decides the resolution.
 
 - If you requested a revision before making the claim, compensation is capped at 70%. A revision request means you accepted the work in part, and the revision is the process of reviewing and amending it.
 - Work we deliver is study and reference material. It isn't intended for submission as your own work, and you are responsible for following the rules of your awarding body, centre or institution.
@@ -52,18 +52,18 @@ If you're unhappy with the work, send us detailed feedback explaining how it dif
 ### 4. Order preferences, writers and discounts
 
 - **Add-ons:** paid add-ons (for example priority delivery) are non-refundable, because they're part of the service delivered. The exceptions are a draft, a 1-page summary or an originality report that you paid for and didn't receive.
-- **Preferred writer:** if you request a writer by ID, we can't guarantee they'll be available. If they aren't, we'll assign the best available specialist in your subject area at an equivalent performance level. The preferred-writer fee is non-refundable and can only be returned as account credit.
-- **Discounts:** you're responsible for checking that your order details, including the discount field, are correct before paying. We don't compensate for discounts that weren't applied. Ask Support if you want to confirm one before you order.
+- **Preferred writer:** if you request a writer when ordering, we can't guarantee they'll be available. If they aren't, we'll assign the best available specialist in your subject area at an equivalent performance level. The preferred-writer fee is non-refundable and can only be returned as credit towards a future order.
+- **Discounts:** you're responsible for checking that your order details, including the discount code agreed in your quote, are correct before paying. We don't compensate for discounts that weren't applied. Ask us if you want to confirm one before you order.
 
 ### 5. How to claim
 
-1. Contact Support within 6 months of the order being completed.
-2. Include your order number and the reason for your claim.
+1. Contact us within 6 months of the order being completed.
+2. Include the details of your order and the reason for your claim.
 3. We may ask for further information to assess your claim.
-4. Our Billing team will respond by phone or email within 2 to 5 business days. Some claims are resolved sooner.
+4. We will respond by WhatsApp or email within 2 to 5 business days. Some claims are resolved sooner.
 
 ### 6. How refunds are paid
 
-- Approved refunds are processed within 5 business days of confirmation, to the original payment method.
+- Approved refunds are processed within 5 business days of confirmation, through PayPal or to the original card payment.
 - We aren't responsible for bank transfer fees, transfer delays or bank service issues.
-- Refunds under £10 are issued as account credit for future orders, because transaction fees can exceed the amount. If you'd like a cash refund of a small amount, contact Support.
+- Refunds under £10 are issued as credit towards a future order, because transaction fees can exceed the amount. If you'd like a cash refund of a small amount, contact us.
