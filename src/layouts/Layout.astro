@@ -347,23 +347,62 @@ const extraSchemas = pageSchema
     padding: 0;
   }
 
+  /* The palette is defined once, here. Values come from docs/audiototext-style-guide.md. */
   :root {
-    --navy:       #0f2a4a;
-    --blue:       #1e4d8c;
-    --blue-light: #2563eb;
+    /* Accent. #3370FF is 4.28:1 on white: use it for large elements, borders, focus rings and decoration only. */
+    --accent:        #3370FF;
+    /* Smallest-change darker blue for small text, links and button fills (5.86:1 on white). */
+    --accent-strong: #2559E0;
+    --accent-strong-hover: #204CBE;
+    --blue:          var(--accent-strong);
+    --blue-light:    var(--accent-strong);
+    --focus-ring:    var(--accent);
+    --focus-ring-on-dark: #ffffff;
+
+    --navy:       #111827;
+    --text:       #4B5563;
+    --text-muted: #6B7280;
+    --bg:         #ffffff;
+    --bg-light:   #F3F4F6;
+    --border:     #E2E8F0;
+    --border-strong: #D1D5DB;
+
+    /* Hero: the accent at 8% over white, fading to white. CTA band: solid strong blue. */
+    --hero-tint:  #EFF4FF;
+    --hero-bg:    linear-gradient(135deg, var(--hero-tint) 0%, #ffffff 100%);
+    --cta-bg:     var(--accent-strong);
+
+    /* Footer */
+    --footer-text:   #9CA3AF;
+    --footer-text-strong: #D1D5DB;
+    --footer-rule:   #1F2937;
+    --on-dark-muted: var(--footer-text);  /* small text on navy panels */
+
+    /* WhatsApp keeps its own green. */
     --green:      #25D366;
     --green-dark: #1da851;
-    --text:       #1f2937;
-    --text-muted: #6b7280;
-    --bg:         #ffffff;
-    --bg-light:   #f8fafc;
-    --border:     #e2e8f0;
-    --radius:     6px;
-    --shadow:     0 2px 8px rgba(0,0,0,.08);
+
+    --radius:     8px;
+    --shadow:     0 4px 6px -1px rgba(0,0,0,.1);
     --font:       system-ui, -apple-system, 'Segoe UI', sans-serif;
   }
 
   html { scroll-behavior: smooth; }
+
+  /* One visible keyboard focus ring everywhere; white on the dark footer and the blue CTA band. */
+  a:focus-visible,
+  button:focus-visible,
+  select:focus-visible,
+  summary:focus-visible {
+    outline: 3px solid var(--focus-ring);
+    outline-offset: 2px;
+  }
+  .site-footer a:focus-visible,
+  .site-footer button:focus-visible,
+  .cta-section a:focus-visible,
+  .cta-section button:focus-visible {
+    outline-color: var(--focus-ring-on-dark);
+  }
 
   body {
     font-family: var(--font);
@@ -399,11 +438,11 @@ const extraSchemas = pageSchema
   }
   .btn-whatsapp {
     background: var(--green);
-    color: #fff;
+    color: var(--navy);
   }
   .btn-whatsapp:hover {
     background: var(--green-dark);
-    color: #fff;
+    color: var(--navy);
     text-decoration: none;
     transform: translateY(-1px);
   }
@@ -412,7 +451,7 @@ const extraSchemas = pageSchema
     color: #fff;
   }
   .btn-primary:hover {
-    background: var(--navy);
+    background: var(--accent-strong-hover);
     color: #fff;
     text-decoration: none;
     transform: translateY(-1px);
@@ -420,11 +459,12 @@ const extraSchemas = pageSchema
 
   /* ── Header ── */
   .site-header {
-    background: var(--navy);
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
     position: sticky;
     top: 0;
     z-index: 100;
-    box-shadow: 0 2px 6px rgba(0,0,0,.3);
+    box-shadow: var(--shadow);
   }
   .header-inner {
     display: flex;
@@ -434,11 +474,7 @@ const extraSchemas = pageSchema
   }
 
   .logo {
-    color: #c4b5fd;
-    background: linear-gradient(90deg, #93c5fd 0%, #c4b5fd 50%, #f0abfc 100%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: var(--accent-strong);
     font-weight: 800;
     font-size: 1.15rem;
     letter-spacing: -.01em;
@@ -446,7 +482,7 @@ const extraSchemas = pageSchema
     text-decoration: none;
     flex-shrink: 0;
   }
-  .logo:hover { filter: brightness(1.15); text-decoration: none; }
+  .logo:hover { color: var(--accent-strong-hover); text-decoration: none; }
 
   .main-nav { flex: 1; }
   .nav-list {
@@ -458,7 +494,7 @@ const extraSchemas = pageSchema
 
   .nav-item > a,
   .nav-toggle {
-    color: #d1d5db;
+    color: var(--text);
     font-size: .875rem;
     font-weight: 500;
     padding: .4rem .75rem;
@@ -476,9 +512,9 @@ const extraSchemas = pageSchema
   }
   .nav-item > a:hover,
   .nav-toggle:hover {
-    color: #fff;
-    background: rgba(255,255,255,.1);
-    text-decoration: none;
+    color: var(--navy);
+    background: var(--bg-light);
+    text-decoration: none; --text-muted: var(--text);
   }
 
   /* dropdown */
@@ -506,7 +542,7 @@ const extraSchemas = pageSchema
   }
   .dropdown li a:hover {
     background: var(--bg-light);
-    text-decoration: none;
+    text-decoration: none; --text-muted: var(--text);
   }
   .nav-toggle[aria-expanded="true"] + .dropdown { display: block; }
 
@@ -528,7 +564,7 @@ const extraSchemas = pageSchema
     margin-bottom: .5rem;
     white-space: normal;
   }
-  .mega-view-all:hover { background: var(--bg-light); text-decoration: none; }
+  .mega-view-all:hover { background: var(--bg-light); text-decoration: none; --text-muted: var(--text); }
   .mega-cols {
     column-width: 230px;
     column-gap: 1.25rem;
@@ -561,7 +597,7 @@ const extraSchemas = pageSchema
     display: block;
     width: 100%;
     height: 2px;
-    background: #fff;
+    background: var(--navy);
     border-radius: 2px;
     transition: transform .2s, opacity .2s;
   }
@@ -574,7 +610,7 @@ const extraSchemas = pageSchema
     display: none;
     position: fixed;
     inset: 0;
-    background: rgba(15,42,74,.5);
+    background: rgba(17,24,39,.5);
     z-index: 300;
   }
   .mobile-nav-backdrop.open { display: block; }
@@ -641,7 +677,7 @@ const extraSchemas = pageSchema
   /* ── Footer ── */
   .site-footer {
     background: var(--navy);
-    color: #d1d5db;
+    color: var(--footer-text-strong);
     margin-top: 4rem;
     padding-top: 3rem;
   }
@@ -683,18 +719,18 @@ const extraSchemas = pageSchema
     gap: .45rem;
   }
   .footer-links a {
-    color: #9ca3af;
+    color: var(--footer-text);
     font-size: .875rem;
     text-decoration: none;
   }
-  .footer-links a:hover { color: #fff; text-decoration: underline; }
+  .footer-links a:hover { color: var(--bg); text-decoration: underline; }
   .footer-bottom {
-    border-top: 1px solid rgba(255,255,255,.1);
+    border-top: 1px solid var(--footer-rule);
     padding: 1.25rem 0;
   }
   .footer-bottom p {
     font-size: .8rem;
-    color: #6b7280;
+    color: var(--footer-text);
     text-align: center;
   }
 
@@ -710,7 +746,7 @@ const extraSchemas = pageSchema
 
   /* ── Utility ── */
   .section { padding: 4rem 0; }
-  .section-alt { background: var(--bg-light); }
+  .section-alt { background: var(--bg-light); --text-muted: var(--text); }
   .section-title {
     font-size: 1.75rem;
     font-weight: 700;

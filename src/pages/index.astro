@@ -439,8 +439,8 @@ const steps = [
 <style>
   /* ── Hero ── */
   .hero {
-    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
-    color: #fff;
+    background: var(--hero-bg);
+    color: var(--navy);
     padding: 5rem 0 4rem;
   }
   .hero-text {
@@ -453,7 +453,7 @@ const steps = [
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: .08em;
-    color: #93c5fd;
+    color: var(--blue);
     margin-bottom: .75rem;
   }
   .hero-h1 {
@@ -461,12 +461,12 @@ const steps = [
     font-weight: 800;
     line-height: 1.15;
     margin-bottom: 1.25rem;
-    color: #fff;
+    color: var(--navy);
   }
   .hero-sub {
     font-size: 1.1rem;
     line-height: 1.7;
-    color: #bfdbfe;
+    color: var(--text);
     max-width: 600px;
     margin: 0 auto 2rem;
   }
@@ -480,19 +480,19 @@ const steps = [
   .btn-lg { padding: .85rem 2rem; font-size: 1.05rem; }
   .btn-outline {
     background: transparent;
-    color: #fff;
-    border: 2px solid rgba(255,255,255,.5);
+    color: var(--blue);
+    border: 2px solid var(--accent);
   }
   .btn-outline:hover {
-    background: rgba(255,255,255,.1);
-    border-color: #fff;
-    color: #fff;
+    background: var(--hero-tint);
+    border-color: var(--accent-strong-hover);
+    color: var(--accent-strong-hover);
     text-decoration: none;
-    transform: translateY(-1px);
+    transform: translateY(-1px); --text-muted: var(--text);
   }
   .hero-note {
     font-size: .82rem;
-    color: #93c5fd;
+    color: var(--blue);
   }
 
   /* ── Level cards ── */
@@ -515,8 +515,8 @@ const steps = [
     position: relative;
   }
   .level-card:hover {
-    border-color: var(--blue);
-    box-shadow: 0 6px 20px rgba(30,77,140,.15);
+    border-color: var(--accent);
+    box-shadow: var(--shadow);
     transform: translateY(-2px);
     text-decoration: none;
     color: var(--text);
@@ -579,7 +579,7 @@ const steps = [
   .card-link { color: inherit; text-decoration: none; }
   .card-link::after { content: ''; position: absolute; inset: 0; }
   .card-link:focus-visible { outline: none; }
-  .card-link:focus-visible::after { outline: 2px solid var(--blue); outline-offset: 2px; border-radius: 10px; }
+  .card-link:focus-visible::after { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 10px; }
 
   /* ── Services grid ── */
   .services-grid {
@@ -600,8 +600,8 @@ const steps = [
     transition: border-color .15s, box-shadow .15s, transform .1s;
   }
   .service-card:hover {
-    border-color: var(--blue);
-    box-shadow: 0 6px 20px rgba(30,77,140,.15);
+    border-color: var(--accent);
+    box-shadow: var(--shadow);
     transform: translateY(-2px);
     text-decoration: none;
     color: var(--text);
@@ -632,7 +632,7 @@ const steps = [
     padding: 1.5rem;
     display: flex;
     flex-direction: column;
-    gap: .75rem;
+    gap: .75rem; --text-muted: var(--text);
   }
   .step-num {
     font-size: 2rem;
@@ -682,7 +682,7 @@ const steps = [
     list-style: none;
     user-select: none;
     background: var(--bg-light);
-    transition: background .15s;
+    transition: background .15s; --text-muted: var(--text);
   }
   .faq-q::-webkit-details-marker { display: none; }
   .faq-q::after {
@@ -692,7 +692,7 @@ const steps = [
     font-weight: 400;
     color: var(--text-muted);
   }
-  .faq-item[open] .faq-q { background: #eff6ff; }
+  .faq-item[open] .faq-q { background: var(--hero-tint); --text-muted: var(--text); }
   .faq-item[open] .faq-q::after { content: '−'; }
   .faq-a {
     padding: 1rem 1.25rem 1.25rem;
@@ -709,10 +709,10 @@ const steps = [
 
   /* ── Final CTA ── */
   .cta-section {
-    background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+    background: var(--cta-bg);
     padding: 4rem 0;
   }
   .cta-inner { text-align: center; max-width: 680px; margin: 0 auto; }
   .cta-h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
-  .cta-sub { font-size: 1.05rem; color: #bfdbfe; margin-bottom: 2rem; line-height: 1.6; }
+  .cta-sub { font-size: 1.05rem; color: #fff; margin-bottom: 2rem; line-height: 1.6; }
 </style>
