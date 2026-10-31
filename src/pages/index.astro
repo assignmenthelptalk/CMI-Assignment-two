@@ -186,8 +186,8 @@ const steps = [
           src="/images/hero/hero-selector-square.webp"
           alt=""
           aria-hidden="true"
-          width="768"
-          height="768"
+          width="1024"
+          height="1024"
           decoding="async"
           fetchpriority="low"
         />
@@ -468,8 +468,8 @@ const steps = [
     height: auto;
     mix-blend-mode: multiply;
     pointer-events: none;
-    -webkit-mask-image: radial-gradient(ellipse 70% 70% at 50% 50%, #000 50%, transparent 100%);
-    mask-image: radial-gradient(ellipse 70% 70% at 50% 50%, #000 50%, transparent 100%);
+    -webkit-mask-image: radial-gradient(closest-side at 50% 50%, #000 78%, transparent 100%);
+    mask-image: radial-gradient(closest-side at 50% 50%, #000 78%, transparent 100%);
   }
   .hero-eyebrow {
     font-size: .85rem;
@@ -532,7 +532,13 @@ const steps = [
     .hero-grid { grid-template-columns: minmax(0, 1.15fr) minmax(0, .85fr); gap: 2rem; }
     .hero-h1 { font-size: clamp(2rem, 3.4vw, 3rem); }
     /* The wide illustration has an empty left third; crop it with CSS so the artwork fills the column. */
-    .hero-art img { aspect-ratio: 10 / 9; object-fit: cover; object-position: 100% 50%; }
+    .hero-art img {
+      aspect-ratio: 10 / 9;
+      object-fit: cover;
+      object-position: 100% 50%;
+      -webkit-mask-image: radial-gradient(ellipse 70% 70% at 50% 50%, #000 50%, transparent 100%);
+      mask-image: radial-gradient(ellipse 70% 70% at 50% 50%, #000 50%, transparent 100%);
+    }
     .hero-text { max-width: none; margin: 0; text-align: left; }
     .hero-sub { margin-left: 0; margin-right: 0; }
     .hero-ctas { justify-content: flex-start; }
