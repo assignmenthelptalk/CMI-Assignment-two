@@ -8,9 +8,10 @@ interface Props {
   canonical?: string;
   pageSchema?: object | object[];
   compactFooter?: boolean;
+  hideShareSidebar?: boolean;
 }
 
-const { title, description, canonical, pageSchema, compactFooter = false } = Astro.props;
+const { title, description, canonical, pageSchema, compactFooter = false, hideShareSidebar = false } = Astro.props;
 
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
 const whatsappUrl = 'https://wa.me/447916696894';
@@ -177,7 +178,7 @@ const extraSchemas = pageSchema
       <slot />
     </main>
 
-    <SocialShareSidebar pageUrl={canonicalHref} pageTitle={title} />
+    {!hideShareSidebar && <SocialShareSidebar pageUrl={canonicalHref} pageTitle={title} />}
 
     <footer class="site-footer">
       {compactFooter ? (

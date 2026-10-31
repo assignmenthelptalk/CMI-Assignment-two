@@ -108,9 +108,10 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
 
 <style>
   .unit-finder {
-    margin: 0 0 1.25rem;
+    margin: 0 auto 1.25rem;
     padding: 1.1rem 1.25rem 1.25rem;
     max-width: 640px;
+    text-align: left;
     background: rgba(255, 255, 255, .12);
     border: 1px solid rgba(255, 255, 255, .25);
     border-radius: 12px;
@@ -120,12 +121,14 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
     font-weight: 700;
     color: #fff;
     margin: 0 0 .75rem;
+    text-align: center;
   }
   .uf-form {
     display: flex;
     flex-wrap: wrap;
     gap: .75rem 1rem;
     align-items: flex-end;
+    justify-content: center;
   }
   .uf-form[hidden], .uf-fallback[hidden] { display: none; }
   .uf-field { display: flex; flex-direction: column; gap: .3rem; flex: 0 1 11rem; min-width: 0; }
@@ -160,11 +163,11 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
     outline: 3px solid #fbbf24;
     outline-offset: 2px;
   }
-  .uf-msg { flex: 1 1 100%; margin: 0; font-size: .92rem; line-height: 1.5; color: #fff; }
+  .uf-msg { flex: 1 1 100%; margin: 0; font-size: .92rem; line-height: 1.5; color: #fff; text-align: center; }
   .uf-msg:empty { display: none; }
   .uf-msg--warn { color: #fde68a; }
   .uf-msg a, .uf-fallback a { color: #fff; font-weight: 600; text-decoration: underline; }
-  .uf-fallback { margin: 0; font-size: .95rem; color: #dbeafe; }
+  .uf-fallback { margin: 0; font-size: .95rem; color: #dbeafe; text-align: center; }
 
   @media (max-width: 720px) {
     .unit-finder { padding: 1rem; }
