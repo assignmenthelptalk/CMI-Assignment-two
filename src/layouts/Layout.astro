@@ -8,9 +8,17 @@ interface Props {
   canonical?: string;
   pageSchema?: object | object[];
   compactFooter?: boolean;
+  noindex?: boolean;
 }
 
-const { title, description, canonical, pageSchema, compactFooter = false } = Astro.props;
+const { title, description, canonical, pageSchema, compactFooter = false, noindex = false } = Astro.props;
+
+const legalLinks = [
+  { href: 'https://www.cmiassignmenthelp.uk.com/privacy-policy/', label: 'Privacy Policy' },
+  { href: 'https://www.cmiassignmenthelp.uk.com/terms-and-conditions/', label: 'Terms and Conditions' },
+  { href: 'https://www.cmiassignmenthelp.uk.com/refund-policy/', label: 'Refund Policy' },
+  { href: 'https://www.cmiassignmenthelp.uk.com/academic-integrity/', label: 'Academic Integrity' },
+];
 
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
 const whatsappUrl = 'https://wa.me/447916696894';
@@ -76,6 +84,7 @@ const extraSchemas = pageSchema
     <meta name="google-site-verification" content="-oKuyb-HutHX2tQUkpi1JYzQ6PiFv-jfqjPfXABJcBY" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex" />}
     <link rel="canonical" href={canonicalHref} />
     <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
@@ -196,7 +205,10 @@ const extraSchemas = pageSchema
               <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/">CMI Assignment Tutoring</a></li>
               <li><a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-help-online/">CMI Assignment Help Online</a></li>
             </ul>
-            {/* TODO (owner): add privacy, terms and academic-integrity links here once those pages exist. */}
+            <h3 class="footer-heading footer-heading--legal">Legal</h3>
+            <ul class="footer-links">
+              {legalLinks.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+            </ul>
           </div>
         </div>
       ) : (
@@ -236,11 +248,21 @@ const extraSchemas = pageSchema
               <li><a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/">CMI Command Verbs Explained</a></li>
             </ul>
           </div>
+
+          <div class="footer-col">
+            <h3 class="footer-heading">Legal</h3>
+            <ul class="footer-links">
+              {legalLinks.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+            </ul>
+          </div>
         </div>
       )}
 
       <div class="footer-bottom">
         <div class="container">
+          <p class="footer-disclaimer">
+            Independent service. Not affiliated with or endorsed by the Chartered Management Institute (CMI).
+          </p>
           <p>
             &copy; {new Date().getFullYear()} CMI Assignment Help UK &mdash;
             UK-based CMI writers &mdash; All levels 3 to 7 &mdash;
@@ -629,7 +651,7 @@ const extraSchemas = pageSchema
   }
   .footer-grid {
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
     gap: 2rem;
     padding-bottom: 2rem;
   }
@@ -656,6 +678,8 @@ const extraSchemas = pageSchema
     letter-spacing: .06em;
     margin-bottom: .75rem;
   }
+  .footer-heading--legal { margin-top: 1.25rem; }
+  .footer-disclaimer { margin-bottom: .35rem; }
   .footer-links {
     list-style: none;
     display: flex;
