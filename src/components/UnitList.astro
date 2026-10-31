@@ -3,8 +3,8 @@
 // when that page exists, so the hub never points at a unit page that has not been built.
 import { officialUnits } from '../data/cmiUnitsOfficial.js';
 
-interface Props { level: 3 | 4 | 5 | 6 | 7 }
-const { level } = Astro.props;
+interface Props { level: 3 | 4 | 5 | 6 | 7; l5Coded?: boolean }
+const { level, l5Coded = false } = Astro.props;
 
 const BASE = 'https://www.cmiassignmenthelp.uk.com';
 const pageFiles = Object.keys(import.meta.glob('../pages/cmi-*-assignment-help/index.md'));
@@ -12,7 +12,9 @@ const existing = new Set(pageFiles.map((f) => (f.match(/cmi-(\d+)-assignment-hel
 
 // Own-level units only: Level 4 codes are 4001-4009, the others are 3xx/5xx/6xx/7xx.
 const ownLevel = (code: string) => (level === 4 ? /^400\d$/.test(code) : code.length === 3 && code[0] === String(level));
-const units = officialUnits[level].filter(([code]) => ownLevel(code));
+// l5Coded (Level 4 only) lists the three Level 5 coded units (5001, 5012, 5014) that CMI includes in the Level 4 Diploma.
+const l5CodedInDiploma = (code: string) => level === 4 && /^50\d\d$/.test(code);
+const units = officialUnits[level].filter(([code]) => (l5Coded ? l5CodedInDiploma(code) : ownLevel(code)));
 ---
 <div class="unit-tiles">
   {units.map(([code, title]) => (
