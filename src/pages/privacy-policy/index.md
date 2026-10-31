@@ -40,7 +40,7 @@ Order and payment records: [X years]. Messages and enquiries: [X months] after t
 Under UK data protection law you can ask to access, correct or delete your personal data, restrict or object to its use, or receive a copy. Contact [email]. You can also complain to the Information Commissioner's Office (ico.org.uk).
 
 ## Cookies
-We use Google Analytics cookies only if you accept them: `_ga` and `_ga_NVSRJ51S2S`. Google asks your browser to keep them for 2 years, although some browsers, such as Chrome, limit this to 400 days. We also save your choice in your browser's storage on this site (under the name `cmi-consent`), so we don't ask you again for 6 months. You can change your choice at any time using the Cookie settings link in the footer or the button below. You can also block cookies in your browser settings.
+We use Google Analytics cookies only if you accept them: `_ga` and `_ga_NVSRJ51S2S`. Google asks your browser to keep them for 2 years, although some browsers, such as Chrome, limit this to 400 days. You can change your choice at any time using the Cookie settings link in the footer or the button below. You can also block cookies in your browser settings.
 
 <button type="button" class="cookie-settings-link" data-cookie-settings hidden>Cookie settings</button>
 
