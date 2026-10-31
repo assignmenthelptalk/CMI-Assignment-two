@@ -599,6 +599,8 @@ const steps = [
   @media (max-width: 360px) { .services-title { font-size: 1.2rem; } }
   .services-lead { max-width: 760px; margin: 0 auto 1rem; text-align: center; }
   .services-lead.services-note { margin-bottom: 2.5rem; }
+  /* Links inside paragraph text are underlined so they do not rely on colour alone. */
+  .services-lead a { text-decoration: underline; text-underline-offset: 2px; }
   .services-grid {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
@@ -724,7 +726,7 @@ const steps = [
     flex-direction: column;
     gap: .65rem;
   }
-  .faq-a a { color: var(--blue-light); font-weight: 500; }
+  .faq-a a { color: var(--blue-light); font-weight: 500; text-decoration: underline; text-underline-offset: 2px; }
 
   /* ── Guides ── */
 
