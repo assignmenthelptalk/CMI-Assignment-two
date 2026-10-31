@@ -23,7 +23,7 @@ const faqSchema = {
       "name": "Why do prices vary between CMI levels?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Price reflects what the assessment actually demands at each level. Level 3 and Level 4 assignments require fewer sources and less analytical depth than Level 6 and Level 7, which require peer-reviewed sources and postgraduate-depth writing at Critically Evaluate or Critically Analyse standard. The difference in price mirrors the difference in the work required, not an arbitrary scale between levels."
+        "text": "Price reflects what the assessment actually demands at each level. Level 3 and Level 4 assignments ask for less analytical depth than Level 6 and Level 7, whose criteria lead with verbs such as Critically appraise and Critically assess. CMI sets no minimum number of sources at any level, so price follows the depth the brief demands. The difference in price mirrors the difference in the work required, not an arbitrary scale between levels."
       }
     },
     {
@@ -68,23 +68,23 @@ const serviceSchema = {
 };
 
 const priceFactors = [
-  { name: "Qualification Level", detail: "Level 3–4 require less analytical depth and fewer sources than Level 6–7, which need peer-reviewed sources and postgraduate-depth writers." },
-  { name: "Word Count", detail: "CMI word counts scale from 1,500–2,500 at Level 3 up to 5,000–6,500 at Level 7. Price scales with research and writing volume, not a per-page markup." },
+  { name: "Qualification Level", detail: "Level 3–4 ask for less analytical depth than Level 6–7, whose criteria lead with verbs such as Critically appraise and Critically assess." },
+  { name: "Word Count", detail: "CMI's guideline word counts run from 2,000–2,500 at Level 3 to 3,500–4,500 at Level 7 (10% allowance either way). Price scales with research and writing volume, not a per-page markup." },
   { name: "Turnaround", detail: "Standard turnaround (5–10 days) is priced lower than urgent turnaround (48–72 hours), which requires a writer to reprioritise other work." },
 ];
 
 const levels = [
-  { level: "CMI Level 3", units: "Units 301–321", words: "1,500–2,500", band: "Most affordable band", note: "Structured essay, 5–8 sources", slug: "https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/" },
-  { level: "CMI Level 4", units: "Units 4001–4009", words: "2,000–3,500", band: "Modestly higher than L3", note: "Analyse/Evaluate depth, 8–10 sources", slug: "https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/" },
-  { level: "CMI Level 5", units: "Units 501–526", words: "3,000–5,000", band: "Mid-range: most ordered", note: "Management report, 10–12 sources", slug: "https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/" },
-  { level: "CMI Level 6", units: "Units 601–614", words: "4,000–5,000", band: "Higher than L5", note: "Critically Evaluate, 12–15 sources", slug: "https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/" },
-  { level: "CMI Level 7", units: "Units 701–716", words: "5,000–6,500", band: "Highest band", note: "Strategic scope, 15–20 peer-reviewed sources", slug: "https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/" },
+  { level: "CMI Level 3", units: "Units 301–321", words: "2,000–2,500", band: "Most affordable band", note: "Mostly Explain, Identify, Outline", slug: "https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/" },
+  { level: "CMI Level 4", units: "Units 4001–4009", words: "3,000", band: "Modestly higher than L3", note: "Describe, Discuss, Identify, Explain", slug: "https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/" },
+  { level: "CMI Level 5", units: "Units 501–526", words: "3,000–5,000", band: "Mid-range: most ordered", note: "Analyse, Examine, Evaluate", slug: "https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/" },
+  { level: "CMI Level 6", units: "Units 601–614", words: "3,000–4,000", band: "Higher than L5", note: "Critically appraise, Critically assess", slug: "https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/" },
+  { level: "CMI Level 7", units: "Units 701–716", words: "3,500–4,500", band: "Highest band", note: "Critically appraise, Discuss, Develop", slug: "https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/" },
 ];
 
 const qaSteps = [
   "Brief analysis against the unit's Learning Outcomes and command verbs before writing starts",
   "Writer matching by qualification level and unit subject, never assigned generically",
-  "Harvard referencing to the minimum source count required for the level",
+  "Harvard referencing, with sources chosen to support each criterion in the unit",
   "Completed-assignment check against the original brief before delivery",
   "Revision included if the delivered assignment does not meet the original brief",
 ];
@@ -92,7 +92,7 @@ const qaSteps = [
 
 <Layout
   title="Cheap CMI Assignment Help | Competitive UK Pricing, No Quality Compromise"
-  description="Affordable CMI assignment help with competitive UK pricing across Levels 3 to 7. See what determines your price (level, word count, turnaround) and get a fixed WhatsApp quote within 2 hours."
+  description="Cheap CMI assignment help with clear UK pricing, Levels 3 to 7. See what sets your price (level, word count, deadline) and get a fixed WhatsApp quote in 2 hours."
   canonical={siteUrl + '/cheap-cmi-assignment-help/'}
   pageSchema={[serviceSchema, faqSchema]}
 >
@@ -134,7 +134,7 @@ const qaSteps = [
       <p>
         The quality assurance process is identical across every price band. A Level 3 structured essay and a
         Level 7 strategic paper both go through brief analysis against the Learning Outcomes, writer matching by
-        qualification level and subject, and referencing to the minimum source count for that level. What changes
+        qualification level and subject, and Harvard referencing checked against the brief. What changes
         between price points is the level, the word count, and the turnaround, never the standard the work is
         held to. The full scope of what is included in every order is set out on the
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/">CMI assignment writing service</a> page.
@@ -282,10 +282,7 @@ const qaSteps = [
         <details class="faq-item">
           <summary class="faq-q">Why do prices vary between CMI levels?</summary>
           <div class="faq-a">
-            <p>Price reflects what the assessment actually demands at each level. Level 3 and Level 4
-            assignments require fewer sources and less analytical depth than Level 6 and Level 7, which require
-            peer-reviewed sources and postgraduate-depth writing at Critically Evaluate or Critically Analyse
-            standard. The difference in price mirrors the difference in the work required, not an arbitrary
+            <p>Price reflects what the assessment actually demands at each level. Level 3 and Level 4 assignments ask for less analytical depth than Level 6 and Level 7, whose criteria lead with verbs such as Critically appraise and Critically assess. CMI sets no minimum number of sources at any level, so price follows the depth the brief demands. The difference in price mirrors the difference in the work required, not an arbitrary
             scale between levels.</p>
           </div>
         </details>
