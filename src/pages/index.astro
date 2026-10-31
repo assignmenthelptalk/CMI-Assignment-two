@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import TableOfContents from '../components/TableOfContents.astro';
+import UnitFinder from '../components/UnitFinder.astro';
 
 
 const whatsappUrl = 'https://wa.me/447916696894';
@@ -175,8 +176,8 @@ const steps = [
           >
             Get a WhatsApp Quote
           </a>
-          <a href="#levels" class="btn btn-outline btn-lg">Browse CMI Levels</a>
         </div>
+        <UnitFinder />
         <p class="hero-note">Fixed quote in 2 hours &bull; All 5 CMI qualification levels &bull; UK-based writers</p>
       </div>
       <div class="hero-badge-wrap" aria-hidden="true">
@@ -760,9 +761,10 @@ const steps = [
 
   /* ── Responsive ── */
   @media (max-width: 720px) {
-    .hero-inner { grid-template-columns: 1fr; }
+    .hero-inner { grid-template-columns: minmax(0, 1fr); }
     .hero-badge-wrap {
       flex-direction: row;
+      flex-wrap: wrap;
       justify-content: center;
     }
   }

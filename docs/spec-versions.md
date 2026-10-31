@@ -41,3 +41,7 @@ An older Level 5 PDF (v09, April 2018) was downloaded during research and is sup
 1. Download the current syllabus PDF for each level from CMI.
 2. Compare the version and date in the table above. If a version has changed, re-check the grading line, the word-count section and the unit lists, then update this file.
 3. Update the "Last verified" date even when nothing has changed.
+
+## Selector data
+
+`src/data/units.json` feeds the homepage "Find my unit" selector. It holds the 86 own-level units (L3 21, L4 9, L5 26, L6 14, L7 16): codes come from the parsed syllabus data, and titles from `src/data/cmiUnitsOfficial.js`, whose titles were each checked against the syllabus text on 2026-10-31. Whether a unit has a page is worked out at build time from the unit pages that exist, so the selector cannot link to a page that was not built. Units that only count towards another level (Level 4: 5001, 5012, 5014; shared Level 6 and 7 units) are not listed in the selector.
