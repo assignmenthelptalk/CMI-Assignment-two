@@ -10,9 +10,10 @@ interface Props {
   pageSchema?: object | object[];
   compactFooter?: boolean;
   noindex?: boolean;
+  hideShareSidebar?: boolean;
 }
 
-const { title, description, canonical, pageSchema, compactFooter = false, noindex = false } = Astro.props;
+const { title, description, canonical, pageSchema, compactFooter = false, noindex = false, hideShareSidebar = false } = Astro.props;
 
 const legalLinks = [
   { href: 'https://www.cmiassignmenthelp.uk.com/privacy-policy/', label: 'Privacy Policy' },
@@ -179,7 +180,7 @@ const extraSchemas = pageSchema
       <slot />
     </main>
 
-    <SocialShareSidebar pageUrl={canonicalHref} pageTitle={title} />
+    {!hideShareSidebar && <SocialShareSidebar pageUrl={canonicalHref} pageTitle={title} />}
 
     <footer class="site-footer">
       {compactFooter ? (
