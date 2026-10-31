@@ -1,7 +1,7 @@
 ---
 ---
 
-<!-- Table of Contents — auto-generated from this page's h2.section-title headings -->
+<!-- Table of Contents — auto-generated from this page's h2.section-title headings (an optional data-toc-label gives a shorter entry) -->
 <nav class="article-toc" id="article-toc" aria-label="Table of contents" style="display:none">
   <div class="container">
     <div class="toc-box">
@@ -31,7 +31,7 @@
       const li = document.createElement('li');
       const a = document.createElement('a');
       a.href = '#' + heading.id;
-      a.textContent = heading.textContent.trim();
+      a.textContent = heading.dataset.tocLabel || heading.textContent.trim();
       li.appendChild(a);
       list.appendChild(li);
     });
