@@ -34,7 +34,7 @@ Each unit's indicative content lists models using "may include but is not limite
 | Team development | Tuckman (1965) | 302, 4004, 502, 505, 602 |
 | Team roles | Belbin (1981) | 302, 4001, 4004, 502, 505, 525, 602, 701 |
 | Motivation | Maslow (1943), Herzberg, Vroom | Maslow: 302, 4001, 4006, 601, 712. Herzberg: 4001, 4006. Vroom: 4001, 502, 503, 505, 521, 524 |
-| Leadership style | Blake and Mouton, Tannenbaum and Schmidt, Hersey and Blanchard, Adair | Blake and Mouton: 301, 4001, 501, 502, 503, 509, 526. Tannenbaum and Schmidt: 301, 302, 4004, 501, 502, 503, 526. Hersey and Blanchard: 301, 302, 4004, 501, 514, 526 and several Level 6 and 7 units |
+| Leadership style | Blake and Mouton, Tannenbaum and Schmidt, Hersey and Blanchard, Adair | Blake and Mouton: 301, 4001, 501, 502, 503, 509, 526. Tannenbaum and Schmidt: 301, 302, 4004, 5012, 501, 502, 503, 526. Hersey and Blanchard: 301, 302, 4004, 5012, 501, 514, 526 and several Level 6 and 7 units |
 | Transformational and emotional leadership | Bass and Riggio (dated 2005 in Unit 506 and 2006 in Unit 702), Goleman (1995) | Bass: 506, 526 and many Level 6 and 7 units, including 702. Goleman: named across Levels 3 to 7 |
 | Change | Lewin, Kotter, ADKAR | Lewin: 301, 302, 310, 514, 603, 605, 705. Kotter: 310, 514, 526, 601, 603, 605, 701, 705. ADKAR: 514, 605 |
 | Performance | Balanced Scorecard (Kaplan and Norton, 1992) | 502, 503, 507, 519, 605, 611 |
@@ -121,6 +121,8 @@ At Level 6 the Critically verbs lead (Critically appraise 12, Critically assess 
 
 Examples of what the syllabuses name:
 
+- **Level 4 Diploma, leadership**: [Unit 5012](https://www.cmiassignmenthelp.uk.com/cmi-5012-assignment-help/) (Being a Leader, a Level 5 coded unit) names Tannenbaum and Schmidt, Hersey and Blanchard, Adair and the Trust/Co-operation matrix on leadership, with Johnson and Scholes, Schein, Handy and Harrison on culture.
+- **Level 4 Diploma, coaching and mentoring**: [Unit 5014](https://www.cmiassignmenthelp.uk.com/cmi-5014-assignment-help/) (Introduction to Management Coaching and Mentoring, a Level 5 coded unit) names Parsloe, Bluckert and Gallwey, Prochaska, Zeus and Skiffington, Goldsmith and Witherspoon's coaching continuum.
 - **Level 6, change and innovation**: Unit 605 (Innovation and Change) names Kotter, Lewin, ADKAR and Christensen (1997). Unit 611 (Knowledge Management) names Teece, Pisano and Shuen (1997) on dynamic capabilities and the Balanced Scorecard.
 - **Level 6, teams and culture**: Unit 602 names Tuckman, Belbin and Porter, and Unit 603 (Organisational Culture) names Kotter, Lewin and Schein.
 - **Level 7, leadership**: Unit 702 names Bass and Riggio on transformational leadership, with Hofstede and Schein on culture. Unit 701 names Belbin, Kotter, Mintzberg and Senge.

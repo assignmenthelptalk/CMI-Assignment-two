@@ -52,7 +52,7 @@ Each CMI level sits at the RQF level of the same number. In general terms, RQF L
 
 **Designed for**: the development of the role and skill of managers. CMI says the qualifications aim to develop personal management capabilities, make effective use of information in decision-making and operations, and develop skills in managing people.
 
-**Units**: 4001 to 4009, from 4001 Managerial Styles and Behaviours to 4009 Staff Inspection Review. The Diploma also includes three Level 5 coded units (5001, 5012 and 5014), which are at RQF level 5. 5001 is mandatory and 5012 and 5014 are optional. None of the three is in the Award or Certificate.
+**Units**: 4001 to 4009, from 4001 Managerial Styles and Behaviours to 4009 Staff Inspection Review. The Diploma also includes three Level 5 coded units, which are at RQF level 5: [5001 Personal Development as a Manager and Leader](https://www.cmiassignmenthelp.uk.com/cmi-5001-assignment-help/) (mandatory), [5012 Being a Leader](https://www.cmiassignmenthelp.uk.com/cmi-5012-assignment-help/) and [5014 Introduction to Management Coaching and Mentoring](https://www.cmiassignmenthelp.uk.com/cmi-5014-assignment-help/) (both optional). None of the three is in the Award or Certificate.
 
 **Word count**: the guideline is 3,000 words per unit, with a 10% allowance.
 

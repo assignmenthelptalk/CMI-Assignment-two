@@ -34,7 +34,7 @@ The two units where reflection is the main subject are:
 - 2.1 Critically reflect on personal, interpersonal and professional competencies to lead strategically
 - 2.2 Produce a personal and professional development plan to improve strategic leadership
 
-Reflection also appears inside other units, for example "Critically reflect" criteria at Level 6 (such as Unit 612, Coaching Skills for Leaders, which asks you to critically reflect on your own ability to coach) and in Unit 712 (Strategic Management Project) at Level 7. Check the criteria of your own unit.
+Reflection also appears inside other units, for example "Critically reflect" criteria at Level 6 (such as Unit 612, Coaching Skills for Leaders, which asks you to critically reflect on your own ability to coach) and in Unit 712 (Strategic Management Project) at Level 7. At Level 4, [Unit 5001 (Personal Development as a Manager and Leader)](https://www.cmiassignmenthelp.uk.com/cmi-5001-assignment-help/), a Level 5 coded unit in the Level 4 Diploma, asks you to construct a personal development plan (criterion 1.4) and later review and update it (criterion 3.3). Check the criteria of your own unit.
 
 A CPD log and an assessed reflection are different documents. A CPD log is informal and developmental. An assessed piece has to meet the criteria: it uses the command verb of each criterion, supports points with theory and evidence, and ends in a plan. Your centre and brief set the format, so follow them.
 
