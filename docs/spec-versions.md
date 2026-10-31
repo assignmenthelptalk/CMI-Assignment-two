@@ -45,3 +45,7 @@ An older Level 5 PDF (v09, April 2018) was downloaded during research and is sup
 ## Selector data
 
 `src/data/units.json` feeds the homepage "Find my unit" selector. It holds the 86 own-level units (L3 21, L4 9, L5 26, L6 14, L7 16): codes come from the parsed syllabus data, and titles from `src/data/cmiUnitsOfficial.js`, whose titles were each checked against the syllabus text on 2026-10-31. Whether a unit has a page is worked out at build time from the unit pages that exist, so the selector cannot link to a page that was not built. Units that only count towards another level (Level 4: 5001, 5012, 5014; shared Level 6 and 7 units) are not listed in the selector.
+
+## To-do
+
+- [ ] Consolidate the two unit title data sources. `src/data/units.json` (homepage selector) and `src/data/cmiUnitsOfficial.js` (level-page unit lists) hold the same official titles twice. Pick one file, point both components at it, and delete the other.
