@@ -101,7 +101,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 ## Related CMI Level 4 units
 
-- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 9 Level 4 units
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 12 Level 4 Diploma units
 - [CMI 4003 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/), Understanding Organisational Culture, Values and Behaviour (Level 4)
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4)
 - [CMI 506 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/), Managing Equality, Diversity and Inclusion (Level 5)

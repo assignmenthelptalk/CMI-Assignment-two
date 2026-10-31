@@ -95,7 +95,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 ## Related CMI Level 4 units
 
-- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 9 Level 4 units
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 12 Level 4 Diploma units
 - [CMI 4006 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/), Management and Leadership Influencing Skills (Level 4)
 - [CMI 4008 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/), Promoting Equality and Diversity (Level 4)
 - [CMI 511 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-511-assignment-help/), Principles of Recruiting, Selecting and Retaining Talent (Level 5)

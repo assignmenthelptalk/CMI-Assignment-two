@@ -87,7 +87,7 @@ CMI Level 4 qualifications are graded Pass or Refer. The guideline word count fo
 
 **Was Unit 4001 previously numbered 401?**
 
-Yes. CMI's current Level 4 units are numbered 4001 to 4009. Old links to Unit 401 now redirect to this page.
+Yes. CMI's current Level 4 coded units are numbered 4001 to 4009. Old links to Unit 401 now redirect to this page.
 
 **Do I need to cover every model in the syllabus?**
 
@@ -101,7 +101,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 ## Related CMI Level 4 units
 
-- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 9 Level 4 units
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 12 Level 4 Diploma units
 - [CMI 4003 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/), Understanding Organisational Culture, Values and Behaviour (Level 4)
 - [CMI 4004 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/), Understanding Team Dynamics (Level 4)
 - [CMI 4006 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/), Management and Leadership Influencing Skills (Level 4)

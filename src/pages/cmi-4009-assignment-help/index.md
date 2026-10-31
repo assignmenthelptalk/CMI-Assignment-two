@@ -105,7 +105,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 ## Related CMI Level 4 units
 
-- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 9 Level 4 units
+- [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 12 Level 4 Diploma units
 - [CMI 4005 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/), Management Report Writing (Level 4)
 - [CMI 4002 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/), Managing Stakeholders' Expectations (Level 4)
 - [CMI 512 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/), Workforce Planning (Level 5)
