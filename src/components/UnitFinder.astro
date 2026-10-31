@@ -112,14 +112,15 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
     padding: 1.1rem 1.25rem 1.25rem;
     max-width: 640px;
     text-align: left;
-    background: rgba(255, 255, 255, .12);
-    border: 1px solid rgba(255, 255, 255, .25);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow);
     border-radius: 12px;
   }
   .uf-title {
     font-size: 1.05rem;
     font-weight: 700;
-    color: #fff;
+    color: var(--navy);
     margin: 0 0 .75rem;
     text-align: center;
   }
@@ -133,41 +134,41 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
   .uf-form[hidden], .uf-fallback[hidden] { display: none; }
   .uf-field { display: flex; flex-direction: column; gap: .3rem; flex: 0 1 11rem; min-width: 0; }
   .uf-field--unit { flex: 1 1 16rem; }
-  .uf-field label { font-size: .85rem; font-weight: 600; color: #dbeafe; }
+  .uf-field label { font-size: .85rem; font-weight: 600; color: var(--text); }
   .uf-field select {
     width: 100%;
     min-height: 44px;
     padding: .55rem .75rem;
     font: inherit;
     font-size: 1rem;
-    color: #1f2937;
-    background: #fff;
-    border: 2px solid transparent;
+    color: var(--text);
+    background: var(--bg);
+    border: 2px solid var(--text-muted);
     border-radius: 8px;
   }
-  .uf-field select:disabled { background: #e5e7eb; color: #4b5563; }
+  .uf-field select:disabled { background: var(--bg-light); color: var(--text); --text-muted: var(--text); }
   .uf-btn {
     min-height: 44px;
     padding: .55rem 1.4rem;
     font-size: 1rem;
     font-weight: 700;
-    color: var(--navy);
-    background: #fff;
-    border: 2px solid #fff;
+    color: #fff;
+    background: var(--blue);
+    border: 2px solid var(--blue);
   }
-  .uf-btn:hover { background: #dbeafe; border-color: #dbeafe; }
+  .uf-btn:hover { background: var(--accent-strong-hover); border-color: var(--accent-strong-hover); }
   .uf-form select:focus-visible,
   .uf-btn:focus-visible,
   .uf-msg a:focus-visible,
   .uf-fallback a:focus-visible {
-    outline: 3px solid #fbbf24;
+    outline: 3px solid var(--focus-ring);
     outline-offset: 2px;
   }
-  .uf-msg { flex: 1 1 100%; margin: 0; font-size: .92rem; line-height: 1.5; color: #fff; text-align: center; }
+  .uf-msg { flex: 1 1 100%; margin: 0; font-size: .92rem; line-height: 1.5; color: var(--navy); text-align: center; }
   .uf-msg:empty { display: none; }
-  .uf-msg--warn { color: #fde68a; }
-  .uf-msg a, .uf-fallback a { color: #fff; font-weight: 600; text-decoration: underline; }
-  .uf-fallback { margin: 0; font-size: .95rem; color: #dbeafe; text-align: center; }
+  .uf-msg--warn { color: var(--navy); font-weight: 600; }
+  .uf-msg a, .uf-fallback a { color: var(--blue); font-weight: 600; text-decoration: underline; }
+  .uf-fallback { margin: 0; font-size: .95rem; color: var(--text); text-align: center; }
 
   @media (max-width: 720px) {
     .unit-finder { padding: 1rem; }
