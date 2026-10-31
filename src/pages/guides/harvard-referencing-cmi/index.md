@@ -9,7 +9,7 @@ headerImageAlt: "Harvard Referencing for CMI Assignments — the complete guide"
 
 # Harvard Referencing for CMI Assignments | Guide
 
-Harvard author-date referencing is the style most CMI centres ask for, and this guide covers the formats CMI learners need most: in-text citation, the reference list, and common source types. First, what CMI itself says: its syllabuses at Levels 3 to 7 ask for "appropriate use of evidence, examples and references to support conclusions and recommendations". They do not name a referencing style and they do not set a minimum number of sources. Your centre sets the style and any source expectations, so check its guidance before you start and follow it over anything here.
+Harvard author-date referencing is the style most CMI centres ask for, and this guide covers the formats CMI learners need most: in-text citation, the reference list, and common source types. First, what CMI itself says: its syllabuses at Levels 4 to 7 ask for "appropriate use of evidence, examples and references to support conclusions and recommendations". The unit specifications don't name a referencing style or set a minimum number of sources. Your centre sets the style and any source expectations, so check its guidance before you start and follow it over anything here.
 
 ## Why Referencing Matters in CMI Assignments
 
@@ -137,7 +137,7 @@ Using it is optional unless your centre says otherwise. If you do cite it, cite 
 
 ## How Many Sources, and Which Kinds?
 
-There is no CMI minimum. CMI says the evidence must be appropriate, and your brief or centre may give its own guidance. The questions that matter are these:
+The unit specifications don't set a minimum number of sources. CMI says the evidence must be appropriate, and your brief or centre may give its own guidance. The questions that matter are these:
 
 - Does each significant claim rest on a source or on a specific example from your own organisation?
 - Are the sources reasonably current, and from reputable publishers, journals, professional bodies or government?
@@ -167,7 +167,7 @@ Treat CMI as the author: CMI (Year) *Title* [Online]. Available at: URL (Accesse
 
 **How many sources do I need?**
 
-CMI sets no minimum number. Use enough good sources that each significant claim is supported, and check whether your brief or centre states its own expectation.
+The unit specifications don't set a minimum number of sources. Use enough good sources that each significant claim is supported, and check whether your brief or centre states its own expectation.
 
 **What is the difference between in-text citation and the reference list?**
 
