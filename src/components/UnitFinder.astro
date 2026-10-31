@@ -109,38 +109,38 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
 <style>
   .unit-finder {
     margin: 0 auto 1.25rem;
-    padding: 1.1rem 1.25rem 1.25rem;
-    max-width: 640px;
+    padding: 1.5rem 1.75rem 1.75rem;
+    max-width: 600px;
     text-align: left;
     background: var(--bg);
-    border: 1px solid var(--border);
+    border: 2px solid var(--accent);
     box-shadow: var(--shadow);
-    border-radius: 12px;
+    border-radius: 16px;
   }
   .uf-title {
-    font-size: 1.05rem;
-    font-weight: 700;
+    font-size: 1.35rem;
+    font-weight: 800;
     color: var(--navy);
-    margin: 0 0 .75rem;
+    margin: 0 0 1rem;
     text-align: center;
   }
   .uf-form {
     display: flex;
     flex-wrap: wrap;
-    gap: .75rem 1rem;
+    gap: 1rem;
     align-items: flex-end;
     justify-content: center;
   }
   .uf-form[hidden], .uf-fallback[hidden] { display: none; }
   .uf-field { display: flex; flex-direction: column; gap: .3rem; flex: 0 1 11rem; min-width: 0; }
   .uf-field--unit { flex: 1 1 16rem; }
-  .uf-field label { font-size: .85rem; font-weight: 600; color: var(--text); }
+  .uf-field label { font-size: 1rem; font-weight: 600; color: var(--text); }
   .uf-field select {
     width: 100%;
-    min-height: 44px;
-    padding: .55rem .75rem;
+    min-height: 52px;
+    padding: .65rem .85rem;
     font: inherit;
-    font-size: 1rem;
+    font-size: 1.1rem;
     color: var(--text);
     background: var(--bg);
     border: 2px solid var(--text-muted);
@@ -148,9 +148,10 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
   }
   .uf-field select:disabled { background: var(--bg-light); color: var(--text); --text-muted: var(--text); }
   .uf-btn {
-    min-height: 44px;
-    padding: .55rem 1.4rem;
-    font-size: 1rem;
+    width: 100%;
+    min-height: 56px;
+    padding: .7rem 1.4rem;
+    font-size: 1.2rem;
     font-weight: 700;
     color: #fff;
     background: var(--blue);
@@ -170,9 +171,11 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
   .uf-msg a, .uf-fallback a { color: var(--blue); font-weight: 600; text-decoration: underline; }
   .uf-fallback { margin: 0; font-size: .95rem; color: var(--text); text-align: center; }
 
+  @media (min-width: 1024px) {
+    .unit-finder { margin-left: 0; margin-right: 0; max-width: 560px; }
+  }
   @media (max-width: 720px) {
-    .unit-finder { padding: 1rem; }
+    .unit-finder { padding: 1.25rem 1rem 1.5rem; }
     .uf-field, .uf-field--unit { flex: 1 1 100%; }
-    .uf-btn { width: 100%; }
   }
 </style>
