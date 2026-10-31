@@ -1,5 +1,6 @@
 ﻿---
 import SocialShareSidebar from '../components/SocialShareSidebar.astro';
+import CookieBanner from '../components/CookieBanner.astro';
 import { levels, guides, services } from '../data/navMenu.js';
 
 interface Props {
@@ -92,17 +93,9 @@ const extraSchemas = pageSchema
     {extraSchemas.map(s => (
       <script type="application/ld+json" set:html={JSON.stringify(s)} />
     ))}
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NVSRJ51S2S"></script>
-    <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
-      gtag('config', 'G-NVSRJ51S2S');
-    </script>
   </head>
   <body>
+    <CookieBanner />
 
     <header class="site-header">
       <div class="container header-inner">
@@ -208,6 +201,7 @@ const extraSchemas = pageSchema
             <h3 class="footer-heading footer-heading--legal">Legal</h3>
             <ul class="footer-links">
               {legalLinks.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+              <li><button type="button" class="cookie-settings-link" data-cookie-settings hidden>Cookie settings</button></li>
             </ul>
           </div>
         </div>
@@ -253,6 +247,7 @@ const extraSchemas = pageSchema
             <h3 class="footer-heading">Legal</h3>
             <ul class="footer-links">
               {legalLinks.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+              <li><button type="button" class="cookie-settings-link" data-cookie-settings hidden>Cookie settings</button></li>
             </ul>
           </div>
         </div>
