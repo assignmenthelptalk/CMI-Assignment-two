@@ -169,7 +169,7 @@ const steps = [
        HERO — macro context, WhatsApp CTA above fold
   ══════════════════════════════════════════════════ -->
   <section class="hero">
-    <div class="container hero-grid">
+    <div class="container">
       <div class="hero-text">
         <p class="hero-eyebrow">UK-Based CMI Writers — All Levels 3 to 7</p>
         <h1 class="hero-h1">CMI Assignment Help UK</h1>
@@ -191,18 +191,6 @@ const steps = [
         </div>
         <p class="hero-note">Fixed quote in 2 hours &bull; All 5 CMI qualification levels &bull; UK-based writers</p>
       </div>
-      <picture class="hero-art" aria-hidden="true">
-        <source media="(min-width: 1024px)" srcset="/images/hero/hero-selector-wide.webp" type="image/webp" width="1376" height="768" />
-        <img
-          src="/images/hero/hero-selector-square.webp"
-          alt=""
-          aria-hidden="true"
-          width="1024"
-          height="1024"
-          decoding="async"
-          fetchpriority="low"
-        />
-      </picture>
     </div>
   </section>
 
@@ -455,32 +443,10 @@ const steps = [
     color: var(--navy);
     padding: 5rem 0 4rem;
   }
-  .hero-grid {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr);
-    gap: 2rem;
-    align-items: center;
-  }
   .hero-text {
     max-width: 760px;
     margin: 0 auto;
     text-align: center;
-  }
-  /* Decorative illustration. Multiply lets its near-white background take on the hero tint. */
-  .hero-art {
-    display: block;
-    width: 100%;
-    max-width: 360px;
-    margin: 0 auto;
-  }
-  .hero-art img {
-    display: block;
-    width: 100%;
-    height: auto;
-    mix-blend-mode: multiply;
-    pointer-events: none;
-    -webkit-mask-image: radial-gradient(closest-side at 50% 50%, #000 78%, transparent 100%);
-    mask-image: radial-gradient(closest-side at 50% 50%, #000 78%, transparent 100%);
   }
   .hero-eyebrow {
     font-size: .85rem;
@@ -538,18 +504,6 @@ const steps = [
   .hero-note {
     font-size: .82rem;
     color: var(--blue);
-  }
-  @media (min-width: 1024px) {
-    /* Same centred column as on phones, with the wide illustration below the selector.
-       Its left third is empty, so crop it with CSS to centre the artwork. */
-    .hero-art { max-width: 520px; }
-    .hero-art img {
-      aspect-ratio: 10 / 9;
-      object-fit: cover;
-      object-position: 100% 50%;
-      -webkit-mask-image: radial-gradient(ellipse 70% 70% at 50% 50%, #000 50%, transparent 100%);
-      mask-image: radial-gradient(ellipse 70% 70% at 50% 50%, #000 50%, transparent 100%);
-    }
   }
 
   /* ── Level cards ── */

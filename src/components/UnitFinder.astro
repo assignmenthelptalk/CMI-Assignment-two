@@ -191,4 +191,14 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
     .unit-finder { padding: 1.25rem 1rem 1.5rem; }
     .uf-field, .uf-field--unit { flex: 1 1 100%; }
   }
+
+  /* The selector is the main element of the hero, so it gets a larger card on big screens. */
+  @media (min-width: 1024px) {
+    .unit-finder { max-width: 720px; padding: 2rem 2.5rem 2.25rem; }
+    .uf-title { font-size: 1.6rem; margin-bottom: 1.25rem; }
+    .uf-form { gap: 1.25rem; }
+    .uf-field label { font-size: 1.05rem; }
+    .uf-field select { min-height: 60px; font-size: 1.2rem; }
+    .uf-btn { min-height: 64px; font-size: 1.3rem; }
+  }
 </style>
