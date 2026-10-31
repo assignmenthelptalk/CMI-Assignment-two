@@ -12,7 +12,7 @@ noindex: true
 
 ## Money-Back Guarantee
 
-This policy explains when you can ask for a refund or compensation on an order. If your situation doesn't fit any category below, contact our Support Team at [email] and we'll review it individually.
+This policy explains when you can ask for a refund or compensation on an order. If your situation doesn't fit any category below, contact our Support Team at assignmenthelptalk@gmail.com and we'll review it individually.
 
 Nothing in this policy affects your statutory rights as a consumer.
 

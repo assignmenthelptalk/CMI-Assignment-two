@@ -28,4 +28,4 @@ CMI centres and awarding bodies have rules on authorship, referencing and plagia
 We don't guarantee grades, results or that work will pass any similarity-checking system. We don't advise on getting round centre or awarding body checks.
 
 ## Questions
-If you're unsure how to use our materials within your centre's rules, ask your centre's assessor or tutor first, or contact us at [email].
+If you're unsure how to use our materials within your centre's rules, ask your centre's assessor or tutor first, or contact us at assignmenthelptalk@gmail.com.
