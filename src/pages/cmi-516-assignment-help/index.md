@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 516 Assignment Help"
+title: "CMI Unit 516 Assignment Help - Planning, Procuring and Managing Resources | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 516 assignment help (Level 5). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-516-assignment-help/"
 headerImage: "/images/headers/cmi-516-assignment-help.webp"
