@@ -1,0 +1,77 @@
+---
+// "Chat with us" button for the tawk.to live chat. tawk.to's own bubble is hidden; this button opens the chat window,
+// and shows again when the visitor minimises it. Set the two IDs below (the two parts of the embed.tawk.to/<property>/<widget> address).
+// Until both are set, nothing is rendered and the tawk.to script is not loaded.
+// The chat loads on every page, whatever the cookie banner choice, so the Privacy Policy discloses it.
+const TAWK_PROPERTY_ID = 'PROPERTY_ID';
+const TAWK_WIDGET_ID = 'WIDGET_ID';
+const enabled = !TAWK_PROPERTY_ID.startsWith('PROPERTY') && !TAWK_WIDGET_ID.startsWith('WIDGET');
+---
+{enabled && (
+  <>
+    <button type="button" id="chat-trigger" class="chat-trigger" hidden>
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false"><path d="M4 4h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H8l-4 4V6a2 2 0 0 1 2-2z"/></svg>
+      Chat with us
+    </button>
+
+    <script is:inline define:vars={{ propertyId: TAWK_PROPERTY_ID, widgetId: TAWK_WIDGET_ID }}>
+      // tawk.to looks for these two on window, so set them there explicitly.
+      window.Tawk_API = window.Tawk_API || {};
+      window.Tawk_LoadStart = new Date();
+      (function () {
+        var Tawk_API = window.Tawk_API;
+        var btn = document.getElementById('chat-trigger');
+        if (!btn) return;
+
+        Tawk_API.onLoad = function () {
+          Tawk_API.hideWidget();          // hide tawk's default bubble
+          btn.hidden = false;             // show our trigger
+        };
+        btn.addEventListener('click', function () {
+          btn.hidden = true;
+          Tawk_API.showWidget();
+          Tawk_API.maximize();            // open the chat window
+        });
+        Tawk_API.onChatMinimized = function () {
+          Tawk_API.hideWidget();
+          btn.hidden = false;
+        };
+
+        var s1 = document.createElement('script'), s0 = document.getElementsByTagName('script')[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/' + propertyId + '/' + widgetId;
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+      })();
+    </script>
+  </>
+)}
+
+<style is:global>
+  .chat-trigger {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 240;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 48px;
+    padding: 12px 18px;
+    border: 0;
+    border-radius: 999px;
+    background: var(--blue);
+    color: #fff;
+    font: 600 15px/1 system-ui, sans-serif;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, .25);
+    cursor: pointer;
+  }
+  .chat-trigger[hidden] { display: none; }
+  .chat-trigger:hover { background: var(--accent-strong-hover); }
+  .chat-trigger:focus-visible { outline: 3px solid var(--focus-ring); outline-offset: 2px; }
+  /* On phones the cookie banner is a full-width bar, so the button sits above it while it shows. */
+  @media (max-width: 640px) {
+    body:has(.cookie-banner:not([hidden])) .chat-trigger { bottom: 14rem; }
+  }
+</style>
