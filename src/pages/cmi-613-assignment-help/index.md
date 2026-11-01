@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 613 Assignment Help"
+title: "CMI Unit 613 Assignment Help - Leading Equality, Diversity and Inclusion | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 613 assignment help (Level 6). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-613-assignment-help/"
 headerImage: "/images/headers/cmi-613-assignment-help.webp"
