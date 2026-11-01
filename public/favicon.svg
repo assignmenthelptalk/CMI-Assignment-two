@@ -6,9 +6,5 @@
     <style>
         .ico { fill: #2563eb; }
         .ico-line { stroke: #2563eb; }
-        @media (prefers-color-scheme: dark) {
-            .ico { fill: #FFF; }
-            .ico-line { stroke: #FFF; }
-        }
     </style>
 </svg>
