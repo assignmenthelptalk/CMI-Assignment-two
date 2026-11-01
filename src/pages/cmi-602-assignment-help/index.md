@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 602 Assignment Help"
+title: "CMI Unit 602 Assignment Help - Developing, Managing and Leading Individuals and Teams | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 602 assignment help (Level 6). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/"
 headerImage: "/images/headers/cmi-602-assignment-help.webp"
