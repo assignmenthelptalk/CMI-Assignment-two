@@ -1,5 +1,6 @@
 ﻿---
 import CookieBanner from '../components/CookieBanner.astro';
+import ChatWidget from '../components/ChatWidget.astro';
 import { levels, guides, services } from '../data/navMenu.js';
 
 interface Props {
@@ -96,6 +97,7 @@ const extraSchemas = pageSchema
   </head>
   <body>
     <CookieBanner />
+    <ChatWidget />
 
     <header class="site-header">
       <div class="container header-inner">
