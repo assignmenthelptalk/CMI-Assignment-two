@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 706 Assignment Help | Finance for Strategic Leaders"
+title: "CMI Unit 706 Assignment Help - Finance for Strategic Leaders Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 706 assignment help (Level 7). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/"
 headerImage: "/images/headers/cmi-706-assignment-help.webp"
