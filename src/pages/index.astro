@@ -327,7 +327,7 @@ const steps = [
   ══════════════════════════════════════════════════ -->
   <section class="section" id="levels">
     <div class="container">
-      <h2 class="section-title" id="cmi-assignment-help-by-level">CMI Assignment Help by Level</h2>
+      <h2 class="section-title" id="cmi-assignment-help-by-level">Choose Your CMI Level</h2>
       <p class="section-lead">
         Select your CMI qualification level for level-specific assignment writing, tutoring, and unit-by-unit support.
         Every level has distinct command verb requirements, format standards, and word count targets. Our writers are
@@ -357,7 +357,7 @@ const steps = [
   ══════════════════════════════════════════════════ -->
   <section class="section">
     <div class="container">
-      <h2 class="section-title" id="how-cmi-assignment-help-works">How CMI Assignment Help Works</h2>
+      <h2 class="section-title" id="how-cmi-assignment-help-works">How Ordering Works, Step by Step</h2>
       <p class="section-lead">
         The entire process runs through WhatsApp, from initial quote to final delivery. No registration, no portals.
       </p>
@@ -387,7 +387,7 @@ const steps = [
   ══════════════════════════════════════════════════ -->
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title" id="uk-based-cmi-qualified-writers">UK-Based CMI-Qualified Writers</h2>
+      <h2 class="section-title" id="uk-based-cmi-qualified-writers">Who Works on Your Assignment</h2>
       <p class="section-lead">
         Every CMI assignment is written by a practitioner who holds the CMI qualification at the level they write,
         not a generalist academic writer.
@@ -432,7 +432,7 @@ const steps = [
   ══════════════════════════════════════════════════ -->
   <section class="section">
     <div class="container faq-wrap">
-      <h2 class="section-title faq-title" id="cmi-assignment-help-faq">CMI Assignment Help — Frequently Asked Questions</h2>
+      <h2 class="section-title faq-title" id="cmi-assignment-help-faq">Frequently Asked Questions</h2>
       <p class="section-lead faq-lead">Quick answers on levels, grading, referencing, resubmissions and ordering.</p>
 
       <div class="faq-tabbed" id="faq-tabbed">
@@ -517,7 +517,7 @@ const steps = [
   ══════════════════════════════════════════════════ -->
   <section class="section cta-section">
     <div class="container cta-inner">
-      <h2 class="cta-h2">Get Your CMI Assignment Help Today</h2>
+      <h2 class="cta-h2">Get a Quote Today</h2>
       <p class="cta-sub">
         Message us on WhatsApp with your unit number and deadline. Fixed quote in 2 hours.
         UK-based CMI-qualified writers across all levels and all 80+ CMI units.
@@ -608,6 +608,8 @@ const steps = [
   /* ── Section headings and card grids ── */
   /* Every section heading and its lead paragraph is centred, and so are the cards under it, including a short last row. */
   .section-title { text-align: center; }
+  /* Headings that wrap split evenly instead of leaving one word on the last line. The services heading keeps its own sizing. */
+  .section-title:not(.services-title), .cta-h2 { text-wrap: balance; }
   .section-lead { margin-left: auto; margin-right: auto; text-align: center; }
   .level-grid, .steps-grid, .cred-grid {
     display: flex;
