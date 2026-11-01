@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 508 Assignment Help"
+title: "CMI Unit 508 Assignment Help - Principles of Developing a Skilled and Talented Workforce | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 508 assignment help (Level 5). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-508-assignment-help/"
 headerImage: "/images/headers/cmi-508-assignment-help.webp"
