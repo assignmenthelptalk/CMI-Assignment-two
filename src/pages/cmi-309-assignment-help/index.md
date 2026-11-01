@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 309 Assignment Help"
+title: "CMI Unit 309 Assignment Help - Responding to Conflict in the Workplace | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 309 assignment help (Level 3). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/"
 headerImage: "/images/headers/cmi-309-assignment-help.webp"
