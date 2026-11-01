@@ -106,31 +106,13 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 4 units
 
 - [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 12 Level 4 Diploma units
-- [CMI 4005 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/), Management Report Writing (Level 4)
-- [CMI 4002 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/), Managing Stakeholders' Expectations (Level 4)
-- [CMI 512 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/), Workforce Planning (Level 5)
+- [All CMI Level 4 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-4-units/), all 12 Level 4 units, including the three Level 5 coded units in the Diploma
+- [CMI 4008 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/), Promoting Equality and Diversity (Level 4)
+- [CMI 5001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-5001-assignment-help/), Personal Development as a Manager and Leader (Level 5 coded, Level 4 Diploma)
+- [CMI 5014 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-5014-assignment-help/), Introduction to Management Coaching and Mentoring (Level 5 coded, Level 4 Diploma)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 504 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-504-assignment-help/), Managing Performance (Level 5), a related topic: managing performance
-- [CMI 4007 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/), Managing Interviews (Level 4), a related topic: interviewing and selection
-- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3), a related topic: staff review and inspection
-- [CMI 316 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-316-assignment-help/), Monitoring Quality to Improve Outcomes (Level 3), a related topic: staff review and inspection
-- [CMI 519 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/), Managing Quality and Continuous Improvement (Level 5), a related topic: staff review and inspection
-- [CMI 602 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/), Developing, Managing and Leading Individuals and Teams (Level 6), a related topic: staff review and inspection
-
-## Other CMI Level 4 units
-
-The other units under [CMI Level 4 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/):
-
-- [CMI 4001: Managerial Styles and Behaviours](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/)
-- [CMI 4002: Managing Stakeholders' Expectations](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/)
-- [CMI 4003: Understanding Organisational Culture, Values and Behaviour](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/)
-- [CMI 4004: Understanding Team Dynamics](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/)
-- [CMI 4005: Management Report Writing](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/)
-- [CMI 4006: Management and Leadership Influencing Skills](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/)
-- [CMI 4007: Managing Interviews](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/)
-- [CMI 4008: Promoting Equality and Diversity](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/)

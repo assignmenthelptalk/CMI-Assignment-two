@@ -107,9 +107,10 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 5 units
 
 - [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), all 26 Level 5 units
-- [CMI 513 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/), Managing Projects to Achieve Results (Level 5)
+- [All CMI Level 5 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-5-units/), every Level 5 unit with its code and title
 - [CMI 516 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-516-assignment-help/), Planning, Procuring and Managing Resources (Level 5)
 - [CMI 519 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/), Managing Quality and Continuous Improvement (Level 5)
+- [CMI 514 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/), Managing Change (Level 5)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
@@ -117,36 +118,3 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Senge, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6), also names Senge
-- [CMI 613 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-613-assignment-help/), Leading Equality, Diversity and Inclusion (Level 6), also names Senge
-- [CMI 312 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-312-assignment-help/), Managing Daily Activities to Achieve Results (Level 3), a related topic: managing daily activities and plans
-
-## Other CMI Level 5 units
-
-The other units under [CMI Level 5 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/):
-
-- [CMI 501: Principles of Management and Leadership in an Organisational Context](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/)
-- [CMI 502: Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/)
-- [CMI 503: Principles of Managing and Leading Individuals and Teams to Achieve Success](https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/)
-- [CMI 504: Managing Performance](https://www.cmiassignmenthelp.uk.com/cmi-504-assignment-help/)
-- [CMI 505: Forming Successful Teams](https://www.cmiassignmenthelp.uk.com/cmi-505-assignment-help/)
-- [CMI 506: Managing Equality, Diversity and Inclusion](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/)
-- [CMI 507: Principles of Delivering Coaching and Mentoring](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/)
-- [CMI 508: Principles of Developing a Skilled and Talented Workforce](https://www.cmiassignmenthelp.uk.com/cmi-508-assignment-help/)
-- [CMI 509: Managing Stakeholder Relationships](https://www.cmiassignmenthelp.uk.com/cmi-509-assignment-help/)
-- [CMI 510: Managing Conflict](https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/)
-- [CMI 511: Principles of Recruiting, Selecting and Retaining Talent](https://www.cmiassignmenthelp.uk.com/cmi-511-assignment-help/)
-- [CMI 512: Workforce Planning](https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/)
-- [CMI 513: Managing Projects to Achieve Results](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/)
-- [CMI 514: Managing Change](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/)
-- [CMI 516: Planning, Procuring and Managing Resources](https://www.cmiassignmenthelp.uk.com/cmi-516-assignment-help/)
-- [CMI 517: Principles of Innovation](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/)
-- [CMI 518: Risk Management](https://www.cmiassignmenthelp.uk.com/cmi-518-assignment-help/)
-- [CMI 519: Managing Quality and Continuous Improvement](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/)
-- [CMI 520: Managing Finance](https://www.cmiassignmenthelp.uk.com/cmi-520-assignment-help/)
-- [CMI 521: Using Data and Information for Decision Making](https://www.cmiassignmenthelp.uk.com/cmi-521-assignment-help/)
-- [CMI 522: Managing the Customer Experience](https://www.cmiassignmenthelp.uk.com/cmi-522-assignment-help/)
-- [CMI 523: Principles of Marketing Products and Services](https://www.cmiassignmenthelp.uk.com/cmi-523-assignment-help/)
-- [CMI 524: Conducting a Management Project](https://www.cmiassignmenthelp.uk.com/cmi-524-assignment-help/)
-- [CMI 525: Using Reflective Practice to Inform Personal and Professional Development](https://www.cmiassignmenthelp.uk.com/cmi-525-assignment-help/)
-- [CMI 526: Principles of Leadership Practice](https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/)

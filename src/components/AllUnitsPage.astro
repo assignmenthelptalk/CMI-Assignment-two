@@ -1,0 +1,84 @@
+---
+// The "all units" page for one CMI level: every unit of the level as a linked tile. The level hub links only to its
+// featured units, so this page is where the rest of the units get their links from. Texts come from data/featuredUnits.js.
+import Layout from '../layouts/Layout.astro';
+import UnitList from './UnitList.astro';
+import { levelInfo, allUnitsPath } from '../data/featuredUnits.js';
+
+interface Props { level: 3 | 4 | 5 | 6 | 7 }
+const { level } = Astro.props;
+
+const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
+const whatsappUrl = 'https://wa.me/447916696894';
+const { qualification, count, range } = levelInfo[level];
+const hubUrl = `${siteUrl}/cmi-level-${level}-assignment-help/`;
+const title = level === 4 ? 'All CMI Level 4 Units: 4001 to 4009, 5001, 5012, 5014' : `All CMI Level ${level} Units: ${range} with Unit Pages`;
+const description = `Every CMI Level ${level} unit (${count} in all) with its code, title and a link to its assignment help page. Choose your unit, or go back to the Level ${level} overview.`;
+const otherLevels = [3, 4, 5, 6, 7].filter((l) => l !== level);
+---
+<Layout title={title} description={description} canonical={siteUrl + allUnitsPath(level)}>
+  <section class="section all-intro">
+    <div class="container narrow">
+      <h1>All CMI Level {level} Units ({level === 4 ? '4001 to 4009, 5001, 5012, 5014' : range})</h1>
+      <p class="all-lead">
+        This page lists all {count} units of the CMI Level {level} {qualification} qualification, numbered {range}.
+        Each tile links to that unit's assignment help page. Which units make up your Award, Certificate or Diploma
+        depends on your training provider's rules of combination.
+      </p>
+      <p>
+        For how Level {level} is assessed, graded and worded, see the <a href={hubUrl}>CMI Level {level} assignment help</a> overview.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id={`all-level-${level}-units`}>{level === 4 ? 'CMI Level 4 coded units (4001–4009)' : `All ${count} CMI Level ${level} units`}</h2>
+      <UnitList level={level} />
+
+      {level === 4 && (
+        <>
+          <h2 class="section-title all-second" id="level-5-coded-units-in-the-level-4-diploma">Level 5 coded units in the Level 4 Diploma</h2>
+          <p class="all-note">
+            Units 5001, 5012 and 5014 carry Level 5 codes and are in the Level 4 Diploma only, not in the Award or Certificate.
+          </p>
+          <UnitList level={4} l5Coded />
+        </>
+      )}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow all-foot">
+      <h2 class="section-title" id="get-a-quote">Get a Quote for Your Unit</h2>
+      <p>
+        Message us on WhatsApp with your unit number and assignment brief and we will send you a quote.
+      </p>
+      <p>
+        <a href={whatsappUrl} class="btn btn-whatsapp" target="_blank" rel="noopener noreferrer">WhatsApp Us for a Quote</a>
+      </p>
+      <p class="all-other">
+        Other levels:
+        {otherLevels.map((l, i) => (
+          <>{i > 0 && ' · '}<a href={siteUrl + allUnitsPath(l)}>Level {l} units</a></>
+        ))}
+      </p>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .narrow { max-width: 820px; }
+  .all-intro h1 { font-size: 2rem; font-weight: 800; color: var(--navy); line-height: 1.25; margin-bottom: 1rem; }
+  .all-lead { font-size: 1.05rem; margin-bottom: 1rem; }
+  .all-intro p, .all-foot p { line-height: 1.7; margin-bottom: 1rem; }
+  .all-intro a, .all-other a { text-decoration: underline; text-underline-offset: 2px; }
+  .all-second { margin-top: 2.5rem; }
+  .all-note { margin: 0 0 1.25rem; }
+  .all-other { margin-top: 1.5rem; }
+  .section-title { text-align: center; margin-bottom: 1.5rem; }
+  .all-foot .section-title { text-align: left; }
+  @media (max-width: 640px) {
+    .all-intro h1 { font-size: 1.6rem; }
+  }
+</style>

@@ -2,6 +2,8 @@
 import Layout from '../../layouts/Layout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import UnitList from '../../components/UnitList.astro';
+import UnitFinder from '../../components/UnitFinder.astro';
+import { featuredUnits, allUnitsPath } from '../../data/featuredUnits.js';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
@@ -185,27 +187,28 @@ const faqSchema = {
   ════════════════════════════════════════ -->
   <section class="section section-alt">
     <div class="container content-wrap">
-      <h2 class="section-title" id="all-9-cmi-level-4-units">CMI Level 4 Assignment Help for All 9 Level 4 Coded Units (4001–4009)</h2>
+      <h2 class="section-title" id="all-9-cmi-level-4-units">Find Your CMI Level 4 Unit (4001–4009)</h2>
       <p class="section-lead">
-        Complete coverage across all 9 Level 4 coded units in the CMI Level 4 Management and Leadership qualification.
+        CMI lists 9 Level 4 coded units, numbered 4001 to 4009. Three more units carry Level 5 codes and are covered further down.
       </p>
 
       <p>
-        CMI lists 9 Level 4 coded units, numbered 4001 to 4009. Three more units carry Level 5 codes and are listed below. Where a unit has its own page, its tile links to it,
-        and assignment help is available for every unit: send your unit number and brief via WhatsApp. Which units
+        Choose your unit below or open the full list. Assignment help is available for every unit: send your unit number and brief via WhatsApp. Which units
         make up your Award, Certificate or Diploma depends on your training provider's rules of combination.
       </p>
 
-      <UnitList level={4} />
+      <UnitFinder level={4} />
+
+      <UnitList level={4} only={featuredUnits[4]} lead="Featured Level 4 units:" allHref={siteUrl + allUnitsPath(4)} allLabel="See all 12 CMI Level 4 units" />
 
       <h3 class="l5-coded-title" id="level-5-coded-units-in-the-level-4-diploma">Level 5 coded units in the Level 4 Diploma</h3>
       <p>
         Three units in the CMI Level 4 Diploma in Management and Leadership carry Level 5 codes and are at RQF level 5.
         Unit 5001 is mandatory (Group A). Units 5012 and 5014 are optional (Group B). All three are in the Diploma
-        only, not in the Award or Certificate.
+        only, not in the Award or Certificate. Their unit pages are on the <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-units/" style="text-decoration:underline">all Level 4 units</a> page.
       </p>
 
-      <UnitList level={4} l5Coded />
+      <UnitList level={4} l5Coded linked={false} />
     </div>
   </section>
 

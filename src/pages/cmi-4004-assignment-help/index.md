@@ -114,9 +114,10 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 4 units
 
 - [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 12 Level 4 Diploma units
-- [CMI 4003 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/), Understanding Organisational Culture, Values and Behaviour (Level 4)
+- [All CMI Level 4 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-4-units/), all 12 Level 4 units, including the three Level 5 coded units in the Diploma
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4)
-- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5)
+- [CMI 4003 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/), Understanding Organisational Culture, Values and Behaviour (Level 4)
+- [CMI 4005 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/), Management Report Writing (Level 4)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
@@ -124,21 +125,3 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Tuckman, Belbin, Tannenbaum and Schmidt and Hersey and Blanchard, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3), also names Tuckman, Belbin and Tannenbaum and Schmidt
-- [CMI 505 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-505-assignment-help/), Forming Successful Teams (Level 5), also names Tuckman and Belbin
-- [CMI 602 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/), Developing, Managing and Leading Individuals and Teams (Level 6), also names Tuckman and Belbin
-- [CMI 309 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/), Responding to Conflict in the Workplace (Level 3), a related topic: responding to conflict
-- [CMI 510 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/), Managing Conflict (Level 5), a related topic: managing conflict
-
-## Other CMI Level 4 units
-
-The other units under [CMI Level 4 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/):
-
-- [CMI 4001: Managerial Styles and Behaviours](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/)
-- [CMI 4002: Managing Stakeholders' Expectations](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/)
-- [CMI 4003: Understanding Organisational Culture, Values and Behaviour](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/)
-- [CMI 4005: Management Report Writing](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/)
-- [CMI 4006: Management and Leadership Influencing Skills](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/)
-- [CMI 4007: Managing Interviews](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/)
-- [CMI 4008: Promoting Equality and Diversity](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/)
-- [CMI 4009: Staff Inspection Review](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/)

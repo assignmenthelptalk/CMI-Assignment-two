@@ -104,9 +104,10 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 3 units
 
 - [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), all 21 Level 3 units
-- [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3)
+- [All CMI Level 3 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-3-units/), every Level 3 unit with its code and title
 - [CMI 309 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/), Responding to Conflict in the Workplace (Level 3)
 - [CMI 311 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/), Contributing to the Delivery of a Project (Level 3)
+- [CMI 308 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/), Managing Volunteers (Level 3)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
@@ -114,31 +115,3 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Kotter, Lewin and Goleman, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 514 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/), Managing Change (Level 5), also names Kotter and Lewin
-- [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Organisational Culture (Level 6), also names Kotter and Lewin
-- [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names Kotter and Lewin
-
-## Other CMI Level 3 units
-
-The other units under [CMI Level 3 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/):
-
-- [CMI 301: Principles of Management and Leadership](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/)
-- [CMI 302: Managing a Team to Achieve Results](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/)
-- [CMI 303: Managing Individuals to be Effective in their Role](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/)
-- [CMI 304: Principles of Communication in the Workplace](https://www.cmiassignmenthelp.uk.com/cmi-304-assignment-help/)
-- [CMI 305: Building Stakeholder Relationships using Effective Communication](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/)
-- [CMI 306: Principles of Equality, Diversity and Inclusive Working Practice](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/)
-- [CMI 307: Developing the Knowledge, Skills and Abilities of Individuals and Teams](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/)
-- [CMI 308: Managing Volunteers](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/)
-- [CMI 309: Responding to Conflict in the Workplace](https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/)
-- [CMI 311: Contributing to the Delivery of a Project](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/)
-- [CMI 312: Managing Daily Activities to Achieve Results](https://www.cmiassignmenthelp.uk.com/cmi-312-assignment-help/)
-- [CMI 313: Developing and Sharing Good Practice](https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/)
-- [CMI 314: Managing Budgets and Resources](https://www.cmiassignmenthelp.uk.com/cmi-314-assignment-help/)
-- [CMI 315: Principles of Health and Safety in a Work Setting](https://www.cmiassignmenthelp.uk.com/cmi-315-assignment-help/)
-- [CMI 316: Monitoring Quality to Improve Outcomes](https://www.cmiassignmenthelp.uk.com/cmi-316-assignment-help/)
-- [CMI 317: Supporting the Delivery of Customer Service](https://www.cmiassignmenthelp.uk.com/cmi-317-assignment-help/)
-- [CMI 318: Managing Data and Information](https://www.cmiassignmenthelp.uk.com/cmi-318-assignment-help/)
-- [CMI 319: Managing Meetings](https://www.cmiassignmenthelp.uk.com/cmi-319-assignment-help/)
-- [CMI 320: Presenting for Success](https://www.cmiassignmenthelp.uk.com/cmi-320-assignment-help/)
-- [CMI 321: Managing Own Personal and Professional Development](https://www.cmiassignmenthelp.uk.com/cmi-321-assignment-help/)

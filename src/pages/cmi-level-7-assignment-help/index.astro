@@ -2,6 +2,8 @@
 import Layout from '../../layouts/Layout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import UnitList from '../../components/UnitList.astro';
+import UnitFinder from '../../components/UnitFinder.astro';
+import { featuredUnits, allUnitsPath } from '../../data/featuredUnits.js';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
@@ -148,12 +150,15 @@ const faqSchema = {
   <!-- All 16 Units -->
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title" id="all-16-cmi-level-7-units">CMI Level 7 Assignment Help for All 16 Units (701–716)</h2>
+      <h2 class="section-title" id="all-16-cmi-level-7-units">Find Your CMI Level 7 Unit (701–716)</h2>
       <p class="section-lead">
-        Assignment help is available for every CMI Level 7 unit. Message us on WhatsApp with your unit
+        Choose your unit below or open the full list. Assignment help is available for every CMI Level 7 unit. Message us on WhatsApp with your unit
         number and brief to receive a quote within 2 hours.
       </p>
-      <UnitList level={7} />
+
+      <UnitFinder level={7} />
+
+      <UnitList level={7} only={featuredUnits[7]} lead="Featured Level 7 units:" allHref={siteUrl + allUnitsPath(7)} allLabel="See all 16 CMI Level 7 units" />
     </div>
   </section>
 
