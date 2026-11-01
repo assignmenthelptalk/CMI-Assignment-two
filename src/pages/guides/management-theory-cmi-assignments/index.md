@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "Management Theories for CMI Assignments | Frameworks Guide"
+title: "Management Theories for CMI Assignments - Frameworks & Models | CMIAssignmentHelp.uk.com"
 description: "Which management frameworks CMI's syllabuses name, in which units, and how to apply and critique them to the command verb of each assessment criterion."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/"
 headerImage: "/images/headers/management-theory-cmi-assignments.webp"

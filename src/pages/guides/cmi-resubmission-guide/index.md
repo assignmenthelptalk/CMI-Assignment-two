@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "CMI Referral and Resubmission Guide | What to Do"
+title: "CMI Referral and Resubmission Guide - What to Do | CMIAssignmentHelp.uk.com"
 description: "What a CMI Refer result means, how to read assessor feedback against the assessment criteria, and how to plan a targeted resubmission."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/"
 headerImage: "/images/headers/cmi-resubmission-guide.webp"
