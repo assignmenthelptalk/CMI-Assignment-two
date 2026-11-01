@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 611 Assignment Help | Knowledge Management"
+title: "CMI Unit 611 Assignment Help - Knowledge Management Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 611 assignment help (Level 6): Knowledge Management. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/"
 headerImage: "/images/headers/cmi-611-assignment-help.webp"

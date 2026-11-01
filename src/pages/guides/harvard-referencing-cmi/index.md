@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "Harvard Referencing for CMI Assignments | Guide"
+title: "Harvard Referencing for CMI Assignments - Citations Guide | CMIAssignmentHelp.uk.com"
 description: "How to reference a CMI assignment in Harvard style: in-text citations, a reference list, every common source type, and what CMI's syllabuses say about evidence."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/"
 headerImage: "/images/headers/harvard-referencing-cmi.webp"
