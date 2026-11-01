@@ -1,5 +1,5 @@
 ---
-// "Find my unit": level dropdown (3 to 7) filters a unit dropdown, and a button opens that unit's page.
+// "Find Your CMI Unit": level dropdown (3 to 7) filters a unit dropdown, and a button opens that unit's page.
 // Data: src/data/units.json (codes from the parsed CMI syllabuses). A unit links to its page only when the
 // page exists in the build; otherwise the selector shows a message with a WhatsApp link.
 // Without JavaScript the form stays hidden and plain links to the five level pages show instead.
@@ -19,7 +19,7 @@ const data = Object.fromEntries(
 const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
 ---
 <div class="unit-finder" data-unit-finder data-base={BASE} data-wa={WHATSAPP}>
-  <h2 class="uf-title" id="uf-title">Find my unit</h2>
+  <h2 class="uf-title" id="uf-title">Find Your CMI Unit</h2>
 
   <form class="uf-form" aria-labelledby="uf-title" hidden novalidate>
     <div class="uf-field">
