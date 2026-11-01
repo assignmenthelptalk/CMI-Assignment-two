@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "CMI Qualification Levels Explained: Levels 3 to 7"
+title: "CMI Qualification Levels Explained - Guide & Comparison | CMIAssignmentHelp.uk.com"
 description: "CMI qualification levels 3 to 7 explained from CMI's syllabuses: who each level is designed for, units, credits, word counts, command verbs and progression."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/"
 headerImage: "/images/headers/cmi-qualification-levels-explained.webp"
