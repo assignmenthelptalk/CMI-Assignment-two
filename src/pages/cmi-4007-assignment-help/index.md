@@ -96,29 +96,13 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 4 units
 
 - [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 12 Level 4 Diploma units
+- [All CMI Level 4 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-4-units/), all 12 Level 4 units, including the three Level 5 coded units in the Diploma
 - [CMI 4006 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/), Management and Leadership Influencing Skills (Level 4)
 - [CMI 4008 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/), Promoting Equality and Diversity (Level 4)
-- [CMI 511 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-511-assignment-help/), Principles of Recruiting, Selecting and Retaining Talent (Level 5)
+- [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 512 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-512-assignment-help/), Workforce Planning (Level 5), a related topic: interviewing and selection
-- [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4), a related topic: interviewing and selection
-- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3), a related topic: interviewing and selection
-- [CMI 506 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/), Managing Equality, Diversity and Inclusion (Level 5), a related topic: interviewing and selection
-
-## Other CMI Level 4 units
-
-The other units under [CMI Level 4 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/):
-
-- [CMI 4001: Managerial Styles and Behaviours](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/)
-- [CMI 4002: Managing Stakeholders' Expectations](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/)
-- [CMI 4003: Understanding Organisational Culture, Values and Behaviour](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/)
-- [CMI 4004: Understanding Team Dynamics](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/)
-- [CMI 4005: Management Report Writing](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/)
-- [CMI 4006: Management and Leadership Influencing Skills](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/)
-- [CMI 4008: Promoting Equality and Diversity](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/)
-- [CMI 4009: Staff Inspection Review](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/)

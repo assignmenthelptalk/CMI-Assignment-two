@@ -100,9 +100,10 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 6 units
 
 - [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), all 14 Level 6 units
-- [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Organisational Culture (Level 6)
-- [CMI 614 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/), Principles and Practices of Ethical Decision Making (Level 6)
+- [All CMI Level 6 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-6-units/), every Level 6 unit with its code and title
 - [CMI 608 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-608-assignment-help/), Strategic Corporate Social Responsibility and Sustainability (Level 6)
+- [CMI 614 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/), Principles and Practices of Ethical Decision Making (Level 6)
+- [CMI 612 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/), Coaching Skills for Leaders (Level 6)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
@@ -111,26 +112,3 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Senge, Goleman, Hofstede and Bass, which this unit's indicative content names
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 513 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/), Managing Projects to Achieve Results (Level 5), also names Senge
-- [CMI 515 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/), Creating and Delivering Operational Plans (Level 5), also names Senge
-- [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Principles of Equality, Diversity and Inclusive Working Practice (Level 3), a related topic: equality, diversity and inclusion
-- [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Strategic Approaches to Equality and Inclusion (Level 7), a related topic: equality and inclusion
-- [CMI 4008 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/), Promoting Equality and Diversity (Level 4), a related topic: equality, diversity and inclusion
-
-## Other CMI Level 6 units
-
-The other units under [CMI Level 6 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/):
-
-- [CMI 601: Professional Management and Leadership Practice](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/)
-- [CMI 602: Developing, Managing and Leading Individuals and Teams](https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/)
-- [CMI 603: Organisational Culture](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/)
-- [CMI 604: Strategic Programme and Project Management](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/)
-- [CMI 605: Innovation and Change](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/)
-- [CMI 606: Developing and Leading Strategy](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/)
-- [CMI 607: Procurement, Purchasing and Contracting](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/)
-- [CMI 608: Strategic Corporate Social Responsibility and Sustainability](https://www.cmiassignmenthelp.uk.com/cmi-608-assignment-help/)
-- [CMI 609: Leading Quality Management](https://www.cmiassignmenthelp.uk.com/cmi-609-assignment-help/)
-- [CMI 610: Principles and Practices of Policy Development](https://www.cmiassignmenthelp.uk.com/cmi-610-assignment-help/)
-- [CMI 611: Knowledge Management](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/)
-- [CMI 612: Coaching Skills for Leaders](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/)
-- [CMI 614: Principles and Practices of Ethical Decision Making](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/)

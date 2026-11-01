@@ -2,6 +2,8 @@
 import Layout from '../../layouts/Layout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import UnitList from '../../components/UnitList.astro';
+import UnitFinder from '../../components/UnitFinder.astro';
+import { featuredUnits, allUnitsPath } from '../../data/featuredUnits.js';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
@@ -96,12 +98,15 @@ const faqSchema = {
 
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title" id="all-21-units">CMI Level 3 Assignment Help for All 21 Units (301–321)</h2>
+      <h2 class="section-title" id="all-21-units">Find Your CMI Level 3 Unit (301–321)</h2>
       <p class="section-lead">
-        CMI lists 21 units at Level 3, numbered 301 to 321. Where a unit has its own page, its tile links to it,
-        and assignment help is available for every unit: send your unit number and brief via WhatsApp.
+        CMI lists 21 units at Level 3, numbered 301 to 321. Choose yours below or open the full list.
+        Assignment help is available for every unit: send your unit number and brief via WhatsApp.
       </p>
-      <UnitList level={3} />
+
+      <UnitFinder level={3} />
+
+      <UnitList level={3} only={featuredUnits[3]} lead="Featured Level 3 units:" allHref={siteUrl + allUnitsPath(3)} allLabel="See all 21 CMI Level 3 units" />
     </div>
   </section>
 

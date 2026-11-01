@@ -96,33 +96,13 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 6 units
 
 - [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), all 14 Level 6 units
+- [All CMI Level 6 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-6-units/), every Level 6 unit with its code and title
+- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Developing and Leading Strategy (Level 6)
 - [CMI 609 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-609-assignment-help/), Leading Quality Management (Level 6)
 - [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6)
-- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Developing and Leading Strategy (Level 6)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 614 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/), Principles and Practices of Ethical Decision Making (Level 6), a related topic: policy development
-- [CMI 608 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-608-assignment-help/), Strategic Corporate Social Responsibility and Sustainability (Level 6), a related topic: policy development
-- [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Organisational Culture (Level 6), a related topic: policy development
-
-## Other CMI Level 6 units
-
-The other units under [CMI Level 6 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/):
-
-- [CMI 601: Professional Management and Leadership Practice](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/)
-- [CMI 602: Developing, Managing and Leading Individuals and Teams](https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/)
-- [CMI 603: Organisational Culture](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/)
-- [CMI 604: Strategic Programme and Project Management](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/)
-- [CMI 605: Innovation and Change](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/)
-- [CMI 606: Developing and Leading Strategy](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/)
-- [CMI 607: Procurement, Purchasing and Contracting](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/)
-- [CMI 608: Strategic Corporate Social Responsibility and Sustainability](https://www.cmiassignmenthelp.uk.com/cmi-608-assignment-help/)
-- [CMI 609: Leading Quality Management](https://www.cmiassignmenthelp.uk.com/cmi-609-assignment-help/)
-- [CMI 611: Knowledge Management](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/)
-- [CMI 612: Coaching Skills for Leaders](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/)
-- [CMI 613: Leading Equality, Diversity and Inclusion](https://www.cmiassignmenthelp.uk.com/cmi-613-assignment-help/)
-- [CMI 614: Principles and Practices of Ethical Decision Making](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/)

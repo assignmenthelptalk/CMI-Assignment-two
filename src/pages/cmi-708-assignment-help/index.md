@@ -96,36 +96,13 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 7 units
 
 - [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), all 16 Level 7 units
+- [All CMI Level 7 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-7-units/), every Level 7 unit with its code and title
 - [CMI 704 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/), Developing Organisational Strategy (Level 7)
 - [CMI 706 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/), Finance for Strategic Leaders (Level 7)
 - [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Strategic Management of Data and Information (Level 7)
-- [CMI 614 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/), Principles and Practices of Ethical Decision Making (Level 6)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 315 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-315-assignment-help/), Principles of Health and Safety in a Work Setting (Level 3), a related topic: health and safety risk
-- [CMI 518 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-518-assignment-help/), Risk Management (Level 5), a related topic: risk management
-- [CMI 606 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/), Developing and Leading Strategy (Level 6), a related topic: strategic risk management
-
-## Other CMI Level 7 units
-
-The other units under [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/):
-
-- [CMI 701: Strategic Leadership](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/)
-- [CMI 702: Leading and Developing People to Optimise Performance](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/)
-- [CMI 703: Collaboration and Partnerships](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/)
-- [CMI 704: Developing Organisational Strategy](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/)
-- [CMI 705: Leading Strategic Change](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/)
-- [CMI 706: Finance for Strategic Leaders](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/)
-- [CMI 707: Organisational Design and Development](https://www.cmiassignmenthelp.uk.com/cmi-707-assignment-help/)
-- [CMI 709: Strategic Management of Data and Information](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/)
-- [CMI 710: Marketing Strategy](https://www.cmiassignmenthelp.uk.com/cmi-710-assignment-help/)
-- [CMI 711: Entrepreneurial Practice](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/)
-- [CMI 712: Strategic Management Project](https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/)
-- [CMI 713: Applied Research for Strategic Leaders](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/)
-- [CMI 714: Personal and Professional Development for Strategic Leaders](https://www.cmiassignmenthelp.uk.com/cmi-714-assignment-help/)
-- [CMI 715: Strategic Approaches to Equality and Inclusion](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/)
-- [CMI 716: Strategic Approaches to Mental Health and Wellbeing](https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/)

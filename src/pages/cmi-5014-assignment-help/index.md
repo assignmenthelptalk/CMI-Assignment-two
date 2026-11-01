@@ -109,31 +109,13 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 4 units
 
 - [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all Level 4 units, including the three Level 5 coded units in the Diploma
+- [All CMI Level 4 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-4-units/), all 12 Level 4 units, including the three Level 5 coded units in the Diploma
+- [CMI 4004 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/), Understanding Team Dynamics (Level 4)
 - [CMI 5001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-5001-assignment-help/), Personal Development as a Manager and Leader (Level 5 coded, Level 4 Diploma)
 - [CMI 5012 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-5012-assignment-help/), Being a Leader (Level 5 coded, Level 4 Diploma)
-- [CMI 4004 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/), Understanding Team Dynamics (Level 4)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the models and sources this unit asks for
-- [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Principles of Delivering Coaching and Mentoring (Level 5), a related topic: coaching and mentoring
-- [CMI 612 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/), Coaching Skills for Leaders (Level 6), a related topic: coaching
-- [CMI 307 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/), Developing the Knowledge, Skills and Abilities of Individuals and Teams (Level 3), a related topic: developing people
-
-## Other CMI Level 4 units
-
-The other units under [CMI Level 4 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/):
-
-- [CMI 4001: Managerial Styles and Behaviours](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/)
-- [CMI 4002: Managing Stakeholders' Expectations](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/)
-- [CMI 4003: Understanding Organisational Culture, Values and Behaviour](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/)
-- [CMI 4004: Understanding Team Dynamics](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/)
-- [CMI 4005: Management Report Writing](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/)
-- [CMI 4006: Management and Leadership Influencing Skills](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/)
-- [CMI 4007: Managing Interviews](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/)
-- [CMI 4008: Promoting Equality and Diversity](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/)
-- [CMI 4009: Staff Inspection Review](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/)
-- [CMI 5001: Personal Development as a Manager and Leader](https://www.cmiassignmenthelp.uk.com/cmi-5001-assignment-help/)
-- [CMI 5012: Being a Leader](https://www.cmiassignmenthelp.uk.com/cmi-5012-assignment-help/)

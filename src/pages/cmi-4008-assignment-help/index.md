@@ -102,28 +102,13 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 4 units
 
 - [CMI Level 4 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/), all 12 Level 4 Diploma units
-- [CMI 4003 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/), Understanding Organisational Culture, Values and Behaviour (Level 4)
-- [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4)
-- [CMI 506 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/), Managing Equality, Diversity and Inclusion (Level 5)
+- [All CMI Level 4 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-4-units/), all 12 Level 4 units, including the three Level 5 coded units in the Diploma
+- [CMI 4007 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/), Managing Interviews (Level 4)
+- [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4)
+- [CMI 5012 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-5012-assignment-help/), Being a Leader (Level 5 coded, Level 4 Diploma)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Principles of Equality, Diversity and Inclusive Working Practice (Level 3), a related topic: equality, diversity and inclusion
-- [CMI 613 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-613-assignment-help/), Leading Equality, Diversity and Inclusion (Level 6), a related topic: equality, diversity and inclusion
-- [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Strategic Approaches to Equality and Inclusion (Level 7), a related topic: equality, diversity and inclusion
-
-## Other CMI Level 4 units
-
-The other units under [CMI Level 4 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/):
-
-- [CMI 4001: Managerial Styles and Behaviours](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/)
-- [CMI 4002: Managing Stakeholders' Expectations](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/)
-- [CMI 4003: Understanding Organisational Culture, Values and Behaviour](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/)
-- [CMI 4004: Understanding Team Dynamics](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/)
-- [CMI 4005: Management Report Writing](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/)
-- [CMI 4006: Management and Leadership Influencing Skills](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/)
-- [CMI 4007: Managing Interviews](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/)
-- [CMI 4009: Staff Inspection Review](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/)

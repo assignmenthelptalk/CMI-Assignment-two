@@ -2,6 +2,8 @@
 import Layout from '../../layouts/Layout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import UnitList from '../../components/UnitList.astro';
+import UnitFinder from '../../components/UnitFinder.astro';
+import { featuredUnits, allUnitsPath } from '../../data/featuredUnits.js';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
@@ -194,18 +196,20 @@ const faqSchema = {
   ════════════════════════════════════════ -->
   <section class="section section-alt">
     <div class="container content-wrap">
-      <h2 class="section-title" id="all-26-cmi-level-5-units">CMI Level 5 Assignment Help for All 26 Units (501–526)</h2>
+      <h2 class="section-title" id="all-26-cmi-level-5-units">Find Your CMI Level 5 Unit (501–526)</h2>
       <p class="section-lead">
-        Full unit-by-unit coverage across the CMI Level 5 Management and Leadership Diploma.
+        Choose your unit below or open the full list of Level 5 units.
       </p>
 
       <p>
-        CMI lists 26 units at Level 5, numbered 501 to 526. Where a unit has its own page, its tile links to it,
-        and assignment help is available for every unit: send your unit number and brief via WhatsApp. Which units
-        make up your Award, Certificate or Diploma depends on your training provider's rules of combination.
+        CMI lists 26 units at Level 5, numbered 501 to 526. Assignment help is available for every unit: send your
+        unit number and brief via WhatsApp. Which units make up your Award, Certificate or Diploma depends on your
+        training provider's rules of combination.
       </p>
 
-      <UnitList level={5} />
+      <UnitFinder level={5} />
+
+      <UnitList level={5} only={featuredUnits[5]} lead="Featured Level 5 units:" allHref={siteUrl + allUnitsPath(5)} allLabel="See all 26 CMI Level 5 units" />
     </div>
   </section>
 

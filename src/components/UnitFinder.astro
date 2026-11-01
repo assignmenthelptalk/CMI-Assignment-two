@@ -3,11 +3,17 @@
 // Data: src/data/units.json (codes from the parsed CMI syllabuses). A unit links to its page only when the
 // page exists in the build; otherwise the selector shows a message with a WhatsApp link.
 // Without JavaScript the form stays hidden and plain links to the five level pages show instead.
+// level (3 to 7): used on a level hub. The level is fixed, so only the unit list shows, and the no-JavaScript
+// fallback links to that level's "all units" page. The selector adds no links to the page.
 import units from '../data/units.json';
+import { allUnitsPath } from '../data/featuredUnits.js';
 
 const BASE = 'https://www.cmiassignmenthelp.uk.com';
 const WHATSAPP = 'https://wa.me/447916696894';
 const levels = [3, 4, 5, 6, 7] as const;
+interface Props { level?: (typeof levels)[number] }
+const { level } = Astro.props;
+const Title = level ? 'h3' : 'h2';
 
 const pageFiles = Object.keys(import.meta.glob('../pages/cmi-*-assignment-help/index.md'));
 const existing = new Set(pageFiles.map((f) => (f.match(/cmi-(\d+)-assignment-help/) || [])[1]));
@@ -18,15 +24,15 @@ const data = Object.fromEntries(
 );
 const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
 ---
-<div class="unit-finder" data-unit-finder data-base={BASE} data-wa={WHATSAPP}>
-  <h2 class="uf-title" id="uf-title">Find Your CMI Unit</h2>
+<div class="unit-finder" data-unit-finder data-base={BASE} data-wa={WHATSAPP} data-level={level}>
+  <Title class="uf-title" id="uf-title">{level ? 'Go Straight to Your Unit' : 'Find Your CMI Unit'}</Title>
 
   <form class="uf-form" aria-labelledby="uf-title" hidden novalidate>
-    <div class="uf-field">
+    <div class="uf-field" hidden={!!level}>
       <label for="uf-level">CMI level</label>
       <select id="uf-level" name="level">
         <option value="">Choose a level</option>
-        {levels.map((l) => <option value={l}>Level {l}</option>)}
+        {levels.map((l) => <option value={l} selected={l === level}>Level {l}</option>)}
       </select>
     </div>
     <div class="uf-field uf-field--unit">
@@ -40,10 +46,16 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
   </form>
 
   <p class="uf-fallback" data-uf-fallback>
-    Choose your level:
-    {levels.map((l, i) => (
-      <>{i > 0 && ' · '}<a href={`${BASE}/cmi-level-${l}-assignment-help/`}>Level {l}</a></>
-    ))}
+    {level ? (
+      <>Find your unit: <a href={`${BASE}${allUnitsPath(level)}`}>all Level {level} units</a></>
+    ) : (
+      <>
+        Choose your level:
+        {levels.map((l, i) => (
+          <>{i > 0 && ' · '}<a href={`${BASE}/cmi-level-${l}-assignment-help/`}>Level {l}</a></>
+        ))}
+      </>
+    )}
   </p>
 
   <script type="application/json" id="uf-data" set:html={dataJson}></script>
@@ -90,7 +102,7 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
       if (['ArrowUp', 'ArrowDown', 'Enter', ' ', 'F4'].includes(e.key)) askForLevel(e);
     });
 
-    levelSel.addEventListener('change', () => {
+    const fillUnits = () => {
       clearMessage();
       levelSel.classList.remove('uf-attn');
       unitSel.replaceChildren();
@@ -99,7 +111,10 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
       unitSel.add(first);
       if (units) units.forEach((u) => unitSel.add(new Option(`${u[0]} – ${u[1]}`, u[0])));
       unitSel.setAttribute('aria-disabled', units ? 'false' : 'true');
-    });
+    };
+    levelSel.addEventListener('change', fillUnits);
+    // On a level hub the level is already chosen, so list its units straight away.
+    if (root.dataset.level) { levelSel.value = root.dataset.level; fillUnits(); }
 
     unitSel.addEventListener('change', () => {
       const unit = currentUnit();
@@ -147,6 +162,7 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
     justify-content: center;
   }
   .uf-form[hidden], .uf-fallback[hidden] { display: none; }
+  .uf-field[hidden] { display: none; }
   .uf-field { display: flex; flex-direction: column; gap: .3rem; flex: 0 1 11rem; min-width: 0; }
   .uf-field--unit { flex: 1 1 16rem; }
   .uf-field label { font-size: 1rem; font-weight: 600; color: var(--text); }

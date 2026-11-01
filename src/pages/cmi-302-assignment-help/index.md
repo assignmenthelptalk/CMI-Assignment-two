@@ -121,9 +121,10 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 3 units
 
 - [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), all 21 Level 3 units
-- [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3)
+- [All CMI Level 3 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-3-units/), every Level 3 unit with its code and title
 - [CMI 304 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-304-assignment-help/), Principles of Communication in the Workplace (Level 3)
 - [CMI 309 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/), Responding to Conflict in the Workplace (Level 3)
+- [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
@@ -131,34 +132,3 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Tuckman, Belbin, Maslow and Lewin, which this unit's indicative content names
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4), also names Belbin, Maslow and Adair
-- [CMI 4004 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/), Understanding Team Dynamics (Level 4), also names Tuckman, Belbin and Tannenbaum and Schmidt
-- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5), also names Tuckman, Belbin and Tannenbaum and Schmidt
-- [CMI 308 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/), Managing Volunteers (Level 3), a related topic: managing and developing volunteers
-- [CMI 319 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-319-assignment-help/), Managing Meetings (Level 3), a related topic: managing meetings
-- [CMI 505 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-505-assignment-help/), Forming Successful Teams (Level 5), a related topic: forming successful teams
-
-## Other CMI Level 3 units
-
-The other units under [CMI Level 3 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/):
-
-- [CMI 301: Principles of Management and Leadership](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/)
-- [CMI 303: Managing Individuals to be Effective in their Role](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/)
-- [CMI 304: Principles of Communication in the Workplace](https://www.cmiassignmenthelp.uk.com/cmi-304-assignment-help/)
-- [CMI 305: Building Stakeholder Relationships using Effective Communication](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/)
-- [CMI 306: Principles of Equality, Diversity and Inclusive Working Practice](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/)
-- [CMI 307: Developing the Knowledge, Skills and Abilities of Individuals and Teams](https://www.cmiassignmenthelp.uk.com/cmi-307-assignment-help/)
-- [CMI 308: Managing Volunteers](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/)
-- [CMI 309: Responding to Conflict in the Workplace](https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/)
-- [CMI 310: Supporting Teams and Individuals through Change](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/)
-- [CMI 311: Contributing to the Delivery of a Project](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/)
-- [CMI 312: Managing Daily Activities to Achieve Results](https://www.cmiassignmenthelp.uk.com/cmi-312-assignment-help/)
-- [CMI 313: Developing and Sharing Good Practice](https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/)
-- [CMI 314: Managing Budgets and Resources](https://www.cmiassignmenthelp.uk.com/cmi-314-assignment-help/)
-- [CMI 315: Principles of Health and Safety in a Work Setting](https://www.cmiassignmenthelp.uk.com/cmi-315-assignment-help/)
-- [CMI 316: Monitoring Quality to Improve Outcomes](https://www.cmiassignmenthelp.uk.com/cmi-316-assignment-help/)
-- [CMI 317: Supporting the Delivery of Customer Service](https://www.cmiassignmenthelp.uk.com/cmi-317-assignment-help/)
-- [CMI 318: Managing Data and Information](https://www.cmiassignmenthelp.uk.com/cmi-318-assignment-help/)
-- [CMI 319: Managing Meetings](https://www.cmiassignmenthelp.uk.com/cmi-319-assignment-help/)
-- [CMI 320: Presenting for Success](https://www.cmiassignmenthelp.uk.com/cmi-320-assignment-help/)
-- [CMI 321: Managing Own Personal and Professional Development](https://www.cmiassignmenthelp.uk.com/cmi-321-assignment-help/)

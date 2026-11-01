@@ -97,6 +97,7 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 ## Related CMI Level 6 units
 
 - [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), all 14 Level 6 units
+- [All CMI Level 6 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-6-units/), every Level 6 unit with its code and title
 - [CMI 602 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/), Developing, Managing and Leading Individuals and Teams (Level 6)
 - [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Organisational Culture (Level 6)
 - [CMI 614 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/), Principles and Practices of Ethical Decision Making (Level 6)
@@ -108,25 +109,3 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Maslow, Kotter, Greenleaf and Hersey and Blanchard, which this unit's indicative content names
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7), also names Kotter and Greenleaf
-- [CMI 705 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/), Leading Strategic Change (Level 7), also names Kotter and Greenleaf
-- [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6), also names Kotter and Greenleaf
-- [CMI 526 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/), Principles of Leadership Practice (Level 5), a related topic: leadership practice
-
-## Other CMI Level 6 units
-
-The other units under [CMI Level 6 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/):
-
-- [CMI 602: Developing, Managing and Leading Individuals and Teams](https://www.cmiassignmenthelp.uk.com/cmi-602-assignment-help/)
-- [CMI 603: Organisational Culture](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/)
-- [CMI 604: Strategic Programme and Project Management](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/)
-- [CMI 605: Innovation and Change](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/)
-- [CMI 606: Developing and Leading Strategy](https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/)
-- [CMI 607: Procurement, Purchasing and Contracting](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/)
-- [CMI 608: Strategic Corporate Social Responsibility and Sustainability](https://www.cmiassignmenthelp.uk.com/cmi-608-assignment-help/)
-- [CMI 609: Leading Quality Management](https://www.cmiassignmenthelp.uk.com/cmi-609-assignment-help/)
-- [CMI 610: Principles and Practices of Policy Development](https://www.cmiassignmenthelp.uk.com/cmi-610-assignment-help/)
-- [CMI 611: Knowledge Management](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/)
-- [CMI 612: Coaching Skills for Leaders](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/)
-- [CMI 613: Leading Equality, Diversity and Inclusion](https://www.cmiassignmenthelp.uk.com/cmi-613-assignment-help/)
-- [CMI 614: Principles and Practices of Ethical Decision Making](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/)
