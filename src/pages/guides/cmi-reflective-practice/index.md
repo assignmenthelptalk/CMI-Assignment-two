@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "CMI Reflective Practice | Gibbs, Kolb and Johns Guide"
+title: "CMI Reflective Practice - Reflection Guide | CMIAssignmentHelp.uk.com"
 description: "How to write CMI reflective work: which units assess reflection, the models CMI names (Gibbs, Kolb, Johns), what the criteria ask for, and a step-by-step method."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/"
 headerImage: "/images/headers/cmi-reflective-practice.webp"
