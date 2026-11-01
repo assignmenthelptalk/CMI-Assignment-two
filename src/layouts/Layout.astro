@@ -1,5 +1,4 @@
 ﻿---
-import SocialShareSidebar from '../components/SocialShareSidebar.astro';
 import CookieBanner from '../components/CookieBanner.astro';
 import { levels, guides, services } from '../data/navMenu.js';
 
@@ -9,10 +8,9 @@ interface Props {
   canonical?: string;
   pageSchema?: object | object[];
   noindex?: boolean;
-  hideShareSidebar?: boolean;
 }
 
-const { title, description, canonical, pageSchema, noindex = false, hideShareSidebar = false } = Astro.props;
+const { title, description, canonical, pageSchema, noindex = false } = Astro.props;
 
 const legalLinks = [
   { href: 'https://www.cmiassignmenthelp.uk.com/privacy-policy/', label: 'Privacy Policy' },
@@ -180,8 +178,6 @@ const extraSchemas = pageSchema
     <main>
       <slot />
     </main>
-
-    {!hideShareSidebar && <SocialShareSidebar pageUrl={canonicalHref} pageTitle={title} />}
 
     <footer class="site-footer">
       <div class="container">
