@@ -264,6 +264,10 @@ const serviceIcons: Record<string, string> = {
   chart: '<path d="M4 4v16h16"/><path d="M8 16v-4"/><path d="M12 16V8"/><path d="M16 16v-6"/>',
   compass: '<circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/>',
   flag: '<path d="M5 21V4"/><path d="M5 4h12l-2.5 4 2.5 4H5"/>',
+  award: '<circle cx="12" cy="9" r="5.5"/><path d="M8.5 13.5L7 21l5-3 5 3-1.5-7.5"/>',
+  target: '<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.2"/>',
+  pin: '<path d="M12 21s7-6.2 7-11.5A7 7 0 0 0 5 9.5C5 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/>',
+  book: '<path d="M12 6.5C10.5 5 8 4.5 4 4.5v14c4 0 6.5.5 8 2 1.5-1.5 4-2 8-2v-14c-4 0-6.5.5-8 2z"/><path d="M12 6.5v14"/>',
 };
 
 const steps = [
@@ -349,8 +353,8 @@ const steps = [
       </p>
       <div class="level-grid">
         {levels.map(lvl => (
-          <div class={`level-card lvl-${lvl.tone}`}>
-            <span class="level-icon" aria-hidden="true">
+          <div class={`level-card tone-${lvl.tone}`}>
+            <span class="badge-icon" aria-hidden="true">
               <svg class="svc-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" focusable="false" set:html={serviceIcons[lvl.icon]}></svg>
             </span>
             {lvl.badge && <span class="level-badge">{lvl.badge}</span>}
@@ -410,14 +414,20 @@ const steps = [
         not a generalist academic writer.
       </p>
       <div class="cred-grid">
-        <div class="cred-card">
+        <div class="cred-card tone-blue">
+          <span class="badge-icon" aria-hidden="true">
+            <svg class="svc-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" focusable="false" set:html={serviceIcons.award}></svg>
+          </span>
           <h3 class="cred-title">Qualification Match</h3>
           <p>
             Writers hold current CMI qualifications at the level they are assigned. A Level 7 strategic paper is
             written by a CMI Level 7 holder, not by a Level 5 practitioner writing upward.
           </p>
         </div>
-        <div class="cred-card">
+        <div class="cred-card tone-purple">
+          <span class="badge-icon" aria-hidden="true">
+            <svg class="svc-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" focusable="false" set:html={serviceIcons.target}></svg>
+          </span>
           <h3 class="cred-title">Command Verb Expertise</h3>
           <p>
             Every response is calibrated to the exact command verb in your brief. Critically appraise at Level 7
@@ -425,7 +435,10 @@ const steps = [
             Our writers know the difference and write to assessor expectations.
           </p>
         </div>
-        <div class="cred-card">
+        <div class="cred-card tone-pink">
+          <span class="badge-icon" aria-hidden="true">
+            <svg class="svc-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" focusable="false" set:html={serviceIcons.pin}></svg>
+          </span>
           <h3 class="cred-title">UK Sector Experience</h3>
           <p>
             Writers are UK-based management practitioners, NHS leaders, public sector managers, commercial directors,
@@ -433,7 +446,10 @@ const steps = [
             our writers reflect that.
           </p>
         </div>
-        <div class="cred-card">
+        <div class="cred-card tone-orange">
+          <span class="badge-icon" aria-hidden="true">
+            <svg class="svc-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" focusable="false" set:html={serviceIcons.book}></svg>
+          </span>
           <h3 class="cred-title">Harvard Referencing to CMI Standards</h3>
           <p>
             All assignments use Harvard referencing with credible sources chosen to support each criterion,
@@ -658,7 +674,7 @@ const steps = [
     color: var(--text);
   }
   /* Each level has its own badge colour, the same navy-on-colour style as the service icons. */
-  .level-icon {
+  .badge-icon {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -668,11 +684,11 @@ const steps = [
     color: var(--navy);
     border-radius: 50%;
   }
-  .lvl-green .level-icon { background: #22C55E; }
-  .lvl-blue .level-icon { background: var(--icon-blue); }
-  .lvl-purple .level-icon { background: var(--icon-purple); }
-  .lvl-pink .level-icon { background: var(--icon-pink); }
-  .lvl-orange .level-icon { background: var(--icon-orange); }
+  .tone-green .badge-icon { background: #22C55E; }
+  .tone-blue .badge-icon { background: var(--icon-blue); }
+  .tone-purple .badge-icon { background: var(--icon-purple); }
+  .tone-pink .badge-icon { background: var(--icon-pink); }
+  .tone-orange .badge-icon { background: var(--icon-orange); }
   .level-badge {
     position: absolute;
     top: -1px;
