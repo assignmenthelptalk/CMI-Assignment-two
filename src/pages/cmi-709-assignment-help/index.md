@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 709 Assignment Help"
+title: "CMI Unit 709 Assignment Help - Strategic Management of Data and Information | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 709 assignment help (Level 7). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/"
 headerImage: "/images/headers/cmi-709-assignment-help.webp"
