@@ -6,59 +6,157 @@ import UnitFinder from '../components/UnitFinder.astro';
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
 
+const nhsGuide = { text: 'guide to CMI qualifications for NHS managers', href: `${siteUrl}/guides/nhs-management-cmi-qualifications/` };
+const commandVerbsGuide = { text: 'guide to CMI command verbs', href: `${siteUrl}/guides/cmi-command-verbs-explained/` };
+const harvardGuide = { text: 'Harvard referencing guide for CMI assignments', href: `${siteUrl}/guides/harvard-referencing-cmi/` };
+
+// One list drives both the visible FAQ and the FAQ JSON-LD, so the two always match.
+// Each answer is a list of paragraphs. A paragraph is a list of plain strings and { text, href } links.
+const faqGroups = [
+  {
+    id: 'getting-started',
+    label: 'Getting Started',
+    items: [
+      {
+        q: 'Which CMI levels and units do you cover?',
+        a: [[
+          'All five CMI qualification levels: Level 3 Principles of Management and Leadership (Units 301–321), Level 4 Management and Leadership (Units 4001–4009, 5001, 5012 and 5014), Level 5 Management and Leadership Diploma (Units 501–526), Level 6 Professional Management and Leadership (Units 601–614), and Level 7 Strategic Management and Leadership (Units 701–716). That covers all 80+ CMI units across every Award, Certificate, and Diploma pathway.',
+        ]],
+      },
+      {
+        q: 'What does the CMI assignment writing service include?',
+        a: [[
+          "A complete, submission-ready assignment written to the correct command verb depth for your unit and level. This includes the required CMI format (management report or structured essay), Harvard referencing with sources chosen to support each assessment criterion (the unit specifications don't set a minimum number of sources), and precise alignment to the Learning Outcomes and Assessment Criteria of your specific unit. All documents are written by UK-based CMI-qualified practitioners.",
+        ]],
+      },
+      {
+        q: 'Do you provide CMI assignment help for NHS managers?',
+        a: [[
+          'Yes. NHS managers study CMI qualifications at several levels, and the right level depends on the scope of your role rather than your pay band. Support covers NHS workforce context and leadership frameworks. See our ',
+          nhsGuide,
+          '.',
+        ]],
+      },
+    ],
+  },
+  {
+    id: 'assessments-grading',
+    label: 'Assessments & Grading',
+    items: [
+      {
+        q: 'How are CMI assignments graded?',
+        a: [[
+          'CMI grades its qualifications Pass or Refer, with no Merit or Distinction. A Pass means every assessment criterion in the unit has been met.',
+        ]],
+      },
+      {
+        q: 'What do command verbs like Analyse and Evaluate mean?',
+        a: [[
+          'Each assessment criterion starts with a command verb, and meeting the criterion means doing what that verb asks. For example, Evaluate asks you to weigh strengths and weaknesses and reach a stated conclusion. See our ',
+          commandVerbsGuide,
+          '.',
+        ]],
+      },
+      {
+        q: 'What word count should my assignment be?',
+        a: [[
+          "Word counts by level are: Level 3, 2,000–2,500; Level 4, 3,000; Level 5, 3,000–5,000; Level 6, 3,000–4,000; and Level 7, 3,500–4,500. Your centre's assessment brief has the final say.",
+        ]],
+      },
+    ],
+  },
+  {
+    id: 'referencing-originality',
+    label: 'Referencing & Originality',
+    items: [
+      {
+        q: 'Which referencing style should I use?',
+        a: [[
+          "CMI's syllabuses don't name a referencing style. Harvard is commonly used, so follow your centre's guide and use one version throughout. See our ",
+          harvardGuide,
+          '.',
+        ]],
+      },
+      {
+        q: 'How many sources do I need?',
+        a: [[
+          "CMI's unit specifications set no minimum number of sources. They ask for appropriate use of evidence, examples and references to support conclusions and recommendations.",
+        ]],
+      },
+    ],
+  },
+  {
+    id: 'resubmissions',
+    label: 'Resubmissions',
+    items: [
+      {
+        q: 'Does a Refer mean I have failed?',
+        a: [[
+          'No. A Refer is not a final fail. It means the evidence did not yet show that every assessment criterion was met. The usual next step is to correct the gaps the assessor identified and resubmit. Your centre explains what happens next.',
+        ]],
+      },
+      {
+        q: 'What happens if my CMI assignment receives a Refer?',
+        a: [
+          [
+            'A Refer means the assignment did not meet one or more Learning Outcomes at the required command verb depth. Our resubmission support identifies which Learning Outcomes were unmet, reads the assessor feedback, and either rewrites the relevant sections (writing service) or guides you through the restructure (tutoring). The most common causes of a CMI Refer are insufficient command verb depth (for example, describing where the brief demanded Evaluate) and under-referenced analysis sections.',
+          ],
+          ['Message us on WhatsApp with your original submission and assessor feedback for resubmission support.'],
+        ],
+      },
+      {
+        q: "How do I use my assessor's feedback?",
+        a: [[
+          'List the criteria not yet met, read each comment against the wording of the criterion, then write a one-line change for each before you start rewriting.',
+        ]],
+      },
+      {
+        q: 'How many resubmission attempts do I get, and by when?',
+        a: [[
+          "CMI's syllabuses set no standard resubmission window or number of attempts. Your centre decides, so ask it in writing. The Level 4, 6 and 7 syllabuses state a five-year registration period for all assessment.",
+        ]],
+      },
+    ],
+  },
+  {
+    id: 'ordering-policies',
+    label: 'Ordering & Policies',
+    items: [
+      {
+        q: 'How do I place an order for CMI assignment help?',
+        a: [[
+          'Message us on WhatsApp with your unit number, qualification level, assignment brief, and deadline. We respond with a fixed quote within 2 hours and assign a CMI-qualified writer matched to your level and unit subject. See the CMI assignment help online page for full process details.',
+        ]],
+      },
+      {
+        q: 'What is the difference between the writing service and CMI assignment tutoring?',
+        a: [[
+          'The writing service produces a complete, submission-ready document written by a CMI-qualified practitioner on your behalf. CMI assignment tutoring retains your authorship. The tutor guides you through structure, command verb application, Learning Outcome alignment, and argument construction so that you produce the document. Tutoring is also the primary route for resubmission coaching after a Refer grade.',
+        ]],
+      },
+      {
+        q: 'Are you affiliated with CMI?',
+        a: [[
+          'No. cmiassignmenthelp.uk.com is an independent service, not affiliated with or endorsed by the Chartered Management Institute.',
+        ]],
+      },
+    ],
+  },
+];
+
+const faqParaText = (para) => para.map((part) => (typeof part === 'string' ? part : part.text)).join('');
+
 const faqSchema = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does the CMI assignment writing service include?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A complete, submission-ready assignment written to the correct command verb depth for your unit and level. This includes the required CMI format (management report or structured essay), Harvard referencing with sources chosen to support each assessment criterion (the unit specifications don't set a minimum number of sources), and precise alignment to the Learning Outcomes and Assessment Criteria of your specific unit. All documents are written by UK-based CMI-qualified practitioners."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which CMI levels and units do you cover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "All five CMI qualification levels: Level 3 Principles of Management and Leadership (Units 301–321), Level 4 Management and Leadership (Units 4001–4009), Level 5 Management and Leadership Diploma (Units 501–526), Level 6 Professional Management and Leadership (Units 601–614), and Level 7 Strategic Management and Leadership (Units 701–716). That covers all 80+ CMI units across every Award, Certificate, and Diploma pathway."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I place an order for CMI assignment help?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Message us on WhatsApp with your unit number, qualification level, assignment brief, and deadline. We respond with a fixed quote within 2 hours and assign a CMI-qualified writer matched to your level and unit subject."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between the writing service and CMI assignment tutoring?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The writing service produces a complete, submission-ready document written by a CMI-qualified practitioner on your behalf. CMI assignment tutoring retains your authorship. The tutor guides you through structure, command verb application, Learning Outcome alignment, and argument construction so that you produce the document. Tutoring is also the primary route for resubmission coaching after a Referral grade."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What happens if my CMI assignment receives a Referral?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A Referral means the assignment did not meet one or more Learning Outcomes at the required command verb depth. Our resubmission support identifies which Learning Outcomes were unmet, reads the assessor feedback, and either rewrites the relevant sections (writing service) or guides you through the restructure (tutoring). The most common resubmission causes are insufficient command verb depth (for example, describing where the brief demanded Evaluate) and under-referenced analysis sections."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you provide CMI assignment help for NHS managers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. NHS managers study CMI qualifications at several levels, and the right level depends on the scope of your role rather than your pay band. Support covers NHS workforce context and leadership frameworks."
-      }
+  "mainEntity": faqGroups.flatMap((group) => group.items).map((item) => ({
+    "@type": "Question",
+    "name": item.q,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.a.map(faqParaText).join(' ')
     }
-  ]
+  }))
 };
 
 const levels = [
@@ -334,86 +432,83 @@ const steps = [
   ══════════════════════════════════════════════════ -->
   <section class="section">
     <div class="container faq-wrap">
-      <h2 class="section-title" id="cmi-assignment-help-faq">CMI Assignment Help — Frequently Asked Questions</h2>
-      <div class="faq-list">
+      <h2 class="section-title faq-title" id="cmi-assignment-help-faq">CMI Assignment Help — Frequently Asked Questions</h2>
+      <p class="section-lead faq-lead">Quick answers on levels, grading, referencing, resubmissions and ordering.</p>
 
-        <details class="faq-item">
-          <summary class="faq-q">What does the CMI assignment writing service include?</summary>
-          <div class="faq-a">
-            <p>
-              A complete, submission-ready assignment written to the correct command verb depth for your unit and level.
-              This includes the required CMI format (management report or structured essay), Harvard referencing with sources chosen to support each assessment criterion (the unit specifications don't set a minimum number of sources), and precise
-              alignment to the Learning Outcomes and Assessment Criteria of your specific unit. All documents are written
-              by UK-based CMI-qualified practitioners.
-            </p>
+      <div class="faq-tabbed" id="faq-tabbed">
+        <div class="faq-tabs" role="tablist" aria-label="FAQ categories">
+          {faqGroups.map((group, i) => (
+            <button
+              type="button"
+              role="tab"
+              class="faq-tab"
+              id={`faq-tab-${group.id}`}
+              aria-controls={`faq-panel-${group.id}`}
+              aria-selected={i === 0 ? 'true' : 'false'}
+              tabindex={i === 0 ? 0 : -1}
+            >{group.label}</button>
+          ))}
+        </div>
+
+        {faqGroups.map((group, i) => (
+          <div
+            class={`faq-panel${i === 0 ? ' is-active' : ''}`}
+            role="tabpanel"
+            id={`faq-panel-${group.id}`}
+            aria-labelledby={`faq-tab-${group.id}`}
+          >
+            <h3 class="faq-cat">{group.label}</h3>
+            <div class="faq-list">
+              {group.items.map((item) => (
+                <details class="faq-item">
+                  <summary class="faq-q">{item.q}</summary>
+                  <div class="faq-a">
+                    {item.a.map((para) => (
+                      <p>{para.map((part) => (typeof part === 'string' ? part : <a href={part.href}>{part.text}</a>))}</p>
+                    ))}
+                  </div>
+                </details>
+              ))}
+            </div>
           </div>
-        </details>
-
-        <details class="faq-item">
-          <summary class="faq-q">Which CMI levels and units do you cover?</summary>
-          <div class="faq-a">
-            <p>
-              All five CMI qualification levels: Level 3 Principles of Management and Leadership
-              (Units 301–321), Level 4 Management and Leadership (Units 4001–4009),
-              Level 5 Management and Leadership Diploma (Units 501–526),
-              Level 6 Professional Management and Leadership (Units 601–614),
-              and Level 7 Strategic Management and Leadership (Units 701–716).
-              That covers all 80+ CMI units across every Award, Certificate, and Diploma pathway.
-            </p>
-          </div>
-        </details>
-
-        <details class="faq-item">
-          <summary class="faq-q">How do I place an order for CMI assignment help?</summary>
-          <div class="faq-a">
-            <p>
-              Message us on WhatsApp with your unit number, qualification level, assignment brief, and deadline.
-              We respond with a fixed quote within 2 hours and assign a CMI-qualified writer matched to your level
-              and unit subject. See the CMI assignment help online page for full
-              process details.
-            </p>
-          </div>
-        </details>
-
-        <details class="faq-item">
-          <summary class="faq-q">What is the difference between the writing service and CMI assignment tutoring?</summary>
-          <div class="faq-a">
-            <p>
-              The writing service produces a complete, submission-ready
-              document written by a CMI-qualified practitioner on your behalf. CMI
-              assignment tutoring retains your authorship. The tutor guides you through structure, command verb
-              application, Learning Outcome alignment, and argument construction so that you produce the document.
-              Tutoring is also the primary route for resubmission coaching after a Referral grade.
-            </p>
-          </div>
-        </details>
-
-        <details class="faq-item">
-          <summary class="faq-q">What happens if my CMI assignment receives a Referral?</summary>
-          <div class="faq-a">
-            <p>
-              A Referral means the assignment did not meet one or more Learning Outcomes at the required command verb
-              depth. Our resubmission support identifies which Learning Outcomes were unmet, reads the assessor
-              feedback, and either rewrites the relevant sections (writing service) or guides you through the
-              restructure (tutoring). The most common causes of CMI referrals are insufficient command verb depth
-              (for example, describing where the brief demanded Evaluate) and under-referenced analysis sections.
-            </p>
-            <p>Message us on WhatsApp with your original submission and assessor feedback for resubmission support.</p>
-          </div>
-        </details>
-
-        <details class="faq-item">
-          <summary class="faq-q">Do you provide CMI assignment help for NHS managers?</summary>
-          <div class="faq-a">
-            <p>
-              Yes. NHS managers study CMI qualifications at several levels, and the right level depends on the scope
-              of your role rather than your pay band. Support covers NHS workforce context and leadership
-              frameworks. See our <a href="https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/">guide to CMI qualifications for NHS managers</a>.
-            </p>
-          </div>
-        </details>
-
+        ))}
       </div>
+
+      <!-- Tabs are added only when JavaScript runs. Without it, every question shows in one list under its category name. -->
+      <script is:inline>
+        (function () {
+          var root = document.getElementById('faq-tabbed');
+          if (!root) return;
+          var tabs = Array.prototype.slice.call(root.querySelectorAll('[role="tab"]'));
+          var panels = tabs.map(function (tab) { return document.getElementById(tab.getAttribute('aria-controls')); });
+
+          function select(index, moveFocus) {
+            tabs.forEach(function (tab, n) {
+              var isOn = n === index;
+              tab.setAttribute('aria-selected', isOn ? 'true' : 'false');
+              tab.tabIndex = isOn ? 0 : -1;
+              panels[n].classList.toggle('is-active', isOn);
+            });
+            if (moveFocus) tabs[index].focus();
+          }
+
+          tabs.forEach(function (tab, index) {
+            tab.addEventListener('click', function () { select(index, false); });
+            tab.addEventListener('keydown', function (event) {
+              var next = null;
+              if (event.key === 'ArrowRight') next = (index + 1) % tabs.length;
+              else if (event.key === 'ArrowLeft') next = (index - 1 + tabs.length) % tabs.length;
+              else if (event.key === 'Home') next = 0;
+              else if (event.key === 'End') next = tabs.length - 1;
+              if (next === null) return;
+              event.preventDefault();
+              select(next, true);
+            });
+          });
+
+          root.classList.add('faq-js');
+        })();
+      </script>
     </div>
   </section>
 
@@ -704,10 +799,55 @@ const steps = [
 
   /* ── FAQ ── */
   .faq-wrap { max-width: 820px; }
+  .faq-title { text-align: center; margin-bottom: .75rem; }
+  .faq-lead { max-width: 620px; margin: 0 auto 1.75rem; text-align: center; }
+
+  /* Category tabs. They only show once the script has run (.faq-js); without it, every question is listed under its category name. */
+  .faq-tabs { display: none; }
+  .faq-js .faq-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: .6rem;
+    margin-bottom: 1.5rem;
+  }
+  .faq-tab {
+    font: inherit;
+    font-size: .9rem;
+    font-weight: 600;
+    line-height: 1.2;
+    padding: .6rem 1.1rem;
+    color: var(--navy);
+    background: var(--bg);
+    border: 1.5px solid var(--border);
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background .15s, border-color .15s, color .15s;
+  }
+  .faq-tab:hover { color: var(--accent-strong); border-color: var(--accent-strong); }
+  /* The selected tab is filled and carries a tick, so it is not shown by colour alone. */
+  .faq-tab[aria-selected='true'] { color: var(--bg); background: var(--accent-strong); border-color: var(--accent-strong); }
+  .faq-tab[aria-selected='true']::before { content: '✓'; content: '✓' / ''; margin-right: .4rem; }
+  @media (min-width: 900px) {
+    /* Let the five tabs sit on one row, a little wider than the question cards. */
+    .faq-js .faq-tabs { margin-left: -3.5rem; margin-right: -3.5rem; }
+  }
+  @media (max-width: 480px) {
+    .faq-tab { font-size: .85rem; padding: .55rem .9rem; min-height: 44px; }
+  }
+
+  .faq-cat { font-size: 1.05rem; color: var(--navy); margin: 0 0 .75rem; }
+  .faq-panel + .faq-panel { margin-top: 2rem; }
+  .faq-js .faq-cat { display: none; }
+  .faq-js .faq-panel + .faq-panel { margin-top: 0; }
+  .faq-js .faq-panel:not(.is-active) { display: none; }
+
   .faq-list { display: flex; flex-direction: column; gap: .75rem; }
   .faq-item {
+    background: var(--bg);
     border: 1px solid var(--border);
-    border-radius: 8px;
+    border-radius: 16px;
+    box-shadow: var(--shadow);
     overflow: hidden;
   }
   .faq-q {
@@ -719,9 +859,11 @@ const steps = [
     cursor: pointer;
     list-style: none;
     user-select: none;
-    background: var(--bg-light);
+    background: var(--bg);
     transition: background .15s; --text-muted: var(--text);
   }
+  /* The card clips its edges, so the focus ring sits inside it. */
+  .faq-q:focus-visible { outline-offset: -3px; }
   .faq-q::-webkit-details-marker { display: none; }
   .faq-q::after {
     content: '+';
