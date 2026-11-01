@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 601 Assignment Help"
+title: "CMI Unit 601 Assignment Help - Professional Management and Leadership Practice | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 601 assignment help (Level 6). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/"
 headerImage: "/images/headers/cmi-601-assignment-help.webp"

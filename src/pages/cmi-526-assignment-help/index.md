@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/UnitPage.astro
-title: "CMI Unit 526 Assignment Help | Principles of Leadership Practice"
+title: "CMI Unit 526 Assignment Help - Principles of Leadership Practice Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 526 assignment help (Level 5). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/"
 ---
