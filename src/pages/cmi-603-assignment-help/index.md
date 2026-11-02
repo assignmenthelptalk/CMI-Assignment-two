@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 603 Assignment Help - Organisational Culture Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 603 assignment help (Level 6): Organisational Culture. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/"

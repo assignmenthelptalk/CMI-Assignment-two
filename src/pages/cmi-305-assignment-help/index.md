@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 305 Assignment Help - Building Stakeholder Relationships using Effective Communication | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 305 assignment help (Level 3). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/"

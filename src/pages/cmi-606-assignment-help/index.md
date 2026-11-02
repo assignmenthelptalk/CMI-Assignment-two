@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 606 Assignment Help - Developing and Leading Strategy Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 606 assignment help (Level 6). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-606-assignment-help/"

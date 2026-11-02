@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 302 Assignment Help - Managing a Team to Achieve Results Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 302 assignment help (Level 3). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/"

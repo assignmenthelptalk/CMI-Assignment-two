@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 5001 Assignment Help - Personal Development as a Manager and Leader | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 5001 assignment help: Personal Development as a Manager and Leader, a Level 5 coded unit in the Level 4 Diploma. Quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-5001-assignment-help/"

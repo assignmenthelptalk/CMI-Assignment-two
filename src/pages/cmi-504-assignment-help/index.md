@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 504 Assignment Help - Managing Performance Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 504 assignment help (Level 5): Managing Performance. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-504-assignment-help/"

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 612 Assignment Help - Coaching Skills for Leaders Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 612 assignment help (Level 6): Coaching Skills for Leaders. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/"
