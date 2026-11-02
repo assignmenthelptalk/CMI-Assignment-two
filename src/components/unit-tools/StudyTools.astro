@@ -1,0 +1,166 @@
+---
+// "Study tools" section for a unit page: criteria checklist, word-count planner, structure outline.
+// Everything is written into the page at build time from the unit's own markdown (see
+// src/lib/unit-tools-data.js). The scripts run in the browser only, make no network calls and
+// send no analytics. Without JavaScript the checklist stays visible and the other tools are off.
+import {
+  buildOutline,
+  defaultWordCount,
+  formatNumber,
+  stuckLink,
+  ALLOWANCE,
+  DEFAULT_CONCLUSION_PERCENT,
+  DEFAULT_INTRO_PERCENT,
+  LIMITS,
+} from './logic.js';
+import { whatsappUrl } from './config.js';
+import stylesheet from './study-tools.css?url';
+
+const { unit } = Astro.props;
+const id = `ut-${unit.code}`;
+const totalCriteria = unit.outcomes.reduce((sum, outcome) => sum + outcome.criteria.length, 0);
+const outline = buildOutline(unit);
+const outlineRows = Math.min(outline.split('\n').length + 1, 26);
+const startingTotal = defaultWordCount(unit.wordCount);
+const guidelineText = unit.wordCount
+  ? unit.wordCount.min === unit.wordCount.max
+    ? `${formatNumber(unit.wordCount.min)} words`
+    : `${formatNumber(unit.wordCount.min)} to ${formatNumber(unit.wordCount.max)} words`
+  : null;
+const plan = JSON.stringify(
+  unit.outcomes.map((outcome) => ({ number: outcome.number, criteria: outcome.criteria.length }))
+);
+const tabs = [
+  { key: 'checklist', label: 'Criteria checklist' },
+  { key: 'planner', label: 'Word-count planner' },
+  { key: 'outline', label: 'Structure outline' },
+];
+---
+
+<link rel="stylesheet" href={stylesheet} />
+
+<section class="ut" id="study-tools" aria-labelledby={`${id}-heading`} data-ut data-unit={unit.code} data-plan={plan}>
+  <h2 id={`${id}-heading`}>Study tools for Unit {unit.code}</h2>
+  <p class="ut-intro">
+    Three free tools that run in your browser. Nothing you type or tick is sent anywhere.
+  </p>
+  <p class="ut-nojs" data-ut-nojs>
+    The tabs need JavaScript, which is not running. Your criteria are listed below. The word-count planner and the structure outline are switched off.
+  </p>
+
+  <div class="ut-tabs" role="tablist" aria-label="Study tools" data-ut-tablist hidden>
+    {tabs.map((tab) => (
+      <button type="button" role="tab" id={`${id}-tab-${tab.key}`} aria-controls={`${id}-panel-${tab.key}`} aria-selected={tab.key === 'checklist' ? 'true' : 'false'} tabindex={tab.key === 'checklist' ? 0 : -1}>
+        {tab.label}
+      </button>
+    ))}
+  </div>
+
+  <!-- Criteria checklist -->
+  <div class="ut-panel ut-panel-checklist" role="tabpanel" id={`${id}-panel-checklist`} aria-labelledby={`${id}-tab-checklist`} data-ut-checklist>
+    <div class="ut-bar">
+      <p class="ut-status" role="status" aria-live="polite" data-ut-status>0 of {totalCriteria} criteria ticked.</p>
+      <div class="ut-actions">
+        <button type="button" class="ut-btn ut-btn-secondary" data-ut-clear>Clear ticks</button>
+        <button type="button" class="ut-btn ut-btn-secondary" data-ut-print>Print checklist</button>
+      </div>
+    </div>
+    <p class="ut-note ut-storage-note" data-ut-storage-note hidden>
+      Your browser is blocking saved ticks, so they will be lost when you leave the page. The checklist still works.
+    </p>
+    <p class="ut-note">
+      Ticks are saved in this browser only, for this unit only. They are not sent anywhere.
+    </p>
+
+    {unit.outcomes.map((outcome) => (
+      <div class="ut-outcome">
+        <h3>Learning outcome {outcome.number}: {outcome.title}</h3>
+        <ul class="ut-list">
+          {outcome.criteria.map((criterion) => {
+            const meaning = unit.verbMeanings[criterion.id];
+            const meaningId = `${id}-meaning-${criterion.id.replace('.', '-')}`;
+            return (
+              <li class="ut-row">
+                <label class="ut-check">
+                  <input type="checkbox" data-id={criterion.id} aria-describedby={meaning ? meaningId : undefined} />
+                  <span class="ut-id">{criterion.id}</span>
+                  <span class="ut-criterion"><strong class="ut-verb">{criterion.verb}</strong> {criterion.text}</span>
+                </label>
+                {meaning && (
+                  <p class="ut-meaning" id={meaningId}><span class="ut-meaning-label">In plain English:</span> {meaning}</p>
+                )}
+                <a class="ut-stuck" href={stuckLink(whatsappUrl, { code: unit.code, level: unit.level, criterionId: criterion.id })}>
+                  Stuck on this criterion?<span class="ut-visually-hidden"> (criterion {criterion.id})</span>
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    ))}
+  </div>
+
+  <!-- Word-count planner -->
+  <div class="ut-panel" role="tabpanel" id={`${id}-panel-planner`} aria-labelledby={`${id}-tab-planner`} data-ut-planner hidden>
+    <h3 class="ut-panel-title">Word-count planner</h3>
+    {guidelineText ? (
+      <p class="ut-note">The unit page gives a guideline of {guidelineText} for Unit {unit.code}, with a {ALLOWANCE * 100}% allowance above or below.{unit.wordCount.min !== unit.wordCount.max && ' The box starts at the middle of that range.'}</p>
+    ) : (
+      <p class="ut-note">This page does not state a word-count guideline for Unit {unit.code}, so the box starts empty. Enter the figure your centre has given you.</p>
+    )}
+    <form class="ut-form" novalidate data-ut-form>
+      <div class="ut-field">
+        <label for={`${id}-total`}>Word count set by your centre</label>
+        <input id={`${id}-total`} name="total" type="number" inputmode="numeric" min={LIMITS.totalMin} max={LIMITS.totalMax} step="10" value={startingTotal ?? ''} aria-describedby={`${id}-total-error`} data-ut-total />
+        <p class="ut-error" id={`${id}-total-error`} data-ut-error="total"></p>
+      </div>
+      <div class="ut-field">
+        <label for={`${id}-intro`}>Introduction share (%)</label>
+        <input id={`${id}-intro`} name="intro" type="number" inputmode="numeric" min={LIMITS.shareMin} max={LIMITS.shareMax} step="1" value={DEFAULT_INTRO_PERCENT} aria-describedby={`${id}-intro-error`} data-ut-intro />
+        <p class="ut-error" id={`${id}-intro-error`} data-ut-error="intro"></p>
+      </div>
+      <div class="ut-field">
+        <label for={`${id}-conclusion`}>Conclusion share (%)</label>
+        <input id={`${id}-conclusion`} name="conclusion" type="number" inputmode="numeric" min={LIMITS.shareMin} max={LIMITS.shareMax} step="1" value={DEFAULT_CONCLUSION_PERCENT} aria-describedby={`${id}-conclusion-error`} data-ut-conclusion />
+        <p class="ut-error" id={`${id}-conclusion-error`} data-ut-error="conclusion"></p>
+      </div>
+    </form>
+    <p class="ut-status" role="status" aria-live="polite" data-ut-planner-status></p>
+    <p class="ut-range" data-ut-range></p>
+    <div class="ut-table-wrap" data-ut-table-wrap hidden>
+      <table>
+        <caption>Suggested split of the word count</caption>
+        <thead>
+          <tr><th scope="col">Section</th><th scope="col">Criteria</th><th scope="col">Words</th></tr>
+        </thead>
+        <tbody data-ut-rows></tbody>
+      </table>
+    </div>
+    <p class="ut-note">
+      This is a planning aid. The learning outcomes share the remaining words in proportion to their number of criteria, rounded to the nearest 10. Your own centre sets the final word count and what counts towards it.
+    </p>
+  </div>
+
+  <!-- Structure outline -->
+  <div class="ut-panel" role="tabpanel" id={`${id}-panel-outline`} aria-labelledby={`${id}-tab-outline`} data-ut-outline hidden>
+    <h3 class="ut-panel-title">Structure outline</h3>
+    <p class="ut-note">
+      A heading skeleton for your own writing. Each prompt is a question built from the criterion's wording. It does not contain any content for you to use.
+    </p>
+    <label for={`${id}-outline-text`}>Outline (plain text)</label>
+    <textarea id={`${id}-outline-text`} class="ut-outline" rows={outlineRows} readonly data-ut-outline-text>{outline}</textarea>
+    <div class="ut-actions">
+      <button type="button" class="ut-btn" data-ut-copy>Copy</button>
+      <button type="button" class="ut-btn ut-btn-secondary" data-ut-download data-filename={`cmi-unit-${unit.code}-outline.txt`}>Download as .txt</button>
+    </div>
+    <p class="ut-status" role="status" aria-live="polite" data-ut-outline-status></p>
+  </div>
+</section>
+
+<script>
+  import './tabs.js';
+  import './checklist.js';
+  import './planner.js';
+  import './outline.js';
+</script>
+

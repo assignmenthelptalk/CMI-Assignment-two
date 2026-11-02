@@ -1,0 +1,32 @@
+---
+// The unit page layout plus the "Study tools" section. A unit page opts in by setting
+//   layout: ../../layouts/UnitPageTools.astro
+// in its frontmatter; every other page keeps UnitPage.astro and is unchanged.
+//
+// The tools go after the page's opening block (heading, summary, quote button) and before its
+// first "##" section. The markdown is parsed strictly (src/lib/unit-tools-data.js): if the page's
+// criteria do not agree with the counts it states, the build stops with a message naming the unit.
+import UnitPage from './UnitPage.astro';
+import StudyTools from '../components/unit-tools/StudyTools.astro';
+import { parseUnitMarkdown, unitCodeFromPath } from '../lib/unit-tools-data.js';
+
+const { frontmatter, rawContent, compiledContent } = Astro.props;
+
+const code = unitCodeFromPath(Astro.url.pathname);
+if (!code) {
+  throw new Error(`UnitPageTools.astro is for unit pages (/cmi-<code>-assignment-help/), not ${Astro.url.pathname}.`);
+}
+const unit = parseUnitMarkdown(rawContent(), { code });
+
+const html = await compiledContent();
+const firstSection = html.indexOf('<h2');
+if (firstSection === -1) {
+  throw new Error(`Study tools, unit ${code}: the page has no section heading to place the tools before.`);
+}
+---
+
+<UnitPage frontmatter={frontmatter}>
+  <Fragment set:html={html.slice(0, firstSection)} />
+  <StudyTools unit={unit} />
+  <Fragment set:html={html.slice(firstSection)} />
+</UnitPage>
