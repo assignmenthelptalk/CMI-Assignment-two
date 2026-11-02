@@ -1,0 +1,77 @@
+/* Styles for the study tools on unit pages. Linked only by StudyTools.astro, so pages without the tools never load it. */
+.ut {
+  margin: 2rem 0;
+  padding: 1.25rem;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  background: #fff;
+}
+.prose-wrap .ut h2 { margin-top: 0; }
+.prose-wrap .ut h3 { margin-top: 1.25rem; }
+.ut-intro, .ut-note, .ut-status, .ut-range { color: var(--text); }
+.prose-wrap .ut .ut-note { font-size: 0.95rem; margin-bottom: 0.75rem; }
+.prose-wrap .ut .ut-nojs { padding: 0.75rem 1rem; border: 1px solid var(--border-strong); border-radius: var(--radius); background: var(--bg-light); color: var(--navy); }
+
+.ut-tabs { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
+.ut-tabs [role="tab"] {
+  min-height: 44px; padding: 0.6rem 1rem; border: 2px solid var(--navy); border-radius: var(--radius);
+  background: #fff; color: var(--navy); font: inherit; font-weight: 600; cursor: pointer;
+}
+.ut-tabs [role="tab"][aria-selected="true"] { background: var(--navy); color: #fff; }
+
+.ut-btn {
+  min-height: 44px; padding: 0.6rem 1.1rem; border: 2px solid var(--accent-strong); border-radius: var(--radius);
+  background: var(--accent-strong); color: #fff; font: inherit; font-weight: 600; cursor: pointer;
+}
+.ut-btn:hover { background: var(--accent-strong-hover); border-color: var(--accent-strong-hover); }
+.ut-btn-secondary { background: #fff; color: var(--navy); border-color: var(--navy); }
+.ut-btn-secondary:hover { background: var(--bg-light); border-color: var(--navy); }
+.ut-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.ut-bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.75rem; margin-bottom: 0.5rem; }
+.prose-wrap .ut .ut-bar .ut-status { margin: 0; font-weight: 600; color: var(--navy); }
+
+.prose-wrap .ut .ut-list { list-style: none; margin: 0.5rem 0 0; padding: 0; }
+.ut-row { margin: 0 0 0.5rem; padding: 0.5rem 0.75rem; border: 1px solid var(--border); border-radius: var(--radius); }
+.ut-check { display: flex; gap: 0.75rem; align-items: flex-start; min-height: 44px; cursor: pointer; color: var(--text); line-height: 1.5; }
+.ut-check input { flex: none; width: 1.5rem; height: 1.5rem; margin-top: 0.1rem; accent-color: var(--accent-strong); }
+.ut-id { flex: none; min-width: 2.25rem; font-weight: 700; color: var(--navy); }
+.ut-verb { padding: 0.05rem 0.35rem; border-radius: 4px; background: var(--hero-tint); color: var(--navy); }
+.prose-wrap .ut .ut-meaning { margin: 0.25rem 0 0.25rem 3.5rem; font-size: 0.9rem; line-height: 1.5; color: var(--text); }
+.ut-meaning-label { font-weight: 600; color: var(--navy); }
+.ut-stuck { display: inline-flex; align-items: center; min-height: 44px; margin: 0 0 0 3.5rem; font-size: 0.9rem; }
+.ut-visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+.ut-form { display: grid; gap: 0.75rem; max-width: 22rem; margin-bottom: 1rem; }
+.ut-field label { display: block; margin-bottom: 0.25rem; font-weight: 600; color: var(--navy); }
+.ut-field input { width: 100%; min-height: 44px; padding: 0.5rem 0.75rem; border: 2px solid var(--navy); border-radius: var(--radius); background: #fff; color: var(--navy); font: inherit; }
+.ut-field input[aria-invalid="true"] { border-color: #B91C1C; }
+.prose-wrap .ut .ut-error { margin: 0.25rem 0 0; color: #B91C1C; font-weight: 600; font-size: 0.9rem; }
+.prose-wrap .ut .ut-error:empty { display: none; }
+.ut input:focus-visible, .ut textarea:focus-visible { outline: 3px solid var(--focus-ring); outline-offset: 2px; }
+.prose-wrap .ut .ut-range { font-weight: 600; color: var(--navy); }
+.ut-table-wrap { overflow-x: auto; }
+.ut caption { padding: 0.5rem 0; text-align: left; font-weight: 600; color: var(--navy); }
+.ut td:last-child, .ut th:last-child { text-align: right; }
+
+.ut label[for$="-outline-text"] { display: block; margin-bottom: 0.25rem; font-weight: 600; color: var(--navy); }
+.ut-outline { width: 100%; margin-bottom: 0.75rem; padding: 0.75rem; border: 2px solid var(--navy); border-radius: var(--radius); background: #fff; color: var(--navy); font: 0.9rem/1.5 ui-monospace, SFMono-Regular, Consolas, monospace; resize: vertical; }
+
+@media (max-width: 640px) {
+  .ut { padding: 1rem; }
+  .prose-wrap .ut .ut-meaning, .ut-stuck { margin-left: 0; }
+  .ut-tabs [role="tab"] { flex: 1 1 100%; }
+}
+
+/* Printing: when the checklist is printed (Print checklist button, or Ctrl+P), only the checklist appears. */
+@media print {
+  /* "Print checklist" adds ut-printing to <html>: everything except the checklist is removed so no blank pages are printed. */
+  .ut-printing .cookie-banner, .ut-printing .site-header, .ut-printing .mobile-nav, .ut-printing .site-footer,
+  .ut-printing .page-header-img, .ut-printing article > :not(.ut), .ut-printing .ut > :not(.ut-panel-checklist):not(h2) { display: none !important; }
+  .ut-printing .ut-panel-checklist { display: block !important; }
+  .ut-printing .ut { margin: 0; padding: 0; border: 0; }
+  .ut-tabs, .ut-nojs, .ut-actions, .ut-stuck, .ut-storage-note, .ut-panel:not(.ut-panel-checklist) { display: none !important; }
+  .ut-row { break-inside: avoid; border-color: #000; }
+  .ut-check input { appearance: none; width: 1.1rem; height: 1.1rem; border: 2px solid #000; border-radius: 2px; }
+  .ut-check input:checked { background: linear-gradient(135deg, transparent 45%, #000 45%, #000 55%, transparent 55%); }
+  .ut-verb { background: none; font-weight: 700; text-decoration: underline; }
+}
