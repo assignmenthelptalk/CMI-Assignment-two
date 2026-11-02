@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 517 Assignment Help - Principles of Innovation Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 517 assignment help (Level 5): Principles of Innovation. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/"

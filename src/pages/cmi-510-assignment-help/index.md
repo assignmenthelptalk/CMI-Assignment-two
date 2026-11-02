@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 510 Assignment Help - Managing Conflict Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 510 assignment help (Level 5): Managing Conflict. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/"

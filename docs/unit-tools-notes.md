@@ -1,6 +1,6 @@
 # Unit study tools: pilot notes
 
-Three free, browser-only tools on unit pages: a criteria checklist, a word-count planner and a structure outline. Piloted on five units. Branch: `feat/unit-study-tools`.
+Three free, browser-only tools on unit pages: a criteria checklist, a word-count planner and a structure outline. Piloted on five units (branch `feat/unit-study-tools`), then rolled out to all 89 unit pages (branch `feat/unit-study-tools-rollout`, 2 November 2026). The rollout changed only the `layout:` line of the other 84 pages.
 
 ## Where the data comes from
 

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 502 Assignment Help - Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 502 assignment help (Level 5). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/"

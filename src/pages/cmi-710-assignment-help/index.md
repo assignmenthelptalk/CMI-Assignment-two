@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 710 Assignment Help - Marketing Strategy Support | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 710 assignment help (Level 7): Marketing Strategy. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-710-assignment-help/"

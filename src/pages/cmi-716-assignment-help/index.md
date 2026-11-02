@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/UnitPage.astro
+layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 716 Assignment Help - Strategic Approaches to Mental Health and Wellbeing | CMIAssignmentHelp.uk.com"
 description: "CMI Unit 716 assignment help (Level 7). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/"
