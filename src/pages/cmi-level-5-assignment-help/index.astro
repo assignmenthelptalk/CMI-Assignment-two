@@ -127,13 +127,13 @@ const faqSchema = {
 
       <UnitFinder level={5} />
 
-      <UnitList level={5} only={featuredUnits[5]} lead="Featured Level 5 units:" allHref={siteUrl + allUnitsPath(5)} allLabel="See all 26 CMI Level 5 units" />
-
-      <p>
+      <p class="chooser-intro">
         CMI lists 26 units at Level 5, numbered 501 to 526. Assignment help is available for every unit: send your
         unit number and brief via WhatsApp. Which units make up your Award, Certificate or Diploma depends on your
         training provider's rules of combination.
       </p>
+
+      <UnitList level={5} only={featuredUnits[5]} lead="Featured Level 5 units:" allHref={siteUrl + allUnitsPath(5)} allLabel="See all 26 CMI Level 5 units" />
 
       <p class="quote-link-wrap">
         <a href={whatsappUrl} class="quote-link" target="_blank" rel="noopener noreferrer">WhatsApp Us Your Unit Number</a>
@@ -766,7 +766,8 @@ const faqSchema = {
     line-height: 1.7;
     color: var(--text);
     max-width: 620px;
-    margin-bottom: 0;
+    margin: 0 auto;
+    text-align: center;
   }
   .btn-lg { padding: .85rem 2rem; font-size: 1.05rem; }
   .quote-note { font-size: .82rem; color: var(--blue); text-align: center; }
@@ -774,6 +775,7 @@ const faqSchema = {
   /* ── Unit chooser (directly under the hero) ── */
   .chooser-section { padding: 2.5rem 0 3rem; }
   .chooser-section .section-lead { margin-bottom: 1.25rem; }
+  .chooser-intro { margin-top: 1.75rem; }
   .quote-link-wrap { text-align: center; margin: 1.25rem 0 0; }
   .quote-link {
     display: inline-flex;
