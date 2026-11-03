@@ -1,12 +1,23 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import TableOfContents from '../../components/TableOfContents.astro';
 import UnitList from '../../components/UnitList.astro';
 import UnitFinder from '../../components/UnitFinder.astro';
 import { featuredUnits, allUnitsPath } from '../../data/featuredUnits.js';
+import units from '../../data/units.json';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
+
+// "On this page": the main sections only, each taken from an existing h2 on this page (same id, same text).
+// This page has its own short list; the shared TableOfContents component (all h2s) is left as it is for other pages.
+const tocLinks = [
+  ['what-is-the-cmi-level-5-diploma', 'What Is the CMI Level 5 Management and Leadership Qualification?'],
+  ['how-cmi-level-5-units-are-assessed', 'How CMI Level 5 Units Are Assessed'],
+  ['command-verbs-at-cmi-level-5', 'Command Verbs at CMI Level 5'],
+  ['how-cmi-level-5-is-graded', 'How CMI Level 5 Is Graded: Pass or Refer'],
+  ['how-to-get-cmi-level-5-assignment-help', 'How to Get CMI Level 5 Assignment Help'],
+  ['cmi-level-5-assignment-help-faq', 'CMI Level 5 Assignment Help — Frequently Asked Questions'],
+];
 
 
 const serviceSchema = {
@@ -100,26 +111,68 @@ const faqSchema = {
           Organisational Context to 526 Principles of Leadership Practice. Written to your unit criteria by
           UK-based CMI-qualified writers. Fixed quote in 2 hours.
         </p>
-        <div class="hero-ctas">
-          <a
-            href={whatsappUrl}
-            class="btn btn-whatsapp btn-lg"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Get CMI Level 5 Assignment Help
-          </a>
-          <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/" class="btn btn-outline btn-lg">
-            CMI Assignment Writing Service
-          </a>
-        </div>
-        <p class="hero-note">
-          Fixed quote in 2 hours &bull; All 26 CMI Level 5 units &bull; Pass or Refer grading
-        </p>
       </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════
+       S3 — ALL 26 UNITS (moved up: the unit chooser follows the intro)
+  ════════════════════════════════════════ -->
+  <section class="section section-alt chooser-section">
+    <div class="container content-wrap">
+      <h2 class="section-title" id="all-26-cmi-level-5-units">Find Your CMI Level 5 Unit (501–526)</h2>
+      <p class="section-lead">
+        Choose your unit below or open the full list of Level 5 units.
+      </p>
+
+      <UnitFinder level={5} />
+
+      <UnitList level={5} only={featuredUnits[5]} lead="Featured Level 5 units:" allHref={siteUrl + allUnitsPath(5)} allLabel="See all 26 CMI Level 5 units" />
+
+      <p>
+        CMI lists 26 units at Level 5, numbered 501 to 526. Assignment help is available for every unit: send your
+        unit number and brief via WhatsApp. Which units make up your Award, Certificate or Diploma depends on your
+        training provider's rules of combination.
+      </p>
+
+      <p class="quote-link-wrap">
+        <a href={whatsappUrl} class="quote-link" target="_blank" rel="noopener noreferrer">WhatsApp Us Your Unit Number</a>
+      </p>
+      <p class="quote-note">
+        Fixed quote in 2 hours &bull; All 26 CMI Level 5 units &bull; Pass or Refer grading
+      </p>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════
+       ON THIS PAGE — main sections only; collapsed under 768px
+  ════════════════════════════════════════ -->
+  <nav class="l5-toc" aria-label="Table of contents">
+    <div class="container">
+      <details class="l5-toc-box" id="l5-toc" open>
+        <summary class="l5-toc-summary">On this page</summary>
+        <ol class="l5-toc-list">
+          {tocLinks.map(([id, label]) => (
+            <li><a href={`#${id}`}>{label}</a></li>
+          ))}
+        </ol>
+      </details>
+    </div>
+  </nav>
+  <script is:inline>
+    // Open on wide screens, collapsed on phones. Without JavaScript the list stays open.
+    (function () {
+      var toc = document.getElementById('l5-toc');
+      if (toc && window.matchMedia('(max-width: 767px)').matches) toc.removeAttribute('open');
+    })();
+  </script>
+
+  <!-- Facts strip: the unit count is counted from src/data/units.json. fCMgr and Pass or Refer are stated in the page copy below. -->
+  <section class="stats-strip">
+    <div class="container">
       <div class="hero-badge-wrap" aria-hidden="true">
         <div class="hero-badge">
-          <span class="badge-num">26</span>
+          <span class="badge-num">{units['5'].length}</span>
           <span class="badge-label">Level 5<br>Units</span>
         </div>
         <div class="hero-badge">
@@ -133,18 +186,6 @@ const faqSchema = {
       </div>
     </div>
   </section>
-
-  <img
-    class="page-header-img"
-    src="/images/headers/cmi-level-5-assignment-help.webp"
-    alt="CMI Level 5 Management and Leadership Diploma assignment help — middle manager presenting a report to colleagues"
-    width="1408"
-    height="704"
-    loading="eager"
-    decoding="async"
-  />
-
-  <TableOfContents />
 
   <!-- ═══════════════════════════════════════
        S2 — WHAT IS CMI LEVEL 5?
@@ -188,28 +229,6 @@ const faqSchema = {
         comparison, see the
         <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/">CMI Level 5 vs Level 7</a> guide.
       </p>
-    </div>
-  </section>
-
-  <!-- ═══════════════════════════════════════
-       S3 — ALL 26 UNITS
-  ════════════════════════════════════════ -->
-  <section class="section section-alt">
-    <div class="container content-wrap">
-      <h2 class="section-title" id="all-26-cmi-level-5-units">Find Your CMI Level 5 Unit (501–526)</h2>
-      <p class="section-lead">
-        Choose your unit below or open the full list of Level 5 units.
-      </p>
-
-      <p>
-        CMI lists 26 units at Level 5, numbered 501 to 526. Assignment help is available for every unit: send your
-        unit number and brief via WhatsApp. Which units make up your Award, Certificate or Diploma depends on your
-        training provider's rules of combination.
-      </p>
-
-      <UnitFinder level={5} />
-
-      <UnitList level={5} only={featuredUnits[5]} lead="Featured Level 5 units:" allHref={siteUrl + allUnitsPath(5)} allLabel="See all 26 CMI Level 5 units" />
     </div>
   </section>
 
@@ -722,13 +741,10 @@ const faqSchema = {
   .hero {
     background: var(--hero-bg);
     color: var(--navy);
-    padding: 5rem 0 4rem;
+    padding: 3rem 0 2.5rem;
   }
   .hero-inner {
-    display: grid;
-    grid-template-columns: 1fr auto;
-    gap: 3rem;
-    align-items: center;
+    display: block;
   }
   .hero-eyebrow {
     font-size: .82rem;
@@ -750,40 +766,80 @@ const faqSchema = {
     line-height: 1.7;
     color: var(--text);
     max-width: 620px;
-    margin-bottom: 2rem;
-  }
-  .hero-ctas {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-    margin-bottom: 1rem;
+    margin-bottom: 0;
   }
   .btn-lg { padding: .85rem 2rem; font-size: 1.05rem; }
-  .btn-outline {
-    background: transparent;
-    color: var(--blue);
-    border: 2px solid var(--accent);
-    display: inline-block;
-    padding: .85rem 2rem;
-    border-radius: var(--radius);
+  .quote-note { font-size: .82rem; color: var(--blue); text-align: center; }
+
+  /* ── Unit chooser (directly under the hero) ── */
+  .chooser-section { padding: 2.5rem 0 3rem; }
+  .chooser-section .section-lead { margin-bottom: 1.25rem; }
+  .quote-link-wrap { text-align: center; margin: 1.25rem 0 0; }
+  .quote-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 0 .5rem;
+    font-size: .95rem;
     font-weight: 600;
-    font-size: 1.05rem;
-    text-decoration: none;
-    transition: background .15s, transform .1s;
+    color: var(--blue);
+    text-decoration: underline;
+    text-underline-offset: 3px;
   }
-  .btn-outline:hover {
-    background: var(--hero-tint);
-    border-color: var(--accent-strong-hover);
-    color: var(--accent-strong-hover);
-    text-decoration: none;
-    transform: translateY(-1px); --text-muted: var(--text);
+  .quote-link:hover { color: var(--accent-strong-hover); }
+
+  /* ── On this page ── */
+  .l5-toc { padding: 1.75rem 0 0; }
+  .l5-toc-box {
+    background: var(--bg-light);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    max-width: 860px;
   }
-  .hero-note { font-size: .82rem; color: var(--blue); }
-  .hero-badge-wrap {
+  .l5-toc-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 48px;
+    padding: .75rem 1.25rem;
+    font-size: .8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: var(--navy);
+    cursor: pointer;
+    list-style: none;
+    border-radius: var(--radius);
+  }
+  .l5-toc-summary::-webkit-details-marker { display: none; }
+  .l5-toc-summary::after { content: '+'; font-size: 1.25rem; font-weight: 400; letter-spacing: 0; }
+  .l5-toc-box[open] .l5-toc-summary::after { content: '−'; }
+  .l5-toc-list {
+    list-style: decimal;
+    margin: 0;
+    padding: 0 1.25rem 1rem 2.75rem;
     display: flex;
     flex-direction: column;
+    gap: .15rem;
+  }
+  .l5-toc-list a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    color: var(--blue);
+    font-size: .95rem;
+    font-weight: 500;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .l5-toc-list a:hover { color: var(--accent-strong-hover); }
+
+  /* ── Facts strip ── */
+  .stats-strip { padding: 1.75rem 0 0; }
+  .hero-badge-wrap {
+    display: flex;
+    flex-wrap: wrap;
     gap: .75rem;
-    flex-shrink: 0;
   }
   .hero-badge {
     background: #fff;
@@ -807,6 +863,9 @@ const faqSchema = {
     margin-top: .25rem;
     line-height: 1.3;
   }
+
+  /* Keep a heading clear of the sticky header when "On this page" jumps to it. */
+  .section-title { scroll-margin-top: 5rem; }
 
   /* ── Content wrapper ── */
   .content-wrap { max-width: 880px; }
@@ -1318,8 +1377,14 @@ const faqSchema = {
 
   /* ── Responsive ── */
   @media (max-width: 780px) {
-    .hero-inner { grid-template-columns: 1fr; }
-    .hero-badge-wrap { flex-direction: row; justify-content: center; }
+    .hero { padding: 1.5rem 0 1.25rem; }
+    .hero-sub { font-size: 1rem; line-height: 1.55; }
+    .chooser-section { padding: 1.25rem 0 2rem; }
+    .chooser-section .section-title { font-size: 1.4rem; line-height: 1.25; }
+    .chooser-section .section-lead { font-size: 1rem; line-height: 1.5; margin-bottom: .9rem; }
+    .chooser-section :global(.unit-finder) { padding-top: 1rem; }
+    .chooser-section :global(.uf-title) { font-size: 1.15rem; margin-bottom: .6rem; }
+    .hero-badge { flex: 1 1 0; min-width: 0; padding: .75rem .5rem; }
     .grade-comparison { grid-template-columns: 1fr; }
     .we-grid { grid-template-columns: 1fr; }
     .diff-item { grid-template-columns: 1fr; }
