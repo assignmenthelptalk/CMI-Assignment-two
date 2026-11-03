@@ -186,13 +186,6 @@ const faqSchema = {
     </div>
   </section>
 
-  <!-- Featured units, moved down from the chooser. The "see all units" button is left out for now. -->
-  <section class="section featured-units">
-    <div class="container content-wrap">
-      <UnitList level={5} only={featuredUnits[5]} lead="Featured Level 5 units:" />
-    </div>
-  </section>
-
   <!-- ═══════════════════════════════════════
        S2 — WHAT IS CMI LEVEL 5?
   ════════════════════════════════════════ -->
@@ -545,6 +538,13 @@ const faqSchema = {
     </div>
   </section>
 
+  <!-- Featured units: below the explanatory sections, above the FAQ. The "see all units" button is left out for now. -->
+  <section class="section featured-units">
+    <div class="container content-wrap">
+      <UnitList level={5} only={featuredUnits[5]} lead="Featured Level 5 units:" />
+    </div>
+  </section>
+
   <!-- ═══════════════════════════════════════
        S11 — FAQ
   ════════════════════════════════════════ -->
@@ -782,7 +782,7 @@ const faqSchema = {
   .chooser-section { padding: 2.5rem 0 3rem; }
   .chooser-section .section-lead { margin-bottom: 1.25rem; }
   .chooser-intro { margin-top: 1.75rem; }
-  .featured-units { padding: 2rem 0 0; }
+  .featured-units { padding: 4rem 0 0; }
   .quote-link-wrap { text-align: center; margin: 1.25rem 0 0; }
   .quote-link {
     display: inline-flex;
