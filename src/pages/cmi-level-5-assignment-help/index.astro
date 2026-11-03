@@ -2,7 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import UnitList from '../../components/UnitList.astro';
 import UnitFinder from '../../components/UnitFinder.astro';
-import { featuredUnits, allUnitsPath } from '../../data/featuredUnits.js';
+import { featuredUnits } from '../../data/featuredUnits.js';
 import units from '../../data/units.json';
 
 const whatsappUrl = 'https://wa.me/447916696894';
@@ -133,7 +133,6 @@ const faqSchema = {
         training provider's rules of combination.
       </p>
 
-      <UnitList level={5} only={featuredUnits[5]} lead="Featured Level 5 units:" allHref={siteUrl + allUnitsPath(5)} allLabel="See all 26 CMI Level 5 units" />
 
       <p class="quote-link-wrap">
         <a href={whatsappUrl} class="quote-link" target="_blank" rel="noopener noreferrer">WhatsApp Us Your Unit Number</a>
@@ -184,6 +183,13 @@ const faqSchema = {
           <span class="badge-label">or Refer<br>Grading</span>
         </div>
       </div>
+    </div>
+  </section>
+
+  <!-- Featured units, moved down from the chooser. The "see all units" button is left out for now. -->
+  <section class="section featured-units">
+    <div class="container content-wrap">
+      <UnitList level={5} only={featuredUnits[5]} lead="Featured Level 5 units:" />
     </div>
   </section>
 
@@ -776,6 +782,7 @@ const faqSchema = {
   .chooser-section { padding: 2.5rem 0 3rem; }
   .chooser-section .section-lead { margin-bottom: 1.25rem; }
   .chooser-intro { margin-top: 1.75rem; }
+  .featured-units { padding: 2rem 0 0; }
   .quote-link-wrap { text-align: center; margin: 1.25rem 0 0; }
   .quote-link {
     display: inline-flex;
