@@ -1,13 +1,33 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import TableOfContents from '../../components/TableOfContents.astro';
+import HubContents from '../../components/HubContents.astro';
+import HubQuoteLink from '../../components/HubQuoteLink.astro';
+import HubFacts from '../../components/HubFacts.astro';
 import UnitList from '../../components/UnitList.astro';
 import UnitFinder from '../../components/UnitFinder.astro';
-import { featuredUnits, allUnitsPath } from '../../data/featuredUnits.js';
+import { featuredUnits } from '../../data/featuredUnits.js';
+import units from '../../data/units.json';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
 
+// "On this page": the main sections only, each taken from an existing h2 on this page (same id, same text).
+const tocLinks: [string, string][] = [
+  ['what-is-cmi-level-4-management-and-leadership', 'What Is CMI Level 4 Management and Leadership?'],
+  ['how-cmi-level-4-units-are-assessed', 'How CMI Level 4 Units Are Assessed'],
+  ['command-verbs-at-cmi-level-4', 'Command Verbs at CMI Level 4'],
+  ['how-cmi-level-4-is-graded', 'How CMI Level 4 Is Graded: Pass or Refer'],
+  ['how-to-get-cmi-level-4-assignment-help', 'How to Get CMI Level 4 Assignment Help'],
+  ['cmi-level-4-assignment-help-faq', 'CMI Level 4 Assignment Help — Frequently Asked Questions'],
+];
+
+// Facts strip: the unit count is counted from src/data/units.json (12: nine Level 4 coded units plus three Level 5 coded units).
+// RQF Level 4 and Pass or Refer are stated in the page copy below.
+const facts = [
+  { num: units['4'].length, label: 'Level 4<br>Units' },
+  { num: 'L4', label: 'RQF<br>Level' },
+  { num: 'Pass', label: 'or Refer<br>Grading' },
+];
 
 const serviceSchema = {
   "@context": "https://schema.org",
@@ -92,51 +112,36 @@ const faqSchema = {
           Inspection Review. Written to your criteria by UK-based CMI-qualified practitioners.
           Fixed quote within 2 hours via WhatsApp.
         </p>
-        <div class="hero-ctas">
-          <a
-            href={whatsappUrl}
-            class="btn btn-whatsapp btn-lg"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Get CMI Level 4 Assignment Help
-          </a>
-          <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/" class="btn btn-outline btn-lg">
-            CMI Assignment Writing Service
-          </a>
-        </div>
-        <p class="hero-note">
-          Fixed quote in 2 hours &bull; All 12 CMI Level 4 Diploma units &bull; Written to your unit criteria
-        </p>
-      </div>
-      <div class="hero-badge-wrap" aria-hidden="true">
-        <div class="hero-badge">
-          <span class="badge-num">12</span>
-          <span class="badge-label">Level 4<br>Units</span>
-        </div>
-        <div class="hero-badge">
-          <span class="badge-num">L4</span>
-          <span class="badge-label">RQF<br>Equivalent</span>
-        </div>
-        <div class="hero-badge">
-          <span class="badge-num">UK</span>
-          <span class="badge-label">Based<br>Writers</span>
-        </div>
       </div>
     </div>
   </section>
 
-  <img
-    class="page-header-img"
-    src="/images/headers/cmi-level-4-assignment-help.webp"
-    alt="CMI Level 4 Management and Leadership assignment help — department manager reviewing performance data with colleagues"
-    width="1408"
-    height="704"
-    loading="eager"
-    decoding="async"
-  />
+  <!-- ═══════════════════════════════════════
+       UNIT CHOOSER (directly under the hero)
+  ════════════════════════════════════════ -->
+  <section class="section section-alt chooser-section">
+    <div class="container content-wrap">
+      <h2 class="section-title" id="all-9-cmi-level-4-units">Find Your CMI Level 4 Unit (4001–4009)</h2>
+      <p class="section-lead">Choose your unit below or open the full list.</p>
 
-  <TableOfContents />
+      <UnitFinder level={4} />
+
+      <p class="chooser-intro">
+        CMI lists 9 Level 4 coded units, numbered 4001 to 4009. Three more units carry Level 5 codes and are covered further down.
+        Assignment help is available for every unit: send your unit number and brief via WhatsApp. Which units
+        make up your Award, Certificate or Diploma depends on your training provider's rules of combination.
+      </p>
+
+      <HubQuoteLink
+        href={whatsappUrl}
+        label="WhatsApp Us Your Unit Number"
+        note="Fixed quote in 2 hours &bull; All 12 CMI Level 4 Diploma units &bull; Written to your unit criteria"
+      />
+    </div>
+  </section>
+
+  <HubContents links={tocLinks} id="hub-toc" />
+  <HubFacts items={facts} />
 
   <!-- ═══════════════════════════════════════
        S2 — WHAT IS CMI LEVEL 4?
@@ -146,7 +151,7 @@ const faqSchema = {
       <h2 class="section-title" id="what-is-cmi-level-4-management-and-leadership">What Is CMI Level 4 Management and Leadership?</h2>
       <p class="section-lead">
         The qualification for junior and department managers stepping up from first-line roles.
-       Our CMI Level 4 Assignment Help covers every unit at this level, and is part of <a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a>, which covers every CMI qualification from Level 3 to Level 7.</p>
+       Our CMI Level 4 Assignment Help covers every unit at this level, and is part of CMI Assignment Help UK, which covers every CMI qualification from Level 3 to Level 7.</p>
 
       <p>
         CMI Level 4 Management and Leadership is the Chartered Management Institute's qualification
@@ -164,9 +169,9 @@ const faqSchema = {
 
       <p>
         CMI Level 4 sits at a precise point in the qualification ladder: it is the transition between
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/">CMI Level 3 assignment help</a>, which focuses on
+        CMI Level 3 assignment help, which focuses on
         team leadership and first-line management, and
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/">CMI Level 5 assignment help</a>, which targets
+        CMI Level 5 assignment help, which targets
         middle management and makes you eligible for ACMI membership on completion. At Level 4, students
         move from managing a team to managing operations, departments, or cross-functional
         responsibilities. The units reflect this shift, covering managerial style, stakeholders, culture, teams,
@@ -179,36 +184,6 @@ const faqSchema = {
         culture, team dynamics, report writing, influencing, interviews, and equality and diversity. The Diploma also includes three Level 5 coded units (5001, 5012 and 5014), which are at RQF level 5. Assessment is entirely assignment-based. There are no exams.
         Level 4 sits at RQF Level 4, the equivalent of first-year undergraduate academic standard.
       </p>
-    </div>
-  </section>
-
-  <!-- ═══════════════════════════════════════
-       S3 — ALL 9 UNITS
-  ════════════════════════════════════════ -->
-  <section class="section section-alt">
-    <div class="container content-wrap">
-      <h2 class="section-title" id="all-9-cmi-level-4-units">Find Your CMI Level 4 Unit (4001–4009)</h2>
-      <p class="section-lead">
-        CMI lists 9 Level 4 coded units, numbered 4001 to 4009. Three more units carry Level 5 codes and are covered further down.
-      </p>
-
-      <p>
-        Choose your unit below or open the full list. Assignment help is available for every unit: send your unit number and brief via WhatsApp. Which units
-        make up your Award, Certificate or Diploma depends on your training provider's rules of combination.
-      </p>
-
-      <UnitFinder level={4} />
-
-      <UnitList level={4} only={featuredUnits[4]} lead="Featured Level 4 units:" allHref={siteUrl + allUnitsPath(4)} allLabel="See all 12 CMI Level 4 units" />
-
-      <h3 class="l5-coded-title" id="level-5-coded-units-in-the-level-4-diploma">Level 5 coded units in the Level 4 Diploma</h3>
-      <p>
-        Three units in the CMI Level 4 Diploma in Management and Leadership carry Level 5 codes and are at RQF level 5.
-        Unit 5001 is mandatory (Group A). Units 5012 and 5014 are optional (Group B). All three are in the Diploma
-        only, not in the Award or Certificate. Their unit pages are on the <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-units/" style="text-decoration:underline">all Level 4 units</a> page.
-      </p>
-
-      <UnitList level={4} l5Coded linked={false} />
     </div>
   </section>
 
@@ -235,7 +210,7 @@ const faqSchema = {
         above or below. Your brief takes precedence over any general guidance, including this page. Unit 4005,
         Management Report Writing, is the unit where report structure itself is assessed. For general advice on
         structuring written work, see the
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/">CMI assignment structure guide</a>.
+        CMI assignment structure guide.
       </p>
     </div>
   </section>
@@ -362,7 +337,7 @@ const faqSchema = {
       <p>
         A Refer means at least one criterion has not yet been met. The cause is usually a missing criterion or an
         answer pitched at the wrong depth. Our
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/">CMI resubmission guide</a>
+        CMI resubmission guide
         explains what to do next.
       </p>
     </div>
@@ -377,8 +352,8 @@ const faqSchema = {
 
       <p>
         CMI Level 4 Management and Leadership sits between
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/">CMI Level 3 assignment help</a> (First Line
-        Management) and <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/">CMI Level 5 assignment help</a>
+        CMI Level 3 assignment help (First Line
+        Management) and CMI Level 5 assignment help
         (Management and Leadership Diploma). The three levels represent a progression through
         the management hierarchy: Level 3 develops team leaders and first-line supervisors;
         Level 4 develops junior and department managers; Level 5 develops middle managers
@@ -390,14 +365,14 @@ const faqSchema = {
       <p>
         The most common progression route is from Level 4 to the CMI Level 5 Management and
         Leadership Diploma. The Level 5 Diploma is open to learners aged 16 and over and is one route to
-        ACMI (Associate) membership, as the <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/">CMI membership grades guide</a> explains.
+        ACMI (Associate) membership, as the CMI membership grades guide explains.
         Level 5 units carry more credit and ask for more criteria per unit, with verbs such as Examine,
         Analyse, Evaluate and Assess.
       </p>
 
       <p>
         For support at adjacent levels, see our
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/">CMI assignment tutoring</a> service, which covers
+        CMI assignment tutoring service, which covers
         all five qualification levels.
       </p>
     </div>
@@ -454,6 +429,24 @@ const faqSchema = {
           Order on WhatsApp
         </a>
       </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════
+       FEATURED UNITS (above the FAQ)
+  ════════════════════════════════════════ -->
+  <section class="section featured-units">
+    <div class="container content-wrap">
+      <UnitList level={4} only={featuredUnits[4]} lead="Featured Level 4 units:" />
+
+      <h3 class="l5-coded-title" id="level-5-coded-units-in-the-level-4-diploma">Level 5 coded units in the Level 4 Diploma</h3>
+      <p>
+        Three units in the CMI Level 4 Diploma in Management and Leadership carry Level 5 codes and are at RQF level 5.
+        Unit 5001 is mandatory (Group A). Units 5012 and 5014 are optional (Group B). All three are in the Diploma
+        only, not in the Award or Certificate. Their unit pages are on the <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-units/" style="text-decoration:underline">all Level 4 units</a> page.
+      </p>
+
+      <UnitList level={4} l5Coded linked={false} />
     </div>
   </section>
 
@@ -532,74 +525,12 @@ const faqSchema = {
     </div>
   </section>
 
-  <!-- ═══════════════════════════════════════
-       SUPPLEMENTARY — guides and related pages
-  ════════════════════════════════════════ -->
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title" id="cmi-level-4-resources-and-related-pages">CMI Level 4 Resources and Related Pages</h2>
-      <p class="section-lead">
-        Guides and services relevant to CMI Level 4 Management and Leadership students.
-      </p>
-      <div class="supp-grid">
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/" class="supp-card">
-          <h3>CMI Assignment Writing Service</h3>
-          <p>Complete assignment writing support for CMI Level 4: all 12 Diploma units, written to your unit criteria and command verbs.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/" class="supp-card">
-          <h3>CMI Assignment Tutoring</h3>
-          <p>Guided support for students who write their own Level 4 assignments. Command verb application, structure planning, and resubmission coaching.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/" class="supp-card">
-          <h3>CMI Command Verbs Explained</h3>
-          <p>Full guide to the CMI command verbs from Identify to Critically appraise, with what each asks for at each level.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/" class="supp-card">
-          <h3>CMI Assignment Structure Guide</h3>
-          <p>Section-by-section structure for essays and management reports: word count distribution, section purpose, and format rules.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/" class="supp-card">
-          <h3>CMI Level 3 Assignment Help</h3>
-          <p>Support for Level 3 Principles of Management and Leadership: all 21 units (301–321), with Explain, Identify and Outline leading the criteria.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/" class="supp-card">
-          <h3>CMI Level 5 Assignment Help</h3>
-          <p>Management and Leadership: units 501 to 526, with Analyse, Examine and Evaluate leading the criteria and a 3,000 to 5,000-word guideline.</p>
-        </a>
-      </div>
-    </div>
-  </section>
-
-
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title" id="guides-for-level-4">Guides for CMI Level 4</h2>
-      <p class="section-lead">
-        These guides cover the skills that Level 4 units test. Start with the structure and command verbs guides.
-      </p>
-      <div class="supp-grid">
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/" class="supp-card">
-          <h3>Harvard Referencing for CMI Assignments</h3>
-          <p>How to cite and reference. The unit specifications don't set a minimum number of sources, so use enough credible ones to support each criterion.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/" class="supp-card">
-          <h3>Management Theory for CMI Assignments</h3>
-          <p>How to apply and test frameworks such as Tuckman and Belbin, which Level 4 indicative content names.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/" class="supp-card">
-          <h3>Is a CMI Qualification Worth It?</h3>
-          <p>A balanced look at cost, time and what the evidence does and does not show.</p>
-        </a>
-      </div>
-    </div>
-  </section>
-
   <section class="section section-alt">
     <div class="container">
       <h2 class="section-title" id="other-cmi-levels">Other CMI Levels</h2>
       <p class="section-lead">
         CMI qualifications run from Level 3 to Level 7, and the right level depends on the scope of your role.
-        See <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/">CMI qualification levels explained</a> for how they compare.
+        See CMI qualification levels explained for how they compare.
       </p>
       <div class="supp-grid">
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/" class="supp-card">
@@ -650,13 +581,10 @@ const faqSchema = {
   .hero {
     background: var(--hero-bg);
     color: var(--navy);
-    padding: 5rem 0 4rem;
+    padding: 3rem 0 2.5rem;
   }
   .hero-inner {
-    display: grid;
-    grid-template-columns: 1fr auto;
-    gap: 3rem;
-    align-items: center;
+    display: block;
   }
   .hero-eyebrow {
     font-size: .85rem;
@@ -677,8 +605,9 @@ const faqSchema = {
     font-size: 1.05rem;
     line-height: 1.7;
     color: var(--text);
-    max-width: 600px;
-    margin-bottom: 2rem;
+    max-width: 620px;
+    margin: 0 auto;
+    text-align: center;
   }
   .hero-ctas {
     display: flex;
@@ -738,6 +667,15 @@ const faqSchema = {
     margin-top: .25rem;
     line-height: 1.3;
   }
+
+  /* ── Unit chooser (directly under the hero) ── */
+  .chooser-section { padding: 2.5rem 0 3rem; }
+  .chooser-section .section-lead { margin-bottom: 1.25rem; }
+  .chooser-intro { margin-top: 1.75rem; }
+  .featured-units { padding: 4rem 0 0; }
+
+  /* Keep a heading clear of the sticky header when "On this page" jumps to it. */
+  .section-title { scroll-margin-top: 5rem; }
 
   /* ── Content wrapper ── */
   .content-wrap {
@@ -1047,9 +985,16 @@ const faqSchema = {
   .cta-sub { font-size: 1.05rem; color: #fff; margin-bottom: 2rem; line-height: 1.6; }
 
   /* ── Responsive ── */
+  @media (max-width: 780px) {
+    .hero { padding: 1.5rem 0 1.25rem; }
+    .hero-sub { font-size: 1rem; line-height: 1.55; }
+    .chooser-section { padding: 1.25rem 0 2rem; }
+    .chooser-section .section-title { font-size: 1.4rem; line-height: 1.25; }
+    .chooser-section .section-lead { font-size: 1rem; line-height: 1.5; margin-bottom: .9rem; }
+    .chooser-section :global(.unit-finder) { padding-top: 1rem; }
+    .chooser-section :global(.uf-title) { font-size: 1.15rem; margin-bottom: .6rem; }
+  }
   @media (max-width: 720px) {
-    .hero-inner { grid-template-columns: 1fr; }
-    .hero-badge-wrap { flex-direction: row; justify-content: center; }
     .we-grid { grid-template-columns: 1fr; }
   }
   a.unit-card { text-decoration: none; color: inherit; display: block; transition: border-color .15s, box-shadow .15s; }

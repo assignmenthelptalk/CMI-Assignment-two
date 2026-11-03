@@ -1,0 +1,30 @@
+---
+// Text-only quote link and the one-line note under it, used under the unit finder on the level hub pages.
+interface Props {
+  href: string;
+  label: string;
+  note: string;
+}
+const { href, label, note } = Astro.props;
+---
+<p class="quote-link-wrap">
+  <a href={href} class="quote-link" target="_blank" rel="noopener noreferrer">{label}</a>
+</p>
+<p class="quote-note" set:html={note} />
+
+<style>
+  .quote-link-wrap { text-align: center; margin: 1.25rem 0 0; }
+  .quote-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 0 .5rem;
+    font-size: .95rem;
+    font-weight: 600;
+    color: var(--blue);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .quote-link:hover { color: var(--accent-strong-hover); }
+  .quote-note { font-size: .82rem; color: var(--blue); text-align: center; }
+</style>

@@ -1,13 +1,32 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import TableOfContents from '../../components/TableOfContents.astro';
+import HubContents from '../../components/HubContents.astro';
+import HubQuoteLink from '../../components/HubQuoteLink.astro';
+import HubFacts from '../../components/HubFacts.astro';
 import UnitList from '../../components/UnitList.astro';
 import UnitFinder from '../../components/UnitFinder.astro';
-import { featuredUnits, allUnitsPath } from '../../data/featuredUnits.js';
+import { featuredUnits } from '../../data/featuredUnits.js';
+import units from '../../data/units.json';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
 
+// "On this page": the main sections only, each taken from an existing h2 on this page (same id, same text).
+const tocLinks: [string, string][] = [
+  ['what-is-cmi-level-3', 'What Is CMI Level 3 Principles of Management and Leadership?'],
+  ['how-cmi-level-3-units-are-assessed', 'How CMI Level 3 Units Are Assessed'],
+  ['command-verbs', 'Command Verbs at CMI Level 3'],
+  ['how-cmi-level-3-is-graded', 'How CMI Level 3 Is Graded: Pass or Refer'],
+  ['how-to-get-help', 'How to Get CMI Level 3 Assignment Help'],
+  ['level-3-faq', 'CMI Level 3 Assignment Help — Frequently Asked Questions'],
+];
+
+// Facts strip: the unit count is counted from src/data/units.json. RQF Level 3 and Pass or Refer are stated in the page copy below.
+const facts = [
+  { num: units['3'].length, label: 'Level 3<br>Units' },
+  { num: 'L3', label: 'RQF<br>Level' },
+  { num: 'Pass', label: 'or Refer<br>Grading' },
+];
 
 const serviceSchema = {
   "@context": "https://schema.org",
@@ -54,24 +73,32 @@ const faqSchema = {
         Personal and Professional Development. Written for team leaders, supervisors, and first-line
         managers by UK-based CMI-qualified writers. Fixed quote in 2 hours.
       </p>
-      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
-        Get CMI Level 3 Assignment Help
-      </a>
-      <p class="hero-note">Fixed quote in 2 hours &bull; All 21 Level 3 units &bull; Award, Certificate, and Diploma</p>
     </div>
   </section>
 
-  <img
-    class="page-header-img"
-    src="/images/headers/cmi-level-3-assignment-help.webp"
-    alt="CMI Level 3 Principles of Management and Leadership assignment help — team leader briefing colleagues in a UK office"
-    width="1408"
-    height="704"
-    loading="eager"
-    decoding="async"
-  />
+  <!-- Unit chooser (directly under the hero) -->
+  <section class="section section-alt chooser-section">
+    <div class="container narrow">
+      <h2 class="section-title" id="all-21-units">Find Your CMI Level 3 Unit (301–321)</h2>
+      <p class="section-lead">Choose yours below or open the full list.</p>
 
-  <TableOfContents />
+      <UnitFinder level={3} />
+
+      <p class="chooser-intro">
+        CMI lists 21 units at Level 3, numbered 301 to 321.
+        Assignment help is available for every unit: send your unit number and brief via WhatsApp.
+      </p>
+
+      <HubQuoteLink
+        href={whatsappUrl}
+        label="WhatsApp Us Your Unit Number"
+        note="Fixed quote in 2 hours &bull; All 21 Level 3 units &bull; Award, Certificate, and Diploma"
+      />
+    </div>
+  </section>
+
+  <HubContents links={tocLinks} id="hub-toc" />
+  <HubFacts items={facts} />
 
   <section class="section">
     <div class="container narrow">
@@ -80,7 +107,7 @@ const faqSchema = {
         The CMI Level 3 Award, Certificate and Diploma in Principles of Management and Leadership is a management
         qualification from the Chartered Management Institute, positioned at RQF Level 3 in CMI's October 2024 syllabus. The Award needs at least 4 credits, the Certificate at least 13
         credits and the Diploma at least 37 credits, and learners may complete any combination of units to reach them.
-       Our CMI Level 3 Assignment Help covers every unit at this level, and is part of <a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a>, which covers every CMI qualification from Level 3 to Level 7.</p>
+       Our CMI Level 3 Assignment Help covers every unit at this level, and is part of CMI Assignment Help UK, which covers every CMI qualification from Level 3 to Level 7.</p>
       <p>
         The qualification is built for team leaders, supervisors, and first-line managers,
         professionals responsible for the day-to-day management of a team but not yet operating at
@@ -93,20 +120,6 @@ const faqSchema = {
         Every unit is assessed against its specific learning outcomes and assessment criteria. CMI's grading
         system is Pass or Refer, and every criterion must be met for a Pass.
       </p>
-    </div>
-  </section>
-
-  <section class="section section-alt">
-    <div class="container">
-      <h2 class="section-title" id="all-21-units">Find Your CMI Level 3 Unit (301–321)</h2>
-      <p class="section-lead">
-        CMI lists 21 units at Level 3, numbered 301 to 321. Choose yours below or open the full list.
-        Assignment help is available for every unit: send your unit number and brief via WhatsApp.
-      </p>
-
-      <UnitFinder level={3} />
-
-      <UnitList level={3} only={featuredUnits[3]} lead="Featured Level 3 units:" allHref={siteUrl + allUnitsPath(3)} allLabel="See all 21 CMI Level 3 units" />
     </div>
   </section>
 
@@ -124,7 +137,7 @@ const faqSchema = {
         The guideline word count for Level 3 units is 2,000 to 2,500 words, with a 10% allowance above or below.
         CMI asks learners to keep appendices to a minimum and to put essential information in the main body of
         the work. Your brief takes precedence over any general guidance. See the
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/">CMI assignment structure guide</a> for advice on
+        CMI assignment structure guide for advice on
         structuring written work.
       </p>
     </div>
@@ -161,7 +174,7 @@ const faqSchema = {
         Pass. Meeting a criterion means doing what its verb asks, with relevant evidence and examples from work.
         A Refer means at least one criterion is not yet met. CMI says work can be submitted up to three times through
         its external marking service, and our
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/">CMI resubmission guide</a>
+        CMI resubmission guide
         explains what to do after a Refer.
       </p>
     </div>
@@ -172,7 +185,7 @@ const faqSchema = {
       <h2 class="section-title" id="pathway-to-level-4">Pathway from CMI Level 3 to CMI Level 4</h2>
       <p>
         Completing CMI Level 3 is the natural route into
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/">CMI Level 4 assignment help</a>, Management and
+        CMI Level 4 assignment help, Management and
         Leadership, for managers with department-level or cross-team responsibility.
       </p>
       <p>
@@ -199,6 +212,13 @@ const faqSchema = {
     </div>
   </section>
 
+  <!-- Featured units -->
+  <section class="section featured-units">
+    <div class="container">
+      <UnitList level={3} only={featuredUnits[3]} lead="Featured Level 3 units:" />
+    </div>
+  </section>
+
   <section class="section section-alt">
     <div class="container narrow">
       <h2 class="section-title" id="level-3-faq">CMI Level 3 Assignment Help — Frequently Asked Questions</h2>
@@ -212,58 +232,12 @@ const faqSchema = {
     </div>
   </section>
 
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title">Related CMI Assignment Services</h2>
-      <div class="supp-grid">
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/" class="supp-card"><h3>CMI Assignment Writing Service</h3><p>Full delivery for all 21 Level 3 units and every other CMI level.</p></a>
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/" class="supp-card"><h3>CMI Level 4 Assignment Help</h3><p>The natural progression from Level 3: nine Level 4 coded units (4001 to 4009), plus three Level 5 coded units in the Diploma.</p></a>
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/" class="supp-card"><h3>CMI Assignment Tutoring</h3><p>For Level 3 students who want to write their own assignment with expert guidance.</p></a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/" class="supp-card"><h3>CMI Command Verbs Explained</h3><p>Every verb in the CMI hierarchy, including Explain, Identify, Outline and Discuss at Level 3.</p></a>
-      </div>
-    </div>
-  </section>
-
-
-
-
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title" id="guides-for-level-3">Guides for CMI Level 3</h2>
-      <p class="section-lead">
-        These guides cover the skills that Level 3 units test. Start with the structure and command verbs guides.
-      </p>
-      <div class="supp-grid">
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/" class="supp-card">
-          <h3>Harvard Referencing for CMI Assignments</h3>
-          <p>How to cite and reference. The unit specifications don't set a minimum number of sources, so use enough credible ones to support each criterion.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/" class="supp-card">
-          <h3>Management Theory for CMI Assignments</h3>
-          <p>How to apply and test frameworks such as Tuckman, Belbin, Kotter and Lewin, which Level 3 indicative content names.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/" class="supp-card">
-          <h3>CMI Qualifications for NHS Managers</h3>
-          <p>Choosing a CMI level by the scope of your role rather than your pay band.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/" class="supp-card">
-          <h3>CMI Membership Grades: ACMI, MCMI and FCMI</h3>
-          <p>ACMI, MCMI and FCMI are membership grades, not qualifications. How each is earned.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/" class="supp-card">
-          <h3>Is a CMI Qualification Worth It?</h3>
-          <p>A balanced look at cost, time and what the evidence does and does not show.</p>
-        </a>
-      </div>
-    </div>
-  </section>
-
   <section class="section section-alt">
     <div class="container">
       <h2 class="section-title" id="other-cmi-levels">Other CMI Levels</h2>
       <p class="section-lead">
         CMI qualifications run from Level 3 to Level 7, and the right level depends on the scope of your role.
-        See <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/">CMI qualification levels explained</a> for how they compare.
+        See CMI qualification levels explained for how they compare.
       </p>
       <div class="supp-grid">
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/" class="supp-card">
@@ -299,12 +273,32 @@ const faqSchema = {
 </Layout>
 
 <style>
-  .hero { background: var(--hero-bg); color: var(--navy); padding: 5rem 0 4rem; text-align: center; }
+  .hero { background: var(--hero-bg); color: var(--navy); padding: 3rem 0 2.5rem; text-align: center; }
   .hero-inner { max-width: 780px; margin: 0 auto; }
   .eyebrow { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: var(--blue); margin-bottom: .75rem; }
   .hero h1 { font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 800; color: var(--navy); margin-bottom: 1.25rem; line-height: 1.2; }
-  .hero-sub { font-size: 1.05rem; color: var(--text); margin-bottom: 2rem; line-height: 1.7; }
-  .hero-note { font-size: .82rem; color: var(--blue); margin-top: .75rem; }
+  .hero-sub { font-size: 1.05rem; color: var(--text); max-width: 620px; margin: 0 auto; line-height: 1.7; }
+
+  /* Unit chooser (directly under the hero) */
+  .chooser-section { padding: 2.5rem 0 3rem; }
+  .chooser-section .section-lead { margin-bottom: 1.25rem; }
+  .chooser-intro { margin-top: 1.75rem; line-height: 1.7; }
+  .featured-units { padding: 4rem 0 0; }
+
+  /* Keep a heading clear of the sticky header when "On this page" jumps to it. */
+  .section-title { scroll-margin-top: 5rem; }
+
+  @media (max-width: 780px) {
+    .hero { padding: 1.5rem 0 1.25rem; }
+    .eyebrow { font-size: .75rem; margin-bottom: .5rem; }
+    .hero h1 { font-size: 1.55rem; margin-bottom: .9rem; }
+    .hero-sub { font-size: 1rem; line-height: 1.55; }
+    .chooser-section { padding: 1.25rem 0 2rem; }
+    .chooser-section .section-title { font-size: 1.4rem; line-height: 1.25; }
+    .chooser-section .section-lead { font-size: 1rem; line-height: 1.5; margin-bottom: .9rem; }
+    .chooser-section :global(.unit-finder) { padding-top: 1rem; }
+    .chooser-section :global(.uf-title) { font-size: 1.15rem; margin-bottom: .6rem; }
+  }
 
   .narrow { max-width: 860px; }
 

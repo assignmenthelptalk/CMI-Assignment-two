@@ -1,13 +1,32 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import TableOfContents from '../../components/TableOfContents.astro';
+import HubContents from '../../components/HubContents.astro';
+import HubQuoteLink from '../../components/HubQuoteLink.astro';
+import HubFacts from '../../components/HubFacts.astro';
 import UnitList from '../../components/UnitList.astro';
 import UnitFinder from '../../components/UnitFinder.astro';
-import { featuredUnits, allUnitsPath } from '../../data/featuredUnits.js';
+import { featuredUnits } from '../../data/featuredUnits.js';
+import units from '../../data/units.json';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
 
+// "On this page": the main sections only, each taken from an existing h2 on this page (same id, same text).
+const tocLinks: [string, string][] = [
+  ['what-is-the-cmi-level-7-diploma', 'What Is CMI Level 7 Strategic Management and Leadership Practice?'],
+  ['how-cmi-level-7-units-are-assessed', 'How CMI Level 7 Units Are Assessed'],
+  ['command-verbs-at-cmi-level-7', 'Command Verbs at CMI Level 7'],
+  ['how-cmi-level-7-is-graded', 'How CMI Level 7 Is Graded: Pass or Refer'],
+  ['how-to-get-cmi-level-7-assignment-help', 'How to Get CMI Level 7 Assignment Help'],
+  ['cmi-level-7-assignment-help-faq', 'CMI Level 7 Assignment Help — Frequently Asked Questions'],
+];
+
+// Facts strip: the unit count is counted from src/data/units.json. RQF Level 7 and Pass or Refer are stated in the page copy below.
+const facts = [
+  { num: units['7'].length, label: 'Level 7<br>Units' },
+  { num: 'L7', label: 'RQF<br>Level' },
+  { num: 'Pass', label: 'or Refer<br>Grading' },
+];
 
 const faqSchema = {
   "@context": "https://schema.org",
@@ -84,26 +103,32 @@ const faqSchema = {
         From 701 Strategic Leadership to 716 Strategic Approaches to Mental Health and Wellbeing, written to your
         criteria by UK-based CMI-qualified writers.
       </p>
-      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
-        Get CMI Level 7 Assignment Help
-      </a>
-      <p class="hero-note">
-        Fixed quote within 2 hours &bull; All 16 units (701–716) &bull; Pass or Refer grading
-      </p>
     </div>
   </section>
 
-  <img
-    class="page-header-img"
-    src="/images/headers/cmi-level-7-assignment-help.webp"
-    alt="CMI Level 7 Strategic Management and Leadership assignment help — C-suite executive leading a strategic planning discussion"
-    width="1408"
-    height="704"
-    loading="eager"
-    decoding="async"
-  />
+  <!-- Unit chooser (directly under the hero) -->
+  <section class="section section-alt chooser-section">
+    <div class="container narrow">
+      <h2 class="section-title" id="all-16-cmi-level-7-units">Find Your CMI Level 7 Unit (701–716)</h2>
+      <p class="section-lead">Choose your unit below or open the full list.</p>
 
-  <TableOfContents />
+      <UnitFinder level={7} />
+
+      <p class="chooser-intro">
+        Assignment help is available for every CMI Level 7 unit. Message us on WhatsApp with your unit
+        number and brief to receive a quote within 2 hours.
+      </p>
+
+      <HubQuoteLink
+        href={whatsappUrl}
+        label="WhatsApp Us Your Unit Number"
+        note="Fixed quote within 2 hours &bull; All 16 units (701–716) &bull; Pass or Refer grading"
+      />
+    </div>
+  </section>
+
+  <HubContents links={tocLinks} id="hub-toc" />
+  <HubFacts items={facts} />
 
   <!-- What Is CMI Level 7 -->
   <section class="section">
@@ -116,7 +141,7 @@ const faqSchema = {
         7 credits), <strong>Certificate</strong> (at least 14), <strong>Diploma</strong> (at least 37) or
         <strong>Extended Diploma</strong> (at least 64), built from the 16 units in Group A (701–716) and, for the
         Diploma and Extended Diploma, the Group B units (607, 608, 609, 610, 612 and 614).
-        Our CMI Level 7 Assignment Help covers all of these units, and is part of <a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a>, which covers every CMI qualification from Level 3 to Level 7.
+        Our CMI Level 7 Assignment Help covers all of these units, and is part of CMI Assignment Help UK, which covers every CMI qualification from Level 3 to Level 7.
       </p>
       <p>
         CMI says learners completing the Diploma or Extended Diploma may be eligible for Chartered Manager (CMgr)
@@ -124,7 +149,7 @@ const faqSchema = {
         can progress to the CMI Level 8 qualifications in Strategic Direction and Leadership. Learners must be 19 or
         over. CMI sets no formal entry requirements, and centres decide whether you have the capability for the level.
         For a detailed comparison, see the
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/">CMI Level 5 vs Level 7 guide</a>.
+        CMI Level 5 vs Level 7 guide.
       </p>
       <div class="qual-grid">
         <div class="qual-block">
@@ -144,21 +169,6 @@ const faqSchema = {
           <p>16 units in Group A (701–716). Group B adds 607, 608, 609, 610, 612 and 614. Your training provider sets which units make up your pathway.</p>
         </div>
       </div>
-    </div>
-  </section>
-
-  <!-- All 16 Units -->
-  <section class="section section-alt">
-    <div class="container">
-      <h2 class="section-title" id="all-16-cmi-level-7-units">Find Your CMI Level 7 Unit (701–716)</h2>
-      <p class="section-lead">
-        Choose your unit below or open the full list. Assignment help is available for every CMI Level 7 unit. Message us on WhatsApp with your unit
-        number and brief to receive a quote within 2 hours.
-      </p>
-
-      <UnitFinder level={7} />
-
-      <UnitList level={7} only={featuredUnits[7]} lead="Featured Level 7 units:" allHref={siteUrl + allUnitsPath(7)} allLabel="See all 16 CMI Level 7 units" />
     </div>
   </section>
 
@@ -194,9 +204,9 @@ const faqSchema = {
         </div>
       </div>
       <p class="link-note">
-        See the <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/">CMI assignment structure guide</a> for advice on
+        See the CMI assignment structure guide for advice on
         structuring written work. For help with report formats, see
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-report-writing-help/">CMI report writing help</a>.
+        CMI report writing help.
       </p>
     </div>
   </section>
@@ -267,7 +277,7 @@ const faqSchema = {
         the assessment criteria of each unit, and every criterion has to be met. Meeting a critical criterion means
         doing what its verb asks: weighing strengths and weaknesses, testing the evidence and its validity, and
         reaching a reasoned judgement. A Refer means at least one criterion is not yet met. Our
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/">CMI resubmission guide</a>
+        CMI resubmission guide
         explains what to do next.
       </p>
       <p>
@@ -332,9 +342,9 @@ const faqSchema = {
       </div>
       <p class="compare-note">
         For a full side-by-side comparison including which to choose for your role and sector, see the
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/">CMI Level 5 vs Level 7 — full comparison</a>. For
+        CMI Level 5 vs Level 7 — full comparison. For
         Level 5 assignment help specifically, see
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/">CMI Level 5 assignment help</a>.
+        CMI Level 5 assignment help.
       </p>
     </div>
   </section>
@@ -355,6 +365,13 @@ const faqSchema = {
           Order on WhatsApp
         </a>
       </div>
+    </div>
+  </section>
+
+  <!-- Featured units -->
+  <section class="section featured-units">
+    <div class="container">
+      <UnitList level={7} only={featuredUnits[7]} lead="Featured Level 7 units:" />
     </div>
   </section>
 
@@ -405,79 +422,12 @@ const faqSchema = {
     </div>
   </section>
 
-  <!-- Supplementary -->
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title" id="related-cmi-level-7-resources">Related CMI Level 7 Resources</h2>
-      <div class="supp-grid">
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/" class="supp-card">
-          <h3>CMI Assignment Writing Service</h3>
-          <p>Full writing support for all CMI Level 7 units, written to your unit criteria and command verbs.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/" class="supp-card">
-          <h3>CMI Assignment Tutoring</h3>
-          <p>For Level 7 students who want to write their own assignment with structured guidance on the criteria, command verbs and source selection.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/" class="supp-card">
-          <h3>CMI Level 5 vs Level 7 Guide</h3>
-          <p>Full qualification comparison for students deciding which CMI level to study: standard, student profile and progression.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/" class="supp-card">
-          <h3>CMI Command Verbs Explained</h3>
-          <p>The command verb hierarchy across all CMI levels, with worked examples.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/" class="supp-card">
-          <h3>CMI Level 6 Assignment Help</h3>
-          <p>Professional Management and Leadership, if you are deciding between Level 6 and Level 7 for your current role.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/" class="supp-card">
-          <h3>CMI Level 5 vs Level 7</h3>
-          <p>Command verb depth, student profile and progression, the full comparison for students weighing up which level to study.</p>
-        </a>
-      </div>
-    </div>
-  </section>
-
-
-
-
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title" id="guides-for-level-7">Guides for CMI Level 7</h2>
-      <p class="section-lead">
-        These guides cover the skills that Level 7 units test. Many senior managers ask <a href="https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/#is-cmi-level-7-worth-it">is CMI Level 7 worth it</a>, and the <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/">FCMI qualification and MCMI qualification</a> page explains why those are membership grades rather than qualifications.
-      </p>
-      <div class="supp-grid">
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/" class="supp-card">
-          <h3>Harvard Referencing for CMI Assignments</h3>
-          <p>How to cite and reference. The unit specifications don't set a minimum number of sources, so use enough credible ones to support each criterion.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/" class="supp-card">
-          <h3>Management Theory for CMI Assignments</h3>
-          <p>How to apply and test frameworks such as Belbin, Kotter and Lewin, which Level 7 indicative content names.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/" class="supp-card">
-          <h3>CMI Reflective Practice Guide</h3>
-          <p>How to answer criteria that ask you to reflect. Unit 714 names Johns, Gibbs, Kolb, Borton and Driscoll, Schön and SOAR.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/" class="supp-card">
-          <h3>CMI Membership Grades: ACMI, MCMI and FCMI</h3>
-          <p>ACMI, MCMI and FCMI are membership grades, not qualifications. How each is earned.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/" class="supp-card">
-          <h3>Is a CMI Qualification Worth It?</h3>
-          <p>A balanced look at cost, time and return, including a section on whether Level 7 is worth it.</p>
-        </a>
-      </div>
-    </div>
-  </section>
-
   <section class="section section-alt">
     <div class="container">
       <h2 class="section-title" id="other-cmi-levels">Other CMI Levels</h2>
       <p class="section-lead">
         CMI qualifications run from Level 3 to Level 7, and the right level depends on the scope of your role.
-        See <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/">CMI qualification levels explained</a> for how they compare.
+        See CMI qualification levels explained for how they compare.
       </p>
       <div class="supp-grid">
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/" class="supp-card">
@@ -519,13 +469,21 @@ const faqSchema = {
 <style>
   .hero {
     background: var(--hero-bg);
-    color: var(--navy); padding: 5rem 0 4rem; text-align: center;
+    color: var(--navy); padding: 3rem 0 2.5rem; text-align: center;
   }
   .hero-inner { max-width: 820px; margin: 0 auto; }
   .eyebrow { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: var(--blue); margin-bottom: .75rem; }
   .hero h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 800; color: var(--navy); margin-bottom: 1.25rem; line-height: 1.2; }
-  .hero-sub { font-size: 1.05rem; color: var(--text); margin-bottom: 2rem; line-height: 1.7; }
-  .hero-note { font-size: .82rem; color: var(--blue); margin-top: .75rem; }
+  .hero-sub { font-size: 1.05rem; color: var(--text); max-width: 620px; margin: 0 auto; line-height: 1.7; }
+
+  /* Unit chooser (directly under the hero) */
+  .chooser-section { padding: 2.5rem 0 3rem; }
+  .chooser-section .section-lead { margin-bottom: 1.25rem; }
+  .chooser-intro { margin-top: 1.75rem; line-height: 1.7; }
+  .featured-units { padding: 4rem 0 0; }
+
+  /* Keep a heading clear of the sticky header when "On this page" jumps to it. */
+  .section-title { scroll-margin-top: 5rem; }
   .narrow { max-width: 860px; }
 
   .qual-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 1rem; margin-top: 1.5rem; }
@@ -633,6 +591,17 @@ const faqSchema = {
   .cta-inner h2 { font-size: 2rem; font-weight: 700; color: #fff; margin-bottom: 1rem; }
   .cta-inner p { font-size: 1.05rem; color: #fff; margin-bottom: 2rem; line-height: 1.6; }
 
+  @media (max-width: 780px) {
+    .hero { padding: 1.5rem 0 1.25rem; }
+    .eyebrow { font-size: .75rem; margin-bottom: .5rem; }
+    .hero h1 { font-size: 1.55rem; margin-bottom: .9rem; }
+    .hero-sub { font-size: 1rem; line-height: 1.55; }
+    .chooser-section { padding: 1.25rem 0 2rem; }
+    .chooser-section .section-title { font-size: 1.4rem; line-height: 1.25; }
+    .chooser-section .section-lead { font-size: 1rem; line-height: 1.5; margin-bottom: .9rem; }
+    .chooser-section :global(.unit-finder) { padding-top: 1rem; }
+    .chooser-section :global(.uf-title) { font-size: 1.15rem; margin-bottom: .6rem; }
+  }
   @media (max-width: 700px) {
     .verb-compare { grid-template-columns: 1fr; }
     .example-grid { grid-template-columns: 1fr; }
