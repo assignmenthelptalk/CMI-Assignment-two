@@ -1,0 +1,75 @@
+---
+// "On this page" for the level hub pages: a short list of the main sections, each taken from an existing h2 on the page
+// (same id, same text). Open on wide screens, collapsed under 768px. Without JavaScript the list stays open.
+// The shared TableOfContents component (all h2s) is left as it is for other pages.
+interface Props {
+  links: [string, string][];
+  id?: string;
+}
+const { links, id = 'hub-toc' } = Astro.props;
+---
+<nav class="hub-toc" aria-label="Table of contents">
+  <div class="container">
+    <details class="hub-toc-box" id={id} open>
+      <summary class="hub-toc-summary">On this page</summary>
+      <ol class="hub-toc-list">
+        {links.map(([target, label]) => (
+          <li><a href={`#${target}`}>{label}</a></li>
+        ))}
+      </ol>
+    </details>
+  </div>
+</nav>
+<script is:inline define:vars={{ id }}>
+  (function () {
+    var toc = document.getElementById(id);
+    if (toc && window.matchMedia('(max-width: 767px)').matches) toc.removeAttribute('open');
+  })();
+</script>
+
+<style>
+  .hub-toc { padding: 1.75rem 0 0; }
+  .hub-toc-box {
+    background: var(--bg-light);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    max-width: 860px;
+  }
+  .hub-toc-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 48px;
+    padding: .75rem 1.25rem;
+    font-size: .8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: var(--navy);
+    cursor: pointer;
+    list-style: none;
+    border-radius: var(--radius);
+  }
+  .hub-toc-summary::-webkit-details-marker { display: none; }
+  .hub-toc-summary::after { content: '+'; font-size: 1.25rem; font-weight: 400; letter-spacing: 0; }
+  .hub-toc-box[open] .hub-toc-summary::after { content: '−'; }
+  .hub-toc-list {
+    list-style: decimal;
+    margin: 0;
+    padding: 0 1.25rem 1rem 2.75rem;
+    display: flex;
+    flex-direction: column;
+    gap: .15rem;
+  }
+  .hub-toc-list a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    color: var(--blue);
+    font-size: .95rem;
+    font-weight: 500;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .hub-toc-list a:hover { color: var(--accent-strong-hover); }
+</style>

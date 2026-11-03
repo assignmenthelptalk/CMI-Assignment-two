@@ -1,0 +1,49 @@
+---
+// Facts strip under "On this page" on the level hub pages. Decorative: every figure is also stated in the page copy.
+interface Props {
+  items: { num: string | number; label: string }[];
+}
+const { items } = Astro.props;
+---
+<section class="stats-strip">
+  <div class="container">
+    <div class="hero-badge-wrap" aria-hidden="true">
+      {items.map((item) => (
+        <div class="hero-badge">
+          <span class="badge-num">{item.num}</span>
+          <span class="badge-label" set:html={item.label} />
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .stats-strip { padding: 1.75rem 0 0; }
+  .hero-badge-wrap { display: flex; flex-wrap: wrap; gap: .75rem; }
+  .hero-badge {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1rem 1.5rem;
+    text-align: center;
+    min-width: 110px;
+  }
+  .badge-num {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: var(--blue);
+    line-height: 1;
+  }
+  .badge-label {
+    display: block;
+    font-size: .72rem;
+    color: var(--text);
+    margin-top: .25rem;
+    line-height: 1.3;
+  }
+  @media (max-width: 780px) {
+    .hero-badge { flex: 1 1 0; min-width: 0; padding: .75rem .5rem; }
+  }
+</style>
