@@ -1,13 +1,32 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import TableOfContents from '../../components/TableOfContents.astro';
+import HubContents from '../../components/HubContents.astro';
+import HubQuoteLink from '../../components/HubQuoteLink.astro';
+import HubFacts from '../../components/HubFacts.astro';
 import UnitList from '../../components/UnitList.astro';
 import UnitFinder from '../../components/UnitFinder.astro';
-import { featuredUnits, allUnitsPath } from '../../data/featuredUnits.js';
+import { featuredUnits } from '../../data/featuredUnits.js';
+import units from '../../data/units.json';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
 
+// "On this page": the main sections only, each taken from an existing h2 on this page (same id, same text).
+const tocLinks: [string, string][] = [
+  ['what-is-cmi-level-6-professional-management-and-leadership', 'What Is CMI Level 6 Professional Management and Leadership?'],
+  ['how-cmi-level-6-units-are-assessed', 'How CMI Level 6 Units Are Assessed'],
+  ['command-verbs-at-cmi-level-6', 'Command Verbs at CMI Level 6'],
+  ['how-cmi-level-6-is-graded', 'How CMI Level 6 Is Graded: Pass or Refer'],
+  ['how-to-get-cmi-level-6-assignment-help', 'How to Get CMI Level 6 Assignment Help'],
+  ['cmi-level-6-assignment-help-faq', 'CMI Level 6 Assignment Help — Frequently Asked Questions'],
+];
+
+// Facts strip: the unit count is counted from src/data/units.json. RQF Level 6 and Pass or Refer are stated in the page copy below.
+const facts = [
+  { num: units['6'].length, label: 'Level 6<br>Units' },
+  { num: 'L6', label: 'RQF<br>Level' },
+  { num: 'Pass', label: 'or Refer<br>Grading' },
+];
 
 const faqSchema = {
   "@context": "https://schema.org",
@@ -75,24 +94,32 @@ const faqSchema = {
         From 601 Professional Management and Leadership Practice to 614 Principles and Practices of Ethical
         Decision Making, written to your criteria by UK-based CMI-qualified writers.
       </p>
-      <a href={whatsappUrl} class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener noreferrer">
-        Get CMI Level 6 Assignment Help
-      </a>
-      <p class="hero-note">Fixed quote within 2 hours &bull; All 14 units (601–614) &bull; Pass or Refer grading</p>
     </div>
   </section>
 
-  <img
-    class="page-header-img"
-    src="/images/headers/cmi-level-6-assignment-help.webp"
-    alt="CMI Level 6 Professional Management and Leadership assignment help — senior manager leading a boardroom discussion"
-    width="1408"
-    height="704"
-    loading="eager"
-    decoding="async"
-  />
+  <!-- Unit chooser (directly under the hero) -->
+  <section class="section section-alt chooser-section">
+    <div class="container narrow">
+      <h2 class="section-title" id="all-14-cmi-level-6-units">Find Your CMI Level 6 Unit (601–614)</h2>
+      <p class="section-lead">Choose your unit below or open the full list.</p>
 
-  <TableOfContents />
+      <UnitFinder level={6} />
+
+      <p class="chooser-intro">
+        Assignment help is available for every CMI Level 6 unit. Send your unit number and brief via WhatsApp
+        to receive a quote and be matched with a Level 6 qualified senior manager writer.
+      </p>
+
+      <HubQuoteLink
+        href={whatsappUrl}
+        label="WhatsApp Us Your Unit Number"
+        note="Fixed quote within 2 hours &bull; All 14 units (601–614) &bull; Pass or Refer grading"
+      />
+    </div>
+  </section>
+
+  <HubContents links={tocLinks} id="hub-toc" />
+  <HubFacts items={facts} />
 
   <!-- What Is CMI Level 6 -->
   <section class="section">
@@ -104,12 +131,12 @@ const faqSchema = {
         <strong>Award</strong> (at least 5 credits), <strong>Certificate</strong> (at least 13 credits) or
         <strong>Diploma</strong> (at least 37 credits), built from the 14 units in Group A (601–614) and, for the
         Diploma, the Group B units (509, 518, 522 and 525).
-       Our CMI Level 6 Assignment Help covers every unit at this level, and is part of <a href="https://www.cmiassignmenthelp.uk.com/">CMI Assignment Help UK</a>, which covers every CMI qualification from Level 3 to Level 7.</p>
+       Our CMI Level 6 Assignment Help covers every unit at this level, and is part of CMI Assignment Help UK, which covers every CMI qualification from Level 3 to Level 7.</p>
       <p>
         The Level 6 qualification sits at <strong>RQF Level 6</strong>, equivalent to final-year undergraduate
-        academic standard. It follows <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/">CMI Level 5</a>
-        and leads on to <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/">CMI
-        Level 7</a>, Strategic Management and Leadership Practice.
+        academic standard. It follows CMI Level 5
+        and leads on to CMI
+        Level 7, Strategic Management and Leadership Practice.
       </p>
       <p>
         The defining characteristic of Level 6 is the language of its criteria. Of the 75 assessment criteria in
@@ -140,21 +167,6 @@ const faqSchema = {
           <p>14 units in Group A (601–614). Group B adds 509, 518, 522 and 525. Your training provider sets which units make up your pathway.</p>
         </div>
       </div>
-    </div>
-  </section>
-
-  <!-- All 14 Units -->
-  <section class="section section-alt">
-    <div class="container">
-      <h2 class="section-title" id="all-14-cmi-level-6-units">Find Your CMI Level 6 Unit (601–614)</h2>
-      <p class="section-lead">
-        Choose your unit below or open the full list. Assignment help is available for every CMI Level 6 unit. Send your unit number and brief via WhatsApp
-        to receive a quote and be matched with a Level 6 qualified senior manager writer.
-      </p>
-
-      <UnitFinder level={6} />
-
-      <UnitList level={6} only={featuredUnits[6]} lead="Featured Level 6 units:" allHref={siteUrl + allUnitsPath(6)} allLabel="See all 14 CMI Level 6 units" />
     </div>
   </section>
 
@@ -190,9 +202,9 @@ const faqSchema = {
         </div>
       </div>
       <p class="link-note">
-        See the <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-assignment-structure/">CMI assignment structure guide</a> for advice on
+        See the CMI assignment structure guide for advice on
         structuring written work. For help with report formats, see
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-report-writing-help/">CMI report writing help</a>.
+        CMI report writing help.
       </p>
     </div>
   </section>
@@ -251,7 +263,7 @@ const faqSchema = {
         the assessment criteria of each unit, and every criterion has to be met. Meeting a critical criterion means
         doing what its verb asks: weighing strengths and weaknesses, testing the evidence and its validity, and
         reaching a reasoned judgement. A Refer means at least one criterion is not yet met. Our
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-resubmission-guide/">CMI resubmission guide</a>
+        CMI resubmission guide
         explains what to do next.
       </p>
       <p>
@@ -273,7 +285,6 @@ const faqSchema = {
             <li>Level 6 units carry 5 to 9 credits and have a guideline of 3,500 or 4,000 words</li>
             <li>Level 6 is Professional Management and Leadership Practice; Level 5 is Management and Leadership</li>
           </ul>
-          <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/" class="position-link">CMI Level 5 assignment help &rarr;</a>
         </div>
         <div class="position-card">
           <h3>Level 6 vs Level 7</h3>
@@ -283,13 +294,12 @@ const faqSchema = {
             <li>CMI lists the Level 7 qualifications as a route for Level 6 learners who want further professional development</li>
             <li>Each level has its own syllabus, unit list and word counts, so check your brief</li>
           </ul>
-          <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/" class="position-link">CMI Level 7 assignment help &rarr;</a>
         </div>
       </div>
       <p class="position-note">
         <strong>Which level is right?</strong> It depends on your role, your employer and the units your centre
         offers. For a detailed side-by-side comparison, see the
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/">CMI Level 5 vs Level 7 guide</a>.
+        CMI Level 5 vs Level 7 guide.
       </p>
     </div>
   </section>
@@ -310,6 +320,13 @@ const faqSchema = {
           Order on WhatsApp
         </a>
       </div>
+    </div>
+  </section>
+
+  <!-- Featured units -->
+  <section class="section featured-units">
+    <div class="container">
+      <UnitList level={6} only={featuredUnits[6]} lead="Featured Level 6 units:" />
     </div>
   </section>
 
@@ -355,75 +372,12 @@ const faqSchema = {
     </div>
   </section>
 
-  <!-- Supplementary -->
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title" id="related-cmi-assignment-help">Related CMI Assignment Help</h2>
-      <div class="supp-grid">
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/" class="supp-card">
-          <h3>CMI Assignment Writing Service</h3>
-          <p>Full writing support for all CMI levels including Level 6, written to your unit criteria and command verbs.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/" class="supp-card">
-          <h3>CMI Level 5 Assignment Help</h3>
-          <p>If you are deciding between Level 5 and Level 6, Level 5 covers the Management and Leadership units 501 to 526.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/" class="supp-card">
-          <h3>CMI Level 7 Assignment Help</h3>
-          <p>The next progression from Level 6, Strategic Management and Leadership Practice, units 701 to 716.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/" class="supp-card">
-          <h3>CMI Command Verbs Explained</h3>
-          <p>Full guide to the command verb hierarchy across all CMI levels, with worked examples.</p>
-        </a>
-      </div>
-    </div>
-  </section>
-
-
-
-
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title" id="guides-for-level-6">Guides for CMI Level 6</h2>
-      <p class="section-lead">
-        These guides cover the skills that Level 6 units test, and how the level sits between Level 5 and Level 7.
-      </p>
-      <div class="supp-grid">
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/" class="supp-card">
-          <h3>Harvard Referencing for CMI Assignments</h3>
-          <p>How to cite and reference. The unit specifications don't set a minimum number of sources, so use enough credible ones to support each criterion.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/" class="supp-card">
-          <h3>Management Theory for CMI Assignments</h3>
-          <p>How to apply and test frameworks such as Tuckman, Kotter, Lewin, ADKAR and the Balanced Scorecard, which Level 6 indicative content names.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/" class="supp-card">
-          <h3>CMI Reflective Practice Guide</h3>
-          <p>How to answer criteria that ask you to reflect. The reflective models CMI names in its syllabuses.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/" class="supp-card">
-          <h3>CMI Qualifications for NHS Managers</h3>
-          <p>Choosing a CMI level by the scope of your role rather than your pay band.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/" class="supp-card">
-          <h3>CMI Membership Grades: ACMI, MCMI and FCMI</h3>
-          <p>ACMI, MCMI and FCMI are membership grades, not qualifications. How each is earned.</p>
-        </a>
-        <a href="https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/" class="supp-card">
-          <h3>Is a CMI Qualification Worth It?</h3>
-          <p>A balanced look at cost, time and what the evidence does and does not show.</p>
-        </a>
-      </div>
-    </div>
-  </section>
-
   <section class="section section-alt">
     <div class="container">
       <h2 class="section-title" id="other-cmi-levels">Other CMI Levels</h2>
       <p class="section-lead">
         CMI qualifications run from Level 3 to Level 7, and the right level depends on the scope of your role.
-        See <a href="https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/">CMI qualification levels explained</a> for how they compare.
+        See CMI qualification levels explained for how they compare.
       </p>
       <div class="supp-grid">
         <a href="https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/" class="supp-card">
@@ -462,13 +416,33 @@ const faqSchema = {
 <style>
   .hero {
     background: var(--hero-bg);
-    color: var(--navy); padding: 5rem 0 4rem; text-align: center;
+    color: var(--navy); padding: 3rem 0 2.5rem; text-align: center;
   }
   .hero-inner { max-width: 800px; margin: 0 auto; }
   .eyebrow { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: var(--blue); margin-bottom: .75rem; }
   .hero h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 800; color: var(--navy); margin-bottom: 1.25rem; line-height: 1.2; }
-  .hero-sub { font-size: 1.05rem; color: var(--text); margin-bottom: 2rem; line-height: 1.7; }
-  .hero-note { font-size: .82rem; color: var(--blue); margin-top: .75rem; }
+  .hero-sub { font-size: 1.05rem; color: var(--text); max-width: 620px; margin: 0 auto; line-height: 1.7; }
+
+  /* Unit chooser (directly under the hero) */
+  .chooser-section { padding: 2.5rem 0 3rem; }
+  .chooser-section .section-lead { margin-bottom: 1.25rem; }
+  .chooser-intro { margin-top: 1.75rem; line-height: 1.7; }
+  .featured-units { padding: 4rem 0 0; }
+
+  /* Keep a heading clear of the sticky header when "On this page" jumps to it. */
+  .section-title { scroll-margin-top: 5rem; }
+
+  @media (max-width: 780px) {
+    .hero { padding: 1.5rem 0 1.25rem; }
+    .eyebrow { font-size: .75rem; margin-bottom: .5rem; }
+    .hero h1 { font-size: 1.55rem; margin-bottom: .9rem; }
+    .hero-sub { font-size: 1rem; line-height: 1.55; }
+    .chooser-section { padding: 1.25rem 0 2rem; }
+    .chooser-section .section-title { font-size: 1.4rem; line-height: 1.25; }
+    .chooser-section .section-lead { font-size: 1rem; line-height: 1.5; margin-bottom: .9rem; }
+    .chooser-section :global(.unit-finder) { padding-top: 1rem; }
+    .chooser-section :global(.uf-title) { font-size: 1.15rem; margin-bottom: .6rem; }
+  }
   .narrow { max-width: 860px; }
 
   .qual-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 1rem; margin-top: 1.5rem; }
