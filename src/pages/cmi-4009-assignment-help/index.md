@@ -8,9 +8,7 @@ canonical: "https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/"
 # CMI Unit 4009 Assignment Help
 **Staff Inspection Review, CMI Level 4**
 
-Unit 4009 is staff inspection review: what inspections are and who carries them out, how to plan one and assess its risks, presenting findings, and the work-organisation side including workload grading and job evaluation. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 4009 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 4009 is staff inspection review: what inspections are and who carries them out, how to plan one and assess its risks, presenting findings, and the work-organisation side including workload grading and job evaluation.
 
 ## What CMI Unit 4009 covers
 
@@ -99,9 +97,9 @@ Yes. There was no page for it before.
 
 **What does Unit 4009 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 4009 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 4 units
 
@@ -110,9 +108,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4008 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/), Promoting Equality and Diversity (Level 4)
 - [CMI 5001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-5001-assignment-help/), Personal Development as a Manager and Leader (Level 5 coded, Level 4 Diploma)
 - [CMI 5014 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-5014-assignment-help/), Introduction to Management Coaching and Mentoring (Level 5 coded, Level 4 Diploma)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

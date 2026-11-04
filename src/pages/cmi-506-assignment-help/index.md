@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 506 Assignment Help — Managing Equality, Diversity a
 # CMI Unit 506 Assignment Help
 **Managing Equality, Diversity and Inclusion, CMI Level 5**
 
-Unit 506 covers equality, diversity and inclusion from three angles: the legal and business case, the manager's own role and behaviour, and the practical work of planning, implementing, monitoring and reporting an inclusion plan. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 506 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 506 covers equality, diversity and inclusion from three angles: the legal and business case, the manager's own role and behaviour, and the practical work of planning, implementing, monitoring and reporting an inclusion plan.
 
 ## What CMI Unit 506 covers
 
@@ -107,9 +105,9 @@ The indicative content names inclusive leadership, authentic leadership, transfo
 
 **What does Unit 506 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 506 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 5 units
 
@@ -118,11 +116,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Principles of Management and Leadership in an Organisational Context (Level 5)
 - [CMI 504 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-504-assignment-help/), Managing Performance (Level 5)
 - [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Principles of Delivering Coaching and Mentoring (Level 5)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
-- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Blake and Mouton, Goleman and Bass, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Qualifications for NHS Managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), choosing a CMI level by the scope of your role

@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 609 Assignment Help — Leading Quality Management"
 # CMI Unit 609 Assignment Help
 **Leading Quality Management, CMI Level 6**
 
-Unit 609 covers leading quality management: the approaches and schools of thought behind it, the issues that influence it, and how to develop quality management for strategic objectives, propose how to lead it at operational level and support people to build quality into their work. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 609 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 609 covers leading quality management: the approaches and schools of thought behind it, the issues that influence it, and how to develop quality management for strategic objectives, propose how to lead it at operational level and support people to build quality into their work.
 
 ## What CMI Unit 609 covers
 
@@ -93,9 +91,9 @@ The syllabus names many, such as Six Sigma, PDCA, TQM and Kano. Choose ones that
 
 **What does Unit 609 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 609 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 6 units
 
@@ -104,10 +102,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 607 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/), Procurement, Purchasing and Contracting (Level 6)
 - [CMI 610 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-610-assignment-help/), Principles and Practices of Policy Development (Level 6)
 - [CMI 611 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-611-assignment-help/), Knowledge Management (Level 6)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Lewin, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

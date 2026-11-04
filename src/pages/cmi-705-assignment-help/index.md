@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 705 Assignment Help — Leading Strategic Change"
 # CMI Unit 705 Assignment Help
 **Leading Strategic Change, CMI Level 7**
 
-Unit 705 covers leading strategic change: the scope, context and drivers of organisational change, the complexities of leading it, the main theories and models, and how to develop a proposal and reflect on the leadership approaches that deliver it. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 705 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 705 covers leading strategic change: the scope, context and drivers of organisational change, the complexities of leading it, the main theories and models, and how to develop a proposal and reflect on the leadership approaches that deliver it.
 
 ## What CMI Unit 705 covers
 
@@ -95,9 +93,9 @@ CMI's recommendations include a reflective account of leading change, and the un
 
 **What does Unit 705 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 705 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 7 units
 
@@ -106,11 +104,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 704 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/), Developing Organisational Strategy (Level 7)
 - [CMI 707 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-707-assignment-help/), Organisational Design and Development (Level 7)
 - [CMI 706 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/), Finance for Strategic Leaders (Level 7)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
-- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Kotter, Lewin, Greenleaf and Hersey and Blanchard, which this unit's indicative content names
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

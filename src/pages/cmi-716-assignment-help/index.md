@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 716 Assignment Help — Strategic Approaches to Mental
 # CMI Unit 716 Assignment Help
 **Strategic Approaches to Mental Health and Wellbeing, CMI Level 7**
 
-Unit 716 is about strategic approaches to mental health and wellbeing: their impact on organisational performance, the complexities of managing them, contemporary approaches to healthy work systems, a strategy to promote wellbeing, and the approaches that sustain a supportive culture. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 716 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 716 is about strategic approaches to mental health and wellbeing: their impact on organisational performance, the complexities of managing them, contemporary approaches to healthy work systems, a strategy to promote wellbeing, and the approaches that sustain a supportive culture.
 
 ## What CMI Unit 716 covers
 
@@ -92,9 +90,9 @@ No. It is a leadership unit about managing mental health and wellbeing in organi
 
 **What does Unit 716 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 716 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 7 units
 
@@ -103,10 +101,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7)
 - [CMI 714 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-714-assignment-help/), Personal and Professional Development for Strategic Leaders (Level 7)
 - [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Strategic Approaches to Equality and Inclusion (Level 7)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Goleman, Schein, Hofstede and Bass, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

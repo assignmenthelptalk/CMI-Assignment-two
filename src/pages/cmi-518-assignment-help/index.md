@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 518 Assignment Help — Risk Management"
 # CMI Unit 518 Assignment Help
 **Risk Management, CMI Level 5**
 
-Unit 518 is risk management: the scope of business risk, governance and categories, how risks are identified, assessed, ranked and managed, mitigation approaches and reporting to stakeholders. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 518 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 518 is risk management: the scope of business risk, governance and categories, how risks are identified, assessed, ranked and managed, mitigation approaches and reporting to stakeholders.
 
 ## What CMI Unit 518 covers
 
@@ -84,9 +82,9 @@ You can use recognised frameworks such as ISO 31000, so long as they fit the cri
 
 **What does Unit 518 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 518 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 5 units
 
@@ -95,9 +93,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 520 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-520-assignment-help/), Managing Finance (Level 5)
 - [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Principles of Innovation (Level 5)
 - [CMI 519 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-519-assignment-help/), Managing Quality and Continuous Improvement (Level 5)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

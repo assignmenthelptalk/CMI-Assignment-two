@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 606 Assignment Help — Developing and Leading Strateg
 # CMI Unit 606 Assignment Help
 **Developing and Leading Strategy, CMI Level 6**
 
-Unit 606 covers developing and leading strategy: how organisational, functional and operational strategies relate, what influences strategy, the approaches to developing it, and how to develop and lead an operational strategy and win stakeholder buy-in. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 606 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 606 covers developing and leading strategy: how organisational, functional and operational strategies relate, what influences strategy, the approaches to developing it, and how to develop and lead an operational strategy and win stakeholder buy-in.
 
 ## What CMI Unit 606 covers
 
@@ -91,9 +89,9 @@ No. Deliberate and emergent strategies are cited as an example. You can use anot
 
 **What does Unit 606 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 606 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 6 units
 
@@ -102,10 +100,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 604 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-604-assignment-help/), Strategic Programme and Project Management (Level 6)
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6)
 - [CMI 607 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/), Procurement, Purchasing and Contracting (Level 6)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Ansoff, Mintzberg, Christensen and Hersey and Blanchard, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

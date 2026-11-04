@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 508 Assignment Help — Principles of Developing a Ski
 # CMI Unit 508 Assignment Help
 **Principles of Developing a Skilled and Talented Workforce, CMI Level 5**
 
-Unit 508 is about developing a skilled and talented workforce: why it benefits the organisation, individuals and external stakeholders, what influences it, the learning and development options (including technology), and how to measure and sustain the impact. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 508 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 508 is about developing a skilled and talented workforce: why it benefits the organisation, individuals and external stakeholders, what influences it, the learning and development options (including technology), and how to measure and sustain the impact.
 
 ## What CMI Unit 508 covers
 
@@ -92,9 +90,9 @@ Some CMI listings show it as "Principles of Developing a Skilled and Talented Wo
 
 **What does Unit 508 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 508 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 5 units
 
@@ -103,9 +101,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 507 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-507-assignment-help/), Principles of Delivering Coaching and Mentoring (Level 5)
 - [CMI 511 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-511-assignment-help/), Principles of Recruiting, Selecting and Retaining Talent (Level 5)
 - [CMI 509 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-509-assignment-help/), Managing Stakeholder Relationships (Level 5)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

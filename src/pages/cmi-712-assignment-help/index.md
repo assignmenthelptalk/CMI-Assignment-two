@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 712 Assignment Help — Strategic Management Project"
 # CMI Unit 712 Assignment Help
 **Strategic Management Project, CMI Level 7**
 
-Unit 712 is the Strategic Management Project: develop a business case, propose a research design, recommend a project management methodology, report on the outcomes of the project, and critically reflect on the leadership skills and behaviours used to conduct it. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 712 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 712 is the Strategic Management Project: develop a business case, propose a research design, recommend a project management methodology, report on the outcomes of the project, and critically reflect on the leadership skills and behaviours used to conduct it.
 
 ## What CMI Unit 712 covers
 
@@ -92,9 +90,9 @@ Your centre decides this. Unit 713 asks for a research proposal, and Unit 712 as
 
 **What does Unit 712 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 712 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 7 units
 
@@ -103,11 +101,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 713 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/), Applied Research for Strategic Leaders (Level 7)
 - [CMI 711 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-711-assignment-help/), Entrepreneurial Practice (Level 7)
 - [CMI 716 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-716-assignment-help/), Strategic Approaches to Mental Health and Wellbeing (Level 7)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
-- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Maslow, Hersey and Blanchard, Goleman and Hofstede, which this unit's indicative content names
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

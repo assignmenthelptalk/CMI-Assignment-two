@@ -8,9 +8,7 @@ canonical: "https://www.cmiassignmenthelp.uk.com/cmi-320-assignment-help/"
 # CMI Unit 320 Assignment Help
 **Presenting for Success, CMI Level 3**
 
-Unit 320 is about presenting for success: the purpose and methods of presentations, what makes a successful presenter, how to plan, deliver and review a presentation, and then to plan and deliver one and reflect on your performance. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 320 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 320 is about presenting for success: the purpose and methods of presentations, what makes a successful presenter, how to plan, deliver and review a presentation, and then to plan and deliver one and reflect on your performance.
 
 ## What CMI Unit 320 covers
 
@@ -107,9 +105,9 @@ AC4.1 asks you to produce a plan to deliver a presentation, including aims, stru
 
 **What does Unit 320 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 320 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 3 units
 
@@ -118,9 +116,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 304 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-304-assignment-help/), Principles of Communication in the Workplace (Level 3)
 - [CMI 319 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-319-assignment-help/), Managing Meetings (Level 3)
 - [CMI 321 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-321-assignment-help/), Managing Own Personal and Professional Development (Level 3)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

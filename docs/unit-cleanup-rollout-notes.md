@@ -1,0 +1,641 @@
+# Unit page cleanup: roll-out to all units
+
+Branch `feat/unit-cleanup-all-units`, started from `main` at `5a7bab6`. The five pilot pages (307, 4008, 501, 611, 711) were already done and are unchanged by this branch. This branch applies the same cleanup to the other 84 unit pages, so all 89 unit pages now carry it. The audit and the pilot changes are in `docs/unit-page-cleanup-notes.md`.
+
+## What changed
+
+- **One list controls it.** `cleanupUnits` in `src/components/unit-tools/config.js` (it was `cleanupPilotUnits`, five codes) now holds all 89 unit codes. A test fails if a unit page folder is missing from the list, or the list holds a code with no page.
+- **Each of the 84 pages got the same markdown edits as the pilots** (exact-match edits; the script stopped on any page where an edit did not match exactly once, and none did). Every removal is listed in the appendix:
+  - the FAQ answer replaced with the agreed text (question text unchanged), which removes "UK-based CMI-qualified", "fixed quote" and "within 2 hours";
+  - the related-units list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed;
+  - the "Get a Unit N Quote on WhatsApp" link under the title removed;
+  - the intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed with its link;
+  - the FAQ WhatsApp link replaced by the closing line "Stuck on a criterion? Message us on WhatsApp." (same place: after the FAQ, before the related links);
+  - the command verbs guide moved from the related-units list to "More on this unit's topics", with at most one other guide.
+- **From the layout, for every unit:** the "Full criteria text" disclosure (closed), the "What the verbs mean in this unit" legend, no repeated "In plain English" lines, the `#command-verbs` panel, the 15-minute start plan, the "Last reviewed October 2026 against the CMI Level N specification vNN" line, and no header image (the image files are kept). The build fails, naming the unit, if a page's disclosure and checklist disagree.
+- **Not changed:** titles, meta descriptions, canonical tags, URLs, structured data, the sitemap, the legal pages, the cookie banner, the chat button, and every page that is not a unit page (the build comparison shows this).
+
+## Decisions
+
+1. **Which other guide stays next to the command verbs guide.** The pilots kept management theory or Harvard, whichever the page had. For all 84 pages the rule is: keep the most unit-specific guide the page already linked, in this order: reflective practice, NHS management, management theory, Harvard, Level 5 vs 7, membership. Nothing was added to any page; every kept link was already there.
+2. **Unit 4004 backticks.** Its criterion 1.1 is written `` `group' and a `team' `` and markdown paired the backticks into an inline code span, so the full criteria text showed different text from the checklist. The new sync check caught it. I escaped the two backticks in the markdown (`` \` ``), and the criterion parser (`src/lib/unit-tools-data.js`) now reads a backslash before punctuation the way markdown renders it. Wording is unchanged. Unit 614 has one unpaired backtick in a list outside the criteria; it renders as a literal character and needed nothing.
+3. **Rename.** `cleanupPilotUnits` became `cleanupUnits` now that it is not a pilot list. The helper `isCleanupUnit` keeps its name and behaviour, so a unit page that is not listed still builds exactly as before.
+4. **Same as the pilots:** the FAQ question wording is kept as the site has it; unit page meta descriptions still end "UK CMI writers, quote in 2 hours." and `Layout.astro` line 33 still says "Independent UK-based CMI assignment writing and tutoring service". The brief does not allow changing metadata or sitewide text, so they are reported, not changed. Section 0.8 of the pilot notes lists the same claims on other pages by file and line.
+
+## Link counts (article body, the 84 units that were converted)
+
+| Link type | Before | After |
+|---|--:|--:|
+| WhatsApp (total) | 988 | 820 |
+| of which "Get a Unit N Quote" under the title | 84 | 0 |
+| Service pages | 84 | 0 |
+| Guides (topics block, plus the verb panel link) | 232 | 252 |
+| Sibling units | 252 | 252 |
+| Own-level hub and unit list | 171 | 171 |
+| Anchors (`#...`, start plan and verb panel) | 0 | 336 |
+
+After the change each of the 89 pages has one "Stuck on this criterion?" WhatsApp link per criterion (779 in all) plus the one closing line, and nothing else.
+
+## Inbound links to the guides (pages that link to each guide)
+
+| Guide | Before | After | Note |
+|---|--:|--:|---|
+| Command verbs | 125 | 125 | header nav, all 89 unit bodies |
+| Harvard referencing | 92 | 47 | 41 unit bodies keep it, 3 other bodies, 3 footer or nav |
+| Management theory | 50 | 38 | 34 unit bodies, 3 other bodies, 1 other |
+| Reflective practice | 14 | 14 | unchanged |
+| NHS management | 13 | 12 | 4 unit bodies, 2 other bodies, 6 footer or nav |
+| Level 5 vs Level 7 | 125 | 125 | header nav on every page; unit body links 4 to 0 |
+| Membership grades | 125 | 125 | header nav on every page; unit body links 2 to 0 |
+
+Service pages: the writing service page is linked from the header on every page (unchanged), and the other service pages are unchanged. No guide or service page lost its last inbound link.
+
+## Gaps
+
+- **Verb meanings:** none. Every verb in all 89 units has a meaning on its own unit page, so no verb is listed without one.
+- **Depth groups:** 32 verbs used by the units are not in any depth group of the command verbs guide, so their panel entry shows the meaning and no depth line: Appraise, Compare, Conduct, Consider, Construct, Create, Critically discuss, Critically examine, Critically reflect, Critically review, Critique, Deliver, Demonstrate, Determine, Devise, Differentiate, Distinguish, Draw, Explore, Formulate, Investigate, Prepare, Present, Produce, Provide, Reflect, Report, Research, Review, Select, Specify, Use. No group was invented for them.
+- **Review date:** one verification date (31 October 2026) covers all levels; it is not a per-unit date.
+- **Level 4 units with 5xxx codes (5001, 5012, 5014):** their page text says Level 4, so they get the Level 4 specification line (v12).
+
+## Checks run
+
+- `npm test`: 51 tests, all passing (new: the full unit list test, the backtick case, and the review line and verb meaning check across all 89 units).
+- `npm run build`: 126 pages. Compared with the build of `main`: 84 files differ, all of them the 84 converted unit pages; the five pilot pages, every other page, every asset and the sitemap are identical (line endings ignored).
+- Link check: 126 pages, 0 broken.
+- All 89 built unit pages: title, meta description, canonical, H1 and JSON-LD identical to before; none of the removed wording left; closing line once, after the FAQ and before the related links; no service-page link; at most two guides in the topics block, including the command verbs guide; disclosure present and closed; no header image; one H1; start plan, verb panel and review line present; no duplicate ids, broken `aria` references or dead `#` links.
+- Built preview, all 89 units at 375px and at 1280px: no horizontal overflow, start plan shown, verb panel present, no control in the tools under 44px tall at 375px.
+- Unit 502 (never a pilot) at 375px: no console errors; a tick and a note survive a reload; the planner splits 3,000 words across 11 criteria and the outline builds; ArrowRight moves between the tabs; Enter opens the disclosure; the print view holds the steps, verbs, note, planner split and outline.
+- Unit 4004: checklist and full criteria text both show the literal backticks, with no code spans.
+
+## Appendix: every removal, by page
+
+Each line is one removal or move on one page.
+
+- 301: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 301: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 301: quote link under the title removed
+- 301: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 301: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 301: command verbs guide link moved out of the related units list
+- 301: topics list item removed: Harvard Referencing for CMI Assignments
+- 302: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 302: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 302: quote link under the title removed
+- 302: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 302: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 302: command verbs guide link moved out of the related units list
+- 302: topics list item removed: Harvard Referencing for CMI Assignments
+- 303: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 303: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 303: quote link under the title removed
+- 303: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 303: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 303: command verbs guide link moved out of the related units list
+- 304: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 304: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 304: quote link under the title removed
+- 304: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 304: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 304: command verbs guide link moved out of the related units list
+- 305: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 305: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 305: quote link under the title removed
+- 305: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 305: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 305: command verbs guide link moved out of the related units list
+- 306: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 306: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 306: quote link under the title removed
+- 306: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 306: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 306: command verbs guide link moved out of the related units list
+- 308: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 308: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 308: quote link under the title removed
+- 308: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 308: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 308: command verbs guide link moved out of the related units list
+- 309: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 309: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 309: quote link under the title removed
+- 309: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 309: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 309: command verbs guide link moved out of the related units list
+- 310: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 310: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 310: quote link under the title removed
+- 310: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 310: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 310: command verbs guide link moved out of the related units list
+- 310: topics list item removed: Harvard Referencing for CMI Assignments
+- 311: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 311: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 311: quote link under the title removed
+- 311: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 311: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 311: command verbs guide link moved out of the related units list
+- 312: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 312: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 312: quote link under the title removed
+- 312: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 312: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 312: command verbs guide link moved out of the related units list
+- 313: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 313: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 313: quote link under the title removed
+- 313: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 313: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 313: command verbs guide link moved out of the related units list
+- 314: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 314: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 314: quote link under the title removed
+- 314: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 314: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 314: command verbs guide link moved out of the related units list
+- 315: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 315: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 315: quote link under the title removed
+- 315: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 315: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 315: command verbs guide link moved out of the related units list
+- 316: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 316: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 316: quote link under the title removed
+- 316: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 316: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 316: command verbs guide link moved out of the related units list
+- 317: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 317: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 317: quote link under the title removed
+- 317: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 317: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 317: command verbs guide link moved out of the related units list
+- 318: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 318: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 318: quote link under the title removed
+- 318: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 318: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 318: command verbs guide link moved out of the related units list
+- 319: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 319: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 319: quote link under the title removed
+- 319: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 319: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 319: command verbs guide link moved out of the related units list
+- 320: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 320: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 320: quote link under the title removed
+- 320: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 320: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 320: command verbs guide link moved out of the related units list
+- 321: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 321: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 321: quote link under the title removed
+- 321: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 321: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 321: command verbs guide link moved out of the related units list
+- 4001: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 4001: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 4001: quote link under the title removed
+- 4001: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 4001: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 4001: command verbs guide link moved out of the related units list
+- 4001: topics list item removed: Management Theory for CMI Assignments
+- 4001: topics list item removed: Harvard Referencing for CMI Assignments
+- 4002: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 4002: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 4002: quote link under the title removed
+- 4002: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 4002: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 4002: command verbs guide link moved out of the related units list
+- 4003: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 4003: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 4003: quote link under the title removed
+- 4003: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 4003: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 4003: command verbs guide link moved out of the related units list
+- 4003: topics list item removed: Harvard Referencing for CMI Assignments
+- 4004: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 4004: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 4004: quote link under the title removed
+- 4004: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 4004: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 4004: command verbs guide link moved out of the related units list
+- 4004: topics list item removed: Harvard Referencing for CMI Assignments
+- 4005: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 4005: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 4005: quote link under the title removed
+- 4005: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 4005: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 4005: command verbs guide link moved out of the related units list
+- 4006: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 4006: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 4006: quote link under the title removed
+- 4006: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 4006: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 4006: command verbs guide link moved out of the related units list
+- 4006: topics list item removed: Harvard Referencing for CMI Assignments
+- 4007: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 4007: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 4007: quote link under the title removed
+- 4007: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 4007: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 4007: command verbs guide link moved out of the related units list
+- 4009: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 4009: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 4009: quote link under the title removed
+- 4009: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 4009: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 4009: command verbs guide link moved out of the related units list
+- 5001: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 5001: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 5001: quote link under the title removed
+- 5001: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 5001: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 5001: command verbs guide link moved out of the related units list
+- 5001: topics list item removed: Harvard Referencing for CMI Assignments
+- 5012: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 5012: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 5012: quote link under the title removed
+- 5012: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 5012: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 5012: command verbs guide link moved out of the related units list
+- 5012: topics list item removed: Harvard Referencing for CMI Assignments
+- 5014: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 5014: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 5014: quote link under the title removed
+- 5014: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 5014: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 5014: command verbs guide link moved out of the related units list
+- 502: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 502: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 502: quote link under the title removed
+- 502: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 502: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 502: command verbs guide link moved out of the related units list
+- 502: topics list item removed: Harvard Referencing for CMI Assignments
+- 502: topics list item removed: CMI Level 5 vs Level 7
+- 503: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 503: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 503: quote link under the title removed
+- 503: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 503: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 503: command verbs guide link moved out of the related units list
+- 503: topics list item removed: Harvard Referencing for CMI Assignments
+- 504: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 504: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 504: quote link under the title removed
+- 504: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 504: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 504: command verbs guide link moved out of the related units list
+- 505: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 505: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 505: quote link under the title removed
+- 505: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 505: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 505: command verbs guide link moved out of the related units list
+- 505: topics list item removed: Harvard Referencing for CMI Assignments
+- 506: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 506: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 506: quote link under the title removed
+- 506: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 506: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 506: command verbs guide link moved out of the related units list
+- 506: topics list item removed: Management Theory for CMI Assignments
+- 506: topics list item removed: Harvard Referencing for CMI Assignments
+- 507: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 507: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 507: quote link under the title removed
+- 507: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 507: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 507: command verbs guide link moved out of the related units list
+- 507: topics list item removed: Harvard Referencing for CMI Assignments
+- 508: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 508: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 508: quote link under the title removed
+- 508: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 508: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 508: command verbs guide link moved out of the related units list
+- 509: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 509: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 509: quote link under the title removed
+- 509: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 509: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 509: command verbs guide link moved out of the related units list
+- 509: topics list item removed: Harvard Referencing for CMI Assignments
+- 510: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 510: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 510: quote link under the title removed
+- 510: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 510: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 510: command verbs guide link moved out of the related units list
+- 511: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 511: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 511: quote link under the title removed
+- 511: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 511: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 511: command verbs guide link moved out of the related units list
+- 512: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 512: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 512: quote link under the title removed
+- 512: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 512: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 512: command verbs guide link moved out of the related units list
+- 513: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 513: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 513: quote link under the title removed
+- 513: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 513: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 513: command verbs guide link moved out of the related units list
+- 513: topics list item removed: Harvard Referencing for CMI Assignments
+- 514: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 514: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 514: quote link under the title removed
+- 514: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 514: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 514: command verbs guide link moved out of the related units list
+- 514: topics list item removed: Management Theory for CMI Assignments
+- 514: topics list item removed: Harvard Referencing for CMI Assignments
+- 515: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 515: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 515: quote link under the title removed
+- 515: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 515: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 515: command verbs guide link moved out of the related units list
+- 515: topics list item removed: Harvard Referencing for CMI Assignments
+- 516: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 516: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 516: quote link under the title removed
+- 516: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 516: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 516: command verbs guide link moved out of the related units list
+- 517: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 517: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 517: quote link under the title removed
+- 517: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 517: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 517: command verbs guide link moved out of the related units list
+- 518: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 518: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 518: quote link under the title removed
+- 518: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 518: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 518: command verbs guide link moved out of the related units list
+- 519: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 519: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 519: quote link under the title removed
+- 519: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 519: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 519: command verbs guide link moved out of the related units list
+- 519: topics list item removed: Harvard Referencing for CMI Assignments
+- 520: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 520: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 520: quote link under the title removed
+- 520: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 520: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 520: command verbs guide link moved out of the related units list
+- 521: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 521: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 521: quote link under the title removed
+- 521: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 521: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 521: command verbs guide link moved out of the related units list
+- 521: topics list item removed: Harvard Referencing for CMI Assignments
+- 522: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 522: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 522: quote link under the title removed
+- 522: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 522: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 522: command verbs guide link moved out of the related units list
+- 523: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 523: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 523: quote link under the title removed
+- 523: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 523: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 523: command verbs guide link moved out of the related units list
+- 523: topics list item removed: Harvard Referencing for CMI Assignments
+- 524: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 524: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 524: quote link under the title removed
+- 524: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 524: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 524: command verbs guide link moved out of the related units list
+- 524: topics list item removed: Harvard Referencing for CMI Assignments
+- 525: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 525: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 525: quote link under the title removed
+- 525: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 525: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 525: command verbs guide link moved out of the related units list
+- 525: topics list item removed: Management Theory for CMI Assignments
+- 525: topics list item removed: Harvard Referencing for CMI Assignments
+- 525: topics list item removed: CMI Membership Grades: ACMI, MCMI and FCMI
+- 526: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 526: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 526: quote link under the title removed
+- 526: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 526: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 526: command verbs guide link moved out of the related units list
+- 526: topics list item removed: Harvard Referencing for CMI Assignments
+- 601: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 601: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 601: quote link under the title removed
+- 601: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 601: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 601: command verbs guide link moved out of the related units list
+- 601: topics list item removed: Management Theory for CMI Assignments
+- 601: topics list item removed: Harvard Referencing for CMI Assignments
+- 602: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 602: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 602: quote link under the title removed
+- 602: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 602: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 602: command verbs guide link moved out of the related units list
+- 602: topics list item removed: Harvard Referencing for CMI Assignments
+- 603: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 603: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 603: quote link under the title removed
+- 603: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 603: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 603: command verbs guide link moved out of the related units list
+- 603: topics list item removed: Harvard Referencing for CMI Assignments
+- 604: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 604: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 604: quote link under the title removed
+- 604: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 604: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 604: command verbs guide link moved out of the related units list
+- 604: topics list item removed: Harvard Referencing for CMI Assignments
+- 605: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 605: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 605: quote link under the title removed
+- 605: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 605: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 605: command verbs guide link moved out of the related units list
+- 605: topics list item removed: Harvard Referencing for CMI Assignments
+- 606: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 606: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 606: quote link under the title removed
+- 606: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 606: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 606: command verbs guide link moved out of the related units list
+- 606: topics list item removed: Harvard Referencing for CMI Assignments
+- 607: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 607: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 607: quote link under the title removed
+- 607: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 607: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 607: command verbs guide link moved out of the related units list
+- 608: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 608: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 608: quote link under the title removed
+- 608: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 608: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 608: command verbs guide link moved out of the related units list
+- 608: topics list item removed: Harvard Referencing for CMI Assignments
+- 609: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 609: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 609: quote link under the title removed
+- 609: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 609: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 609: command verbs guide link moved out of the related units list
+- 609: topics list item removed: Harvard Referencing for CMI Assignments
+- 610: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 610: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 610: quote link under the title removed
+- 610: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 610: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 610: command verbs guide link moved out of the related units list
+- 612: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 612: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 612: quote link under the title removed
+- 612: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 612: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 612: command verbs guide link moved out of the related units list
+- 612: topics list item removed: Management Theory for CMI Assignments
+- 612: topics list item removed: Harvard Referencing for CMI Assignments
+- 613: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 613: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 613: quote link under the title removed
+- 613: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 613: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 613: command verbs guide link moved out of the related units list
+- 613: topics list item removed: Management Theory for CMI Assignments
+- 613: topics list item removed: Harvard Referencing for CMI Assignments
+- 614: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 614: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 614: quote link under the title removed
+- 614: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 614: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 614: command verbs guide link moved out of the related units list
+- 614: topics list item removed: Harvard Referencing for CMI Assignments
+- 701: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 701: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 701: quote link under the title removed
+- 701: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 701: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 701: command verbs guide link moved out of the related units list
+- 701: topics list item removed: Management Theory for CMI Assignments
+- 701: topics list item removed: Harvard Referencing for CMI Assignments
+- 701: topics list item removed: CMI Level 5 vs Level 7
+- 702: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 702: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 702: quote link under the title removed
+- 702: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 702: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 702: command verbs guide link moved out of the related units list
+- 702: topics list item removed: Harvard Referencing for CMI Assignments
+- 703: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 703: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 703: quote link under the title removed
+- 703: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 703: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 703: command verbs guide link moved out of the related units list
+- 704: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 704: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 704: quote link under the title removed
+- 704: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 704: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 704: command verbs guide link moved out of the related units list
+- 704: topics list item removed: Management Theory for CMI Assignments
+- 704: topics list item removed: Harvard Referencing for CMI Assignments
+- 704: topics list item removed: CMI Level 5 vs Level 7
+- 705: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 705: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 705: quote link under the title removed
+- 705: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 705: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 705: command verbs guide link moved out of the related units list
+- 705: topics list item removed: Management Theory for CMI Assignments
+- 705: topics list item removed: Harvard Referencing for CMI Assignments
+- 706: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 706: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 706: quote link under the title removed
+- 706: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 706: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 706: command verbs guide link moved out of the related units list
+- 707: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 707: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 707: quote link under the title removed
+- 707: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 707: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 707: command verbs guide link moved out of the related units list
+- 707: topics list item removed: Harvard Referencing for CMI Assignments
+- 708: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 708: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 708: quote link under the title removed
+- 708: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 708: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 708: command verbs guide link moved out of the related units list
+- 709: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 709: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 709: quote link under the title removed
+- 709: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 709: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 709: command verbs guide link moved out of the related units list
+- 710: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 710: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 710: quote link under the title removed
+- 710: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 710: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 710: command verbs guide link moved out of the related units list
+- 710: topics list item removed: Harvard Referencing for CMI Assignments
+- 712: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 712: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 712: quote link under the title removed
+- 712: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 712: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 712: command verbs guide link moved out of the related units list
+- 712: topics list item removed: Management Theory for CMI Assignments
+- 712: topics list item removed: Harvard Referencing for CMI Assignments
+- 713: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 713: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 713: quote link under the title removed
+- 713: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 713: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 713: command verbs guide link moved out of the related units list
+- 714: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 714: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 714: quote link under the title removed
+- 714: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 714: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 714: command verbs guide link moved out of the related units list
+- 714: topics list item removed: Management Theory for CMI Assignments
+- 714: topics list item removed: Harvard Referencing for CMI Assignments
+- 714: topics list item removed: CMI Level 5 vs Level 7
+- 714: topics list item removed: CMI Qualifications for NHS Managers
+- 714: topics list item removed: CMI Membership Grades: ACMI, MCMI and FCMI
+- 715: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 715: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 715: quote link under the title removed
+- 715: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 715: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 715: command verbs guide link moved out of the related units list
+- 715: topics list item removed: Harvard Referencing for CMI Assignments
+- 716: FAQ answer replaced (old text held "UK-based CMI-qualified", "fixed quote", "within 2 hours")
+- 716: related list item "CMI Assignment Writing Service, submission-ready assignments across all levels" removed
+- 716: quote link under the title removed
+- 716: intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." removed (its link with it)
+- 716: FAQ WhatsApp link removed (the closing line now sits in its place)
+- 716: command verbs guide link moved out of the related units list
+- 716: topics list item removed: Harvard Referencing for CMI Assignments

@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 4004 Assignment Help — Understanding Team Dynamics"
 # CMI Unit 4004 Assignment Help
 **Understanding Team Dynamics, CMI Level 4**
 
-Unit 4004 covers groups and teams: how they differ, formal and informal norms, group development and cohesiveness, and the extra skills needed to lead remote, displaced or virtual teams. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 4004 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 4004 covers groups and teams: how they differ, formal and informal norms, group development and cohesiveness, and the extra skills needed to lead remote, displaced or virtual teams.
 
 ## What CMI Unit 4004 covers
 
@@ -24,7 +22,7 @@ Keywords the syllabus lists for the unit: Workgroups, Team structures, Team form
 
 ### Learning outcome 1: Understand the differences between groups and teams
 
-- 1.1 **Compare** differences between a `group' and a `team'
+- 1.1 **Compare** differences between a \`group' and a \`team'
 - 1.2 **Identify** the practical implications of differences between groups and teams for the manager
 - 1.3 **Explain** situations when the formation of a group and/or a team would be necessary
 
@@ -107,9 +105,9 @@ It has four learning outcomes and 13 assessment criteria, one of the larger Leve
 
 **What does Unit 4004 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 4004 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 4 units
 
@@ -118,10 +116,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4)
 - [CMI 4003 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/), Understanding Organisational Culture, Values and Behaviour (Level 4)
 - [CMI 4005 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/), Management Report Writing (Level 4)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Tuckman, Belbin, Tannenbaum and Schmidt and Hersey and Blanchard, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

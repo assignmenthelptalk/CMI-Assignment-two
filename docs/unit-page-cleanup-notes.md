@@ -545,3 +545,7 @@ Not removed or changed. Findings and the proposed fix are in 0.2. Seen again on 
 ## 13. Rolling out to more units
 
 Add the unit codes to `cleanupPilotUnits` and make the same markdown edits as commits 2 and 3 (FAQ answer, the writing-service list item, the quote link, the intro sentence, the FAQ WhatsApp link, and the topics block cut to two guides including the command verbs guide). The build then fails by itself if a page's disclosure and checklist disagree.
+
+## 14. Roll-out
+
+Done for all 89 unit pages on branch `feat/unit-cleanup-all-units`; see `docs/unit-cleanup-rollout-notes.md`. `cleanupPilotUnits` is now `cleanupUnits` and holds every unit code.

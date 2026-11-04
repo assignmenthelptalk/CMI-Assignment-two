@@ -8,7 +8,7 @@ import { reviewedLine, specReviewed, specVersions } from './specVersions.js';
 import { depthGroupFor, verbGroups } from './verbDepth.js';
 import { parseUnitMarkdown } from '../lib/unit-tools-data.js';
 import { verbLegend } from '../lib/pilot-page.js';
-import { cleanupPilotUnits } from '../components/unit-tools/config.js';
+import { cleanupUnits } from '../components/unit-tools/config.js';
 
 const read = (relative) => readFileSync(new URL(relative, import.meta.url), 'utf8').replace(/\r\n/g, '\n');
 
@@ -47,16 +47,17 @@ test('depth group lookup is case-insensitive and gives null for verbs the guide 
   for (const verb of ['Compare', 'Devise', 'Provide', 'Investigate', 'Formulate']) assert.equal(depthGroupFor(verb), null, verb);
 });
 
-test('every verb the pilot units use has a meaning on its unit page; the ones without a depth group are the five known gaps', () => {
-  const noDepth = new Set();
-  for (const code of cleanupPilotUnits) {
+test('every verb in every unit has a meaning on its unit page, a depth group comes only from the guide, and every unit has a review line', () => {
+  const groupNames = new Set(verbGroups.map((group) => group.name));
+  for (const code of cleanupUnits) {
     const unit = parseUnitMarkdown(read(`../pages/cmi-${code}-assignment-help/index.md`), { code });
     const { entries, gaps } = verbLegend(unit);
     assert.deepEqual(gaps, [], `unit ${code}`);
+    assert.ok(reviewedLine(unit.level), `unit ${code}: no review line for Level ${unit.level}`);
     for (const entry of entries) {
       assert.ok(entry.meaning, `${code} ${entry.verb}`);
-      if (!depthGroupFor(entry.verb)) noDepth.add(entry.verb);
+      const depth = depthGroupFor(entry.verb);
+      assert.ok(depth === null || groupNames.has(depth), `${code} ${entry.verb}: ${depth}`);
     }
   }
-  assert.deepEqual([...noDepth].sort(), ['Compare', 'Devise', 'Formulate', 'Investigate', 'Provide']);
 });
