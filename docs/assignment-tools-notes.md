@@ -98,7 +98,7 @@ Commits, in order: meta description fix, audit, new page, menu item, renames, te
 
 ## 5. Remaining "2 hours" claims removed (on request)
 
-Every remaining "quote in / within 2 hours" (and "two hours") on the site is removed, 93 mentions in 23 page sources: the five level hubs, the home page, the seven service-style pages (writing service, tutoring, coursework, essay, report, homework, answers, examples, help online, cheap, pay someone), five guides and the resubmission guide. The unit pages were done earlier.
+Every remaining "quote in / within 2 hours" (and "two hours") on the site is removed, 93 mentions in 23 page sources: the five level hubs, the home page, the eleven service-style pages (writing service, tutoring, coursework, essay, report, homework, answers, examples, help online, cheap, pay someone) and six guides (command verbs, membership, NHS, worth it, management theory, resubmission). The unit pages were done earlier.
 
 - **Rule.** Only the time phrase goes; the rest of each sentence stays. "Fixed quote within 2 hours" is now "Fixed quote". "Receive a fixed quote within 2 hours." is "Receive a fixed quote." "within 2 hours of receiving your brief" is "after receiving your brief", and "within two hours of sending your brief" is "after you send your brief".
 - **Meta descriptions.** The five hub descriptions ended "UK-based CMI writers, quote in 2 hours.". That whole sentence is removed, as on the unit pages. The service-style page descriptions that ended "quote in 2 hours" now end "quote" (for example "WhatsApp quote."). Titles, canonicals and the structured-data fields other than FAQ answer text are untouched. The FAQ answers in the structured data are changed in step with the visible FAQ text.
