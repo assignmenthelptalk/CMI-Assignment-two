@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 711 Assignment Help — Entrepreneurial Practice"
 # CMI Unit 711 Assignment Help
 **Entrepreneurial Practice, CMI Level 7**
 
-Unit 711 is about entrepreneurial practice in strategic contexts: the forms and contexts of entrepreneurship, the multi-dimensional issues affecting it, approaches to removing barriers, the characteristics of entrepreneurial leadership, and a course of action to reach an entrepreneurial aim. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 711 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 711 is about entrepreneurial practice in strategic contexts: the forms and contexts of entrepreneurship, the multi-dimensional issues affecting it, approaches to removing barriers, the characteristics of entrepreneurial leadership, and a course of action to reach an entrepreneurial aim.
 
 ## What CMI Unit 711 covers
 
@@ -93,8 +91,6 @@ Yes. The indicative content lists entrepreneurship, intrapreneurship and social 
 
 If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 711 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
-
 ## Related CMI Level 7 units
 
 - [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), all 16 Level 7 units
@@ -102,9 +98,8 @@ If you would like support with this unit, message us on WhatsApp with your unit 
 - [CMI 707 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-707-assignment-help/), Organisational Design and Development (Level 7)
 - [CMI 710 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-710-assignment-help/), Marketing Strategy (Level 7)
 - [CMI 712 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/), Strategic Management Project (Level 7)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Porter and Mintzberg, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

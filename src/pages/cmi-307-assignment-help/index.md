@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 307 Assignment Help — Developing the Knowledge, Skil
 # CMI Unit 307 Assignment Help
 **Developing the Knowledge, Skills and Abilities of Individuals and Teams, CMI Level 3**
 
-Unit 307 covers developing knowledge, skills and abilities in individuals and teams: why development matters, the opportunities available, how to identify and select them, and how to monitor their impact. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 307 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 307 covers developing knowledge, skills and abilities in individuals and teams: why development matters, the opportunities available, how to identify and select them, and how to monitor their impact.
 
 ## What CMI Unit 307 covers
 
@@ -100,8 +98,6 @@ No. The indicative content lists examples. CMI says learners should choose well 
 
 If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 307 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
-
 ## Related CMI Level 3 units
 
 - [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), all 21 Level 3 units
@@ -109,8 +105,8 @@ If you would like support with this unit, message us on WhatsApp with your unit 
 - [CMI 302 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/), Managing a Team to Achieve Results (Level 3)
 - [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3)
 - [CMI 308 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/), Managing Volunteers (Level 3)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

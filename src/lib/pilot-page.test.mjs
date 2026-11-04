@@ -142,6 +142,26 @@ test('pilot pages: the FAQ answer is the agreed text, and none of the removed wo
   }
 });
 
+test('pilot pages: no WhatsApp links in the markdown, no service-page links, tidy related and topics lists', () => {
+  const servicePage = /cmi-(?:assignment-writing-service|assignment-examples|homework-help|essay-writing-help|coursework-help|assignment-tutoring|assignment-answers|assignment-help-online|report-writing-help)\/|cheap-cmi-assignment-help|pay-someone-to-do-my-cmi-assignment/;
+  const verbsGuide = '/guides/cmi-command-verbs-explained/';
+  for (const code of cleanupPilotUnits) {
+    const body = pageSource(code).replace(/\r\n/g, '\n').replace(/^---\n[\s\S]*?\n---\n/, '');
+    assert.ok(!/wa\.me/.test(body), `unit ${code}: a WhatsApp link is left in the markdown`);
+    assert.ok(!/Quote on WhatsApp/.test(body), `unit ${code}: quote link`);
+    assert.ok(!/If you want support with this unit/.test(body), `unit ${code}: intro sentence`);
+    assert.ok(!servicePage.test(body), `unit ${code}: service-page link`);
+
+    const related = body.match(/## Related CMI Level \d units\n\n([\s\S]*?)\n## /)[1];
+    assert.ok(!related.includes('/guides/'), `unit ${code}: guide link left in the related units list`);
+
+    const topics = body.match(/## More on this unit's topics\n\n([\s\S]*)$/)[1];
+    const guides = [...topics.matchAll(/\]\((https:\/\/www\.cmiassignmenthelp\.uk\.com\/guides\/[^)]+)\)/g)].map((match) => match[1]);
+    assert.ok(guides.length <= 2, `unit ${code}: ${guides.length} guide links under "More on this unit's topics"`);
+    assert.ok(guides.some((href) => href.endsWith(verbsGuide)), `unit ${code}: the command verbs guide link is under "More on this unit's topics"`);
+  }
+});
+
 test('built pilot pages (when dist exists): the checklist and the full criteria text carry the same criteria', (t) => {
   const built = (code) => new URL(`../../dist/cmi-${code}-assignment-help/index.html`, import.meta.url);
   if (!cleanupPilotUnits.every((code) => existsSync(built(code)))) {

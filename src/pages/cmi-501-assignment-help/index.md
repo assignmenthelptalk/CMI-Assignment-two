@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 501 Assignment Help — Principles of Management and L
 # CMI Unit 501 Assignment Help
 **Principles of Management and Leadership in an Organisational Context, CMI Level 5**
 
-This is the broad foundation unit of the Level 5 qualification. It asks you to place management and leadership inside a real organisation: its legal status, structure, mission and values, then the theories of style and culture, then the knowledge, skills and behaviours the role demands. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 501 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+This is the broad foundation unit of the Level 5 qualification. It asks you to place management and leadership inside a real organisation: its legal status, structure, mission and values, then the theories of style and culture, then the knowledge, skills and behaviours the role demands.
 
 ## What CMI Unit 501 covers
 
@@ -113,8 +111,6 @@ The syllabus allows learners to draw on their own experience, and most assignmen
 
 If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 501 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
-
 ## Related CMI Level 5 units
 
 - [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), all 26 Level 5 units
@@ -122,11 +118,8 @@ If you would like support with this unit, message us on WhatsApp with your unit 
 - [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5)
 - [CMI 506 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/), Managing Equality, Diversity and Inclusion (Level 5)
 - [CMI 526 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/), Principles of Leadership Practice (Level 5)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Blake and Mouton, Tannenbaum and Schmidt, Adair and Hersey and Blanchard, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/), how the verbs, scope and word counts change between the two levels
-- [CMI Membership Grades: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/), how each membership grade is earned

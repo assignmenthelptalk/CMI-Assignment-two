@@ -21,6 +21,15 @@
 .ut-legend-item dt, .ut-legend-item dd { margin: 0; }
 .ut-legend-item dd { color: var(--text); line-height: 1.5; }
 
+/* "Stuck on this criterion?": a small underlined text link rather than a prominent blue link. It keeps the
+   44px tap target from study-tools.css (inline-flex, min-height). Body-text colour is 7.5:1 on white. */
+.prose-wrap .ut .ut-stuck {
+  font-size: 0.85rem; font-weight: 400; color: var(--text);
+  text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;
+}
+.prose-wrap .ut .ut-stuck:hover { color: var(--accent-strong-hover); text-decoration-thickness: 2px; }
+.prose-wrap .ut .ut-stuck:focus-visible { outline: 3px solid var(--focus-ring); outline-offset: 2px; }
+
 @media (max-width: 640px) {
   .ut-legend-item { grid-template-columns: 1fr; }
 }

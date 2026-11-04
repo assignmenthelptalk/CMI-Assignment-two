@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 611 Assignment Help — Knowledge Management"
 # CMI Unit 611 Assignment Help
 **Knowledge Management, CMI Level 6**
 
-Unit 611 covers knowledge management: its scope, purpose, models and human and cultural dimensions, its impact on organisational learning, and how to develop a strategy and recommend tools, techniques and technologies to manage knowledge. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 611 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 611 covers knowledge management: its scope, purpose, models and human and cultural dimensions, its impact on organisational learning, and how to develop a strategy and recommend tools, techniques and technologies to manage knowledge.
 
 ## What CMI Unit 611 covers
 
@@ -100,8 +98,6 @@ The indicative content names GDPR (2018) among the data protection and sharing c
 
 If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 611 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
-
 ## Related CMI Level 6 units
 
 - [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), all 14 Level 6 units
@@ -109,9 +105,8 @@ If you would like support with this unit, message us on WhatsApp with your unit 
 - [CMI 605 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-605-assignment-help/), Innovation and Change (Level 6)
 - [CMI 610 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-610-assignment-help/), Principles and Practices of Policy Development (Level 6)
 - [CMI 612 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/), Coaching Skills for Leaders (Level 6)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as the Balanced Scorecard, Teece and Senge, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
