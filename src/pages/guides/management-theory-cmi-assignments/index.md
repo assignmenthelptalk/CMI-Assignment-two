@@ -169,7 +169,7 @@ Cite by author and year in the text and give full details in the reference list.
 
 **I need help applying management theory to my assignment. What do I do?**
 
-Send your unit brief and the scenario you are using via WhatsApp. A quote is returned within 2 hours, and support is matched to your level and unit.
+Send your unit brief and the scenario you are using via WhatsApp. A quote is returned, and support is matched to your level and unit.
 
 ## CMI Unit Assignment Help — By Framework
 
