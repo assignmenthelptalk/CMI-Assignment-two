@@ -56,8 +56,35 @@ The new page covers all five levels, so there is no single level or version to p
 
 ## 1. Changes
 
-(Filled in as the work lands; see the sections below.)
+Commits, in order: meta description fix, audit, new page, menu item, renames, tests.
+
+- **Meta descriptions (requested first).** The 89 unit pages ended their meta description with "UK CMI writers, quote in 2 hours." (86 pages) or "Quote in 2 hours." (3 pages, units 5001, 5012, 5014). That trailing sentence is removed; nothing else in any description changed. Titles, canonicals and structured data are untouched. The `Layout.astro` line 33 "UK-based ... writing and tutoring service" text is Organization JSON-LD, not a meta description, so it was left alone.
+- **New page** `src/pages/assignment-tools/index.astro`, served at `/assignment-tools/`. Title, meta description and canonical are exactly as briefed. Content top to bottom: breadcrumb, H1, intro line, `UnitFinder` (unchanged component), "What you get on every unit page" (three items), the privacy sentence, "Browse by level" (five level hub links from `navMenu.js`), the command verbs guide sentence. No service links, no WhatsApp link, no other calls to action.
+- **Menu.** `toolsLink` in `src/data/navMenu.js`; one plain `li.nav-item` in `Layout.astro` after Services and before the WhatsApp button. `buildMobileNav()` now also copies plain links, so the mobile menu shows it too, after Services. No dropdown.
+- **Renames** (unit pages): "Study tools for Unit X" is "Assignment tools for Unit X"; tab and panel labels "Pass checklist", "Word planner", "Structure outline" (unchanged); on every unit page that has the start plan, "15-minute start plan" is "Start in 15 minutes" and "What the verbs mean in this unit" is "What the verbs mean". Also updated: the tab list `aria-label`, the no-JavaScript note, the start plan step links ("Open the pass checklist", "Open the word planner"), the start plan print view and `.txt` headings ("from the word planner"), the outline `.txt` first line, comments, and the two tests that asserted the old text.
+- **Tests.** `src/components/assignment-tools.test.mjs` (new, 6 tests): page title, meta description, canonical; agreed copy; only the allowed links; menu position and mobile copy; new names present and old names gone; `#study-tools` and `#command-verbs` still exist.
 
 ## 2. Decisions
 
-(Filled in as the work lands.)
+- **D1. Menu position.** The main menu has no separate "unit" items, only the Levels, Guides and Services dropdowns, then the WhatsApp button as the contact item. "Assignment Tools" goes after Services and before WhatsApp.
+- **D2. Breadcrumb.** The site has no visible breadcrumb anywhere, only `BreadcrumbList` JSON-LD. I added a small visible one (`nav aria-label="Breadcrumb"`, an ordered list, "Home > Assignment Tools") using the site's tokens and an underlined link. The JSON-LD that `Layout.astro` generates for the new page names the second item "Free CMI Assignment Tools" (taken from the title). The visible crumb says "Assignment Tools". I did not change `Layout.astro` to align them.
+- **D3. "Last reviewed" left out.** The pilot wording is per level ("... against the CMI Level N specification vNN"). The new page is not about one level, so the exact wording has no single level or version to use. Listing five lines would not be "exactly the same wording" and would add a block the brief did not ask for. If you want it, say which form.
+- **D4. Active state.** No nav item had an active state. I set `aria-current="page"` on the new item only when the page is `/assignment-tools/`, with a darker text colour and weight 600 on desktop and an underline in the mobile menu. Focus style is the existing global 3px ring; nothing new.
+- **D5. Names not in your list.** "Start in 15 minutes" is the heading only. The buttons "Print my start plan", "Download as .txt", the print and `.txt` title "My start plan: ..." and "Start plan downloaded." still say "start plan". I changed "study outline" to "structure outline" in the outline text file's first line, because it is the one place the old family name "study" showed in the download header and the tab is called "Structure outline". Say if you want any of those handled differently.
+- **D6. Anchors.** `#study-tools` (section id) and `#command-verbs` are unchanged. Nothing linked to `#study-tools`, so no extra anchor was added.
+- **D7. Docs.** `unit-tools-notes.md`, `unit-page-cleanup-notes.md` and `unit-cleanup-rollout-notes.md` still use the old names, as a record of what was built then. I did not rewrite them.
+- **D8. Finder.** Reused as it is, including its heading "Find Your CMI Unit" and its existing `find_unit_click` analytics call (no new tracking).
+
+## 3. Checks (4 November 2026)
+
+- `npm test`: 57 passed, 0 failed (51 before, plus the 6 new).
+- `npm run build`: 127 pages (126 plus the new one).
+- Link check: 127 pages, 0 bad links.
+- **Comparison with the build of `main` at `f929099`** (line endings and whitespace between tags normalised, hashed asset names normalised): see the report for the page-by-page result.
+  - New page: `assignment-tools/index.html`.
+  - 37 non-unit pages: the nav item only (plus the inline menu script, which now copies plain links).
+  - 89 unit pages: the nav item, the renamed labels and the shorter meta description.
+  - No page removed, no other difference.
+- **Sitemap:** `sitemap-0.xml` gains one line, `https://www.cmiassignmenthelp.uk.com/assignment-tools/`. `sitemap-index.xml` and `robots.txt` are identical to `main`. Nothing hand-edited.
+- **Browser (local preview of the build):** 1280px and 375px, no horizontal overflow (scroll width equals viewport width), no console messages. Keyboard: Tab reaches "Assignment Tools" in the desktop nav with the 3px focus ring; the level and unit selects work with the arrow keys and Enter on "Go to unit page" opens the unit page. Mobile menu opens, shows the new item after Services, item marked current. The chat button at 375px is still the 48px round icon named "Chat with us".
+- Screenshots: `docs/assignment-tools-shots/` (`desktop-1280.png`, `mobile-375.png`, `mobile-menu-open-375.png`). The cookie banner shows in the full-page captures because nothing was accepted or rejected.
