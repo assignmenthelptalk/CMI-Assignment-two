@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 4008 Assignment Help - Promoting Equality and Diversity Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 4008 assignment help (Level 4). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 4008 assignment help (Level 4). Learning outcomes, command verbs and how to approach the unit."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/"
 headerImage: "/images/headers/cmi-4008-assignment-help.webp"
 headerImageAlt: "CMI Unit 4008 Assignment Help — Promoting Equality and Diversity"

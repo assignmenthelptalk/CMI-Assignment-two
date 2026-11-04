@@ -1,5 +1,5 @@
 ---
-// "Study tools" section for a unit page: criteria checklist, word-count planner, structure outline.
+// "Assignment tools" section for a unit page: pass checklist, word planner, structure outline.
 // Everything is written into the page at build time from the unit's own markdown (see
 // src/lib/unit-tools-data.js). The scripts run in the browser only, make no network calls and
 // send no analytics. Without JavaScript the checklist stays visible and the other tools are off.
@@ -38,8 +38,8 @@ const plan = JSON.stringify(
   unit.outcomes.map((outcome) => ({ number: outcome.number, criteria: outcome.criteria.length }))
 );
 const tabs = [
-  { key: 'checklist', label: 'Criteria checklist' },
-  { key: 'planner', label: 'Word-count planner' },
+  { key: 'checklist', label: 'Pass checklist' },
+  { key: 'planner', label: 'Word planner' },
   { key: 'outline', label: 'Structure outline' },
 ];
 ---
@@ -47,15 +47,15 @@ const tabs = [
 <link rel="stylesheet" href={stylesheet} />{cleanup && <link rel="stylesheet" href={cleanupStylesheet} />}
 
 <section class="ut" id="study-tools" aria-labelledby={`${id}-heading`} data-ut data-unit={unit.code} data-plan={plan}>
-  <h2 id={`${id}-heading`}>Study tools for Unit {unit.code}</h2>
+  <h2 id={`${id}-heading`}>Assignment tools for Unit {unit.code}</h2>
   <p class="ut-intro">
     Three free tools that run in your browser. Nothing you type or tick is sent anywhere.
   </p>
   <p class="ut-nojs" data-ut-nojs>
-    The tabs need JavaScript, which is not running. Your criteria are listed below. The word-count planner and the structure outline are switched off.
+    The tabs need JavaScript, which is not running. Your criteria are listed below. The word planner and the structure outline are switched off.
   </p>{cleanup && <StartPlan unit={unit} id={id} />}
 
-  <div class="ut-tabs" role="tablist" aria-label="Study tools" data-ut-tablist hidden>
+  <div class="ut-tabs" role="tablist" aria-label="Assignment tools" data-ut-tablist hidden>
     {tabs.map((tab) => (
       <button type="button" role="tab" id={`${id}-tab-${tab.key}`} aria-controls={`${id}-panel-${tab.key}`} aria-selected={tab.key === 'checklist' ? 'true' : 'false'} tabindex={tab.key === 'checklist' ? 0 : -1}>
         {tab.label}
@@ -63,7 +63,7 @@ const tabs = [
     ))}
   </div>
 
-  <!-- Criteria checklist -->
+  <!-- Pass checklist -->
   <div class="ut-panel ut-panel-checklist" role="tabpanel" id={`${id}-panel-checklist`} aria-labelledby={`${id}-tab-checklist`} data-ut-checklist>
     <div class="ut-bar">
       <p class="ut-status" role="status" aria-live="polite" data-ut-status>0 of {totalCriteria} criteria ticked.</p>
@@ -79,7 +79,7 @@ const tabs = [
       Ticks are saved in this browser only, for this unit only. They are not sent anywhere.
     </p>{cleanup && legend.entries.length > 0 && (
       <div class="ut-legend">
-        <h3 id={`${id}-legend-heading`}>What the verbs mean in this unit</h3>
+        <h3 id={`${id}-legend-heading`}>What the verbs mean</h3>
         <dl class="ut-legend-list" aria-labelledby={`${id}-legend-heading`}>
           {legend.entries.map((entry) => (
             <div class="ut-legend-item">
@@ -119,9 +119,9 @@ const tabs = [
     ))}
   </div>
 
-  <!-- Word-count planner -->
+  <!-- Word planner -->
   <div class="ut-panel" role="tabpanel" id={`${id}-panel-planner`} aria-labelledby={`${id}-tab-planner`} data-ut-planner hidden>
-    <h3 class="ut-panel-title">Word-count planner</h3>
+    <h3 class="ut-panel-title">Word planner</h3>
     {guidelineText ? (
       <p class="ut-note">The unit page gives a guideline of {guidelineText} for Unit {unit.code}, with a {ALLOWANCE * 100}% allowance above or below.{unit.wordCount.min !== unit.wordCount.max && ' The box starts at the middle of that range.'}</p>
     ) : (

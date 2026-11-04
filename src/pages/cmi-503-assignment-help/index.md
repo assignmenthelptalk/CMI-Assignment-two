@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 503 Assignment Help - Principles of Managing and Leading Individuals and Teams to Achieve Success | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 503 assignment help (Level 5). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 503 assignment help (Level 5). Learning outcomes, command verbs and how to approach the unit."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/"
 headerImage: "/images/headers/cmi-503-assignment-help.webp"
 headerImageAlt: "CMI Unit 503 Assignment Help — Principles of Managing and Leading Individuals and Teams to Achieve Success"

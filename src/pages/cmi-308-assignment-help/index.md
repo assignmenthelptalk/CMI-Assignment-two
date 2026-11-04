@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 308 Assignment Help - Managing Volunteers Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 308 assignment help (Level 3): Managing Volunteers. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 308 assignment help (Level 3): Managing Volunteers. Learning outcomes, command verbs and how to approach it."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/"
 headerImage: "/images/headers/cmi-308-assignment-help.webp"
 headerImageAlt: "CMI Unit 308 Assignment Help — Managing Volunteers"

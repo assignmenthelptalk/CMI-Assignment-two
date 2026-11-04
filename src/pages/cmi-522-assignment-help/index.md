@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 522 Assignment Help - Managing the Customer Experience Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 522 assignment help (Level 5). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 522 assignment help (Level 5). Learning outcomes, command verbs and how to approach the unit."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-522-assignment-help/"
 headerImage: "/images/headers/cmi-522-assignment-help.webp"
 headerImageAlt: "CMI Unit 522 Assignment Help — Managing the Customer Experience"

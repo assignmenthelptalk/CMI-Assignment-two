@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 313 Assignment Help - Developing and Sharing Good Practice | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 313 assignment help (Level 3). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 313 assignment help (Level 3). Learning outcomes, command verbs and how to approach the unit."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/"
 ---
 

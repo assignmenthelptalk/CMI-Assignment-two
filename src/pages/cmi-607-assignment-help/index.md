@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 607 Assignment Help - Procurement, Purchasing and Contracting | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 607 assignment help (Level 6). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 607 assignment help (Level 6). Learning outcomes, command verbs and how to approach the unit."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-607-assignment-help/"
 headerImage: "/images/headers/cmi-607-assignment-help.webp"
 headerImageAlt: "CMI Unit 607 Assignment Help — Procurement, Purchasing and Contracting"

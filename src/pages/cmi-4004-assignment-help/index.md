@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 4004 Assignment Help - Understanding Team Dynamics Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 4004 assignment help (Level 4): Understanding Team Dynamics. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 4004 assignment help (Level 4): Understanding Team Dynamics. Learning outcomes, command verbs and how to approach it."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/"
 headerImage: "/images/headers/cmi-4004-assignment-help.webp"
 headerImageAlt: "CMI Unit 4004 Assignment Help — Understanding Team Dynamics"

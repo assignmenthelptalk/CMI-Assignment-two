@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 320 Assignment Help - Presenting for Success Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 320 assignment help (Level 3): Presenting for Success. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 320 assignment help (Level 3): Presenting for Success. Learning outcomes, command verbs and how to approach it."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-320-assignment-help/"
 ---
 

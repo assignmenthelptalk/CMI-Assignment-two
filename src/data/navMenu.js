@@ -130,6 +130,9 @@ export const guides = [
   { slug: 'https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/', title: 'CMI Level 5 vs Level 7' },
 ];
 
+// A plain link in the main menu (no dropdown), shown after Services and before the WhatsApp button.
+export const toolsLink = { slug: 'https://www.cmiassignmenthelp.uk.com/assignment-tools/', title: 'Assignment Tools' };
+
 export const services = [
   { slug: 'https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/', title: 'CMI Assignment Writing Service' },
   { slug: 'https://www.cmiassignmenthelp.uk.com/cmi-assignment-tutoring/', title: 'CMI Assignment Tutoring' },

@@ -62,7 +62,7 @@ test('the default word count is the guideline, the middle of a range, or nothing
 test('the outline has an introduction, one section per outcome, a conclusion and references', () => {
   const data = unit('611');
   const outline = buildOutline(data);
-  assert.match(outline, /^CMI Unit 611 study outline \(Level 6\)/);
+  assert.match(outline, /^CMI Unit 611 structure outline \(Level 6\)/);
   assert.match(outline, /1\. Introduction/);
   data.outcomes.forEach((outcome) => assert.match(outline, new RegExp(`Learning outcome ${outcome.number}: `)));
   assert.match(outline, /Conclusion/);

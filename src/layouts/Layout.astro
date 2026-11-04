@@ -1,7 +1,7 @@
 ﻿---
 import CookieBanner from '../components/CookieBanner.astro';
 import ChatWidget from '../components/ChatWidget.astro';
-import { levels, guides, services } from '../data/navMenu.js';
+import { levels, guides, services, toolsLink } from '../data/navMenu.js';
 
 interface Props {
   title: string;
@@ -24,6 +24,7 @@ const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
 const contactEmail = 'assignmenthelptalk@gmail.com';
 const year = new Date().getFullYear(); // set when the site is built
 const whatsappUrl = 'https://wa.me/447916696894';
+const onToolsPage = Astro.url.pathname === new URL(toolsLink.slug).pathname;
 
 const orgSchema = {
   "@context": "https://schema.org",
@@ -139,6 +140,9 @@ const extraSchemas = pageSchema
                 ))}
               </ul>
             </li>
+            <li class="nav-item">
+              <a href={toolsLink.slug} aria-current={onToolsPage ? 'page' : undefined}>{toolsLink.title}</a>
+            </li>
           </ul>
         </nav>
 
@@ -245,6 +249,17 @@ const extraSchemas = pageSchema
           details.append(summary, sub);
           const li = document.createElement('li');
           li.appendChild(details);
+          list.appendChild(li);
+        });
+        // Plain links (no dropdown) follow the dropdown groups, in the same order as the desktop menu.
+        document.querySelectorAll('.main-nav .nav-item:not(.has-dropdown) > a').forEach((a) => {
+          const link = document.createElement('a');
+          link.href = a.getAttribute('href') ?? '';
+          link.textContent = a.textContent?.trim() ?? '';
+          link.className = 'mobile-nav-link';
+          if (a.getAttribute('aria-current')) link.setAttribute('aria-current', a.getAttribute('aria-current') as string);
+          const li = document.createElement('li');
+          li.appendChild(link);
           list.appendChild(li);
         });
       }
@@ -451,6 +466,7 @@ const extraSchemas = pageSchema
     transition: color .15s, background .15s;
     text-decoration: none;
   }
+  .nav-item > a[aria-current="page"] { color: var(--navy); font-weight: 600; }
   .nav-item > a:hover,
   .nav-toggle:hover {
     color: var(--navy);
@@ -592,6 +608,13 @@ const extraSchemas = pageSchema
     color: var(--navy);
     cursor: pointer;
   }
+  .mobile-nav-list > li > a.mobile-nav-link {
+    display: block;
+    padding: .85rem .25rem;
+    font-weight: 600;
+    color: var(--navy);
+  }
+  .mobile-nav-list > li > a.mobile-nav-link[aria-current="page"] { text-decoration: underline; }
   .mobile-view-all {
     display: block;
     padding: .4rem .5rem;

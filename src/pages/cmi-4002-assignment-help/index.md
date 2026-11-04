@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 4002 Assignment Help - Managing Stakeholders' Expectations | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 4002 assignment help (Level 4). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 4002 assignment help (Level 4). Learning outcomes, command verbs and how to approach the unit."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/"
 ---
 
