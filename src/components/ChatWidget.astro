@@ -9,9 +9,9 @@ const enabled = !TAWK_PROPERTY_ID.startsWith('PROPERTY') && !TAWK_WIDGET_ID.star
 ---
 {enabled && (
   <>
-    <button type="button" id="chat-trigger" class="chat-trigger" hidden>
+    <button type="button" id="chat-trigger" class="chat-trigger" aria-label="Chat with us" hidden>
       <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false"><path d="M4 4h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H8l-4 4V6a2 2 0 0 1 2-2z"/></svg>
-      Chat with us
+      <span class="chat-trigger-label">Chat with us</span>
     </button>
 
     <script is:inline define:vars={{ propertyId: TAWK_PROPERTY_ID, widgetId: TAWK_WIDGET_ID }}>
@@ -70,6 +70,23 @@ const enabled = !TAWK_PROPERTY_ID.startsWith('PROPERTY') && !TAWK_WIDGET_ID.star
   .chat-trigger[hidden] { display: none; }
   .chat-trigger:hover { background: var(--accent-strong-hover); }
   .chat-trigger:focus-visible { outline: 3px solid var(--focus-ring); outline-offset: 2px; }
+  /* On phones the button is a 48px round icon, so it covers far less of the text. The words stay in the page for
+     screen readers and voice control (visually hidden, not removed), so the button is still named "Chat with us". */
+  @media (max-width: 640px) {
+    .chat-trigger { width: 48px; padding: 0; justify-content: center; gap: 0; }
+    .chat-trigger svg { width: 24px; height: 24px; }
+    .chat-trigger-label {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      padding: 0;
+      border: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+    }
+  }
   /* On phones the cookie banner is a full-width bar, so the button sits above it while it shows. */
   @media (max-width: 640px) {
     body:has(.cookie-banner:not([hidden])) .chat-trigger { bottom: 14rem; }
