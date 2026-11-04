@@ -37,3 +37,61 @@
 @media print {
   .ut-full-criteria { border-color: #000; }
 }
+
+/* "Last reviewed ..." line under the intro. #6B7280 on white is 4.8:1. */
+.prose-wrap .ut-reviewed { margin: -0.25rem 0 1rem; font-size: 0.9rem; color: var(--text-muted); }
+
+/* 15-minute start plan: five steps above the tabs. */
+.ut-plan { margin: 1.25rem 0; padding: 1rem 1.25rem; border: 1px solid var(--border-strong); border-radius: var(--radius); background: var(--hero-tint); }
+.ut-plan[hidden] { display: none; }
+.prose-wrap .ut .ut-plan h3 { margin-top: 0; }
+.prose-wrap .ut .ut-plan .ut-status { margin: 0 0 0.75rem; font-weight: 600; color: var(--navy); }
+.prose-wrap .ut .ut-steps { list-style: none; margin: 0 0 1rem; padding: 0; counter-reset: ut-step; }
+.ut-step { margin: 0 0 0.5rem; padding: 0.5rem 0.75rem; border: 1px solid var(--border-strong); border-radius: var(--radius); background: #fff; }
+.ut-step-head { display: flex; gap: 0.75rem; align-items: flex-start; min-height: 44px; }
+.ut-step-head input { flex: none; width: 1.5rem; height: 1.5rem; margin-top: 0.6rem; accent-color: var(--accent-strong); }
+.ut-step-head label { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0 0.75rem; flex: 1; min-height: 44px; padding: 0.55rem 0; cursor: pointer; color: var(--navy); line-height: 1.4; }
+.ut-step-name { font-weight: 700; }
+.ut-step-name::before { counter-increment: ut-step; content: counter(ut-step) ". "; }
+.ut-step-time { font-size: 0.85rem; color: var(--text-muted); }
+.prose-wrap .ut .ut-step-help { margin: 0 0 0.5rem 2.25rem; font-size: 0.95rem; color: var(--text); }
+.prose-wrap .ut .ut-step-link, .prose-wrap .ut .ut-guide-link { margin: 0 0 0.25rem 2.25rem; }
+.prose-wrap .ut .ut-guide-link { margin-left: 0; }
+.ut-step-link a, .ut-guide-link a { display: inline-flex; align-items: center; min-height: 44px; }
+.ut-prompts { margin: 0 0 0.5rem 2.25rem; display: grid; gap: 0.75rem; max-width: 36rem; }
+.ut-prompts .ut-field label { display: block; margin-bottom: 0.25rem; font-weight: 600; color: var(--navy); }
+.ut-prompts textarea { width: 100%; min-height: 44px; padding: 0.5rem 0.75rem; border: 2px solid var(--navy); border-radius: var(--radius); background: #fff; color: var(--navy); font: inherit; resize: vertical; }
+.ut-prompts .ut-btn { justify-self: start; }
+.ut-step-head input:focus-visible, .ut-prompts textarea:focus-visible { outline: 3px solid var(--focus-ring); outline-offset: 2px; }
+
+/* Command verb panel. */
+.ut-verbs { margin-top: 1.5rem; scroll-margin-top: 5rem; }
+.ut-verbs:focus-visible { outline: 3px solid var(--focus-ring); outline-offset: 4px; }
+.prose-wrap .ut .ut-verb-list { list-style: none; margin: 0.5rem 0 0.75rem; padding: 0; }
+.ut-verb-item { margin: 0 0 0.5rem; padding: 0.5rem 0.75rem; border: 1px solid var(--border); border-radius: var(--radius); }
+.prose-wrap .ut .ut-verb-item p { margin: 0 0 0.25rem; }
+.ut-verb-uses { margin-left: 0.5rem; font-size: 0.85rem; color: var(--text-muted); }
+.prose-wrap .ut .ut-verb-depth { font-size: 0.9rem; color: var(--text); }
+#study-tools .ut-panel { scroll-margin-top: 5rem; }
+
+/* "Print my start plan": a view built when the button is pressed. Hidden on screen, and the only thing printed. */
+.sp-print { display: none; }
+
+@media (max-width: 640px) {
+  .ut-plan { padding: 0.75rem; }
+  .prose-wrap .ut .ut-step-help, .prose-wrap .ut .ut-step-link, .ut-prompts { margin-left: 0; }
+}
+
+@media print {
+  .ut-printing-plan .cookie-banner, .ut-printing-plan .site-header, .ut-printing-plan .mobile-nav, .ut-printing-plan .site-footer,
+  .ut-printing-plan .chat-trigger, .ut-printing-plan .page-header-img, .ut-printing-plan article > :not(.ut),
+  .ut-printing-plan .ut > :not(.ut-plan), .ut-printing-plan .ut-plan > :not(.sp-print) { display: none !important; }
+  .ut-printing-plan .ut, .ut-printing-plan .ut-plan { margin: 0; padding: 0; border: 0; background: none; }
+  .ut-printing-plan .sp-print { display: block !important; color: #000; }
+  .ut-printing-plan .sp-print h2 { font-size: 1.4rem; margin: 0 0 0.5rem; border: 0; }
+  .ut-printing-plan .sp-print h3 { font-size: 1.1rem; margin: 1.25rem 0 0.4rem; color: #000; }
+  .ut-printing-plan .sp-print h4 { font-size: 1rem; margin: 0.75rem 0 0.2rem; color: #000; }
+  .ut-printing-plan .sp-print p, .ut-printing-plan .sp-print li { color: #000; }
+  .ut-printing-plan .sp-print pre { white-space: pre-wrap; font: 0.85rem/1.5 ui-monospace, SFMono-Regular, Consolas, monospace; color: #000; }
+  .ut-plan, .ut-verbs { break-inside: avoid; }
+}

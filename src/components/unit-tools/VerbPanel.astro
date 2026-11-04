@@ -1,0 +1,32 @@
+---
+// Command verb panel (#command-verbs) for the cleaned-up unit page (the pilot units in config.js).
+// Each distinct verb in the unit's criteria, once, with the meaning the unit page already gives it and, where the
+// command verbs guide groups the verb, the depth group. No wording is written here: meanings come from the unit
+// page (src/lib/unit-tools-data.js) and depth groups from src/data/verbDepth.js (the guide's own groups).
+import { verbLegend } from '../../lib/pilot-page.js';
+import { depthGroupFor } from '../../data/verbDepth.js';
+
+const { unit, id } = Astro.props;
+const { entries } = verbLegend(unit);
+const guideUrl = 'https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/';
+---
+
+<section class="ut-verbs" id="command-verbs" aria-labelledby={`${id}-verbs-heading`} tabindex="-1" data-ut-verbs>
+  <h3 id={`${id}-verbs-heading`}>Command verbs in Unit {unit.code}</h3>
+  <p class="ut-note">
+    The first word of each criterion tells you the depth required. These are plain-English readings of the verbs. Your centre's assessment brief and its assessor have the final say on what counts as a pass.
+  </p>
+  <ul class="ut-verb-list">
+    {entries.map((entry) => {
+      const depth = depthGroupFor(entry.verb);
+      return (
+        <li class="ut-verb-item" data-verb={entry.verb} data-criteria={entry.criteria.join(', ')} data-depth={depth ?? ''}>
+          <p class="ut-verb-head"><strong class="ut-verb">{entry.verb}</strong> <span class="ut-verb-uses">Criteria {entry.criteria.join(', ')}</span></p>
+          {entry.meaning && <p class="ut-verb-meaning" data-meaning>{entry.meaning}</p>}
+          {depth && <p class="ut-verb-depth">Depth group in the command verbs guide: {depth}</p>}
+        </li>
+      );
+    })}
+  </ul>
+  <p class="ut-note ut-guide-link"><a href={guideUrl}>CMI Command Verbs Explained</a>, what each verb asks for across levels</p>
+</section>

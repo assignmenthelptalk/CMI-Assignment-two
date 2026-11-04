@@ -1,0 +1,100 @@
+---
+// "15-minute start plan" for the cleaned-up unit page (the pilot units in config.js). Rendered by StudyTools.astro above the tabs.
+// Five steps of about three minutes each, in any order. Ticks and the three workplace notes are saved in this
+// browser only, for this unit only (startplan.js). The prompts are questions: nothing here writes text for the student.
+// startplan.js is written into the page as an inline module, only when this component renders. It is imported as raw
+// text on purpose: a processed <script> block in a component that every unit page imports would be added to all of them.
+import startPlanScript from './startplan.js?raw';
+
+const { unit, id } = Astro.props;
+const planId = `${id}-plan`;
+
+const steps = [
+  {
+    key: 'criteria',
+    title: 'Read the criteria',
+    help: 'Read each criterion once, then tick the step.',
+    link: { label: 'Open the criteria checklist', tab: 'checklist' },
+  },
+  {
+    key: 'verbs',
+    title: 'Mark the verbs',
+    help: 'Find the verb that starts each criterion and read what it asks you to do.',
+    link: { label: 'Go to the command verbs', anchor: '#command-verbs' },
+  },
+  {
+    key: 'example',
+    title: 'Choose your workplace example',
+    help: 'Pick one situation from your own work that you could use. Answer the three questions in a few words of your own.',
+  },
+  {
+    key: 'budget',
+    title: 'Set your word budget',
+    help: 'Enter the word count your centre has set and look at the suggested split.',
+    link: { label: 'Open the word-count planner', tab: 'planner' },
+  },
+  {
+    key: 'outline',
+    title: 'Draft your outline',
+    help: 'Look over the heading skeleton and the question under each criterion.',
+    link: { label: 'Open the structure outline', tab: 'outline' },
+  },
+];
+
+const prompts = [
+  { key: 'organisation', question: 'Which organisation or team?' },
+  { key: 'situation', question: 'What recent situation could you use?' },
+  { key: 'happened', question: 'What happened?' },
+];
+---
+
+<section class="ut-plan" id={planId} aria-labelledby={`${planId}-heading`} data-sp data-unit={unit.code} data-level={unit.level ?? ''} hidden>
+  <h3 id={`${planId}-heading`}>15-minute start plan</h3>
+  <p class="ut-note">
+    Five steps of about three minutes each. Do them in any order and tick each one when you are done. Ticks and notes are saved in this browser only, for this unit only. They are not sent anywhere.
+  </p>
+  <p class="ut-status" role="status" aria-live="polite" data-sp-status>0 of 5 steps done.</p>
+  <p class="ut-note ut-storage-note" data-sp-storage-note hidden>
+    Your browser is blocking saved progress, so it will be lost when you leave the page. The plan still works.
+  </p>
+
+  <ol class="ut-steps">
+    {steps.map((step, index) => (
+      <li class="ut-step">
+        <div class="ut-step-head">
+          <input type="checkbox" id={`${planId}-step-${step.key}`} data-sp-step={step.key} data-label={step.title} aria-describedby={`${planId}-help-${step.key}`} />
+          <label for={`${planId}-step-${step.key}`}>
+            <span class="ut-step-name"><span class="ut-visually-hidden">Step {index + 1}: </span>{step.title}</span>
+            <span class="ut-step-time">About 3 minutes</span>
+          </label>
+        </div>
+        <p class="ut-step-help" id={`${planId}-help-${step.key}`}>{step.help}</p>
+        {step.link && step.link.tab && (
+          <p class="ut-step-link"><a href={`#${id}-panel-${step.link.tab}`} data-sp-tab={`${id}-tab-${step.link.tab}`}>{step.link.label}</a></p>
+        )}
+        {step.link && step.link.anchor && (
+          <p class="ut-step-link"><a href={step.link.anchor}>{step.link.label}</a></p>
+        )}
+        {step.key === 'example' && (
+          <div class="ut-prompts">
+            {prompts.map((prompt) => (
+              <div class="ut-field">
+                <label for={`${planId}-note-${prompt.key}`}>{prompt.question}</label>
+                <textarea id={`${planId}-note-${prompt.key}`} rows="2" maxlength="600" data-sp-note={prompt.key} data-question={prompt.question}></textarea>
+              </div>
+            ))}
+            <button type="button" class="ut-btn ut-btn-secondary" data-sp-clear-notes>Clear<span class="ut-visually-hidden"> workplace notes</span></button>
+          </div>
+        )}
+      </li>
+    ))}
+  </ol>
+
+  <div class="ut-actions">
+    <button type="button" class="ut-btn ut-btn-secondary" data-sp-print>Print my start plan</button>
+    <button type="button" class="ut-btn ut-btn-secondary" data-sp-download data-filename={`cmi-unit-${unit.code}-start-plan.txt`}>Download as .txt</button>
+  </div>
+
+  <div class="sp-print" data-sp-printview></div>
+  <script is:inline type="module" set:html={startPlanScript}></script>
+</section>

@@ -14,6 +14,7 @@ import StudyTools from '../components/unit-tools/StudyTools.astro';
 import { parseUnitMarkdown, unitCodeFromPath } from '../lib/unit-tools-data.js';
 import { isCleanupUnit } from '../components/unit-tools/config.js';
 import { assertCriteriaInSync, wrapCriteriaDisclosure } from '../lib/pilot-page.js';
+import { reviewedLine } from '../data/specVersions.js';
 
 const { frontmatter, rawContent, compiledContent } = Astro.props;
 
@@ -30,9 +31,14 @@ if (firstSection === -1) {
   throw new Error(`Study tools, unit ${code}: the page has no section heading to place the tools before.`);
 }
 
-const beforeTools = html.slice(0, firstSection);
+let beforeTools = html.slice(0, firstSection);
 let afterTools = html.slice(firstSection);
 if (cleanup) {
+  // "Last reviewed [month year] against the CMI specification [version]", from docs/spec-versions.md via
+  // src/data/specVersions.js. Left out when the unit's level has no version on record.
+  const reviewed = reviewedLine(unit.level);
+  if (reviewed) beforeTools += `<p class="ut-reviewed">${reviewed}</p>\n`;
+
   // The criteria stay in the HTML, inside a closed disclosure. The build stops if they no longer match the checklist.
   const wrapped = wrapCriteriaDisclosure(code, afterTools);
   assertCriteriaInSync(code, unit, wrapped.inner);
