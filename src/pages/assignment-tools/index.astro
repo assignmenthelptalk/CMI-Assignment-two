@@ -1,0 +1,103 @@
+---
+// Assignment Tools: one route into the free tools on the unit pages. See docs/assignment-tools-notes.md.
+// Links on this page are the unit finder (reused as it is), the five level hub pages and the command verbs guide, nothing else.
+import Layout from '../../layouts/Layout.astro';
+import UnitFinder from '../../components/UnitFinder.astro';
+import { levels, guides } from '../../data/navMenu.js';
+
+const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
+const commandVerbsGuide = guides.find((guide) => guide.slug.endsWith('/guides/cmi-command-verbs-explained/'));
+
+const tools = [
+  {
+    name: 'Pass checklist',
+    text: 'Every assessment criterion in plain English, with a tick box so you can track what you have covered.',
+  },
+  {
+    name: 'Word planner',
+    text: 'Split your word count across the learning outcomes and see your allowed range.',
+  },
+  {
+    name: 'Structure outline',
+    text: "A heading skeleton built from your unit's criteria, ready to copy or download.",
+  },
+];
+---
+<Layout
+  title="Free CMI Assignment Tools - Pass Checklist, Word Planner, Outline | CMIAssignmentHelp.uk.com"
+  description="Choose your CMI unit to open a free pass checklist, word planner and structure outline. Built from the unit criteria. No sign-up."
+  canonical={`${siteUrl}/assignment-tools/`}
+>
+  <section class="section at-intro">
+    <div class="container at-narrow">
+      <nav class="at-breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href={`${siteUrl}/`}>Home</a></li>
+          <li aria-current="page">Assignment Tools</li>
+        </ol>
+      </nav>
+      <h1>Free CMI Assignment Tools</h1>
+      <p class="at-lead">Choose your CMI unit to open its free pass checklist, word planner and outline.</p>
+    </div>
+    <div class="container">
+      <UnitFinder />
+    </div>
+  </section>
+
+  <section class="section section-alt at-tools" aria-labelledby="at-tools-heading">
+    <div class="container at-narrow">
+      <h2 id="at-tools-heading">What you get on every unit page</h2>
+      <ul class="at-list">
+        {tools.map((tool) => (
+          <li>
+            <h3>{tool.name}</h3>
+            <p>{tool.text}</p>
+          </li>
+        ))}
+      </ul>
+      <p class="at-privacy">Your ticks are saved in your own browser and are not sent to us.</p>
+    </div>
+  </section>
+
+  <section class="section at-more">
+    <div class="container at-narrow">
+      <h2 id="at-levels-heading">Browse by level</h2>
+      <ul class="at-levels" aria-labelledby="at-levels-heading">
+        {levels.map((level) => (
+          <li><a href={level.slug}>{level.label}</a></li>
+        ))}
+      </ul>
+      <p>Not sure what a command verb means? See the <a href={commandVerbsGuide.slug}>command verbs guide</a>.</p>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .at-narrow { max-width: 820px; }
+  .at-intro { padding-bottom: 2rem; }
+  .at-intro h1 { font-size: 2rem; font-weight: 800; color: var(--navy); line-height: 1.25; margin-bottom: 1rem; }
+  .at-lead { font-size: 1.1rem; line-height: 1.7; margin-bottom: 1.5rem; }
+
+  .at-breadcrumb { margin-bottom: 1rem; font-size: .9rem; }
+  .at-breadcrumb ol { display: flex; flex-wrap: wrap; gap: .25rem; list-style: none; margin: 0; padding: 0; }
+  .at-breadcrumb li + li::before { content: '>'; margin-right: .25rem; color: var(--text); }
+  .at-breadcrumb [aria-current="page"] { color: var(--navy); font-weight: 600; }
+
+  .at-intro a, .at-more a { text-decoration: underline; text-underline-offset: 2px; }
+
+  .at-tools h2, .at-more h2 { font-size: 1.5rem; font-weight: 800; color: var(--navy); margin-bottom: 1.25rem; }
+  .at-list { list-style: none; margin: 0 0 1.25rem; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+  .at-list li { background: var(--bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.1rem 1.25rem; }
+  .at-list h3 { font-size: 1.1rem; font-weight: 700; color: var(--navy); margin-bottom: .4rem; }
+  .at-list p { margin: 0; line-height: 1.6; }
+  .at-privacy { margin: 0; line-height: 1.7; }
+
+  .at-levels { list-style: none; margin: 0 0 1.25rem; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; }
+  .at-levels a { display: inline-block; padding: .5rem 0; min-height: 44px; font-weight: 600; }
+  .at-more p { line-height: 1.7; margin: 0; }
+
+  @media (max-width: 720px) {
+    .at-intro h1 { font-size: 1.6rem; }
+    .at-list { grid-template-columns: 1fr; }
+  }
+</style>
