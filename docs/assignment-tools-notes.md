@@ -105,3 +105,15 @@ Every remaining "quote in / within 2 hours" (and "two hours") on the site is rem
 - **Guides.** "A quote is returned within 2 hours" is "A quote is returned"; the resubmission guide's "Get a Plan in 2 Hours" link text is "Get a Plan".
 - **Test.** `src/lib/no-quote-time-claim.test.mjs` fails if "2 hours" or "two hours" returns to any page source.
 - **Not changed (outside this request).** "Fixed quote" itself, "UK-based CMI writers", other turnaround figures such as "48 to 72 hours" and "5 to 10 days", and the refund policy's "12 hours of delay". These are separate claims; say if you want them reviewed next.
+
+## 6. Price promises softened (on request)
+
+Request: "fix claims quote". Choices made with the owner: soften the price guarantees, and cover quote claims only (not the writer or turnaround claims).
+
+- **"Fixed quote" is now "quote".** Hero notes read "WhatsApp quote"; steps read "Receive a quote"; the stand-alone "Fixed quote." sentences in the closing calls to action are removed. 20 pages: the home page, the five level hubs, the service and support pages (cheap, pay-someone, writing service, tutoring, coursework, essay, report, homework, answers, examples, online), and three guides.
+- **Promises removed.** "No hidden fees", "no scope creep", "no surprise charges", "the price is fixed, no revision surcharges", "no open-ended pricing", and "the quote will not change once you confirm the order unless you change the brief, word count or deadline".
+- **Kept.** "No payment is required to receive a quote" (a statement about the process, not a price promise), the sentences saying what a quote covers, and "Revision is included as standard ... at no additional cost" (the revision policy; only the sentence tying it to "the fixed quote" was removed).
+- **FAQ structured data** follows the visible FAQ text on the ten pages that carry it, so the two still match. The cheap page's FAQ question "Can I get a fixed price before I confirm my order?" is now "Can I get a price before I confirm my order?".
+- **Not changed.** Titles, canonicals, URLs, redirects, sitemap, legal pages. Three meta descriptions still end "fixed quote" or "fixed WhatsApp quote" (cheap, answers, online) because meta descriptions are not changed without an explicit request.
+- **Test.** `src/lib/no-price-guarantee.test.mjs` fails if "fixed quote", "fixed price", "hidden fees", "price is fixed", "no surprise charges" or "quote will not change" returns to a page body (title= / description= lines and the legal pages are skipped). "There is no single fixed price" on the pay-someone page is allowed because it says the opposite.
+- **Left alone (outside this request).** "UK-based CMI writers" and similar writer claims, the turnaround figures, and the refund policy's money-back guarantee.
