@@ -3,7 +3,7 @@
 // the verb legend, the pilot list, and the wording rules for the pilot pages' markdown.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { parseUnitMarkdown } from './unit-tools-data.js';
 import {
   PilotPageError,
@@ -14,7 +14,7 @@ import {
   verbLegend,
   wrapCriteriaDisclosure,
 } from './pilot-page.js';
-import { cleanupPilotUnits, isCleanupUnit } from '../components/unit-tools/config.js';
+import { cleanupUnits, isCleanupUnit } from '../components/unit-tools/config.js';
 
 const pagePath = (code) => new URL(`../pages/cmi-${code}-assignment-help/index.md`, import.meta.url);
 const pageSource = (code) => readFileSync(pagePath(code), 'utf8');
@@ -39,14 +39,26 @@ function renderedCriteriaSection(unit, { tamper } = {}) {
   return `<p>Intro</p>\n${html}<h2 id="next">What the command verbs ask for in this unit</h2>\n<p>After</p>\n`;
 }
 
-test('the pilot list is in the tools config and every pilot is a unit page that uses the tools layout', () => {
-  assert.deepEqual(cleanupPilotUnits, ['307', '4008', '501', '611', '711']);
+test('the cleanup list in the tools config holds every unit page, once, and every one uses the tools layout', () => {
+  const unitPages = readdirSync(new URL('../pages/', import.meta.url))
+    .map((name) => (name.match(/^cmi-(\d+)-assignment-help$/) || [])[1])
+    .filter(Boolean);
+  assert.equal(unitPages.length, 89);
+  assert.equal(new Set(cleanupUnits).size, cleanupUnits.length, 'no code is listed twice');
+  assert.deepEqual([...cleanupUnits].sort(), [...unitPages].sort(), 'the list and the unit page folders agree');
   assert.ok(isCleanupUnit('4008'));
-  assert.ok(!isCleanupUnit('4007'));
-  assert.ok(!isCleanupUnit('502'));
-  for (const code of cleanupPilotUnits) {
+  assert.ok(isCleanupUnit(502));
+  assert.ok(!isCleanupUnit('9999'));
+  for (const code of cleanupUnits) {
     assert.match(pageSource(code), /^layout: \.\.\/\.\.\/layouts\/UnitPageTools\.astro/m, `unit ${code}`);
   }
+});
+
+test('a criterion with escaped backticks reads as the page shows it, so the checklist and the disclosure agree (unit 4004)', () => {
+  const unit = unitOf('4004');
+  const first = unit.outcomes[0].criteria[0];
+  assert.equal(first.text, "differences between a `group' and a `team'");
+  assert.ok(pageSource('4004').includes("differences between a \\`group' and a \\`team'"), 'the markdown escapes the backticks so no code span is made');
 });
 
 test('normaliseText folds curly quotes, entities and tags so rendered and source text compare equal', () => {
@@ -86,7 +98,7 @@ test('wrapping fails, naming the unit, when the criteria heading is missing', ()
 });
 
 test('sync check: the disclosure agrees with the checklist for every pilot unit', () => {
-  for (const code of cleanupPilotUnits) {
+  for (const code of cleanupUnits) {
     const unit = unitOf(code);
     const { inner } = wrapCriteriaDisclosure(code, renderedCriteriaSection(unit));
     assert.deepEqual(criteriaDifferences(unit, inner), [], code);
@@ -135,7 +147,7 @@ test('pilot pages: the FAQ answer is the agreed text, and none of the removed wo
   const answer =
     'If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.';
   const banned = [/UK-based CMI-qualified/i, /fixed quote/i, /within 2 hours/i, /submission-ready/i, /written to your unit criteria/i];
-  for (const code of cleanupPilotUnits) {
+  for (const code of cleanupUnits) {
     const body = pageSource(code).replace(/\r\n/g, '\n').replace(/^---\n[\s\S]*?\n---\n/, '');
     assert.ok(body.includes(`**What does Unit ${code} assignment help from us include?**\n\n${answer}\n`), `unit ${code} FAQ`);
     for (const pattern of banned) assert.ok(!pattern.test(body), `unit ${code} still has ${pattern}`);
@@ -145,7 +157,7 @@ test('pilot pages: the FAQ answer is the agreed text, and none of the removed wo
 test('pilot pages: no WhatsApp links in the markdown, no service-page links, tidy related and topics lists', () => {
   const servicePage = /cmi-(?:assignment-writing-service|assignment-examples|homework-help|essay-writing-help|coursework-help|assignment-tutoring|assignment-answers|assignment-help-online|report-writing-help)\/|cheap-cmi-assignment-help|pay-someone-to-do-my-cmi-assignment/;
   const verbsGuide = '/guides/cmi-command-verbs-explained/';
-  for (const code of cleanupPilotUnits) {
+  for (const code of cleanupUnits) {
     const body = pageSource(code).replace(/\r\n/g, '\n').replace(/^---\n[\s\S]*?\n---\n/, '');
     // The only WhatsApp link in the markdown is the closing line, after the FAQ and before the related links.
     assert.equal((body.match(/wa\.me/g) || []).length, 1, `unit ${code}: expected exactly one WhatsApp link in the markdown`);
@@ -172,11 +184,11 @@ test('pilot pages: no WhatsApp links in the markdown, no service-page links, tid
 
 test('built pilot pages (when dist exists): the checklist and the full criteria text carry the same criteria', (t) => {
   const built = (code) => new URL(`../../dist/cmi-${code}-assignment-help/index.html`, import.meta.url);
-  if (!cleanupPilotUnits.every((code) => existsSync(built(code)))) {
+  if (!cleanupUnits.every((code) => existsSync(built(code)))) {
     t.skip('run `npm run build` first to check the built pages');
     return;
   }
-  for (const code of cleanupPilotUnits) {
+  for (const code of cleanupUnits) {
     const html = readFileSync(built(code), 'utf8');
     assert.ok(!html.includes('class="page-header-img"'), `unit ${code}: header image is gone`);
     assert.equal((html.match(/<h1[\s>]/g) ?? []).length, 1, `unit ${code}: one H1`);

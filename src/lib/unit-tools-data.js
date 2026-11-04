@@ -54,6 +54,11 @@ function toNumber(text) {
   return Number(text.replace(/,/g, ''));
 }
 
+/** The text as the page shows it: a backslash in front of punctuation only keeps that character literal in markdown. */
+function unescapeMarkdown(text) {
+  return text.replace(/\\([!-/:-@[-`{-~])/g, '$1');
+}
+
 function parseOutcomes(code, body) {
   const lines = sectionLines(body, CRITERIA_HEADING);
   if (lines.length === 0) {
@@ -90,7 +95,7 @@ function parseOutcomes(code, body) {
         `criterion ${outcomeNumber}.${criterionNumber} is out of sequence (expected ${outcomeNumber}.${current.criteria.length + 1}).`
       );
     }
-    current.criteria.push({ id: `${outcomeNumber}.${criterionNumber}`, verb: verb.trim(), text });
+    current.criteria.push({ id: `${outcomeNumber}.${criterionNumber}`, verb: verb.trim(), text: unescapeMarkdown(text) });
   }
 
   outcomes.forEach((outcome, index) => {
