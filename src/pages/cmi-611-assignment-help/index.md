@@ -98,6 +98,8 @@ The indicative content names GDPR (2018) among the data protection and sharing c
 
 If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
+
 ## Related CMI Level 6 units
 
 - [CMI Level 6 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-6-assignment-help/), all 14 Level 6 units

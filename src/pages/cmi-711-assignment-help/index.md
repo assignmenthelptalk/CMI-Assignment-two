@@ -91,6 +91,8 @@ Yes. The indicative content lists entrepreneurship, intrapreneurship and social 
 
 If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
+
 ## Related CMI Level 7 units
 
 - [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), all 16 Level 7 units

@@ -147,7 +147,15 @@ test('pilot pages: no WhatsApp links in the markdown, no service-page links, tid
   const verbsGuide = '/guides/cmi-command-verbs-explained/';
   for (const code of cleanupPilotUnits) {
     const body = pageSource(code).replace(/\r\n/g, '\n').replace(/^---\n[\s\S]*?\n---\n/, '');
-    assert.ok(!/wa\.me/.test(body), `unit ${code}: a WhatsApp link is left in the markdown`);
+    // The only WhatsApp link in the markdown is the closing line, after the FAQ and before the related links.
+    assert.equal((body.match(/wa\.me/g) || []).length, 1, `unit ${code}: expected exactly one WhatsApp link in the markdown`);
+    assert.ok(
+      body.includes(
+        'Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.\n\n## Related CMI Level',
+      ),
+      `unit ${code}: closing WhatsApp line`,
+    );
+    assert.ok(body.indexOf('Stuck on a criterion?') > body.indexOf(`**What does Unit ${code} assignment help from us include?**`), `unit ${code}: closing line is after the FAQ`);
     assert.ok(!/Quote on WhatsApp/.test(body), `unit ${code}: quote link`);
     assert.ok(!/If you want support with this unit/.test(body), `unit ${code}: intro sentence`);
     assert.ok(!servicePage.test(body), `unit ${code}: service-page link`);
