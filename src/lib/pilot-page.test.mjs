@@ -170,6 +170,8 @@ test('built pilot pages (when dist exists): the checklist and the full criteria 
   }
   for (const code of cleanupPilotUnits) {
     const html = readFileSync(built(code), 'utf8');
+    assert.ok(!html.includes('class="page-header-img"'), `unit ${code}: header image is gone`);
+    assert.equal((html.match(/<h1[\s>]/g) ?? []).length, 1, `unit ${code}: one H1`);
     const disclosure = html.match(/<details class="ut-full-criteria">([\s\S]*?)<\/details>/);
     assert.ok(disclosure, `unit ${code} has the disclosure`);
     assert.match(disclosure[1], /<summary>Full criteria text<\/summary>/);

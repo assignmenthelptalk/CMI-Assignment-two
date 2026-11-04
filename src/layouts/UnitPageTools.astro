@@ -38,9 +38,13 @@ if (cleanup) {
   assertCriteriaInSync(code, unit, wrapped.inner);
   afterTools = wrapped.html;
 }
+
+// The cleaned-up page has no decorative header image above the heading. The image file and the
+// frontmatter stay as they are; only the pilot pages stop rendering it.
+const pageFrontmatter = cleanup ? { ...frontmatter, headerImage: undefined, headerImageAlt: undefined } : frontmatter;
 ---
 
-<UnitPage frontmatter={frontmatter}>
+<UnitPage frontmatter={pageFrontmatter}>
   <Fragment set:html={beforeTools} />
   <StudyTools unit={unit} cleanup={cleanup} />
   <Fragment set:html={afterTools} />
