@@ -98,6 +98,8 @@ No. The indicative content lists examples. CMI says learners should choose well 
 
 If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
+
 ## Related CMI Level 3 units
 
 - [CMI Level 3 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-3-assignment-help/), all 21 Level 3 units
