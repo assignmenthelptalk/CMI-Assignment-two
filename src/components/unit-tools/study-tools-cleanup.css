@@ -1,0 +1,30 @@
+/* Extra styles for the cleaned-up unit page (the pilot units in config.js). Linked by StudyTools.astro only when
+   `cleanup` is on, after study-tools.css, so every other unit page is unchanged. See docs/unit-page-cleanup-notes.md. */
+
+/* "Full criteria text": the original criteria list, kept in the page inside a closed disclosure. */
+.ut-full-criteria { margin: 0.5rem 0 1.25rem; border: 1px solid var(--border-strong); border-radius: var(--radius); background: #fff; }
+.ut-full-criteria > summary {
+  display: flex; align-items: center; min-height: 44px; padding: 0.6rem 1rem;
+  font-weight: 600; color: var(--navy); cursor: pointer;
+}
+.ut-full-criteria > summary:focus-visible { outline: 3px solid var(--focus-ring); outline-offset: 2px; }
+.ut-full-criteria[open] > summary { border-bottom: 1px solid var(--border); }
+.ut-full-criteria-body { padding: 0 1rem 0.5rem; }
+.prose-wrap .ut-full-criteria-body > :first-child { margin-top: 1rem; }
+
+/* "What the verbs mean in this unit": one line per distinct verb, directly above the checklist. */
+.ut-legend { margin: 1rem 0 1.25rem; padding: 0.75rem 1rem; border: 1px solid var(--border-strong); border-radius: var(--radius); background: #fff; }
+.prose-wrap .ut .ut-legend h3 { margin: 0 0 0.5rem; font-size: 1.05rem; }
+.ut-legend-list { margin: 0; }
+.ut-legend-item { display: grid; grid-template-columns: minmax(7rem, 11rem) 1fr; gap: 0.25rem 0.75rem; align-items: baseline; padding: 0.4rem 0; border-top: 1px solid var(--border); }
+.ut-legend-item:first-child { border-top: 0; }
+.ut-legend-item dt, .ut-legend-item dd { margin: 0; }
+.ut-legend-item dd { color: var(--text); line-height: 1.5; }
+
+@media (max-width: 640px) {
+  .ut-legend-item { grid-template-columns: 1fr; }
+}
+
+@media print {
+  .ut-full-criteria { border-color: #000; }
+}

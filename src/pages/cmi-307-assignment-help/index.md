@@ -98,7 +98,7 @@ No. The indicative content lists examples. CMI says learners should choose well 
 
 **What does Unit 307 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
 [WhatsApp for Unit 307 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
@@ -110,7 +110,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 303 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-303-assignment-help/), Managing Individuals to be Effective in their Role (Level 3)
 - [CMI 308 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-308-assignment-help/), Managing Volunteers (Level 3)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 

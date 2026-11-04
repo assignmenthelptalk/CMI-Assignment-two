@@ -15,9 +15,14 @@ import {
 } from './logic.js';
 import { whatsappUrl } from './config.js';
 import stylesheet from './study-tools.css?url';
+import cleanupStylesheet from './study-tools-cleanup.css?url';
+import { verbLegend } from '../../lib/pilot-page.js';
 
-const { unit } = Astro.props;
+// `cleanup` is true for the pilot units in config.js. For every other unit nothing below renders differently.
+const { unit, cleanup = false } = Astro.props;
 const id = `ut-${unit.code}`;
+const legend = cleanup ? verbLegend(unit) : { entries: [], gaps: [] };
+const legendIds = Object.fromEntries(legend.entries.map((entry) => [entry.verb.toLowerCase(), `${id}-verb-${entry.slug}`]));
 const totalCriteria = unit.outcomes.reduce((sum, outcome) => sum + outcome.criteria.length, 0);
 const outline = buildOutline(unit);
 const outlineRows = Math.min(outline.split('\n').length + 1, 26);
@@ -37,7 +42,7 @@ const tabs = [
 ];
 ---
 
-<link rel="stylesheet" href={stylesheet} />
+<link rel="stylesheet" href={stylesheet} />{cleanup && <link rel="stylesheet" href={cleanupStylesheet} />}
 
 <section class="ut" id="study-tools" aria-labelledby={`${id}-heading`} data-ut data-unit={unit.code} data-plan={plan}>
   <h2 id={`${id}-heading`}>Study tools for Unit {unit.code}</h2>
@@ -70,7 +75,19 @@ const tabs = [
     </p>
     <p class="ut-note">
       Ticks are saved in this browser only, for this unit only. They are not sent anywhere.
-    </p>
+    </p>{cleanup && legend.entries.length > 0 && (
+      <div class="ut-legend">
+        <h3 id={`${id}-legend-heading`}>What the verbs mean in this unit</h3>
+        <dl class="ut-legend-list" aria-labelledby={`${id}-legend-heading`}>
+          {legend.entries.map((entry) => (
+            <div class="ut-legend-item">
+              <dt><strong class="ut-verb">{entry.verb}</strong></dt>
+              {entry.meaning && <dd id={legendIds[entry.verb.toLowerCase()]}>{entry.meaning}</dd>}
+            </div>
+          ))}
+        </dl>
+      </div>
+    )}
 
     {unit.outcomes.map((outcome) => (
       <div class="ut-outcome">
@@ -82,11 +99,11 @@ const tabs = [
             return (
               <li class="ut-row">
                 <label class="ut-check">
-                  <input type="checkbox" data-id={criterion.id} aria-describedby={meaning ? meaningId : undefined} />
+                  <input type="checkbox" data-id={criterion.id} aria-describedby={meaning ? (cleanup ? legendIds[criterion.verb.toLowerCase()] : meaningId) : undefined} />
                   <span class="ut-id">{criterion.id}</span>
                   <span class="ut-criterion"><strong class="ut-verb">{criterion.verb}</strong> {criterion.text}</span>
                 </label>
-                {meaning && (
+                {!cleanup && meaning && (
                   <p class="ut-meaning" id={meaningId}><span class="ut-meaning-label">In plain English:</span> {meaning}</p>
                 )}
                 <a class="ut-stuck" href={stuckLink(whatsappUrl, { code: unit.code, level: unit.level, criterionId: criterion.id })}>

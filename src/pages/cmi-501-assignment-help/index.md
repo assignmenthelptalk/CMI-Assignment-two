@@ -111,7 +111,7 @@ The syllabus allows learners to draw on their own experience, and most assignmen
 
 **What does Unit 501 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
 [WhatsApp for Unit 501 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
@@ -123,7 +123,6 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 506 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/), Managing Equality, Diversity and Inclusion (Level 5)
 - [CMI 526 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/), Principles of Leadership Practice (Level 5)
 - [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 

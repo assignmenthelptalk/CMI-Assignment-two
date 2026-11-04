@@ -6,9 +6,14 @@
 // The tools go after the page's opening block (heading, summary, quote button) and before its
 // first "##" section. The markdown is parsed strictly (src/lib/unit-tools-data.js): if the page's
 // criteria do not agree with the counts it states, the build stops with a message naming the unit.
+//
+// Units listed in cleanupPilotUnits (src/components/unit-tools/config.js) also get the cleaned-up page
+// (docs/unit-page-cleanup-notes.md). For every other unit the output below is exactly what it was.
 import UnitPage from './UnitPage.astro';
 import StudyTools from '../components/unit-tools/StudyTools.astro';
 import { parseUnitMarkdown, unitCodeFromPath } from '../lib/unit-tools-data.js';
+import { isCleanupUnit } from '../components/unit-tools/config.js';
+import { assertCriteriaInSync, wrapCriteriaDisclosure } from '../lib/pilot-page.js';
 
 const { frontmatter, rawContent, compiledContent } = Astro.props;
 
@@ -17,16 +22,26 @@ if (!code) {
   throw new Error(`UnitPageTools.astro is for unit pages (/cmi-<code>-assignment-help/), not ${Astro.url.pathname}.`);
 }
 const unit = parseUnitMarkdown(rawContent(), { code });
+const cleanup = isCleanupUnit(code);
 
 const html = await compiledContent();
 const firstSection = html.indexOf('<h2');
 if (firstSection === -1) {
   throw new Error(`Study tools, unit ${code}: the page has no section heading to place the tools before.`);
 }
+
+const beforeTools = html.slice(0, firstSection);
+let afterTools = html.slice(firstSection);
+if (cleanup) {
+  // The criteria stay in the HTML, inside a closed disclosure. The build stops if they no longer match the checklist.
+  const wrapped = wrapCriteriaDisclosure(code, afterTools);
+  assertCriteriaInSync(code, unit, wrapped.inner);
+  afterTools = wrapped.html;
+}
 ---
 
 <UnitPage frontmatter={frontmatter}>
-  <Fragment set:html={html.slice(0, firstSection)} />
-  <StudyTools unit={unit} />
-  <Fragment set:html={html.slice(firstSection)} />
+  <Fragment set:html={beforeTools} />
+  <StudyTools unit={unit} cleanup={cleanup} />
+  <Fragment set:html={afterTools} />
 </UnitPage>
