@@ -95,3 +95,13 @@ Commits, in order: meta description fix, audit, new page, menu item, renames, te
 - This is the first link to the page from a content page. The menu item was the only link before. No unit page, guide, the home page or the footer links to it.
 - Not changed: the hubs' other text. The Level 6 hub still says writers are "senior manager" qualified, the Level 7 hub still says "quote within 2 hours", and the hubs' quote line still says "Fixed quote in 2 hours". These are existing claims outside this request.
 - The wording reuses the Assignment Tools page's own description of the tools, so nothing new is claimed. "Each unit page" matches "every unit page" on the new page.
+
+## 5. Remaining "2 hours" claims removed (on request)
+
+Every remaining "quote in / within 2 hours" (and "two hours") on the site is removed, 93 mentions in 23 page sources: the five level hubs, the home page, the eleven service-style pages (writing service, tutoring, coursework, essay, report, homework, answers, examples, help online, cheap, pay someone) and six guides (command verbs, membership, NHS, worth it, management theory, resubmission). The unit pages were done earlier.
+
+- **Rule.** Only the time phrase goes; the rest of each sentence stays. "Fixed quote within 2 hours" is now "Fixed quote". "Receive a fixed quote within 2 hours." is "Receive a fixed quote." "within 2 hours of receiving your brief" is "after receiving your brief", and "within two hours of sending your brief" is "after you send your brief".
+- **Meta descriptions.** The five hub descriptions ended "UK-based CMI writers, quote in 2 hours.". That whole sentence is removed, as on the unit pages. The service-style page descriptions that ended "quote in 2 hours" now end "quote" (for example "WhatsApp quote."). Titles, canonicals and the structured-data fields other than FAQ answer text are untouched. The FAQ answers in the structured data are changed in step with the visible FAQ text.
+- **Guides.** "A quote is returned within 2 hours" is "A quote is returned"; the resubmission guide's "Get a Plan in 2 Hours" link text is "Get a Plan".
+- **Test.** `src/lib/no-quote-time-claim.test.mjs` fails if "2 hours" or "two hours" returns to any page source.
+- **Not changed (outside this request).** "Fixed quote" itself, "UK-based CMI writers", other turnaround figures such as "48 to 72 hours" and "5 to 10 days", and the refund policy's "12 hours of delay". These are separate claims; say if you want them reviewed next.

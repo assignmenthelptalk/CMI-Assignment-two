@@ -138,7 +138,7 @@ CMI qualifications are used by managers in many sectors, including health and ca
 
 **I am studying CMI and need help with my assignment. What do I do?**
 
-Send your unit brief, level and deadline via WhatsApp. A quote is returned within 2 hours, and support is matched to your level and unit.
+Send your unit brief, level and deadline via WhatsApp. A quote is returned, and support is matched to your level and unit.
 
 ## CMI Assignment Help — Supporting Your Qualification Journey
 

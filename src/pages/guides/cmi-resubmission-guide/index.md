@@ -11,7 +11,7 @@ headerImageAlt: "CMI Assignment Referral — what it means and how to resubmit s
 
 A Refer result is not a final fail. CMI grades qualifications Pass or Refer, and a Refer means the evidence you submitted did not yet show that every assessment criterion in the unit was met. The usual next step is to correct the specific gaps the assessor identified and resubmit. The detail of how and when is set by your centre, so this guide covers what CMI's syllabuses say, how to read feedback, and how to plan the work.
 
-[Send Your Referral Feedback to WhatsApp, Get a Plan in 2 Hours](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+[Send Your Referral Feedback to WhatsApp, Get a Plan](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
 ## What a CMI Refer Result Means
 
@@ -126,7 +126,7 @@ CMI requires learners to sign a Declaration of Authenticity confirming that the 
 
 **Many criteria and a short window.** The resubmission needs significant rework. Structured guidance on each referred criterion, with model approaches to the command verbs, helps you plan the work and use the time you have.
 
-**How it works**: Send your original submission, the assessor's feedback, the unit brief and your resubmission deadline via WhatsApp. A plan is returned within 2 hours, either a tutoring plan to guide your own resubmission or a quote for targeted help.
+**How it works**: Send your original submission, the assessor's feedback, the unit brief and your resubmission deadline via WhatsApp. A plan is returned, either a tutoring plan to guide your own resubmission or a quote for targeted help.
 
 [WhatsApp for CMI Resubmission Support](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
 
@@ -158,7 +158,7 @@ No. CMI grades Pass or Refer only. The aim of a resubmission is to meet every cr
 
 **Can I get help with my resubmission?**
 
-Yes. Send your submission, feedback and brief via WhatsApp for a plan within 2 hours.
+Yes. Send your submission, feedback and brief via WhatsApp for a plan.
 
 ## CMI Assignment Support for Resubmissions
 
