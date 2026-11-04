@@ -8,9 +8,7 @@ canonical: "https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/"
 # CMI Unit 4002 Assignment Help
 **Managing Stakeholders' Expectations, CMI Level 4**
 
-Unit 4002 is about the people and groups with a stake in an organisation: who they are, how primary and secondary stakeholders differ, what each expects, how you would check those expectations are being met, and how you could improve what you offer them. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 4002 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 4002 is about the people and groups with a stake in an organisation: who they are, how primary and secondary stakeholders differ, what each expects, how you would check those expectations are being met, and how you could improve what you offer them.
 
 ## What CMI Unit 4002 covers
 
@@ -86,9 +84,9 @@ The syllabus encourages real examples where possible. Your centre's brief says w
 
 **What does Unit 4002 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 4002 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 4 units
 
@@ -97,9 +95,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4003 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4003-assignment-help/), Understanding Organisational Culture, Values and Behaviour (Level 4)
 - [CMI 4005 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/), Management Report Writing (Level 4)
 - [CMI 4001 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/), Managerial Styles and Behaviours (Level 4)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

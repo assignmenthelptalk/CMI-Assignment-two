@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 519 Assignment Help — Managing Quality and Continuou
 # CMI Unit 519 Assignment Help
 **Managing Quality and Continuous Improvement, CMI Level 5**
 
-Unit 519 covers quality: the purpose and structure of quality management, approaches and tools, continuous improvement strategies, and how to judge success including a scorecard method. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 519 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 519 covers quality: the purpose and structure of quality management, approaches and tools, continuous improvement strategies, and how to judge success including a scorecard method.
 
 ## What CMI Unit 519 covers
 
@@ -106,9 +104,9 @@ Unit 522, Managing the Customer Experience.
 
 **What does Unit 519 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 519 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 5 units
 
@@ -117,10 +115,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 515 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-515-assignment-help/), Creating and Delivering Operational Plans (Level 5)
 - [CMI 518 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-518-assignment-help/), Risk Management (Level 5)
 - [CMI 522 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-522-assignment-help/), Managing the Customer Experience (Level 5)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as the Balanced Scorecard, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

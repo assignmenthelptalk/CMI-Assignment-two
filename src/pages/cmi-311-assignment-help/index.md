@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 311 Assignment Help — Contributing to the Delivery o
 # CMI Unit 311 Assignment Help
 **Contributing to the Delivery of a Project, CMI Level 3**
 
-Unit 311 covers contributing to the delivery of a project: how projects differ from everyday work, how they are developed and planned, the roles, communication and risk in delivery, and how progress is monitored and the project evaluated. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 311 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 311 covers contributing to the delivery of a project: how projects differ from everyday work, how they are developed and planned, the roles, communication and risk in delivery, and how progress is monitored and the project evaluated.
 
 ## What CMI Unit 311 covers
 
@@ -108,9 +106,9 @@ The syllabus does not name one. It points to the project life cycle and common t
 
 **What does Unit 311 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 311 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 3 units
 
@@ -119,9 +117,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 310 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-310-assignment-help/), Supporting Teams and Individuals through Change (Level 3)
 - [CMI 312 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-312-assignment-help/), Managing Daily Activities to Achieve Results (Level 3)
 - [CMI 314 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-314-assignment-help/), Managing Budgets and Resources (Level 3)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

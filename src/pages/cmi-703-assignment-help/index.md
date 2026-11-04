@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 703 Assignment Help — Collaboration and Partnerships
 # CMI Unit 703 Assignment Help
 **Collaboration and Partnerships, CMI Level 7**
 
-Unit 703 is about collaboration and partnerships: their scope and value for strategic objectives, the organisational and legal frameworks they work within, the strategies and principles that make them succeed, and the rationale for building a particular collaborative relationship. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 703 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 703 is about collaboration and partnerships: their scope and value for strategic objectives, the organisational and legal frameworks they work within, the strategies and principles that make them succeed, and the rationale for building a particular collaborative relationship.
 
 ## What CMI Unit 703 covers
 
@@ -90,9 +88,9 @@ No. The indicative content covers both inter-organisational and intra-organisati
 
 **What does Unit 703 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 703 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 7 units
 
@@ -101,9 +99,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7)
 - [CMI 704 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/), Developing Organisational Strategy (Level 7)
 - [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

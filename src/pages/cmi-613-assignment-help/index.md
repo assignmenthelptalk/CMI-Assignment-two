@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 613 Assignment Help — Leading Equality, Diversity an
 # CMI Unit 613 Assignment Help
 **Leading Equality, Diversity and Inclusion, CMI Level 6**
 
-Unit 613 covers leading equality, diversity and inclusion: the opportunities and challenges, the legal and regulatory requirements, how leaders apply them operationally, how to lead a sustainable inclusive culture, and how the principles inform an ethical decision. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 613 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 613 covers leading equality, diversity and inclusion: the opportunities and challenges, the legal and regulatory requirements, how leaders apply them operationally, how to lead a sustainable inclusive culture, and how the principles inform an ethical decision.
 
 ## What CMI Unit 613 covers
 
@@ -93,9 +91,9 @@ The indicative content names the Equality Act 2010 and GDPR (2018), among others
 
 **What does Unit 613 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 613 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 6 units
 
@@ -104,11 +102,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 608 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-608-assignment-help/), Strategic Corporate Social Responsibility and Sustainability (Level 6)
 - [CMI 614 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-614-assignment-help/), Principles and Practices of Ethical Decision Making (Level 6)
 - [CMI 612 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/), Coaching Skills for Leaders (Level 6)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
-- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Senge, Goleman, Hofstede and Bass, which this unit's indicative content names
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

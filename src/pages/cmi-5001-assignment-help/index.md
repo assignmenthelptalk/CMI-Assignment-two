@@ -10,9 +10,7 @@ canonical: "https://www.cmiassignmenthelp.uk.com/cmi-5001-assignment-help/"
 
 Unit 5001 carries a Level 5 code (RQF level 5), but it sits inside the CMI Level 4 Diploma in Management and Leadership, where it is a mandatory unit (Group A). It is not part of the Level 4 Award or Certificate. See [CMI Level 4 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-4-assignment-help/) for the full list of Level 4 units.
 
-Unit 5001 is about assessing and improving your own management and leadership skills against objectives. You assess your skills, plan your development, plan the resources you need, put the plan into action and review it, and support staff welfare. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 5001 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 5001 is about assessing and improving your own management and leadership skills against objectives. You assess your skills, plan your development, plan the resources you need, put the plan into action and review it, and support staff welfare.
 
 ## What CMI Unit 5001 covers
 
@@ -107,9 +105,9 @@ In the Level 4 Diploma, yes. CMI lists it in Group A, the mandatory units. Check
 
 **What does Unit 5001 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 5001 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 4 units
 
@@ -118,10 +116,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 5012 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-5012-assignment-help/), Being a Leader (Level 5 coded, Level 4 Diploma)
 - [CMI 5014 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-5014-assignment-help/), Introduction to Management Coaching and Mentoring (Level 5 coded, Level 4 Diploma)
 - [CMI 4009 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4009-assignment-help/), Staff Inspection Review (Level 4)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Reflective Practice for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), a related topic: reviewing your own development

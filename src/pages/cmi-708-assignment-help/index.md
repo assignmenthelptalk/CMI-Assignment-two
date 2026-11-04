@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 708 Assignment Help — Strategic Risk Management"
 # CMI Unit 708 Assignment Help
 **Strategic Risk Management, CMI Level 7**
 
-Unit 708 is about strategic risk management: the scope of strategic risk in an organisational context, strategies for managing it, the leadership skills it needs, and how to propose a Risk Management Framework that supports strategic objectives. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 708 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 708 is about strategic risk management: the scope of strategic risk in an organisational context, strategies for managing it, the leadership skills it needs, and how to propose a Risk Management Framework that supports strategic objectives.
 
 ## What CMI Unit 708 covers
 
@@ -89,9 +87,9 @@ A register is one tool. The criterion asks for a Risk Management Framework, whic
 
 **What does Unit 708 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 708 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 7 units
 
@@ -100,9 +98,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 704 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-704-assignment-help/), Developing Organisational Strategy (Level 7)
 - [CMI 706 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-706-assignment-help/), Finance for Strategic Leaders (Level 7)
 - [CMI 709 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-709-assignment-help/), Strategic Management of Data and Information (Level 7)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

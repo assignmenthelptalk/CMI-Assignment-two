@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 505 Assignment Help — Forming Successful Teams"
 # CMI Unit 505 Assignment Help
 **Forming Successful Teams, CMI Level 5**
 
-Unit 505 looks at forming a new team: what makes teams successful, the theoretical and practical approaches to forming one, the challenges that arise, and how to measure the performance of a newly formed team. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 505 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 505 looks at forming a new team: what makes teams successful, the theoretical and practical approaches to forming one, the challenges that arise, and how to measure the performance of a newly formed team.
 
 ## What CMI Unit 505 covers
 
@@ -105,9 +103,9 @@ The indicative content mentions Belbin, Tuckman, Handy's shamrock organisation, 
 
 **What does Unit 505 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 505 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 5 units
 
@@ -116,10 +114,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 503 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/), Principles of Managing and Leading Individuals and Teams to Achieve Success (Level 5)
 - [CMI 510 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-510-assignment-help/), Managing Conflict (Level 5)
 - [CMI 504 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-504-assignment-help/), Managing Performance (Level 5)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Tuckman, Belbin, Vroom and Goleman, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

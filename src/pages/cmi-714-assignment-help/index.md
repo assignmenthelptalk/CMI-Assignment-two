@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 714 Assignment Help — Personal and Professional Deve
 # CMI Unit 714 Assignment Help
 **Personal and Professional Development for Strategic Leaders, CMI Level 7**
 
-Unit 714 is about personal and professional development for strategic leaders: how skillset and mindset interrelate, the personal values and behaviours strategic leadership needs, how development activity affects leadership, and a plan to develop as a strategic leader. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 714 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 714 is about personal and professional development for strategic leaders: how skillset and mindset interrelate, the personal values and behaviours strategic leadership needs, how development activity affects leadership, and a plan to develop as a strategic leader.
 
 ## What CMI Unit 714 covers
 
@@ -92,9 +90,9 @@ CMI's recommendations list a report on development approaches, a personal develo
 
 **What does Unit 714 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 714 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 7 units
 
@@ -103,14 +101,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 712 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-712-assignment-help/), Strategic Management Project (Level 7)
 - [CMI 713 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-713-assignment-help/), Applied Research for Strategic Leaders (Level 7)
 - [CMI 715 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-715-assignment-help/), Strategic Approaches to Equality and Inclusion (Level 7)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
-- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Adair, Greenleaf, Goleman and Schein, which this unit's indicative content names
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/), how the verbs, scope and word counts change between the two levels
-- [CMI Qualifications for NHS Managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), choosing a CMI level by the scope of your role
-- [CMI Membership Grades: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/), how each membership grade is earned

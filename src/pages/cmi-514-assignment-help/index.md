@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 514 Assignment Help — Managing Change"
 # CMI Unit 514 Assignment Help
 **Managing Change, CMI Level 5**
 
-Unit 514 covers organisational change: why change happens, the theoretical models, the role of leadership and stakeholders, and how to initiate, plan, communicate, monitor and embed a change. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 514 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 514 covers organisational change: why change happens, the theoretical models, the role of leadership and stakeholders, and how to initiate, plan, communicate, monitor and embed a change.
 
 ## What CMI Unit 514 covers
 
@@ -103,9 +101,9 @@ Yes. Managing Change is Unit 514. Some older materials use other numbers, so che
 
 **What does Unit 514 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 514 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 5 units
 
@@ -114,11 +112,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 509 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-509-assignment-help/), Managing Stakeholder Relationships (Level 5)
 - [CMI 513 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-513-assignment-help/), Managing Projects to Achieve Results (Level 5)
 - [CMI 517 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-517-assignment-help/), Principles of Innovation (Level 5)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
-- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Kotter, Lewin, ADKAR and Hersey and Blanchard, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Qualifications for NHS Managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), choosing a CMI level by the scope of your role

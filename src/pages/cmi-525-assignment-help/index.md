@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 525 Assignment Help — Using Reflective Practice to I
 # CMI Unit 525 Assignment Help
 **Using Reflective Practice to Inform Personal and Professional Development, CMI Level 5**
 
-Unit 525 is reflective practice for personal and professional development: why continuous development matters, models of reflection, evaluating your own performance and working style, and creating a measurable development plan. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 525 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 525 is reflective practice for personal and professional development: why continuous development matters, models of reflection, evaluating your own performance and working style, and creating a measurable development plan.
 
 ## What CMI Unit 525 covers
 
@@ -97,9 +95,9 @@ The criteria ask you to evaluate approaches. Choose models you can apply honestl
 
 **What does Unit 525 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 525 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 5 units
 
@@ -108,12 +106,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Principles of Management and Leadership in an Organisational Context (Level 5)
 - [CMI 526 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-526-assignment-help/), Principles of Leadership Practice (Level 5)
 - [CMI 524 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-524-assignment-help/), Conducting a Management Project (Level 5)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
-- [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Belbin and Goleman, which this unit's indicative content names
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [CMI Reflective Practice Guide](https://www.cmiassignmenthelp.uk.com/guides/cmi-reflective-practice/), the models CMI names for reflective work and how to answer criteria that ask you to reflect
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
-- [CMI Membership Grades: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/), how each membership grade is earned

@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 302 Assignment Help — Managing a Team to Achieve Res
 # CMI Unit 302 Assignment Help
 **Managing a Team to Achieve Results, CMI Level 3**
 
-Unit 302 is about managing a team: why teams exist and the roles in them, what a high performing team looks like, how to lead, communicate with and motivate it, and how to allocate work and monitor performance. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 302 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 302 is about managing a team: why teams exist and the roles in them, what a high performing team looks like, how to lead, communicate with and motivate it, and how to allocate work and monitor performance.
 
 ## What CMI Unit 302 covers
 
@@ -114,9 +112,9 @@ No. It appears in the indicative content for AC4.1 as an example. CMI says learn
 
 **What does Unit 302 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 302 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 3 units
 
@@ -125,10 +123,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 304 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-304-assignment-help/), Principles of Communication in the Workplace (Level 3)
 - [CMI 309 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-309-assignment-help/), Responding to Conflict in the Workplace (Level 3)
 - [CMI 301 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/), Principles of Management and Leadership (Level 3)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Tuckman, Belbin, Maslow and Lewin, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

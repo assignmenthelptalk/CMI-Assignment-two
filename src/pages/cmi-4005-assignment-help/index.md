@@ -8,9 +8,7 @@ canonical: "https://www.cmiassignmenthelp.uk.com/cmi-4005-assignment-help/"
 # CMI Unit 4005 Assignment Help
 **Management Report Writing, CMI Level 4**
 
-Unit 4005 is the report-writing unit: when a management report is needed, which reporting method to use, how to write terms of reference and the parts of a report, and how to select and analyse the data behind it. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 4005 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 4005 is the report-writing unit: when a management report is needed, which reporting method to use, how to write terms of reference and the parts of a report, and how to select and analyse the data behind it.
 
 ## What CMI Unit 4005 covers
 
@@ -91,9 +89,9 @@ It is the unit about report writing, but the criteria ask you to explain and jus
 
 **What does Unit 4005 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 4005 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 4 units
 
@@ -102,9 +100,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4002 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/), Managing Stakeholders' Expectations (Level 4)
 - [CMI 4006 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4006-assignment-help/), Management and Leadership Influencing Skills (Level 4)
 - [CMI 4007 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/), Managing Interviews (Level 4)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 504 Assignment Help — Managing Performance"
 # CMI Unit 504 Assignment Help
 **Managing Performance, CMI Level 5**
 
-Unit 504 is about managing performance: why organisations do it, the legal and organisational frameworks around it, the tools used to diagnose and evaluate it, and what a manager does about both underperformance and above-expectation performance. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 504 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 504 is about managing performance: why organisations do it, the legal and organisational frameworks around it, the tools used to diagnose and evaluate it, and what a manager does about both underperformance and above-expectation performance.
 
 ## What CMI Unit 504 covers
 
@@ -86,9 +84,9 @@ The syllabus lists eight assessment criteria across three learning outcomes.
 
 **What does Unit 504 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 504 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 5 units
 
@@ -97,9 +95,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 506 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-506-assignment-help/), Managing Equality, Diversity and Inclusion (Level 5)
 - [CMI 508 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-508-assignment-help/), Principles of Developing a Skilled and Talented Workforce (Level 5)
 - [CMI 503 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-503-assignment-help/), Principles of Managing and Leading Individuals and Teams to Achieve Success (Level 5)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

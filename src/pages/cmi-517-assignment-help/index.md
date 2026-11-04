@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 517 Assignment Help — Principles of Innovation"
 # CMI Unit 517 Assignment Help
 **Principles of Innovation, CMI Level 5**
 
-Unit 517 is a short unit on innovation: why organisations innovate, the types of innovation, the factors that support an innovative culture, and the manager's and stakeholders' roles in the process. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 517 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 517 is a short unit on innovation: why organisations innovate, the types of innovation, the factors that support an innovative culture, and the manager's and stakeholders' roles in the process.
 
 ## What CMI Unit 517 covers
 
@@ -82,9 +80,9 @@ The syllabus names Kirton's adaptation-innovation theory among the methods, but 
 
 **What does Unit 517 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 517 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 5 units
 
@@ -93,9 +91,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 514 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/), Managing Change (Level 5)
 - [CMI 523 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-523-assignment-help/), Principles of Marketing Products and Services (Level 5)
 - [CMI 518 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-518-assignment-help/), Risk Management (Level 5)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

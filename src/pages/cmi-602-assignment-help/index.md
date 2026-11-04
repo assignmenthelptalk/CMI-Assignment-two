@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 602 Assignment Help — Developing, Managing and Leadi
 # CMI Unit 602 Assignment Help
 **Developing, Managing and Leading Individuals and Teams, CMI Level 6**
 
-Unit 602 covers developing, managing and leading individuals and teams: the factors that influence how people are developed and led, how organisational frameworks support this, and how to assess approaches to team development, individual management and the skills leaders need. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 602 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 602 covers developing, managing and leading individuals and teams: the factors that influence how people are developed and led, how organisational frameworks support this, and how to assess approaches to team development, individual management and the skills leaders need.
 
 ## What CMI Unit 602 covers
 
@@ -93,9 +91,9 @@ The indicative content cites GROW (Whitmore, 2002) and OSCAR (Gilbert and Whittl
 
 **What does Unit 602 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 602 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 6 units
 
@@ -104,10 +102,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 601 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/), Professional Management and Leadership Practice (Level 6)
 - [CMI 603 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/), Organisational Culture (Level 6)
 - [CMI 612 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-612-assignment-help/), Coaching Skills for Leaders (Level 6)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Tuckman, Belbin, Porter and Hersey and Blanchard, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

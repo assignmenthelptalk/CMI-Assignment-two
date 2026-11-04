@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 4003 Assignment Help — Understanding Organisational 
 # CMI Unit 4003 Assignment Help
 **Understanding Organisational Culture, Values and Behaviour, CMI Level 4**
 
-Unit 4003 looks at organisational culture and values: how to analyse a culture, how organisational and personal values work, and how values shape behaviour at organisation, individual and team level. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 4003 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 4003 looks at organisational culture and values: how to analyse a culture, how organisational and personal values work, and how values shape behaviour at organisation, individual and team level.
 
 ## What CMI Unit 4003 covers
 
@@ -95,9 +93,9 @@ CMI names Handy, Schein, Johnson and Scholes and Hofstede as examples. Pick one 
 
 **What does Unit 4003 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 4003 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 4 units
 
@@ -106,10 +104,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 4004 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4004-assignment-help/), Understanding Team Dynamics (Level 4)
 - [CMI 4008 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4008-assignment-help/), Promoting Equality and Diversity (Level 4)
 - [CMI 4002 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-4002-assignment-help/), Managing Stakeholders' Expectations (Level 4)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Management Theory for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/management-theory-cmi-assignments/), how to apply and test frameworks such as Schein and Hofstede, which this unit's indicative content names
-- [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

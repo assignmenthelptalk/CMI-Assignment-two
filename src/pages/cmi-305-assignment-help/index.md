@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 305 Assignment Help — Building Stakeholder Relations
 # CMI Unit 305 Assignment Help
 **Building Stakeholder Relationships using Effective Communication, CMI Level 3**
 
-Unit 305 covers building relationships with stakeholders through communication: who the stakeholders are, what they need and expect, which channels and types of communication to use, how to handle barriers, and how to use their feedback. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 305 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 305 covers building relationships with stakeholders through communication: who the stakeholders are, what they need and expect, which channels and types of communication to use, how to handle barriers, and how to use their feedback.
 
 ## What CMI Unit 305 covers
 
@@ -104,9 +102,9 @@ The indicative content for AC1.2 cites Freeman's Stakeholder Theory and the Powe
 
 **What does Unit 305 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 305 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 3 units
 
@@ -115,9 +113,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 304 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-304-assignment-help/), Principles of Communication in the Workplace (Level 3)
 - [CMI 306 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-306-assignment-help/), Principles of Equality, Diversity and Inclusive Working Practice (Level 3)
 - [CMI 319 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-319-assignment-help/), Managing Meetings (Level 3)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

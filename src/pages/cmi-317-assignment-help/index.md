@@ -8,9 +8,7 @@ canonical: "https://www.cmiassignmenthelp.uk.com/cmi-317-assignment-help/"
 # CMI Unit 317 Assignment Help
 **Supporting the Delivery of Customer Service, CMI Level 3**
 
-Unit 317 covers supporting the delivery of customer service: what good service looks like, who the customers are, the legal and organisational requirements, the customer journey, and how to handle service problems and complaints. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 317 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 317 covers supporting the delivery of customer service: what good service looks like, who the customers are, the legal and organisational requirements, the customer journey, and how to handle service problems and complaints.
 
 ## What CMI Unit 317 covers
 
@@ -107,9 +105,9 @@ The indicative content for AC2.1 includes internal customers, so an internal ser
 
 **What does Unit 317 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 317 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 3 units
 
@@ -118,9 +116,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 305 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/), Building Stakeholder Relationships using Effective Communication (Level 3)
 - [CMI 316 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-316-assignment-help/), Monitoring Quality to Improve Outcomes (Level 3)
 - [CMI 318 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-318-assignment-help/), Managing Data and Information (Level 3)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

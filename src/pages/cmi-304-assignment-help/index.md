@@ -10,9 +10,7 @@ headerImageAlt: "CMI Unit 304 Assignment Help — Principles of Communication in
 # CMI Unit 304 Assignment Help
 **Principles of Communication in the Workplace, CMI Level 3**
 
-Unit 304 is about workplace communication: why it matters, the channels and types in use, the communication cycle and its barriers, how to plan communication for a target audience, and how to measure whether it worked. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 304 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 304 is about workplace communication: why it matters, the channels and types in use, the communication cycle and its barriers, how to plan communication for a target audience, and how to measure whether it worked.
 
 ## What CMI Unit 304 covers
 
@@ -98,9 +96,9 @@ In the indicative content, channels are routes such as face to face, telephone a
 
 **What does Unit 304 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 304 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 3 units
 
@@ -109,9 +107,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 305 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-305-assignment-help/), Building Stakeholder Relationships using Effective Communication (Level 3)
 - [CMI 319 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-319-assignment-help/), Managing Meetings (Level 3)
 - [CMI 320 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-320-assignment-help/), Presenting for Success (Level 3)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for

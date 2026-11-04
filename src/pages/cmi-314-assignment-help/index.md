@@ -8,9 +8,7 @@ canonical: "https://www.cmiassignmenthelp.uk.com/cmi-314-assignment-help/"
 # CMI Unit 314 Assignment Help
 **Managing Budgets and Resources, CMI Level 3**
 
-Unit 314 is about managing budgets and resources in your own area: the types of resource, how budgets work, how costs are managed and who authorises them, and how to monitor, control and escalate problems. If you want support with this unit, [message us on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment) with your brief and deadline.
-
-[Get a Unit 314 Quote on WhatsApp](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Unit 314 is about managing budgets and resources in your own area: the types of resource, how budgets work, how costs are managed and who authorises them, and how to monitor, control and escalate problems.
 
 ## What CMI Unit 314 covers
 
@@ -100,9 +98,9 @@ Several criteria say own area of responsibility. If you do not manage a budget, 
 
 **What does Unit 314 assignment help from us include?**
 
-A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours.
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
 
-[WhatsApp for Unit 314 Help](https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment)
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
 
 ## Related CMI Level 3 units
 
@@ -111,9 +109,8 @@ A written assignment to your brief and the criteria above, prepared by a UK-base
 - [CMI 311 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-311-assignment-help/), Contributing to the Delivery of a Project (Level 3)
 - [CMI 313 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-313-assignment-help/), Developing and Sharing Good Practice (Level 3)
 - [CMI 315 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-315-assignment-help/), Principles of Health and Safety in a Work Setting (Level 3)
-- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
-- [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), submission-ready assignments across all levels
 
 ## More on this unit's topics
 
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
 - [Harvard Referencing for CMI Assignments](https://www.cmiassignmenthelp.uk.com/guides/harvard-referencing-cmi/), how to cite the evidence and sources this unit asks for
