@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 505 Assignment Help - Forming Successful Teams Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 505 assignment help (Level 5): Forming Successful Teams. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 505 assignment help (Level 5): Forming Successful Teams. Learning outcomes, command verbs and how to approach it."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-505-assignment-help/"
 headerImage: "/images/headers/cmi-505-assignment-help.webp"
 headerImageAlt: "CMI Unit 505 Assignment Help — Forming Successful Teams"

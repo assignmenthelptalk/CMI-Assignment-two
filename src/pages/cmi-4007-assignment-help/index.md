@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 4007 Assignment Help - Managing Interviews Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 4007 assignment help (Level 4): Managing Interviews. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 4007 assignment help (Level 4): Managing Interviews. Learning outcomes, command verbs and how to approach it."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-4007-assignment-help/"
 ---
 

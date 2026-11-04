@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 319 Assignment Help - Managing Meetings Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 319 assignment help (Level 3): Managing Meetings. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 319 assignment help (Level 3): Managing Meetings. Learning outcomes, command verbs and how to approach it."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-319-assignment-help/"
 ---
 

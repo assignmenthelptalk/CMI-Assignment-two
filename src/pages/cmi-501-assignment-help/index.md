@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 501 Assignment Help - Principles of Management and Leadership in an Organisational Context | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 501 assignment help (Level 5). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 501 assignment help (Level 5). Learning outcomes, command verbs and how to approach the unit."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/"
 headerImage: "/images/headers/cmi-501-assignment-help.webp"
 headerImageAlt: "CMI Unit 501 Assignment Help — Principles of Management and Leadership in an Organisational Context"

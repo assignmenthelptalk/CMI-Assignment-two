@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 705 Assignment Help - Leading Strategic Change Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 705 assignment help (Level 7): Leading Strategic Change. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 705 assignment help (Level 7): Leading Strategic Change. Learning outcomes, command verbs and how to approach it."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/"
 headerImage: "/images/headers/cmi-705-assignment-help.webp"
 headerImageAlt: "CMI Unit 705 Assignment Help — Leading Strategic Change"

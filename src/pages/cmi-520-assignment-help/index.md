@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 520 Assignment Help - Managing Finance Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 520 assignment help (Level 5): Managing Finance. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 520 assignment help (Level 5): Managing Finance. Learning outcomes, command verbs and how to approach it."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-520-assignment-help/"
 headerImage: "/images/headers/cmi-520-assignment-help.webp"
 headerImageAlt: "CMI Unit 520 Assignment Help — Managing Finance"

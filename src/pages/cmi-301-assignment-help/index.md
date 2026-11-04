@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 301 Assignment Help - Principles of Management and Leadership | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 301 assignment help (Level 3). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 301 assignment help (Level 3). Learning outcomes, command verbs and how to approach the unit."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/"
 headerImage: "/images/headers/cmi-301-assignment-help.webp"
 headerImageAlt: "CMI Unit 301 Assignment Help — Principles of Management and Leadership"

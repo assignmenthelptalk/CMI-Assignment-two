@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 708 Assignment Help - Strategic Risk Management Support | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 708 assignment help (Level 7): Strategic Risk Management. Learning outcomes, command verbs and how to approach it. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 708 assignment help (Level 7): Strategic Risk Management. Learning outcomes, command verbs and how to approach it."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-708-assignment-help/"
 headerImage: "/images/headers/cmi-708-assignment-help.webp"
 headerImageAlt: "CMI Unit 708 Assignment Help — Strategic Risk Management"

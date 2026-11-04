@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/UnitPageTools.astro
 title: "CMI Unit 702 Assignment Help - Leading and Developing People to Optimise Performance | CMIAssignmentHelp.uk.com"
-description: "CMI Unit 702 assignment help (Level 7). Learning outcomes, command verbs and how to approach the unit. UK CMI writers, quote in 2 hours."
+description: "CMI Unit 702 assignment help (Level 7). Learning outcomes, command verbs and how to approach the unit."
 canonical: "https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/"
 headerImage: "/images/headers/cmi-702-assignment-help.webp"
 headerImageAlt: "CMI Unit 702 Assignment Help — Leading and Developing People to Optimise Performance"
