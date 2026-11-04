@@ -88,3 +88,10 @@ Commits, in order: meta description fix, audit, new page, menu item, renames, te
 - **Sitemap:** `sitemap-0.xml` gains one line, `https://www.cmiassignmenthelp.uk.com/assignment-tools/`. `sitemap-index.xml` and `robots.txt` are identical to `main`. Nothing hand-edited.
 - **Browser (local preview of the build):** 1280px and 375px, no horizontal overflow (scroll width equals viewport width), no console messages. Keyboard: Tab reaches "Assignment Tools" in the desktop nav with the 3px focus ring; the level and unit selects work with the arrow keys and Enter on "Go to unit page" opens the unit page. Mobile menu opens, shows the new item after Services, item marked current. The chat button at 375px is still the 48px round icon named "Chat with us".
 - Screenshots: `docs/assignment-tools-shots/` (`desktop-1280.png`, `mobile-375.png`, `mobile-menu-open-375.png`). The cookie banner shows in the full-page captures because nothing was accepted or rejected.
+
+## 4. Link from the level hubs (added on request)
+
+- Each of the five level hub pages (`/cmi-level-3-assignment-help/` to `/cmi-level-7-assignment-help/`) now has one sentence directly under the unit finder: "Each unit page has a free pass checklist, word planner and structure outline. See all the Assignment Tools." The last two words link to `/assignment-tools/`, underlined in the text, in the muted body colour of the hub.
+- This is the first link to the page from a content page. The menu item was the only link before. No unit page, guide, the home page or the footer links to it.
+- Not changed: the hubs' other text. The Level 6 hub still says writers are "senior manager" qualified, the Level 7 hub still says "quote within 2 hours", and the hubs' quote line still says "Fixed quote in 2 hours". These are existing claims outside this request.
+- The wording reuses the Assignment Tools page's own description of the tools, so nothing new is claimed. "Each unit page" matches "every unit page" on the new page.

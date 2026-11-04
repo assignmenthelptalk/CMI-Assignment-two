@@ -89,3 +89,16 @@ test('the ids and anchors that were already in use still exist', () => {
   assert.ok(read('./unit-tools/StudyTools.astro').includes('id="study-tools"'));
   assert.ok(read('./unit-tools/VerbPanel.astro').includes('id="command-verbs"'));
 });
+
+test('each of the five level hubs links once to the Assignment Tools page, and no other content page source does', () => {
+  const link = 'href="https://www.cmiassignmenthelp.uk.com/assignment-tools/"';
+  for (const level of [3, 4, 5, 6, 7]) {
+    const hub = read(`../pages/cmi-level-${level}-assignment-help/index.astro`);
+    assert.equal(hub.split(link).length - 1, 1, `Level ${level} hub`);
+    assert.ok(hub.includes('Each unit page has a free pass checklist, word planner and structure outline.'));
+    assert.match(hub, /\.hub-tools-link a \{ text-decoration: underline;/, 'in-text link is underlined');
+  }
+  for (const other of ['../pages/index.astro', '../pages/cmi-701-assignment-help/index.md', '../pages/cmi-level-3-units/index.astro', '../layouts/UnitPageTools.astro']) {
+    assert.ok(!read(other).includes('/assignment-tools/'), other);
+  }
+});
