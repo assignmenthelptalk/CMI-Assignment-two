@@ -6,9 +6,15 @@
 // The tools go after the page's opening block (heading, summary, quote button) and before its
 // first "##" section. The markdown is parsed strictly (src/lib/unit-tools-data.js): if the page's
 // criteria do not agree with the counts it states, the build stops with a message naming the unit.
+//
+// Units listed in cleanupPilotUnits (src/components/unit-tools/config.js) also get the cleaned-up page
+// (docs/unit-page-cleanup-notes.md). For every other unit the output below is exactly what it was.
 import UnitPage from './UnitPage.astro';
 import StudyTools from '../components/unit-tools/StudyTools.astro';
 import { parseUnitMarkdown, unitCodeFromPath } from '../lib/unit-tools-data.js';
+import { isCleanupUnit } from '../components/unit-tools/config.js';
+import { assertCriteriaInSync, wrapCriteriaDisclosure } from '../lib/pilot-page.js';
+import { reviewedLine } from '../data/specVersions.js';
 
 const { frontmatter, rawContent, compiledContent } = Astro.props;
 
@@ -17,16 +23,35 @@ if (!code) {
   throw new Error(`UnitPageTools.astro is for unit pages (/cmi-<code>-assignment-help/), not ${Astro.url.pathname}.`);
 }
 const unit = parseUnitMarkdown(rawContent(), { code });
+const cleanup = isCleanupUnit(code);
 
 const html = await compiledContent();
 const firstSection = html.indexOf('<h2');
 if (firstSection === -1) {
   throw new Error(`Study tools, unit ${code}: the page has no section heading to place the tools before.`);
 }
+
+let beforeTools = html.slice(0, firstSection);
+let afterTools = html.slice(firstSection);
+if (cleanup) {
+  // "Last reviewed [month year] against the CMI specification [version]", from docs/spec-versions.md via
+  // src/data/specVersions.js. Left out when the unit's level has no version on record.
+  const reviewed = reviewedLine(unit.level);
+  if (reviewed) beforeTools += `<p class="ut-reviewed">${reviewed}</p>\n`;
+
+  // The criteria stay in the HTML, inside a closed disclosure. The build stops if they no longer match the checklist.
+  const wrapped = wrapCriteriaDisclosure(code, afterTools);
+  assertCriteriaInSync(code, unit, wrapped.inner);
+  afterTools = wrapped.html;
+}
+
+// The cleaned-up page has no decorative header image above the heading. The image file and the
+// frontmatter stay as they are; only the pilot pages stop rendering it.
+const pageFrontmatter = cleanup ? { ...frontmatter, headerImage: undefined, headerImageAlt: undefined } : frontmatter;
 ---
 
-<UnitPage frontmatter={frontmatter}>
-  <Fragment set:html={html.slice(0, firstSection)} />
-  <StudyTools unit={unit} />
-  <Fragment set:html={html.slice(firstSection)} />
+<UnitPage frontmatter={pageFrontmatter}>
+  <Fragment set:html={beforeTools} />
+  <StudyTools unit={unit} cleanup={cleanup} />
+  <Fragment set:html={afterTools} />
 </UnitPage>
