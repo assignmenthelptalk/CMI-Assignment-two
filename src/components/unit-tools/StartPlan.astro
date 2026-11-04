@@ -1,5 +1,5 @@
 ---
-// "15-minute start plan" for the cleaned-up unit page (the pilot units in config.js). Rendered by StudyTools.astro above the tabs.
+// "Start in 15 minutes" (the start plan) for the cleaned-up unit page (the pilot units in config.js). Rendered by StudyTools.astro above the tabs.
 // Five steps of about three minutes each, in any order. Ticks and the three workplace notes are saved in this
 // browser only, for this unit only (startplan.js). The prompts are questions: nothing here writes text for the student.
 // startplan.js is written into the page as an inline module, only when this component renders. It is imported as raw
@@ -14,7 +14,7 @@ const steps = [
     key: 'criteria',
     title: 'Read the criteria',
     help: 'Read each criterion once, then tick the step.',
-    link: { label: 'Open the criteria checklist', tab: 'checklist' },
+    link: { label: 'Open the pass checklist', tab: 'checklist' },
   },
   {
     key: 'verbs',
@@ -31,7 +31,7 @@ const steps = [
     key: 'budget',
     title: 'Set your word budget',
     help: 'Enter the word count your centre has set and look at the suggested split.',
-    link: { label: 'Open the word-count planner', tab: 'planner' },
+    link: { label: 'Open the word planner', tab: 'planner' },
   },
   {
     key: 'outline',
@@ -49,7 +49,7 @@ const prompts = [
 ---
 
 <section class="ut-plan" id={planId} aria-labelledby={`${planId}-heading`} data-sp data-unit={unit.code} data-level={unit.level ?? ''} hidden>
-  <h3 id={`${planId}-heading`}>15-minute start plan</h3>
+  <h3 id={`${planId}-heading`}>Start in 15 minutes</h3>
   <p class="ut-note">
     Five steps of about three minutes each. Do them in any order and tick each one when you are done. Ticks and notes are saved in this browser only, for this unit only. They are not sent anywhere.
   </p>

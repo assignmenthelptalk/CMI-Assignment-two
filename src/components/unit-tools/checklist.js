@@ -1,4 +1,4 @@
-// Criteria checklist: remembers ticks in this browser (localStorage, this unit only), counts them,
+// Pass checklist: remembers ticks in this browser (localStorage, this unit only), counts them,
 // clears them and prints the list. Every storage call is wrapped, so the page works with storage blocked.
 const root = document.querySelector('[data-ut]');
 const panel = root?.querySelector('[data-ut-checklist]');

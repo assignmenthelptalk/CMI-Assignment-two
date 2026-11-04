@@ -1,4 +1,4 @@
-// Word-count planner. Validates the three inputs, then splits the word count between the
+// Word planner. Validates the three inputs, then splits the word count between the
 // introduction, the conclusion and the learning outcomes (see logic.js). No network calls.
 import { allocateWords, formatNumber, validatePlannerInputs } from './logic.js';
 

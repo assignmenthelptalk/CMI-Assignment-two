@@ -21,7 +21,7 @@
 
 export class UnitDataError extends Error {
   constructor(code, message) {
-    super(`Study tools data, unit ${code}: ${message}`);
+    super(`Assignment tools data, unit ${code}: ${message}`);
     this.name = 'UnitDataError';
   }
 }

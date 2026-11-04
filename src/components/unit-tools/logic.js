@@ -102,7 +102,7 @@ export function criterionPrompt(criterion) {
 export function buildOutline(unit) {
   const level = unit.level ? ` (Level ${unit.level})` : '';
   const lines = [
-    `CMI Unit ${unit.code} study outline${level}`,
+    `CMI Unit ${unit.code} structure outline${level}`,
     "A planning skeleton built from the unit's assessment criteria. It holds prompts, not answers: write the content yourself and follow your centre's brief.",
     '',
     '1. Introduction',

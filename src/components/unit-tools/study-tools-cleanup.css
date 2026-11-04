@@ -12,7 +12,7 @@
 .ut-full-criteria-body { padding: 0 1rem 0.5rem; }
 .prose-wrap .ut-full-criteria-body > :first-child { margin-top: 1rem; }
 
-/* "What the verbs mean in this unit": one line per distinct verb, directly above the checklist. */
+/* "What the verbs mean": one line per distinct verb, directly above the checklist. */
 .ut-legend { margin: 1rem 0 1.25rem; padding: 0.75rem 1rem; border: 1px solid var(--border-strong); border-radius: var(--radius); background: #fff; }
 .prose-wrap .ut .ut-legend h3 { margin: 0 0 0.5rem; font-size: 1.05rem; }
 .ut-legend-list { margin: 0; }
@@ -41,7 +41,7 @@
 /* "Last reviewed ..." line under the intro. #6B7280 on white is 4.8:1. */
 .prose-wrap .ut-reviewed { margin: -0.25rem 0 1rem; font-size: 0.9rem; color: var(--text-muted); }
 
-/* 15-minute start plan: five steps above the tabs. */
+/* Start in 15 minutes: five steps above the tabs. */
 .ut-plan { margin: 1.25rem 0; padding: 1rem 1.25rem; border: 1px solid var(--border-strong); border-radius: var(--radius); background: var(--hero-tint); }
 .ut-plan[hidden] { display: none; }
 .prose-wrap .ut .ut-plan h3 { margin-top: 0; }

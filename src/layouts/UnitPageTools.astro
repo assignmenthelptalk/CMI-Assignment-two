@@ -1,5 +1,5 @@
 ---
-// The unit page layout plus the "Study tools" section. A unit page opts in by setting
+// The unit page layout plus the "Assignment tools" section. A unit page opts in by setting
 //   layout: ../../layouts/UnitPageTools.astro
 // in its frontmatter; every other page keeps UnitPage.astro and is unchanged.
 //
@@ -28,7 +28,7 @@ const cleanup = isCleanupUnit(code);
 const html = await compiledContent();
 const firstSection = html.indexOf('<h2');
 if (firstSection === -1) {
-  throw new Error(`Study tools, unit ${code}: the page has no section heading to place the tools before.`);
+  throw new Error(`Assignment tools, unit ${code}: the page has no section heading to place the tools before.`);
 }
 
 let beforeTools = html.slice(0, firstSection);

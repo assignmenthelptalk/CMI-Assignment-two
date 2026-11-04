@@ -1,4 +1,4 @@
-// 15-minute start plan: five tick boxes, three workplace questions, "Print my start plan" and "Download as .txt".
+// Start in 15 minutes (the start plan): five tick boxes, three workplace questions, "Print my start plan" and "Download as .txt".
 //
 // This file is self-contained on purpose. StartPlan.astro writes it into the page as an inline module, only on the
 // cleaned-up pilot pages, so it must not import anything (and it must not contain the closing script tag).
@@ -62,7 +62,7 @@ export function buildPlanModel(input) {
 }
 
 export const NOT_FILLED_IN = '(not filled in)';
-export const NO_WORD_SPLIT = '(No word split yet. Open the word-count planner and enter your word count.)';
+export const NO_WORD_SPLIT = '(No word split yet. Open the word planner and enter your word count.)';
 export const NO_OUTLINE = '(No outline yet.)';
 
 /** One verb as a line of text: "Describe (criteria 1.1, 1.3): meaning. Depth group: Show Knowledge." */
@@ -91,7 +91,7 @@ export function planToText(model) {
   lines.push('', 'Your workplace example (your own notes)');
   for (const note of model.notes) lines.push(note.question, indent(note.answer || NOT_FILLED_IN));
 
-  lines.push('', 'Word split (from the word-count planner)');
+  lines.push('', 'Word split (from the word planner)');
   if (model.words) {
     for (const row of model.words.rows) lines.push(`- ${wordsLine(row)}`);
     if (model.words.range) lines.push(model.words.range);
@@ -129,7 +129,7 @@ export function renderPrintView(doc, container, model) {
     add('h4', note.question);
     add('p', note.answer || NOT_FILLED_IN);
   }
-  add('h3', 'Word split (from the word-count planner)');
+  add('h3', 'Word split (from the word planner)');
   if (model.words) {
     addList(model.words.rows.map(wordsLine));
     if (model.words.range) add('p', model.words.range);
