@@ -4,9 +4,13 @@ import UnitList from '../../components/UnitList.astro';
 import UnitFinder from '../../components/UnitFinder.astro';
 import { featuredUnits } from '../../data/featuredUnits.js';
 import units from '../../data/units.json';
+import { hubUnitRange } from '../../data/hubIntro.js';
 
 const whatsappUrl = 'https://wa.me/447916696894';
 const siteUrl = 'https://www.cmiassignmenthelp.uk.com';
+
+// Hub intro: the unit range comes from src/data/units.json (null for Level 4, whose codes are not one unbroken run).
+const unitRange = hubUnitRange(5);
 
 // "On this page": the main sections only, each taken from an existing h2 on this page (same id, same text).
 // This page has its own short list; the shared TableOfContents component (all h2s) is left as it is for other pages.
@@ -107,9 +111,7 @@ const faqSchema = {
         <p class="hero-eyebrow">UK-Based CMI Writers — Level 5 Management and Leadership</p>
         <h1 class="hero-h1">CMI Level 5 Assignment Help | Management and Leadership Diploma</h1>
         <p class="hero-sub">
-          CMI Level 5 Assignment Help covers all 26 units (501–526), from 501 Principles of Management and Leadership in an
-          Organisational Context to 526 Principles of Leadership Practice. Written to your unit criteria by
-          UK-based CMI-qualified writers. Fixed quote in 2 hours.
+          Choose your CMI Level 5 unit{unitRange ? ` (${unitRange})` : ''} to see what each criterion asks for and plan your word count and structure. Stuck on a criterion? <a href={whatsappUrl} target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
         </p>
       </div>
     </div>
@@ -1333,4 +1335,17 @@ const faqSchema = {
   .unit-cta .card-link::after { content: ''; position: absolute; inset: 0; }
   .unit-cta .card-link:focus-visible { outline: none; }
   .unit-cta .card-link:focus-visible::after { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 8px; }
+
+  /* Hero intro: WhatsApp text link; left-aligned under 768px where the paragraph runs to several lines. */
+  .hero-sub { text-wrap: pretty; }
+  .hero-sub a {
+    color: var(--blue);
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .hero-sub a:hover { color: var(--accent-strong-hover); }
+  @media (max-width: 767px) {
+    .hero-sub { text-align: left; }
+  }
 </style>
