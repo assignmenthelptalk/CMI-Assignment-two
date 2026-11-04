@@ -442,3 +442,106 @@ Searched `src` and `public` for the five phrases in the brief ("UK-based CMI-qua
 - `src/pages/cmi-715-assignment-help/index.md`: UK-based CMI-qualified: 99; fixed quote: 99; within 2 hours: 99; submission-ready: 111
 - `src/pages/cmi-716-assignment-help/index.md`: UK-based CMI-qualified: 95; fixed quote: 95; within 2 hours: 95; submission-ready: 107
 
+
+---
+
+## 1 to 7. What changed on the pilot pages
+
+Section 0 above is the audit and was committed before anything changed. Everything below describes the finished branch. The pilot list lives in one place: `cleanupPilotUnits` in `src/components/unit-tools/config.js`.
+
+### Step 1: FAQ answer and claims
+
+- The FAQ answer on all five pilots is now exactly: "If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer." The question text is unchanged.
+- **Structured data: no change.** The old answer was never in JSON-LD (section 0.3), so there was nothing to keep in step. The built head of every pilot was compared with the baseline: title, meta description, canonical, H1 and all three JSON-LD blocks are identical.
+- **Removed from the pilot bodies (each pilot, same text):**
+  1. The old FAQ answer sentences "A written assignment to your brief and the criteria above, prepared by a UK-based CMI-qualified writer, or tutoring if you prefer to write it yourself. Send your brief and deadline by WhatsApp and you get a fixed quote within 2 hours." (replaced by the exact text above). This held "UK-based CMI-qualified", "fixed quote" and "within 2 hours".
+  2. The related-units list item "CMI Assignment Writing Service, submission-ready assignments across all levels" (held "submission-ready").
+  - "written to your unit criteria" does not occur on any pilot page.
+  - No wrapper was left empty, so no wrapper was removed.
+- The same claims on other pages are listed by file and line in 0.8. None of those files was edited.
+
+### Step 2: criteria disclosure
+
+The H2 "Learning outcomes and assessment criteria" stays outside and unchanged. Everything under it, up to the next H2, is wrapped in `<details class="ut-full-criteria">` (closed) with the summary "Full criteria text". The text stays in the HTML. The checklist is kept.
+
+**Sync check:** `assertCriteriaInSync` in `src/lib/pilot-page.js` compares the criteria found in the disclosure with the criteria the checklist is built from, after normalising tags, entities, curly quotes and spaces. If they differ, or a count in the page does not match, the build throws and names the unit. `src/lib/pilot-page.test.mjs` covers the pass and fail cases and, after a build, checks the five built pages.
+
+### Step 3: verb legend
+
+The repeated "In plain English" line is gone from every row (0 occurrences on the pilots). A "What the verbs mean in this unit" list sits directly above the checklist and lists each distinct verb once, with the meaning the unit page already gives. Each row keeps its highlighted verb, and the row's checkbox points at the legend entry through `aria-describedby`, so keyboard and screen reader behaviour is kept. No verb lacked a meaning, so none is listed bare.
+
+### Step 4: WhatsApp links
+
+Removed: the "Get a Unit N Quote on WhatsApp" link under the title, the WhatsApp link in the intro and the WhatsApp link under the FAQ answer. Kept: one "Stuck on this criterion?" link per criterion row, restyled as a plain underlined text link (still 44px tall) and unchanged in target. The header and mobile menu "WhatsApp Us" links and the floating widget are untouched.
+
+### Step 5: related units and topics
+
+- Sibling links are kept (3 per pilot).
+- "More on this unit's topics" now holds at most two guide links, one of which is the command verbs guide.
+- Every service-page link is gone from the body (the only one was the writing service item above).
+
+### Step 6: header image
+
+The header image is not rendered on the pilots (the layout passes no image for them). The image file `cmi-4008-assignment-help.webp` and the other four are kept in the repo. H1 and intro are unchanged.
+
+### Step 7: verb panel, start plan, review line
+
+- **`#command-verbs` panel:** each distinct verb once with its unit-page meaning, the criteria that use it and, where the command verbs guide groups it, the depth group; one link to the guide. Focus moves to the panel when the anchor is followed.
+- **15-minute start plan** above the tabs: five steps with tick boxes saved per unit, the three workplace questions saved per unit (600 characters each), "Clear", "Print my start plan" and "Download as .txt". It stays hidden until the script runs. It never writes sentences: the print view and the text file hold the student's own notes, the verbs, the planner rows and the outline text, and say so plainly when a part is empty.
+- **Review line:** "Last reviewed October 2026 against the CMI Level N specification vNN." from `docs/spec-versions.md` via `src/data/specVersions.js`; a test keeps the two in step.
+
+## 8. Link counts after (article body, per pilot)
+
+| Target type | 307 | 4008 | 501 | 611 | 711 | Before (307, 4008, 501, 611, 711) |
+|---|--:|--:|--:|--:|--:|---|
+| Sibling units | 3 | 3 | 3 | 3 | 3 | 3 each |
+| Own-level hub and unit list | 2 | 2 | 2 | 2 | 2 | 2 each |
+| Guides (topics block plus the verb panel link) | 3 | 3 | 3 | 3 | 3 | 2, 2, 5, 3, 3 |
+| Service pages | 0 | 0 | 0 | 0 | 0 | 1 each |
+| WhatsApp ("Stuck on this criterion?" only) | 10 | 10 | 12 | 6 | 5 | 13, 13, 15, 9, 8 |
+| Anchors (`#...`, start plan and panel) | 4 | 4 | 4 | 4 | 4 | 0 |
+
+Outside the article (header, footer) nothing changed: 22 links on every pilot, as before. The command verbs guide appears twice in the body on purpose: once in the topics block, once in the verb panel.
+
+### Inbound links, before and after
+
+| Target | Pages linking before | After | Change |
+|---|--:|--:|---|
+| /cmi-assignment-writing-service/ | 125 | 125 | none (header nav on every page; the 5 pilot body links are gone) |
+| /guides/cmi-command-verbs-explained/ | 125 | 125 | none (the 5 pilot bodies still link to it) |
+| /guides/harvard-referencing-cmi/ | 95 | 92 | -3 (dropped on 501, 611, 711); still linked from 90 other pages and from the 307 and 4008 bodies |
+| /guides/management-theory-cmi-assignments/ | 50 | 50 | none |
+| /guides/cmi-level-5-vs-level-7/ | 125 | 125 | none (header nav) |
+| /guides/cmi-membership-levels-acmi-mcmi-fcmi/ | 125 | 125 | none (header nav) |
+
+Every removed target keeps many other inbound links, so no page is orphaned.
+
+## 9. Gaps
+
+- **Depth groups:** Compare (307), Devise and Provide (4008), Investigate (611) and Formulate (711) are in no depth group in the repo. They show their meaning and no depth line. No group was invented.
+- **Review date:** the repo has one verification date (31 October 2026) for all levels, not a per-unit date. The line says "October 2026" for that reason.
+- **Closing call to action:** unit pages never had a separate block (0.6). Nothing was invented, so the bottom of the page has no WhatsApp link of its own. This needs your decision (see below).
+
+## 10. Floating "Chat with us" widget
+
+Not removed or changed. Findings and the proposed fix are in 0.2. Seen again on the finished branch at 375px: it still covers part of the text column (it covers the right of the intro on 4008). At 1280px it sits in the margin.
+
+## 11. Decisions made
+
+1. FAQ question text kept as it is on the site ("...assignment help from us include?"), because the brief says to keep it and the wording in the brief differs (0.6).
+2. The whole intro sentence "If you want support with this unit, message us on WhatsApp with your brief and deadline." was removed with its link, rather than leaving a sentence without its link.
+3. The command verbs guide moved from the related-units list into "More on this unit's topics"; the second guide is Harvard (307, 4008) or management theory (501, 611, 711). Harvard was dropped from 501, 611 and 711, and the Level 5 vs 7 and membership items from 501, to stay at two.
+4. Meta descriptions ("quote in 2 hours") and `Layout.astro` line 33 were not changed (the brief does not allow it); they are listed in 0.6 and 0.8.
+5. Pilot-only code is written into the page as raw text and its stylesheet is linked only on the pilots, so the other 121 unit pages build byte-identical.
+
+## 12. Checks run
+
+- `npm test`: 46 tests, all passing.
+- `npm run build`: 126 pages. Compared with the build of `main`: one new file (the pilot stylesheet) and exactly five changed files, the five pilot pages.
+- Link check: 126 pages, 0 broken.
+- Built preview at 375px and 1280px on Unit 4008: no horizontal overflow; no console errors apart from four `ERR_NAME_NOT_RESOLVED` from the chat widget's host, which the offline test setup cannot reach; every control in the tools is at least 44px tall; ticks and notes survive a reload; the planner and outline still work; the start plan's print view shows only the plan.
+- Duplicate ids 0, broken `aria` references 0, dead `#` anchors 0 on all five pilots.
+
+## 13. Rolling out to more units
+
+Add the unit codes to `cleanupPilotUnits` and make the same markdown edits as commits 2 and 3 (FAQ answer, the writing-service list item, the quote link, the intro sentence, the FAQ WhatsApp link, and the topics block cut to two guides including the command verbs guide). The build then fails by itself if a page's disclosure and checklist disagree.
