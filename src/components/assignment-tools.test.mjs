@@ -5,6 +5,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { levels, guides, toolsLink } from '../data/navMenu.js';
+import { reviewedLine } from '../data/specVersions.js';
 
 const read = (relative) => readFileSync(new URL(relative, import.meta.url), 'utf8').replace(/\r\n/g, '\n');
 const page = read('../pages/assignment-tools/index.astro');
@@ -31,7 +32,7 @@ test('the page carries the agreed copy and nothing else on offer', () => {
   ]) {
     assert.ok(page.toLowerCase().includes(text.toLowerCase()), text);
   }
-  assert.doesNotMatch(page, /start plan|verb panel|Last reviewed/i, 'start plan, verb panel and the review line are not on every unit page');
+  assert.doesNotMatch(page, /start plan|verb panel/i, 'the start plan and verb panel are not on every unit page');
   assert.doesNotMatch(page, /wa\.me|whatsapp|writing-service|tutoring|coursework-help|guarantee|submission-ready/i);
 });
 
@@ -42,6 +43,16 @@ test('the only links on the page are the finder, the level hubs and the command 
   assert.equal(levels.length, 5);
   assert.ok(levels.every((level) => /\/cmi-level-\d-assignment-help\/$/.test(level.slug)));
   assert.ok(guides.some((guide) => guide.slug.endsWith('/guides/cmi-command-verbs-explained/')));
+});
+
+test('the "Last reviewed" lines come from the same function as the unit pages, one per level, with nothing typed on the page', () => {
+  assert.match(page, /import \{ reviewedLine \} from '\.\.\/\.\.\/data\/specVersions\.js';/);
+  assert.match(page, /levels\.map\(\(level\) => reviewedLine\(level\.num\)\)/);
+  assert.doesNotMatch(page, /October 2026|specification v\d/);
+  assert.deepEqual(
+    levels.map((level) => reviewedLine(level.num)),
+    [3, 4, 5, 6, 7].map((n) => `Last reviewed October 2026 against the CMI Level ${n} specification ${{ 3: 'v16', 4: 'v12', 5: 'v26', 6: 'v09', 7: 'v10' }[n]}.`)
+  );
 });
 
 test('the menu item sits after Services and before the WhatsApp button, as a plain link', () => {
