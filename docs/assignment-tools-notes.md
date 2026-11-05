@@ -117,3 +117,13 @@ Request: "fix claims quote". Choices made with the owner: soften the price guara
 - **Not changed.** Titles, canonicals, URLs, redirects, sitemap, legal pages. Three meta descriptions still end "fixed quote" or "fixed WhatsApp quote" (cheap, answers, online) because meta descriptions are not changed without an explicit request.
 - **Test.** `src/lib/no-price-guarantee.test.mjs` fails if "fixed quote", "fixed price", "hidden fees", "price is fixed", "no surprise charges" or "quote will not change" returns to a page body (title= / description= lines and the legal pages are skipped). "There is no single fixed price" on the pay-someone page is allowed because it says the opposite.
 - **Left alone (outside this request).** "UK-based CMI writers" and similar writer claims, the turnaround figures, and the refund policy's money-back guarantee.
+
+## 7. Meta descriptions finished (on request)
+
+Request: "fix meta descriptions", after section 6. The three descriptions that still said "fixed quote" now read:
+
+- Cheap page: "... (level, word count, deadline) and get a WhatsApp quote."
+- Answers page: "... Unit-specific written answers, Levels 3 to 7, WhatsApp quote."
+- Online page: "... Remote expert support via WhatsApp, digital delivery, all levels 3 to 7." (the quote clause is dropped because the sentence already says WhatsApp)
+
+Only those three description strings changed. Titles, canonicals, URLs and structured data are as they were after section 6. `src/lib/no-price-guarantee.test.mjs` now covers title and description lines too, so section 6's note that they were skipped no longer applies.
