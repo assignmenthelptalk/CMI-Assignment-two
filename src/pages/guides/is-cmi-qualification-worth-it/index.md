@@ -11,7 +11,7 @@ headerImageAlt: "Is a CMI Qualification Worth It — career ROI, employer recogn
 
 **Short answer:** it is worth it for UK managers who want a structured, recognised management qualification and who either have an employer paying or a clear use for the qualification, such as the Chartered Manager route. It is less clearly worth paying for yourself if your sector rewards technical expertise or portfolio over formal qualifications, or if you need international recognition. The evidence for pay and promotion benefits is mostly correlational, so be wary of any single salary figure.
 
-The honest answer depends on your sector, your employer's funding, the level you would study, and what you want the qualification to do. This guide covers whether [CMI Level 7 is worth it](#is-cmi-level-7-worth-it), what the evidence does and does not show, how CMI compares with ILM and an MBA, and which profiles tend to get the most value.
+The honest answer depends on your sector, your employer's funding, the level you would study, and what you want the qualification to do. This guide covers whether CMI Level 7 is worth it, what the evidence does and does not show, how CMI compares with ILM and an MBA, and which profiles tend to get the most value.
 
 ## Is CMI Level 7 Worth It?
 
@@ -46,7 +46,7 @@ Recognition varies by employer and sector, and we cannot give you a sector-wide 
 - Ask your learning and development team which providers and levels your organisation supports.
 - Ask managers a level or two above you what they hold and what they found useful.
 
-CMI's own Level 3 to Level 7 syllabuses are written for managers in any sector. They describe roles such as Team Leader, Operations Manager, Departmental Manager, Senior Manager, Director and CEO, not sector-specific posts. Health and care managers can find a number of units that suit their work, covered in our [guide to CMI qualifications for NHS managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/).
+CMI's own Level 3 to Level 7 syllabuses are written for managers in any sector. They describe roles such as Team Leader, Operations Manager, Departmental Manager, Senior Manager, Director and CEO, not sector-specific posts. Health and care managers can find a number of units that suit their work, covered in our guide to CMI qualifications for NHS managers.
 
 ## CMI vs ILM — Which Management Qualification?
 
@@ -142,22 +142,9 @@ Send your unit brief, level and deadline via WhatsApp. A quote is returned, and 
 
 ## CMI Assignment Help — Supporting Your Qualification Journey
 
-- [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), Management and Leadership, units 501 to 526
-- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), Strategic Management and Leadership Practice, units 701 to 716
-- [CMI Membership Grades: ACMI, MCMI and FCMI](https://www.cmiassignmenthelp.uk.com/guides/cmi-membership-levels-acmi-mcmi-fcmi/), how each grade is earned
 - [CMI Assignment Writing Service](https://www.cmiassignmenthelp.uk.com/cmi-assignment-writing-service/), all levels and units
-- [CMI Qualification Levels Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-qualification-levels-explained/), what each level covers, who it is designed for and how they connect
 
 The [Chartered Management Institute](https://www.managers.org.uk/qualifications/) publishes research and career information for qualified managers and leaders.
-
-## Related CMI Unit Pages
-
-Unit-level support for the units most relevant to this guide:
-
-- [CMI Unit 501 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/): Principles of Management and Leadership in an Organisational Context (Level 5)
-- [CMI Unit 502 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/): Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5)
-- [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Strategic Leadership (Level 7)
-- [CMI Unit 703 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-703-assignment-help/): Collaboration and Partnerships (Level 7)
 
 ## Related CMI Guides
 
