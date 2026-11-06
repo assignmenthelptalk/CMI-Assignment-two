@@ -11,7 +11,17 @@ headerImageAlt: "Is a CMI Qualification Worth It — career ROI, employer recogn
 
 **Short answer:** it is worth it for UK managers who want a structured, recognised management qualification and who either have an employer paying or a clear use for the qualification, such as the Chartered Manager route. It is less clearly worth paying for yourself if your sector rewards technical expertise or portfolio over formal qualifications, or if you need international recognition. The evidence for pay and promotion benefits is mostly correlational, so be wary of any single salary figure.
 
-The honest answer depends on your sector, your employer's funding, the level you would study, and what you want the qualification to do. This guide covers what the evidence does and does not show, how CMI compares with ILM and an MBA, whether [CMI Level 7 is worth it](#is-cmi-level-7-worth-it), and which profiles tend to get the most value.
+The honest answer depends on your sector, your employer's funding, the level you would study, and what you want the qualification to do. This guide covers whether [CMI Level 7 is worth it](#is-cmi-level-7-worth-it), what the evidence does and does not show, how CMI compares with ILM and an MBA, and which profiles tend to get the most value.
+
+## Is CMI Level 7 Worth It?
+
+For senior managers whose employer is paying, or who want the Chartered Manager route, usually yes. The Level 7 Diploma needs at least 37 credits, with at least 30 from Group A units, and the Extended Diploma needs at least 64 credits. Of the 80 assessment criteria in the Level 7 units, 37 begin with Critically, and many end in a proposal or strategy, so the work is demanding. It is most worth it when:
+
+- your employer covers the cost or you have a defined use for the qualification;
+- your role is at the senior level CMI describes: Senior Manager, Regional Manager, Specialist Manager, Director or CEO;
+- you want strategic-leadership development without a full-time MBA.
+
+It is less worth paying for yourself if your goal is international recognition, or if your sector rewards portfolio and technical expertise over formal qualifications. Level 7 is also heavier work than Level 5 because the criteria ask you to question and test evidence rather than only weigh it. See [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/) for the comparison, and [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/) if you are already enrolled.
 
 ## What the Evidence Shows
 
@@ -75,16 +85,6 @@ CMI Level 7 sits at Level 7 of the RQF, the same level as a master's degree, so 
 **An MBA is the stronger choice when**: you want international recognition, a career pivot into consulting, finance or international business, or an MBA cohort network.
 
 Costs vary widely between providers and universities, so compare current prices from each rather than relying on a typical figure.
-
-## Is CMI Level 7 Worth It?
-
-For senior managers whose employer is paying, or who want the Chartered Manager route, usually yes. The Level 7 Diploma needs at least 37 credits, with at least 30 from Group A units, and the Extended Diploma needs at least 64 credits. Of the 80 assessment criteria in the Level 7 units, 37 begin with Critically, and many end in a proposal or strategy, so the work is demanding. It is most worth it when:
-
-- your employer covers the cost or you have a defined use for the qualification;
-- your role is at the senior level CMI describes: Senior Manager, Regional Manager, Specialist Manager, Director or CEO;
-- you want strategic-leadership development without a full-time MBA.
-
-It is less worth paying for yourself if your goal is international recognition, or if your sector rewards portfolio and technical expertise over formal qualifications. Level 7 is also heavier work than Level 5 because the criteria ask you to question and test evidence rather than only weigh it. See [CMI Level 5 vs Level 7](https://www.cmiassignmenthelp.uk.com/guides/cmi-level-5-vs-level-7/) for the comparison, and [CMI Level 7 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/) if you are already enrolled.
 
 ## Who Gets the Most Value from a CMI Qualification?
 
