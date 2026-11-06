@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "Is a CMI Qualification Worth It? Level 7 Included"
+title: "Is a CMI Qualification Worth It? Level 7 ROI"
 description: "Is a CMI qualification worth it? What the evidence shows, who benefits most, CMI vs ILM vs an MBA, whether Level 7 is worth it, and how funding changes the answer."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/"
 headerImage: "/images/headers/is-cmi-qualification-worth-it.webp"
