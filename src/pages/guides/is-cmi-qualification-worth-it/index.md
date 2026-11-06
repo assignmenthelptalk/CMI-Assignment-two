@@ -7,7 +7,7 @@ headerImage: "/images/headers/is-cmi-qualification-worth-it.webp"
 headerImageAlt: "Is a CMI Qualification Worth It — career ROI, employer recognition, and who benefits most"
 ---
 
-# Is a CMI Qualification Worth It? Career ROI Explained
+# Is a CMI Qualification Worth It? Level 7 ROI
 
 **Short answer:** it is worth it for UK managers who want a structured, recognised management qualification and who either have an employer paying or a clear use for the qualification, such as the Chartered Manager route. It is less clearly worth paying for yourself if your sector rewards technical expertise or portfolio over formal qualifications, or if you need international recognition. The evidence for pay and promotion benefits is mostly correlational, so be wary of any single salary figure.
 
