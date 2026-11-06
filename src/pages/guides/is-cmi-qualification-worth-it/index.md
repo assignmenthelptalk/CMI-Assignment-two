@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/UnitPage.astro
-title: "Is a CMI Qualification Worth It? - Value & Benefits | CMIAssignmentHelp.uk.com"
+title: "Is a CMI Qualification Worth It? Level 7 Included"
 description: "Is a CMI qualification worth it? What the evidence shows, who benefits most, CMI vs ILM vs an MBA, whether Level 7 is worth it, and how funding changes the answer."
 canonical: "https://www.cmiassignmenthelp.uk.com/guides/is-cmi-qualification-worth-it/"
 headerImage: "/images/headers/is-cmi-qualification-worth-it.webp"
@@ -15,7 +15,7 @@ The honest answer depends on your sector, your employer's funding, the level you
 
 ## Is CMI Level 7 Worth It?
 
-For senior managers whose employer is paying, or who want the Chartered Manager route, usually yes. The Level 7 Diploma needs at least 37 credits, with at least 30 from Group A units, and the Extended Diploma needs at least 64 credits. Of the 80 assessment criteria in the Level 7 units, 37 begin with Critically, and many end in a proposal or strategy, so the work is demanding. It is most worth it when:
+For senior managers whose employer is paying, or who want the Chartered Manager route, usually CMI Level 7 is Worth It. The Level 7 Diploma needs at least 37 credits, with at least 30 from Group A units, and the Extended Diploma needs at least 64 credits. Of the 80 assessment criteria in the Level 7 units, 37 begin with Critically, and many end in a proposal or strategy, so the work is demanding. It is most worth it when:
 
 - your employer covers the cost or you have a defined use for the qualification;
 - your role is at the senior level CMI describes: Senior Manager, Regional Manager, Specialist Manager, Director or CEO;
