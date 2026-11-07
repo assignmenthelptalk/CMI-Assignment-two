@@ -52,7 +52,7 @@ const canonicalHref = canonical ?? siteUrl;
 const breadcrumbSchema = (() => {
   const path = new URL(canonicalHref).pathname.replace(/\/+$/, '');
   if (!path) return null;
-  const unit = path.match(/^\/cmi-(\d{3,4})-assignment-help$/);
+  const unit = path.match(/^\/unit-(\d{3,4})$/);
   const hub = path.match(/^\/cmi-level-(\d)-assignment-help$/);
   const trail = [{ name: 'Home', url: `${siteUrl}/` }];
   if (unit) {

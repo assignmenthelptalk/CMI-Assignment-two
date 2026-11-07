@@ -98,7 +98,7 @@ test('each of the five level hubs links once to the Assignment Tools page, and n
     assert.ok(hub.includes('Each unit page has a free pass checklist, word planner and structure outline.'));
     assert.match(hub, /\.hub-tools-link a \{ text-decoration: underline;/, 'in-text link is underlined');
   }
-  for (const other of ['../pages/index.astro', '../pages/cmi-701-assignment-help/index.md', '../pages/cmi-level-3-units/index.astro', '../layouts/UnitPageTools.astro']) {
+  for (const other of ['../pages/index.astro', '../pages/unit-701/index.md', '../pages/cmi-level-3-units/index.astro', '../layouts/UnitPageTools.astro']) {
     assert.ok(!read(other).includes('/assignment-tools/'), other);
   }
 });

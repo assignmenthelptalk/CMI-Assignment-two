@@ -6,7 +6,7 @@ import { readFileSync } from 'node:fs';
 import { parseUnitMarkdown, unitCodeFromPath, UnitDataError } from './unit-tools-data.js';
 
 const page = (code) =>
-  readFileSync(new URL(`../pages/cmi-${code}-assignment-help/index.md`, import.meta.url), 'utf8');
+  readFileSync(new URL(`../pages/unit-${code}/index.md`, import.meta.url), 'utf8');
 const parse = (code) => parseUnitMarkdown(page(code), { code });
 const criteriaCount = (unit) => unit.outcomes.reduce((sum, outcome) => sum + outcome.criteria.length, 0);
 
@@ -94,8 +94,8 @@ test('a missing verb meaning leaves that criterion without one and records a gap
 });
 
 test('unitCodeFromPath recognises unit pages only', () => {
-  assert.equal(unitCodeFromPath('/cmi-502-assignment-help/'), '502');
-  assert.equal(unitCodeFromPath('/cmi-4001-assignment-help'), '4001');
+  assert.equal(unitCodeFromPath('/unit-502/'), '502');
+  assert.equal(unitCodeFromPath('/unit-4001'), '4001');
   assert.equal(unitCodeFromPath('/cmi-level-5-assignment-help/'), null);
   assert.equal(unitCodeFromPath('/guides/cmi-assignment-structure/'), null);
 });

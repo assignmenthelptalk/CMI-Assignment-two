@@ -206,8 +206,8 @@ export function parseUnitMarkdown(raw, { code }) {
   };
 }
 
-/** The unit code from a unit page URL such as /cmi-502-assignment-help/, or null for any other page. */
+/** The unit code from a unit page URL such as /unit-502/, or null for any other page. */
 export function unitCodeFromPath(pathname) {
-  const match = pathname.match(/^\/cmi-(\d+)-assignment-help\/?$/);
+  const match = pathname.match(/^\/unit-(\d+)\/?$/);
   return match ? match[1] : null;
 }

@@ -10,8 +10,8 @@ interface Props { level: 3 | 4 | 5 | 6 | 7; l5Coded?: boolean; only?: string[]; 
 const { level, l5Coded = false, only, linked = true, allHref, allLabel, lead } = Astro.props;
 
 const BASE = 'https://www.cmiassignmenthelp.uk.com';
-const pageFiles = Object.keys(import.meta.glob('../pages/cmi-*-assignment-help/index.md'));
-const existing = new Set(pageFiles.map((f) => (f.match(/cmi-(\d+)-assignment-help/) || [])[1]));
+const pageFiles = Object.keys(import.meta.glob('../pages/unit-*/index.md'));
+const existing = new Set(pageFiles.map((f) => (f.match(/unit-(\d+)\//) || [])[1]));
 
 // Own-level units only: Level 4 codes are 4001-4009, the others are 3xx/5xx/6xx/7xx.
 const ownLevel = (code: string) => (level === 4 ? /^400\d$/.test(code) : code.length === 3 && code[0] === String(level));
@@ -31,7 +31,7 @@ const units = only
         <h3 class="unit-tile-title">{title}</h3>
         {linked && existing.has(code) && (
           <p class="unit-tile-cta">
-            <a href={`${BASE}/cmi-${code}-assignment-help/`} class="tile-link">CMI Unit {code} assignment help</a> &rarr;
+            <a href={`${BASE}/unit-${code}/`} class="tile-link">CMI Unit {code} assignment help</a> &rarr;
           </p>
         )}
       </div>

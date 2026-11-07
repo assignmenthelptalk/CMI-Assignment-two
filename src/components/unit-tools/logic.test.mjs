@@ -14,7 +14,7 @@ import {
 import { whatsappUrl } from './config.js';
 
 const unit = (code) =>
-  parseUnitMarkdown(readFileSync(new URL(`../../pages/cmi-${code}-assignment-help/index.md`, import.meta.url), 'utf8'), { code });
+  parseUnitMarkdown(readFileSync(new URL(`../../pages/unit-${code}/index.md`, import.meta.url), 'utf8'), { code });
 const sum = (values) => values.reduce((a, b) => a + b, 0);
 
 test('allocation adds up to the rounded total and every figure is a multiple of 10', () => {
