@@ -1,0 +1,112 @@
+---
+layout: ../../layouts/UnitPageTools.astro
+title: "CMI Unit 715 Assignment Help - Strategic Approaches to Equality and Inclusion | CMIAssignmentHelp.uk.com"
+description: "CMI Unit 715 assignment help (Level 7). Learning outcomes, command verbs and how to approach the unit."
+canonical: "https://www.cmiassignmenthelp.uk.com/unit-715/"
+headerImage: "/images/headers/cmi-715-assignment-help.webp"
+headerImageAlt: "CMI Unit 715 Assignment Help — Strategic Approaches to Equality and Inclusion"
+---
+
+# CMI Unit 715 Assignment Help
+**Strategic Approaches to Equality and Inclusion, CMI Level 7**
+
+Unit 715 is about strategic approaches to equality, diversity and inclusion: structural inequality, legal and good practice requirements, how EDI influences strategic objectives, the business case, and how to appraise data to set strategic priorities and embed them in an organisation.
+
+## What CMI Unit 715 covers
+
+According to the CMI Level 7 syllabus (August 2026), Unit 715 is worth 8 credits, with 24 guided learning hours and 80 hours of total unit time. It has 2 learning outcomes and 7 assessment criteria, and every criterion has to be met for the unit to be passed.
+
+Keywords the syllabus lists for the unit: Equality, diversity, inclusion, inequality, legislation, moral, financial, business-case, assessment, priorities, impact, success.
+
+## Learning outcomes and assessment criteria
+
+### Learning outcome 1: Understand equality, diversity and inclusion at a strategic level
+
+- 1.1 **Critically assess** structural inequality within an organisational and societal context
+- 1.2 **Discuss** approaches to legal and good practice requirements for equality, diversity and inclusion in an organisational context
+- 1.3 **Critically appraise** the influence of equality, diversity and inclusion on the strategic objectives of an organisation
+- 1.4 **Present** the business case for good practice in equality, diversity and inclusion
+
+### Learning outcome 2: Know how to develop strategic priorities for equality, diversity and inclusion
+
+- 2.1 **Select** and appraise data and information to inform strategic priorities of an organisation
+- 2.2 **Develop** strategic priorities for equality, diversity and inclusion within an organisational context
+- 2.3 **Develop** a strategy to embed strategic priorities for equality, diversity and inclusion within an organisation
+
+## What the command verbs ask for in this unit
+
+The first word of each criterion tells you the depth required. The verbs used in Unit 715 are:
+
+- **Critically assess** (1.1): give a reasoned judgement on the arguments made by others and on the evidence behind them, checking the validity of your sources.
+- **Discuss** (1.2): give a detailed account that includes a range of views, including contrasting perspectives.
+- **Critically appraise** (1.3): use a systematic process to find the strengths and weaknesses of information and judge how useful and valid it is.
+- **Present** (1.4): make the outcome of your work clear to an audience of stakeholders, which may take the form of a presentation.
+- **Select** (2.1): meet the criterion as worded.
+- **Develop** (2.2, 2.3): elaborate and progress an idea from a starting point, building on the information given.
+
+These are plain-English readings of the verbs. Your centre's assessment brief and its assessor have the final say on what counts as a pass.
+
+## Models and sources the indicative content suggests
+
+The indicative content for Unit 715 points to the following. They are examples, not a required list, but they show what the criteria expect you to draw on:
+
+- Macpherson report (1999), on institutional barriers
+- Lammy Report (2017)
+- Equality Act (2010)
+- Human Rights Act (1999)
+- Prevent Strategy (2011) and Modern Slavery Act (2015)
+- Kirton et al., Diversity and Inclusion (2014)
+- Griggs, Valuing Diversity (1995)
+- Vertovec, Super-diversity (2007)
+- Equality analysis (impact assessment) and experts by experience
+
+## How to approach a Unit 715 assignment
+
+- AC1.1 asks you to critically assess structural inequality inside and outside the organisation, so combine your own organisation's evidence with the wider societal context.
+- AC1.4 is a business case, and the indicative content separates moral and other cases. Cover each, including duty of care and the value of individuals, alongside the financial case.
+- AC2.1 to AC2.3 form a sequence: select and appraise data, set strategic priorities, then develop a strategy to embed them. Keep the same data thread through all three.
+
+## Where Unit 715 assignments go wrong
+
+- Summarising the Equality Act in AC1.2 without discussing approaches to legal and good practice requirements.
+- Using only staff numbers in AC2.1, when the indicative content includes surveys, consultation data, and qualitative and quantitative information.
+- Writing priorities in AC2.2 without identifying organisational gaps and opportunities.
+
+## How CMI suggests Unit 715 can be assessed
+
+CMI says all assessment criteria must be met, and that the following ways of assessing the unit are guidance only. Your centre chooses the format, so follow your own brief:
+
+- Write a report on diversity and inclusion at a strategic level
+- Develop strategic priorities for equality, diversity and inclusion
+- Produce a reflective account on their leadership practice to evidence their ability to meet each of the assessment criteria
+
+CMI Level 7 qualifications are graded Pass or Refer. The guideline word count for this unit is 4,000 words, with a 10% allowance above or below, so plan your sections around that.
+
+## CMI Unit 715 FAQ
+
+**Does Unit 715 cover only UK law?**
+
+The indicative content names UK legislation such as the Equality Act 2010 and Human Rights Act 1999, plus devolved language legislation. Use the legal context that applies to your organisation.
+
+**Is Unit 715 about my own organisation?**
+
+CMI's recommendations include a reflective account of leading in this area, and the criteria are applied within "an organisational context". Your centre's brief decides the case you use.
+
+**What does Unit 715 assignment help from us include?**
+
+If you would like support with this unit, message us on WhatsApp with your unit code, your brief and your deadline, and we will tell you what we can offer.
+
+Stuck on a criterion? <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">Message us on WhatsApp</a>.
+
+## Related CMI Level 7 units
+
+- [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), all 16 Level 7 units
+- [All CMI Level 7 Units](https://www.cmiassignmenthelp.uk.com/cmi-level-7-units/), every Level 7 unit with its code and title
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/unit-701/), Strategic Leadership (Level 7)
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/unit-702/), Leading and Developing People to Optimise Performance (Level 7)
+- [CMI 716 Assignment Help](https://www.cmiassignmenthelp.uk.com/unit-716/), Strategic Approaches to Mental Health and Wellbeing (Level 7)
+
+## More on this unit's topics
+
+- [CMI Command Verbs Explained](https://www.cmiassignmenthelp.uk.com/guides/cmi-command-verbs-explained/), what each verb asks for across levels
+- [CMI Qualifications for NHS Managers](https://www.cmiassignmenthelp.uk.com/guides/nhs-management-cmi-qualifications/), choosing a CMI level by the scope of your role

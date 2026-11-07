@@ -20,7 +20,7 @@ const { frontmatter, rawContent, compiledContent } = Astro.props;
 
 const code = unitCodeFromPath(Astro.url.pathname);
 if (!code) {
-  throw new Error(`UnitPageTools.astro is for unit pages (/cmi-<code>-assignment-help/), not ${Astro.url.pathname}.`);
+  throw new Error(`UnitPageTools.astro is for unit pages (/unit-<code>/), not ${Astro.url.pathname}.`);
 }
 const unit = parseUnitMarkdown(rawContent(), { code });
 const cleanup = isCleanupUnit(code);

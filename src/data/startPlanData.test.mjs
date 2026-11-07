@@ -50,7 +50,7 @@ test('depth group lookup is case-insensitive and gives null for verbs the guide 
 test('every verb in every unit has a meaning on its unit page, a depth group comes only from the guide, and every unit has a review line', () => {
   const groupNames = new Set(verbGroups.map((group) => group.name));
   for (const code of cleanupUnits) {
-    const unit = parseUnitMarkdown(read(`../pages/cmi-${code}-assignment-help/index.md`), { code });
+    const unit = parseUnitMarkdown(read(`../pages/unit-${code}/index.md`), { code });
     const { entries, gaps } = verbLegend(unit);
     assert.deepEqual(gaps, [], `unit ${code}`);
     assert.ok(reviewedLine(unit.level), `unit ${code}: no review line for Level ${unit.level}`);

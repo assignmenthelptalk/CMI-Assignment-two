@@ -15,8 +15,8 @@ interface Props { level?: (typeof levels)[number] }
 const { level } = Astro.props;
 const Title = level ? 'h3' : 'h2';
 
-const pageFiles = Object.keys(import.meta.glob('../pages/cmi-*-assignment-help/index.md'));
-const existing = new Set(pageFiles.map((f) => (f.match(/cmi-(\d+)-assignment-help/) || [])[1]));
+const pageFiles = Object.keys(import.meta.glob('../pages/unit-*/index.md'));
+const existing = new Set(pageFiles.map((f) => (f.match(/unit-(\d+)\//) || [])[1]));
 
 // { "3": [[code, title, hasPage 1|0], ...], ... }
 const data = Object.fromEntries(
@@ -128,7 +128,7 @@ const dataJson = JSON.stringify(data).replace(/</g, '\\u003c');
       if (!unit) { say('Choose a unit.', true); unitSel.focus(); return; }
       if (!unit[2]) { sayNoPage(unit); return; }
       if (typeof gtag === 'function') gtag('event', 'find_unit_click', { unit_code: unit[0], unit_level: levelSel.value });
-      window.location.assign(`${base}/cmi-${unit[0]}-assignment-help/`);
+      window.location.assign(`${base}/unit-${unit[0]}/`);
     });
 
     form.hidden = false;

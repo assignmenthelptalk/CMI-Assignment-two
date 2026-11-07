@@ -16,7 +16,7 @@ import {
 } from './pilot-page.js';
 import { cleanupUnits, isCleanupUnit } from '../components/unit-tools/config.js';
 
-const pagePath = (code) => new URL(`../pages/cmi-${code}-assignment-help/index.md`, import.meta.url);
+const pagePath = (code) => new URL(`../pages/unit-${code}/index.md`, import.meta.url);
 const pageSource = (code) => readFileSync(pagePath(code), 'utf8');
 const unitOf = (code) => parseUnitMarkdown(pageSource(code), { code });
 
@@ -41,7 +41,7 @@ function renderedCriteriaSection(unit, { tamper } = {}) {
 
 test('the cleanup list in the tools config holds every unit page, once, and every one uses the tools layout', () => {
   const unitPages = readdirSync(new URL('../pages/', import.meta.url))
-    .map((name) => (name.match(/^cmi-(\d+)-assignment-help$/) || [])[1])
+    .map((name) => (name.match(/^unit-(\d+)$/) || [])[1])
     .filter(Boolean);
   assert.equal(unitPages.length, 89);
   assert.equal(new Set(cleanupUnits).size, cleanupUnits.length, 'no code is listed twice');
@@ -183,7 +183,7 @@ test('pilot pages: no WhatsApp links in the markdown, no service-page links, tid
 });
 
 test('built pilot pages (when dist exists): the checklist and the full criteria text carry the same criteria', (t) => {
-  const built = (code) => new URL(`../../dist/cmi-${code}-assignment-help/index.html`, import.meta.url);
+  const built = (code) => new URL(`../../dist/unit-${code}/index.html`, import.meta.url);
   if (!cleanupUnits.every((code) => existsSync(built(code)))) {
     t.skip('run `npm run build` first to check the built pages');
     return;

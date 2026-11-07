@@ -121,8 +121,8 @@ At Level 6 the Critically verbs lead (Critically appraise 12, Critically assess 
 
 Examples of what the syllabuses name:
 
-- **Level 4 Diploma, leadership**: [Unit 5012](https://www.cmiassignmenthelp.uk.com/cmi-5012-assignment-help/) (Being a Leader, a Level 5 coded unit) names Tannenbaum and Schmidt, Hersey and Blanchard, Adair and the Trust/Co-operation matrix on leadership, with Johnson and Scholes, Schein, Handy and Harrison on culture.
-- **Level 4 Diploma, coaching and mentoring**: [Unit 5014](https://www.cmiassignmenthelp.uk.com/cmi-5014-assignment-help/) (Introduction to Management Coaching and Mentoring, a Level 5 coded unit) names Parsloe, Bluckert and Gallwey, Prochaska, Zeus and Skiffington, Goldsmith and Witherspoon's coaching continuum.
+- **Level 4 Diploma, leadership**: [Unit 5012](https://www.cmiassignmenthelp.uk.com/unit-5012/) (Being a Leader, a Level 5 coded unit) names Tannenbaum and Schmidt, Hersey and Blanchard, Adair and the Trust/Co-operation matrix on leadership, with Johnson and Scholes, Schein, Handy and Harrison on culture.
+- **Level 4 Diploma, coaching and mentoring**: [Unit 5014](https://www.cmiassignmenthelp.uk.com/unit-5014/) (Introduction to Management Coaching and Mentoring, a Level 5 coded unit) names Parsloe, Bluckert and Gallwey, Prochaska, Zeus and Skiffington, Goldsmith and Witherspoon's coaching continuum.
 - **Level 6, change and innovation**: Unit 605 (Innovation and Change) names Kotter, Lewin, ADKAR and Christensen (1997). Unit 611 (Knowledge Management) names Teece, Pisano and Shuen (1997) on dynamic capabilities and the Balanced Scorecard.
 - **Level 6, teams and culture**: Unit 602 names Tuckman, Belbin and Porter, and Unit 603 (Organisational Culture) names Kotter, Lewin and Schein.
 - **Level 7, leadership**: Unit 702 names Bass and Riggio on transformational leadership, with Hofstede and Schein on culture. Unit 701 names Belbin, Kotter, Mintzberg and Senge.
@@ -173,10 +173,10 @@ Send your unit brief and the scenario you are using via WhatsApp. A quote is ret
 
 ## CMI Unit Assignment Help — By Framework
 
-- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-502-assignment-help/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5)
-- [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/), Principles of Management and Leadership in an Organisational Context (Level 5)
-- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-702-assignment-help/), Leading and Developing People to Optimise Performance (Level 7)
-- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/), Strategic Leadership (Level 7)
+- [CMI 502 Assignment Help](https://www.cmiassignmenthelp.uk.com/unit-502/), Principles of Developing, Managing and Leading Individuals and Teams to Achieve Success (Level 5)
+- [CMI 501 Assignment Help](https://www.cmiassignmenthelp.uk.com/unit-501/), Principles of Management and Leadership in an Organisational Context (Level 5)
+- [CMI 702 Assignment Help](https://www.cmiassignmenthelp.uk.com/unit-702/), Leading and Developing People to Optimise Performance (Level 7)
+- [CMI 701 Assignment Help](https://www.cmiassignmenthelp.uk.com/unit-701/), Strategic Leadership (Level 7)
 - [CMI Level 5 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-5-assignment-help/), all 26 Level 5 units
 - [CMI Level 7 Assignment Help](https://www.cmiassignmenthelp.uk.com/cmi-level-7-assignment-help/), all 16 Level 7 units
 
@@ -186,11 +186,11 @@ The [Harvard Business Review](https://hbr.org/topic/management) publishes manage
 
 Unit-level support for the units most relevant to this guide:
 
-- [CMI Unit 302 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-302-assignment-help/): Managing a Team to Achieve Results (Level 3)
-- [CMI Unit 4001 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/): Managerial Styles and Behaviours (Level 4)
-- [CMI Unit 514 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-514-assignment-help/): Managing Change (Level 5)
-- [CMI Unit 603 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-603-assignment-help/): Organisational Culture (Level 6)
-- [CMI Unit 705 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-705-assignment-help/): Leading Strategic Change (Level 7)
+- [CMI Unit 302 assignment help](https://www.cmiassignmenthelp.uk.com/unit-302/): Managing a Team to Achieve Results (Level 3)
+- [CMI Unit 4001 assignment help](https://www.cmiassignmenthelp.uk.com/unit-4001/): Managerial Styles and Behaviours (Level 4)
+- [CMI Unit 514 assignment help](https://www.cmiassignmenthelp.uk.com/unit-514/): Managing Change (Level 5)
+- [CMI Unit 603 assignment help](https://www.cmiassignmenthelp.uk.com/unit-603/): Organisational Culture (Level 6)
+- [CMI Unit 705 assignment help](https://www.cmiassignmenthelp.uk.com/unit-705/): Leading Strategic Change (Level 7)
 
 ## Related CMI Guides
 

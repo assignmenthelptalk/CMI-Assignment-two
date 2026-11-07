@@ -52,7 +52,7 @@ Each CMI level sits at the RQF level of the same number. In general terms, RQF L
 
 **Designed for**: the development of the role and skill of managers. CMI says the qualifications aim to develop personal management capabilities, make effective use of information in decision-making and operations, and develop skills in managing people.
 
-**Units**: 4001 to 4009, from 4001 Managerial Styles and Behaviours to 4009 Staff Inspection Review. The Diploma also includes three Level 5 coded units, which are at RQF level 5: [5001 Personal Development as a Manager and Leader](https://www.cmiassignmenthelp.uk.com/cmi-5001-assignment-help/) (mandatory), [5012 Being a Leader](https://www.cmiassignmenthelp.uk.com/cmi-5012-assignment-help/) and [5014 Introduction to Management Coaching and Mentoring](https://www.cmiassignmenthelp.uk.com/cmi-5014-assignment-help/) (both optional). None of the three is in the Award or Certificate.
+**Units**: 4001 to 4009, from 4001 Managerial Styles and Behaviours to 4009 Staff Inspection Review. The Diploma also includes three Level 5 coded units, which are at RQF level 5: [5001 Personal Development as a Manager and Leader](https://www.cmiassignmenthelp.uk.com/unit-5001/) (mandatory), [5012 Being a Leader](https://www.cmiassignmenthelp.uk.com/unit-5012/) and [5014 Introduction to Management Coaching and Mentoring](https://www.cmiassignmenthelp.uk.com/unit-5014/) (both optional). None of the three is in the Award or Certificate.
 
 **Word count**: the guideline is 3,000 words per unit, with a 10% allowance.
 
@@ -190,11 +190,11 @@ The [Chartered Management Institute](https://www.managers.org.uk/qualifications/
 
 Unit-level support for the units most relevant to this guide:
 
-- [CMI Unit 301 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-301-assignment-help/): Principles of Management and Leadership (Level 3)
-- [CMI Unit 4001 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-4001-assignment-help/): Managerial Styles and Behaviours (Level 4)
-- [CMI Unit 501 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-501-assignment-help/): Principles of Management and Leadership in an Organisational Context (Level 5)
-- [CMI Unit 601 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-601-assignment-help/): Professional Management and Leadership Practice (Level 6)
-- [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/cmi-701-assignment-help/): Strategic Leadership (Level 7)
+- [CMI Unit 301 assignment help](https://www.cmiassignmenthelp.uk.com/unit-301/): Principles of Management and Leadership (Level 3)
+- [CMI Unit 4001 assignment help](https://www.cmiassignmenthelp.uk.com/unit-4001/): Managerial Styles and Behaviours (Level 4)
+- [CMI Unit 501 assignment help](https://www.cmiassignmenthelp.uk.com/unit-501/): Principles of Management and Leadership in an Organisational Context (Level 5)
+- [CMI Unit 601 assignment help](https://www.cmiassignmenthelp.uk.com/unit-601/): Professional Management and Leadership Practice (Level 6)
+- [CMI Unit 701 assignment help](https://www.cmiassignmenthelp.uk.com/unit-701/): Strategic Leadership (Level 7)
 
 ## Related CMI Guides
 
