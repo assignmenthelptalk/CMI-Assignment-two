@@ -102,42 +102,932 @@
     },
     {
       "source": "/cmi-401-assignment-help/",
-      "destination": "/cmi-4001-assignment-help/",
+      "destination": "/unit-4001/",
       "permanent": true
     },
     {
       "source": "/cmi-401-assignment-help",
-      "destination": "/cmi-4001-assignment-help/",
+      "destination": "/unit-4001/",
       "permanent": true
     },
     {
       "source": "/cmi-403-assignment-help/",
-      "destination": "/cmi-4004-assignment-help/",
+      "destination": "/unit-4004/",
       "permanent": true
     },
     {
       "source": "/cmi-403-assignment-help",
-      "destination": "/cmi-4004-assignment-help/",
+      "destination": "/unit-4004/",
       "permanent": true
     },
     {
       "source": "/cmi-406-assignment-help/",
-      "destination": "/cmi-4003-assignment-help/",
+      "destination": "/unit-4003/",
       "permanent": true
     },
     {
       "source": "/cmi-406-assignment-help",
-      "destination": "/cmi-4003-assignment-help/",
+      "destination": "/unit-4003/",
       "permanent": true
     },
     {
       "source": "/cmi-408-assignment-help/",
-      "destination": "/cmi-4008-assignment-help/",
+      "destination": "/unit-4008/",
       "permanent": true
     },
     {
       "source": "/cmi-408-assignment-help",
-      "destination": "/cmi-4008-assignment-help/",
+      "destination": "/unit-4008/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-301-assignment-help/",
+      "destination": "/unit-301/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-301-assignment-help",
+      "destination": "/unit-301/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-302-assignment-help/",
+      "destination": "/unit-302/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-302-assignment-help",
+      "destination": "/unit-302/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-303-assignment-help/",
+      "destination": "/unit-303/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-303-assignment-help",
+      "destination": "/unit-303/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-304-assignment-help/",
+      "destination": "/unit-304/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-304-assignment-help",
+      "destination": "/unit-304/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-305-assignment-help/",
+      "destination": "/unit-305/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-305-assignment-help",
+      "destination": "/unit-305/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-306-assignment-help/",
+      "destination": "/unit-306/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-306-assignment-help",
+      "destination": "/unit-306/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-307-assignment-help/",
+      "destination": "/unit-307/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-307-assignment-help",
+      "destination": "/unit-307/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-308-assignment-help/",
+      "destination": "/unit-308/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-308-assignment-help",
+      "destination": "/unit-308/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-309-assignment-help/",
+      "destination": "/unit-309/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-309-assignment-help",
+      "destination": "/unit-309/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-310-assignment-help/",
+      "destination": "/unit-310/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-310-assignment-help",
+      "destination": "/unit-310/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-311-assignment-help/",
+      "destination": "/unit-311/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-311-assignment-help",
+      "destination": "/unit-311/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-312-assignment-help/",
+      "destination": "/unit-312/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-312-assignment-help",
+      "destination": "/unit-312/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-313-assignment-help/",
+      "destination": "/unit-313/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-313-assignment-help",
+      "destination": "/unit-313/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-314-assignment-help/",
+      "destination": "/unit-314/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-314-assignment-help",
+      "destination": "/unit-314/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-315-assignment-help/",
+      "destination": "/unit-315/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-315-assignment-help",
+      "destination": "/unit-315/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-316-assignment-help/",
+      "destination": "/unit-316/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-316-assignment-help",
+      "destination": "/unit-316/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-317-assignment-help/",
+      "destination": "/unit-317/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-317-assignment-help",
+      "destination": "/unit-317/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-318-assignment-help/",
+      "destination": "/unit-318/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-318-assignment-help",
+      "destination": "/unit-318/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-319-assignment-help/",
+      "destination": "/unit-319/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-319-assignment-help",
+      "destination": "/unit-319/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-320-assignment-help/",
+      "destination": "/unit-320/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-320-assignment-help",
+      "destination": "/unit-320/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-321-assignment-help/",
+      "destination": "/unit-321/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-321-assignment-help",
+      "destination": "/unit-321/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4001-assignment-help/",
+      "destination": "/unit-4001/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4001-assignment-help",
+      "destination": "/unit-4001/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4002-assignment-help/",
+      "destination": "/unit-4002/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4002-assignment-help",
+      "destination": "/unit-4002/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4003-assignment-help/",
+      "destination": "/unit-4003/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4003-assignment-help",
+      "destination": "/unit-4003/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4004-assignment-help/",
+      "destination": "/unit-4004/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4004-assignment-help",
+      "destination": "/unit-4004/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4005-assignment-help/",
+      "destination": "/unit-4005/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4005-assignment-help",
+      "destination": "/unit-4005/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4006-assignment-help/",
+      "destination": "/unit-4006/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4006-assignment-help",
+      "destination": "/unit-4006/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4007-assignment-help/",
+      "destination": "/unit-4007/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4007-assignment-help",
+      "destination": "/unit-4007/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4008-assignment-help/",
+      "destination": "/unit-4008/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4008-assignment-help",
+      "destination": "/unit-4008/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4009-assignment-help/",
+      "destination": "/unit-4009/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-4009-assignment-help",
+      "destination": "/unit-4009/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-5001-assignment-help/",
+      "destination": "/unit-5001/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-5001-assignment-help",
+      "destination": "/unit-5001/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-501-assignment-help/",
+      "destination": "/unit-501/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-501-assignment-help",
+      "destination": "/unit-501/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-5012-assignment-help/",
+      "destination": "/unit-5012/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-5012-assignment-help",
+      "destination": "/unit-5012/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-5014-assignment-help/",
+      "destination": "/unit-5014/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-5014-assignment-help",
+      "destination": "/unit-5014/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-502-assignment-help/",
+      "destination": "/unit-502/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-502-assignment-help",
+      "destination": "/unit-502/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-503-assignment-help/",
+      "destination": "/unit-503/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-503-assignment-help",
+      "destination": "/unit-503/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-504-assignment-help/",
+      "destination": "/unit-504/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-504-assignment-help",
+      "destination": "/unit-504/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-505-assignment-help/",
+      "destination": "/unit-505/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-505-assignment-help",
+      "destination": "/unit-505/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-506-assignment-help/",
+      "destination": "/unit-506/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-506-assignment-help",
+      "destination": "/unit-506/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-507-assignment-help/",
+      "destination": "/unit-507/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-507-assignment-help",
+      "destination": "/unit-507/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-508-assignment-help/",
+      "destination": "/unit-508/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-508-assignment-help",
+      "destination": "/unit-508/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-509-assignment-help/",
+      "destination": "/unit-509/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-509-assignment-help",
+      "destination": "/unit-509/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-510-assignment-help/",
+      "destination": "/unit-510/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-510-assignment-help",
+      "destination": "/unit-510/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-511-assignment-help/",
+      "destination": "/unit-511/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-511-assignment-help",
+      "destination": "/unit-511/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-512-assignment-help/",
+      "destination": "/unit-512/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-512-assignment-help",
+      "destination": "/unit-512/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-513-assignment-help/",
+      "destination": "/unit-513/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-513-assignment-help",
+      "destination": "/unit-513/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-514-assignment-help/",
+      "destination": "/unit-514/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-514-assignment-help",
+      "destination": "/unit-514/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-515-assignment-help/",
+      "destination": "/unit-515/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-515-assignment-help",
+      "destination": "/unit-515/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-516-assignment-help/",
+      "destination": "/unit-516/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-516-assignment-help",
+      "destination": "/unit-516/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-517-assignment-help/",
+      "destination": "/unit-517/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-517-assignment-help",
+      "destination": "/unit-517/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-518-assignment-help/",
+      "destination": "/unit-518/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-518-assignment-help",
+      "destination": "/unit-518/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-519-assignment-help/",
+      "destination": "/unit-519/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-519-assignment-help",
+      "destination": "/unit-519/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-520-assignment-help/",
+      "destination": "/unit-520/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-520-assignment-help",
+      "destination": "/unit-520/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-521-assignment-help/",
+      "destination": "/unit-521/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-521-assignment-help",
+      "destination": "/unit-521/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-522-assignment-help/",
+      "destination": "/unit-522/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-522-assignment-help",
+      "destination": "/unit-522/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-523-assignment-help/",
+      "destination": "/unit-523/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-523-assignment-help",
+      "destination": "/unit-523/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-524-assignment-help/",
+      "destination": "/unit-524/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-524-assignment-help",
+      "destination": "/unit-524/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-525-assignment-help/",
+      "destination": "/unit-525/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-525-assignment-help",
+      "destination": "/unit-525/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-526-assignment-help/",
+      "destination": "/unit-526/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-526-assignment-help",
+      "destination": "/unit-526/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-601-assignment-help/",
+      "destination": "/unit-601/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-601-assignment-help",
+      "destination": "/unit-601/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-602-assignment-help/",
+      "destination": "/unit-602/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-602-assignment-help",
+      "destination": "/unit-602/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-603-assignment-help/",
+      "destination": "/unit-603/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-603-assignment-help",
+      "destination": "/unit-603/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-604-assignment-help/",
+      "destination": "/unit-604/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-604-assignment-help",
+      "destination": "/unit-604/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-605-assignment-help/",
+      "destination": "/unit-605/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-605-assignment-help",
+      "destination": "/unit-605/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-606-assignment-help/",
+      "destination": "/unit-606/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-606-assignment-help",
+      "destination": "/unit-606/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-607-assignment-help/",
+      "destination": "/unit-607/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-607-assignment-help",
+      "destination": "/unit-607/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-608-assignment-help/",
+      "destination": "/unit-608/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-608-assignment-help",
+      "destination": "/unit-608/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-609-assignment-help/",
+      "destination": "/unit-609/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-609-assignment-help",
+      "destination": "/unit-609/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-610-assignment-help/",
+      "destination": "/unit-610/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-610-assignment-help",
+      "destination": "/unit-610/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-611-assignment-help/",
+      "destination": "/unit-611/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-611-assignment-help",
+      "destination": "/unit-611/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-612-assignment-help/",
+      "destination": "/unit-612/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-612-assignment-help",
+      "destination": "/unit-612/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-613-assignment-help/",
+      "destination": "/unit-613/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-613-assignment-help",
+      "destination": "/unit-613/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-614-assignment-help/",
+      "destination": "/unit-614/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-614-assignment-help",
+      "destination": "/unit-614/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-701-assignment-help/",
+      "destination": "/unit-701/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-701-assignment-help",
+      "destination": "/unit-701/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-702-assignment-help/",
+      "destination": "/unit-702/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-702-assignment-help",
+      "destination": "/unit-702/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-703-assignment-help/",
+      "destination": "/unit-703/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-703-assignment-help",
+      "destination": "/unit-703/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-704-assignment-help/",
+      "destination": "/unit-704/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-704-assignment-help",
+      "destination": "/unit-704/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-705-assignment-help/",
+      "destination": "/unit-705/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-705-assignment-help",
+      "destination": "/unit-705/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-706-assignment-help/",
+      "destination": "/unit-706/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-706-assignment-help",
+      "destination": "/unit-706/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-707-assignment-help/",
+      "destination": "/unit-707/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-707-assignment-help",
+      "destination": "/unit-707/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-708-assignment-help/",
+      "destination": "/unit-708/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-708-assignment-help",
+      "destination": "/unit-708/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-709-assignment-help/",
+      "destination": "/unit-709/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-709-assignment-help",
+      "destination": "/unit-709/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-710-assignment-help/",
+      "destination": "/unit-710/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-710-assignment-help",
+      "destination": "/unit-710/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-711-assignment-help/",
+      "destination": "/unit-711/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-711-assignment-help",
+      "destination": "/unit-711/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-712-assignment-help/",
+      "destination": "/unit-712/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-712-assignment-help",
+      "destination": "/unit-712/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-713-assignment-help/",
+      "destination": "/unit-713/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-713-assignment-help",
+      "destination": "/unit-713/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-714-assignment-help/",
+      "destination": "/unit-714/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-714-assignment-help",
+      "destination": "/unit-714/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-715-assignment-help/",
+      "destination": "/unit-715/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-715-assignment-help",
+      "destination": "/unit-715/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-716-assignment-help/",
+      "destination": "/unit-716/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-716-assignment-help",
+      "destination": "/unit-716/",
       "permanent": true
     }
   ]
